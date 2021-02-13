@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   📫 How to reach me: <a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="_blank">Gurjeet Singh Virdee</a>
   
   <p align="center">
-    Skilled on React JS Full Stack Web Developer eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly.
+    <h3>Skilled on React JS Full Stack Web Developer eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly.</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true" alt="gurjeetsinghvirdee">
   </p>
   

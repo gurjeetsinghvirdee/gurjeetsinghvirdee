@@ -23,7 +23,7 @@ Here are some ideas to get you started:
                            
   
   <p align="center">
-    <h3>Skilled on MERN Stack Developer eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly.</h3>
+    <h3>Skilled on React JS Developer eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly.</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true" alt="gurjeetsinghvirdee">
   </p>
   

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there, I am Gurjeet Singh Virdee 👋</h1>
-  <h3> I'm in BCA 1st year🎓</h3>
+  <h3>🔹 👨‍🎓 I'm in BCA 1st year</h3>
   <h3>🔹 🔭 I’m currently working on <a href="https://github.com/gurjeetsinghvirdee/Berlywud" target="_blank">Berlywud</a></h3>
   <h3>🔹 🌱 I’m currently learning <strong> Advance Node.js & GraphQL</strong></h3>
   <h3>🔹 💬 Ask me about <strong> Anything or related to languages </strong></h3>

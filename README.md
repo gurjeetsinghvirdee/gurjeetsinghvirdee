@@ -41,7 +41,10 @@ Here are some ideas to get you started:
 
   <a href="https://github.com/gurjeetsinghvirdee/Berlywud">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Berlywud&theme=midnight-purple" />
-  </a>    
-
+  </a>
+  
+  <a href="https://github.com/gurjeetsinghvirdee/Google-Clone">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Google-Clone&theme=midnight-purple" />
+  </a>
   
   

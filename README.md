@@ -30,9 +30,20 @@ Here are some ideas to get you started:
                            
   
   <p align="center">
-    <h3>Skilled on React JS Developer eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly.</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&theme=midnight-purple&show_icons=true" alt="gurjeetsinghvirdee">
-    <img src="https://github-readme-stats.vercel.app/apiapi/pin?username=gurjeetsinghvirdeetheme=midnight-purple&repo=github-readme-stats" alt="gurjeetsinghvirdee"> 
-  </p>
+    <h3>Skilled on React JS Developer eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly.</h3></p>
+   
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/gurjeetsinghvirdee/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=github-readme-stats&theme=material-palenight" />
+</a>    
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=anuraghazra.github.io&theme=material-palenight" />
+</a>
   
   

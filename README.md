@@ -24,26 +24,24 @@ Here are some ideas to get you started:
   
   
   
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
                            
   
   <p align="center">
     <h3>Skilled on React JS Developer eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly.</h3></p>
    
-<a href="https://github.com/gurjeetsinghvirdee/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
-<a href="https://github.com/gurjeetsinghvirdee/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=material-palenight" />
-</a>
+  <a href="https://github.com/gurjeetsinghvirdee/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Gurjeet github stats" />
+  </a>
+  <a href="https://github.com/gurjeetsinghvirdee/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=material-palenight" />
+  </a>
 
-<a href="https://github.com/gurjeetsinghvirdee/Berlywud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Berlywud&theme=material-palenight" />
-</a>    
-<a href="https://github.com/gurjeetsinghvirdee/https://Berlywud.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=anuraghazra.github.io&theme=material-palenight" />
-</a>
+  <a href="https://github.com/gurjeetsinghvirdee/Berlywud">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Berlywud&theme=material-palenight" />
+  </a>    
+
   
   

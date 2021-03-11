@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/gurjeetsinghvirdee/https:///Berlywud">
+<a href="https://github.com/gurjeetsinghvirdee/Berlywud">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=github-readme-stats&theme=material-palenight" />
 </a>    
 <a href="https://github.com/gurjeetsinghvirdee/https://Berlywud.github.io">

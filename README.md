@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/gurjeetsinghvirdee/Berlywud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Berlywud&theme=material-palenight" />
 </a>    
 <a href="https://github.com/gurjeetsinghvirdee/https://Berlywud.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=anuraghazra.github.io&theme=material-palenight" />

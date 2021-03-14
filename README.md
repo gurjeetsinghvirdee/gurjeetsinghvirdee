@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/gurjeetsinghvirdee/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="Gurjeet github stats" />
   </a>
-  <a href="https://github.com/gurjeetsinghvirdee/github-readme-stats">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=midnight-purple">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=midnight-purple"/>
   </a>
 

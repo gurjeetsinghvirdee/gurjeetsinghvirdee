@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <p align="center">
     <h3>Skilled on React JS Developer eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly.</h3></p>
    
-  <a href="https://github.com/gurjeetsinghvirdee/github-readme-stats">
+  <a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=midnight-purple">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="Gurjeet github stats" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=midnight-purple">

@@ -47,7 +47,7 @@ Here are some ideas to get you started:
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Google-Clone&theme=midnight-purple"/>
   </a>
   
-  <a href="https://github.com/gurjeetsinghvirdee/iCoder">
+  <a href="https://github.com/gurjeetsinghvirdee/Bootstrap-Components">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=iCoder&theme=midnight-purple"/>
   </a>
   

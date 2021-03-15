@@ -36,13 +36,17 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="Gurjeet github stats" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=midnight-purple">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=midnight-purple"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=midnight-purple" />
   </a>
 
   <a href="https://github.com/gurjeetsinghvirdee/Berlywud">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Berlywud&theme=midnight-purple"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Berlywud&theme=midnight-purple" />
   </a>
   
   <a href="https://github.com/gurjeetsinghvirdee/Google-Clone">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Google-Clone&theme=midnight-purple"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Google-Clone&theme=midnight-purple" />
+  </a>
+  
+  <a href="https://github.com/gurjeetsinghvirdee/iCoder">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=iCoder&theme=midnight-purple" />
   </a>

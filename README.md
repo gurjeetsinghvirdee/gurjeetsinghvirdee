@@ -48,5 +48,5 @@ Here are some ideas to get you started:
   </a>
   
   <a href="https://github.com/gurjeetsinghvirdee/Geeky-Devs">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=iCoder&theme=midnight-purple" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Geeky-Devs&theme=midnight-purple" />
   </a>

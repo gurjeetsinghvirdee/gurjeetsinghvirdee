@@ -36,8 +36,8 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=chartreuse-dark"            alt="Gurjeet github stats" />
   </a>
  
-  <a href="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-dark&fire=00adfe&sideNums=00adfe&currSreakLabel=7ffe00">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-dark&fire=00adfe&sideNums=00adfe&currSreakLabel=7ffe00" alt=""/>
+  <a href="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-dark&fire=00adfe&sideNums=00adfe&currStreakLabel=7ffe00">
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-dark&fire=00adfe&sideNums=00adfe&currStreakLabel=7ffe00" alt=""/>
   </a>
  
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=chartreuse-dark">

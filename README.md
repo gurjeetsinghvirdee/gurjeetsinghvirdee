@@ -32,23 +32,23 @@ Here are some ideas to get you started:
   <p align="center">
     <h3>Skilled on React JS Developer eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly.</h3></p>
    
-  <a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=midnight-purple">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=midnight-purple"  alt="Gurjeet github stats" />
+  <a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=chartreuse-dark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=chartreuse-dark"  alt="Gurjeet github stats" />
   </a>
   
-  <a href="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=midnight-purple&fire=dd2727">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=midnight-purple&fire=dd2727" alt=""/>
+  <a href="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-dark&fire=dd2727">
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-dark&fire=dd2727" alt=""/>
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=midnight-purple">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=midnight-purple" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=chartreuse-dark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=chartreuse-dark" />
   </a>
 
   <a href="https://github.com/gurjeetsinghvirdee/Berlywud">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Berlywud&theme=midnight-purple" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Berlywud&theme=chartreuse-dark" />
   </a>
   
   <a href="https://github.com/gurjeetsinghvirdee/Google-Clone">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Google-Clone&theme=midnight-purple" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Google-Clone&theme=chartreuse-dark" />
   </a>
   
   <a href="https://github.com/gurjeetsinghvirdee/Geeky-Devs">

@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   </a>
  
   <a href="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-dark&fire=00adfe&currStreakLabel=00adfe&sideNums=00adfe&sideLabel=00adfe">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=theme=chartreuse-dark&fire=00adfe&currStreakLabel=00adfe&sideNums=00adfe&sideLabel=00adfe" alt=""/>
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-dark&fire=00adfe&currStreakLabel=00adfe&sideNums=00adfe&sideLabel=00adfe" alt=""/>
   </a>
  
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=chartreuse-dark">

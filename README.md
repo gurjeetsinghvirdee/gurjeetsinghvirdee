@@ -33,11 +33,11 @@ Here are some ideas to get you started:
     <h3>Skilled on React JS Developer eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly.</h3></p>
    
   <a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=midnight-purple">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=shades-of-purple"  alt="Gurjeet github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=midnight-purple"  alt="Gurjeet github stats" />
   </a>
   
-  <a href="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=shades-of-purple&fire=dd2727">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=shades-of-purple&fire=dd2727" alt=""/>
+  <a href="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=midnight-purple&fire=dd2727">
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=midnight-purple&fire=dd2727" alt=""/>
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=midnight-purple">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=midnight-purple" />

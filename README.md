@@ -24,6 +24,8 @@ Here are some ideas to get you started:
   
   <hr>
   
+  <h3 align="center">Languages & Frameworks<h3>
+  
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
@@ -37,6 +39,10 @@ Here are some ideas to get you started:
   <p align="center">
     <h3>Skilled on React JS Developer eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly.</h3></p>
    
+  <hr>
+  
+  <h3 align="center">Github stats<h3>
+  
   <a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=chartreuse-dark">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=chartreuse-dark"            alt="Gurjeet github stats" />
   </a>

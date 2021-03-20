@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hii there, I am Gurjeet Singh Virdee 👋🏻</h1>
-  <h3>🔹 👨🎓 I'm in BCA 1st year</h3>
+  <h3>🔹 🎓 I'm in BCA 1st year</h3>
   <h3>🔹 🔭 I’m currently working on <a href="https://github.com/gurjeetsinghvirdee/Berlywud" target="_blank">Berlywud</a> a E-commerce website launching soon...!</h3>
   <h3>🔹 🌱 I’m currently learning <strong>Advance Node.js & BootStrap</strong></h3>
   <h3>🔹 💬 Ask me about <strong>Anything or related to languages </strong></h3>
@@ -26,7 +26,8 @@ Here are some ideas to get you started:
   
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
                            
   
   <p align="center">

@@ -24,8 +24,6 @@ Here are some ideas to get you started:
   
   <hr>
   
-  <h3 align="center">Packages & Frameworks<h3>
-  
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt=""></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt=""></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt=""></code>
@@ -35,6 +33,7 @@ Here are some ideas to get you started:
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt=""></code>
   <code><img height="30" src="https://avatars.githubusercontent.com/u/41522403?s=400&v=4" alt=""></code>
                            
+  <hr>
   
   <p align="center">
     <h3>Skilled on React JS Developer eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly.</h3></p>

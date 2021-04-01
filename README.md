@@ -27,10 +27,10 @@ Here are some ideas to get you started:
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt=""></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt=""></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt=""></code>
-  <code><img height="30" width="30" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="Node"></code>
+  <code><img height="30" width="30" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" alt="Node"></code>
   <code><img height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Mi83nQu9qdPUozHEodVGeu936klDJqJG3MiwDfqiWgI7G7hn0P-SRBhjVWUGzlk5Ca4&usqp=CAU"   alt=""></code>
   <code><img height="30" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt=""></code>
-  <code><img height="30" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt=""></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt=""></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt=""></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt=""></code>
   <code><img height="30" src="https://avatars.githubusercontent.com/u/41522403?s=400&v=4" alt=""></code>

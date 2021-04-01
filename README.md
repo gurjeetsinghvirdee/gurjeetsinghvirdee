@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt=""></code>
   <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" alt=""></code>
   <code><img height="30" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" alt=""></code>
-  <code><img height="30" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg" alt=""></code>
+  <code><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt=""></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt=""></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt=""></code>
   <code><img height="30" src="https://avatars.githubusercontent.com/u/41522403?s=400&v=4" alt=""></code>

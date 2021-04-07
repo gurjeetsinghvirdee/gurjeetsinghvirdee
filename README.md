@@ -64,6 +64,6 @@ Here are some ideas to get you started:
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Google-Clone&theme=chartreuse-dark" />
   </a>
   
-  <a href="https://github.com/gurjeetsinghvirdee/Exercidse-Tracker">
+  <a href="https://github.com/gurjeetsinghvirdee/Exercise-Tracker">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Exercise-Tracker&theme=chartreuse-dark" />
   </a>

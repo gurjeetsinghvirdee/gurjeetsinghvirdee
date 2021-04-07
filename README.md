@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   </a>
   
   <a href="https://github.com/gurjeetsinghvirdee/Google-Clone">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Google-Clone&theme=chartreuse-dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Google-Clone&theme=chartreuse-dark" />
   </a>
   
   <a href="https://github.com/gurjeetsinghvirdee/Exercise-tracker">

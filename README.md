@@ -24,17 +24,25 @@ Here are some ideas to get you started:
   
   <hr>
   
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt=""></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt=""></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt=""></code>
-  <code><img height="30" width="30" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" alt="Node"></code>
-  <code><img height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Mi83nQu9qdPUozHEodVGeu936klDJqJG3MiwDfqiWgI7G7hn0P-SRBhjVWUGzlk5Ca4&usqp=CAU"   alt=""></code>
-  <code><img height="30" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt=""></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt=""></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt=""></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt=""></code>
-  <code><img height="30" src="https://avatars.githubusercontent.com/u/41522403?s=400&v=4" alt=""></code>
-  <code><img height="30" src="https://avatars3.githubusercontent.com/u/10342521?v=3&s=200" alt=""></code>
+  <p align="left">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> </a> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a>
+<a href="https://redux.js.org" target="_blank"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
+<a href="https://material-ui.org/" target="_blank"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material-ui" /></a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /> </a>
+<a href="https://www.expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" /> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a>
+<a href="https://www.cypress.io" target="_blank"> <img src="https://img.shields.io/badge/cypress-000000?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress" /> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
+<a href="https://npmjs.com/" target="_blank"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /> </a>
+<a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/postman-E95723?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a>
+<a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="postman" /> </a>
+
+
+</p>
                            
   <hr>
   

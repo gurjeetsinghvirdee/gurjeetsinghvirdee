@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   <hr>
   
   <p align="center">
-    <h3>Skilled on MERN Stack role eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly.</h3></p>
+    <h3>Skilled on MERN stack role eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly.</h3></p>
    
   <hr>
   

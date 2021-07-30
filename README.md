@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <h3>🔹 💬 Ask me about <strong>Anything or related to programming languages </strong></h3>
   <h3>🔹 📫 How to reach me: <a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="_blank">
   <img src="https://img.shields.io/badge/Linkedin-1976D2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "mailto: gurjeetsinghvirdee@gmail.com"><img src="https://img.shields.io/badge/gmail-fff?style=for-the-badge&logo=gmail&logoColor=D74E43"></a></h3>
+  <a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-fff?style=for-the-badge&logo=gmail&logoColor=D74E43"></a></h3>
   
   <hr>
   

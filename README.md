@@ -63,11 +63,6 @@ Here are some ideas to get you started:
                            
   <hr>
   
-  <p align="center">
-    <h3>Skilled on MERN stack role eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly.</h3></p>
-   
-  <hr>
-  
   <h3 align="center">Github Stats<h3>
   
   <a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=chartreuse-dark">

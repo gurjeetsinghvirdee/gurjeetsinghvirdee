@@ -17,20 +17,20 @@ Here are some ideas to get you started:
 
   
 
-  <h1 align="center">Hii there, I am Gurjeet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
-  <h3>🔹 🎓 I'm in BCA 1st year</h3>
-  <h3>🔹 🔭 I’m currently working on <a href="https://github.com/gurjeetsinghvirdee/Berlywud" target="_blank">Berlywud</a> a E-commerce website launching soon...!</h3>
-  <h3>🔹 🌱 I’m currently learning <strong>Adobe Xd & Angular</strong></h3>
-  <h3>🔹 💬 Ask me about <strong>Anything or related to programming languages </strong></h3>
-  <h3>🔹 📫 How to reach me: <a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="_blank">
-  <img src="https://img.shields.io/badge/Linkedin-1976D2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-fff?style=for-the-badge&logo=gmail&logoColor=D74E43"></a></h3>
+<h1 align="center">Hii there, I am Gurjeet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
+<h3>🔹 🎓 I'm in BCA 1st year</h3>
+<h3>🔹 🔭 I’m currently working on <a href="https://github.com/gurjeetsinghvirdee/Berlywud" target="_blank">Berlywud</a> a E-commerce website launching soon...!</h3>
+<h3>🔹 🌱 I’m currently learning <strong>Adobe Xd & Angular</strong></h3>
+<h3>🔹 💬 Ask me about <strong>Anything or related to programming languages </strong></h3>
+<h3>🔹 📫 How to reach me: <a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="_blank">
+<img src="https://img.shields.io/badge/Linkedin-1976D2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-fff?style=for-the-badge&logo=gmail&logoColor=D74E43"></a></h3>
   
-  <hr>
+<hr>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" alt="trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" alt="trophies">
   
-  <hr>
+<hr>
   
 <h2>FrontEnd</h2>
 <p align="left">
@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux">
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular">  
 <img src="https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="typescript">
-<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="adobe xd"/>
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material-ui"/>  
   
 </p>
@@ -63,6 +62,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/></a>
 
+</p>
+<hr>
+
+<h2>UI/UX</h2>
+<p align="left">
+
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="adobe xd"/>  
+<img src="https://img.shields.io/badge/Figma-9D56F7?style=for-the-badge&logo=figma&logoColor=fff" alt="figma"/>
+  
 </p>
 <hr>
 

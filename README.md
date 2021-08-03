@@ -1,7 +1,3 @@
-<!--START_SECTION:waka-->
-
-
-
 <!--
 **gurjeetsinghvirdee/gurjeetsinghvirdee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -120,6 +116,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/gurjeetsinghvirdee/Exercise-tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Exercise-tracker&theme=chartreuse-dark" />
 </a>
-
-  
-<!--END_SECTION:waka-->  

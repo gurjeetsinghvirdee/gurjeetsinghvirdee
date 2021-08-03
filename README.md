@@ -1,3 +1,5 @@
+<!--START_SECTION:waka-->
+
 
 
 <!--
@@ -118,3 +120,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/gurjeetsinghvirdee/Exercise-tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Exercise-tracker&theme=chartreuse-dark" />
 </a>
+
+  
+<!--END_SECTION:waka-->  

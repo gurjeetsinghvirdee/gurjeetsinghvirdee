@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
   
 
-<h1 align="center">Hii there, I am Gurjeet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
+<h1 align="center">Hii there, It's Gurjeet here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
 <h3>🔹 🎓 I'm in BCA 1st year</h3>
 <h3>🔹 🔭 I’m currently working on <a href="https://github.com/gurjeetsinghvirdee/Berlywud" target="_blank">Berlywud</a> a E-commerce website launching soon...!</h3>
 <h3>🔹 🌱 I’m currently learning <strong>Adobe Xd & Angular</strong></h3>

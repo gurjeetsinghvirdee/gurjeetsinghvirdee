@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hii there, It's Gurjeet here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
 <h3>🔹 🎓 I'm in BCA 1st year</h3>
-<h3>🔹 🔭 I’m currently working on a E-commerce website...!</h3>
+<h3>🔹 🔭 I’m currently working on a E-commerce website!</h3>
 <h3>🔹 🌱 I’m currently learning <strong>Adobe Xd & Angular</strong></h3
 <h3>🔹 💬 Ask me about <strong>Anything or related to programming languages </strong></h3>
 <h3>🔹 📫 How to reach me: <a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="_blank">

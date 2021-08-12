@@ -66,8 +66,7 @@ Here are some ideas to get you started:
 <h2>UI/UX</h2>
 <p align="left">
 
-<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="adobe xd"/>  
-<img src="https://img.shields.io/badge/Figma-9D56F7?style=for-the-badge&logo=figma&logoColor=fff" alt="figma"/>
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="adobe xd"/>
   
 </p>
 <hr>

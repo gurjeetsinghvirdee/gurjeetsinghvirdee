@@ -87,7 +87,6 @@ Here are some ideas to get you started:
 <h2>IDE</h2>
 <p align="left">
   
-<img src="https://img.shields.io/badge/Atom-584B4F?style=for-the-badge&logo=atom&logoColor=CABA9F" alt="atom"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code"/>
 
 </p>

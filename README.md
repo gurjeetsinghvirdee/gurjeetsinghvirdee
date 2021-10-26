@@ -29,7 +29,6 @@ Here are some ideas to get you started:
   
 <hr>
   
-<img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" alt="trophies">
   
 <hr>
   

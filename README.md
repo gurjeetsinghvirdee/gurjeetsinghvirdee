@@ -26,14 +26,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Linkedin-1976D2?style=for-the-badge&logo=linkedin&logoColor=white">
   <a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-fff?style=for-the-badge&logo=gmail&logoColor=D74E43"></a>
 </h3>
+
+<hr>
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" width="400" alt="Gurjeet's Dev Card"/></a> 
   
 <hr>
   
 <img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" alt="trophies">  
-  
-<hr>
-  
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" width="400" alt="Gurjeet's Dev Card"/></a>  
   
 <hr>  
   

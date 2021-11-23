@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" width="400" alt="Gurjeet's Dev Card"/></a> 
+<a href="https://app.daily.dev/hey_dev"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" width="400" alt="Gurjeet's Dev Card"/></a> 
   
 <hr>
   

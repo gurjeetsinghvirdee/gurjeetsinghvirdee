@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 
   
 
-<h1 align="center">Hii there, It's Gurjeet here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
+<h1 align="center">Hey there, It's Gurjeet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3>🔹 🎓 I'm in BCA 1st year</h3>
 <h3>🔹 🔭 I’m currently working on a E-commerce website!</h3>
-<h3>🔹 🌱 I’m currently learning <strong> Data Structures  </strong></h3
+<h3>🔹 🌱 I’m currently learning <strong> Data Structures </strong></h3>
+<h3>🔹 🚀 DM me for collab!
 <h3>🔹 💬 Ask me about Anything</h3>
 
 <h3>
@@ -32,6 +33,8 @@ Here are some ideas to get you started:
 <a href="https://app.daily.dev/hey_dev"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" width="400" alt="Gurjeet's Dev Card"/></a> 
   
 <hr>
+  
+<h3>📊 Weekly Developement Breakdown</h3>
   
 <!--START_SECTION:waka-->
 ```text

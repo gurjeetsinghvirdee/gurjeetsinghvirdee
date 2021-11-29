@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hey there, It's Gurjeet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3>🔹 🎓 I'm in BCA 1st year</h3>
-<h3>🔹 🔭 I’m currently making zomato clone!</h3>
 <h3>🔹 🌱 I’m currently learning <strong> Data Structures </strong></h3>
 <h3>🔹 🚀 DM me for collab!
 <h3>🔹 💬 Ask me about Anything</h3>

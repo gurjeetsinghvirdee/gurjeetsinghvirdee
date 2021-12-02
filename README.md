@@ -1,45 +1,20 @@
-<!--
-**gurjeetsinghvirdee/gurjeetsinghvirdee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-  
-
 <h1 align="center">Hey there, It's Gurjeet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3>🔹 🎓 I'm in BCA 1st year</h3>
-<h3>🔹 🌱 I’m currently learning <strong> DSA </strong></h3>
-<h3>🔹 🚀 DM me for collab!
-<h3>🔹 💬 Ask me about Anything</h3>
+  
+<a href="https://app.daily.dev/hey_dev"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" width="400" height="400" top="0" align="left" alt="Gurjeet's Dev Card"/></a>  
 
+<div align="left">
+  <h3>🔹 🎓 I'm in BCA 1st year</h3>
+  <h3>🔹 🌱 I’m currently learning <strong> DSA </strong></h3>
+  <h3>🔹 🚀 DM me for collab!
+  <h3>🔹 💬 Ask me about Anything</h3>
+</div>  
 <h3>
   <a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="_blank">
   <img src="https://img.shields.io/badge/Linkedin-1976D2?style=for-the-badge&logo=linkedin&logoColor=white">
   <a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-fff?style=for-the-badge&logo=gmail&logoColor=D74E43"></a>
 </h3>
 
-<hr>
 
-<a href="https://app.daily.dev/hey_dev"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" width="400" alt="Gurjeet's Dev Card"/></a> 
-  
-<hr>
-  
-<h3>Latest Articles</h3>  
-  
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-  
 <h3>📊 Weekly Developement Breakdown</h3>
   
 <!--START_SECTION:waka-->
@@ -53,11 +28,7 @@ Git Config   2 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <hr>
-  
-<img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" alt="trophies">  
-  
-<hr>  
-  
+    
 <h2>FrontEnd</h2>
 <p align="left">
   
@@ -119,6 +90,10 @@ Git Config   2 mins          ░░░░░░░░░░░░░░░░░
   
 <h3 align="center">Github Stats<h3>
   
+<img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" alt="trophies">  
+  
+<hr>   
+  
 <a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=chartreuse-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=chartreuse-dark"            alt="Gurjeet github stats" />
 </a>
@@ -129,16 +104,4 @@ Git Config   2 mins          ░░░░░░░░░░░░░░░░░
  
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=chartreuse-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=chartreuse-dark" />
-</a>
-
-<a href="https://github.com/gurjeetsinghvirdee/Berlywud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Berlywud&theme=chartreuse-dark" />
-</a>
-  
-<a href="https://github.com/gurjeetsinghvirdee/Google-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Google-Clone&theme=chartreuse-dark" />
-</a>
-  
-<a href="https://github.com/gurjeetsinghvirdee/Exercise-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurjeetsinghvirdee&repo=Exercise-tracker&theme=chartreuse-dark" />
 </a>

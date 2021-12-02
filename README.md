@@ -3,18 +3,24 @@
 <a href="https://app.daily.dev/hey_dev"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" width="400" height="400" top="0" align="left" alt="Gurjeet's Dev Card"/></a>  
 
 <div align="left">
-  <h3>🔹 🎓 I'm in BCA 1st year</h3>
-  <h3>🔹 🌱 I’m currently learning <strong> DSA </strong></h3>
-  <h3>🔹 🚀 DM me for collab!
-  <h3>🔹 💬 Ask me about Anything</h3>
+  <h3> 🎓 I'm in BCA 1st year</h3>
+  <h3> 🌱 I’m currently learning <strong> DSA </strong></h3>   
+  <h3> 🚀 DM me for collab!</h3>
+  <h3> 💬 Ask me about Anything</h3>
+  <h3> 📕 Read My Articles
+    <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">
+    <img src="https://img.shields.io/badge/geeksforgeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=fff" margin-top="10"></a>
+  </h3> 
+  <h3> 💌 Connect with me
+    <a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-1976D2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-fff?style=for-the-badge&logo=gmail&logoColor=D74E43"></a>
+   </h3>
 </div>  
-<h3>
-  <a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="_blank">
-  <img src="https://img.shields.io/badge/Linkedin-1976D2?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-fff?style=for-the-badge&logo=gmail&logoColor=D74E43"></a>
-</h3>
 
 
+<hr>
+  
 <h3>📊 Weekly Developement Breakdown</h3>
   
 <!--START_SECTION:waka-->
@@ -50,14 +56,15 @@ Git Config   2 mins          ░░░░░░░░░░░░░░░░░
 <h2>BackEnd</h2>
 <p align="left">
 
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node">
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">  
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>  
 <img src="https://img.shields.io/badge/postman-E95723?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="my sql"/>
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/>
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/></a>
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+<img src="https://img.shields.io/badge/netlify-40A6BD?style=for-the-badge&logo=netlify&logoColor=fff" alt="netlify"/>
 
 </p>
 <hr>
@@ -66,6 +73,7 @@ Git Config   2 mins          ░░░░░░░░░░░░░░░░░
 <p align="left">
 
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="adobe xd"/>
+<img src="https://img.shields.io/badge/figma-A259FF?style=for-the-badge&logo=figma&logoColor=fff" alt="figma"/>  
   
 </p>
 <hr>
@@ -84,6 +92,8 @@ Git Config   2 mins          ░░░░░░░░░░░░░░░░░
 <p align="left">
   
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code"/>
+<img src="https://img.shields.io/badge/Atom-584B4F?style=for-the-badge&logo=atom&logoColor=white" alt="atom"/>
+<img src="https://img.shields.io/badge/codepen-1E1F26?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"/>
 
 </p>
 <hr>

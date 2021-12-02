@@ -33,6 +33,13 @@ Here are some ideas to get you started:
   
 <hr>
   
+<h3>Latest Articles</h3>  
+  
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+  
 <h3>📊 Weekly Developement Breakdown</h3>
   
 <!--START_SECTION:waka-->

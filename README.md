@@ -93,6 +93,7 @@ Markdown     8 mins          ▒░░░░░░░░░░░░░░░░
   
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code"/>
 <img src="https://img.shields.io/badge/Atom-584B4F?style=for-the-badge&logo=atom&logoColor=white" alt="atom"/>
+<img src="https://img.shields.io/badge/Sublime%20text-4B4B4B?style=for-the-badge&logo=sublimetext&logoColor=DB890F" alt="sublime text"/>
 
 </p>
 <hr>

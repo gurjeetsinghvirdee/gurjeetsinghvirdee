@@ -47,8 +47,7 @@ CSS          44 mins         ███░░░░░░░░░░░░░░
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />  
 <img src="https://img.shields.io/badge/postman-E95723?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="my sql" />
-<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="adobe xd" />
-<img src="https://img.shields.io/badge/figma-A259FF?style=for-the-badge&logo=figma&logoColor=fff" alt="figma" />  
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="adobe xd" />  
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
 <img src="https://img.shields.io/badge/netlify-40A6BD?style=for-the-badge&logo=netlify&logoColor=fff" alt="netlify" />

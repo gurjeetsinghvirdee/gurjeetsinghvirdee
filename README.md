@@ -50,7 +50,6 @@ CSS          44 mins         ████▓░░░░░░░░░░░░
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="adobe xd" />  
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
-<img src="https://img.shields.io/badge/netlify-40A6BD?style=for-the-badge&logo=netlify&logoColor=fff" alt="netlify" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 <img src="https://img.shields.io/badge/Gitlab-fff?style=for-the-badge&logo=gitlab&logoColor=E24329" alt="gitlab" />

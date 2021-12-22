@@ -11,10 +11,10 @@
     <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">
     <img src="https://img.shields.io/badge/geeksforgeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=fff" margin-top="10"></a>
   </h3> 
-  <h3> 💌 Connect with me
+  <h3> 💌 How to reach me:
     <a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedin-1976D2?style=for-the-badge&logo=linkedin&logoColor=white">
-    <a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-fff?style=for-the-badge&logo=gmail&logoColor=D74E43"></a>
+    <img src="https://img.shields.io/badge/Gurjeet%20Singh-1976D2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gurjeet-fff?style=for-the-badge&logo=gmail&logoColor=D74E43"></a>
    </h3>
 </div>  
 

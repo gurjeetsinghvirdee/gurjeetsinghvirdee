@@ -3,7 +3,6 @@
 <a href="https://app.daily.dev/hey_dev"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" width="400" height="400" top="0" align="left" alt="Gurjeet's Dev Card"/></a>  
 
 <div align="left">
-  <h3> 🎓 I'm in BCA 1st year</h3>
   <h3> 🌱 I’m currently learning <strong> DSA </strong></h3>   
   <h3> 🚀 DM me for collab!</h3>
   <h3> 💬 Ask me about Anything</h3>

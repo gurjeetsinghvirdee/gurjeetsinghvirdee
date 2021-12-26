@@ -68,6 +68,11 @@ HTML         6 mins          ██▒░░░░░░░░░░░░░░
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-    dark&fire=00adfe&sideNums=00adfe&currStreakLabel=7ffe00" alt=""/>
 </a>
   
+<p align="left">
+  <img width="90%" 
+   src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&bg_color=000000&color=7ffe00&line=00aaf9&point=7ffe00&area=true&hide_border=true" />
+</p> 
+  
 <hr>   
 
 <a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=chartreuse-dark">
@@ -83,9 +88,4 @@ HTML         6 mins          ██▒░░░░░░░░░░░░░░
 <details><summary>Github Stats⬆️</summary>
   <img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" alt="trophies">  
 </details>  
-  
-<details><summary>Contribution Graph📊</summary>
-  <p align="left">
-  <img width="90%" src="https://activity-graph.herokuapp.com/graph?   username=gurjeetsinghvirdee&bg_color=000000&color=7ffe00&line=00aaf9&point=7ffe00&area=true&hide_border=true" /></p>
-</details> 
   

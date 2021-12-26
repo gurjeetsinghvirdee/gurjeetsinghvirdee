@@ -35,7 +35,6 @@ HTML         6 mins          ██▒░░░░░░░░░░░░░░
     
 <h2>Languages & Tools</h2>
 <p align="center">
-  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
@@ -61,25 +60,32 @@ HTML         6 mins          ██▒░░░░░░░░░░░░░░
 <img src="https://img.shields.io/badge/Atom-584B4F?style=for-the-badge&logo=atom&logoColor=white" alt="atom" />  
 <img src="https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="typescript" />
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material-ui" />  
-  
 </p>
   
 <hr>
   
-<h3 align="center">Github Stats<h3>
-  
-<img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" alt="trophies">  
-  
-<hr>   
-  
-<a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=chartreuse-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=chartreuse-dark"            alt="Gurjeet github stats" />
-</a>
- 
 <a href="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-dark&fire=00adfe&sideNums=00adfe&currStreakLabel=7ffe00">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-    dark&fire=00adfe&sideNums=00adfe&currStreakLabel=7ffe00" alt=""/>
 </a>
- 
+  
+<hr>   
+
+<a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=chartreuse-dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=chartreuse-dark"               alt="Gurjeet github stats" />
+</a>
+  
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=chartreuse-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=chartreuse-dark" />
-</a>
+</a>  
+  
+<hr>  
+  
+<details><summary>Github Stats⬆️</summary>
+  <img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" alt="trophies">  
+</details>  
+  
+<details><summary>Contribution Graph📊</summary>
+  <p align="left">
+  <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&theme=react-dark" /></p>
+</details> 
+  

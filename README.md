@@ -24,6 +24,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
+    <img src="https://img.shields.io/badge/markdown-499bea?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
     <img src="https://img.shields.io/badge/Sass-cf649a?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node" />

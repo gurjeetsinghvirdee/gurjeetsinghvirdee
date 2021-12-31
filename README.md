@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, It's Gurjeet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   
-<a href="https://app.daily.dev/hey_dev"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" width="330" height="300" align="right" alt="Gurjeet's Dev Card"/></a>  
+<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/vector.gif" align="right" width="320">  
 
 <div align="left">
   <h3> 🌱 I’m currently learning <strong> DSA </strong></h3>   
@@ -71,7 +71,8 @@ HTML         6 mins          ▓░░░░░░░░░░░░░░░░
   
 <hr>  
   
-<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/vector.gif" align="right" width="320">  
+<a href="https://app.daily.dev/hey_dev"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" width="330" height="300" align="right" alt="Gurjeet's Dev Card"/></a>    
+
   
 <a href="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-dark&fire=00adfe&sideNums=00adfe&currStreakLabel=7ffe00">
   <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-    dark&fire=00adfe&sideNums=00adfe&currStreakLabel=7ffe00" alt=""/>

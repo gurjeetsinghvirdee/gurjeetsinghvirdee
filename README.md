@@ -1,6 +1,8 @@
 <h1 align="center">Hey there, It's Gurjeet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   
-<a href="https://app.daily.dev/hey_dev"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" width="350" height="310" top="0" align="right" alt="Gurjeet's Dev Card"/></a>  
+<!-- <a href="https://app.daily.dev/hey_dev"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" width="350" height="310" align="right" alt="Gurjeet's Dev Card"/></a> -->
+
+<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/vector.gif" align="right" width="350" >
 
 <div align="left">
   <h3> 🌱 I’m currently learning <strong> DSA </strong></h3>   

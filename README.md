@@ -74,7 +74,7 @@ HTML         6 mins          ▓░░░░░░░░░░░░░░░░
 <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/vector.gif" align="right" width="320">  
   
 <a href="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-dark&fire=00adfe&sideNums=00adfe&currStreakLabel=7ffe00">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-    dark&fire=00adfe&sideNums=00adfe&currStreakLabel=7ffe00" alt=""/>
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-    dark&fire=00adfe&sideNums=00adfe&currStreakLabel=7ffe00" alt=""/>
 </a>
   
 <a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=chartreuse-dark">

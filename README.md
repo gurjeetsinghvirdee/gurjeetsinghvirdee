@@ -77,7 +77,7 @@ HTML         6 mins          ▓░░░░░░░░░░░░░░░░
   
 <p align="left">
   <img width="90%" 
-   src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&bg_color=000000&color=7ffe00&line=00aaf9&point=7ffe00&area=true&hide_border=true" />
+   src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&theme=chartreuse-dark" />
 </p> 
   
 <hr>   

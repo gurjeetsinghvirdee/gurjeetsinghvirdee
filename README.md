@@ -1,7 +1,5 @@
 <h1 align="center">Hey there, It's Gurjeet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   
-<!-- <a href="https://app.daily.dev/hey_dev"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" width="350" height="310" align="right" alt="Gurjeet's Dev Card"/></a> -->
-
 <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/vector.gif" align="right" width="350" >
 
 <div align="left">
@@ -21,6 +19,8 @@
   
 <hr>
    
+<a href="https://app.daily.dev/hey_dev"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" width="350" height="310" align="right" alt="Gurjeet's Dev Card"/></a>
+  
 <details><summary>🏆 Github Trophies</summary>
   <img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" alt="trophies">  
 </details> 

@@ -69,9 +69,11 @@ HTML         6 mins          ▓░░░░░░░░░░░░░░░░
 
 </details>  
   
+  <a href="https://app.daily.dev/hey_dev"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" width="290" height="300" align="right" alt="Gurjeet's Dev Card"/></a> 
+  
 <hr>  
   
-<a href="https://app.daily.dev/hey_dev"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" width="290" height="300" align="right" alt="Gurjeet's Dev Card"/></a>    
+
   
 <a href="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-dark&fire=00adfe&sideNums=00adfe&currStreakLabel=7ffe00">
   <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-    dark&fire=00adfe&sideNums=00adfe&currStreakLabel=7ffe00" alt=""/>

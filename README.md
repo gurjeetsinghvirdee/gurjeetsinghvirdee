@@ -69,7 +69,7 @@ HTML         6 mins          ▓░░░░░░░░░░░░░░░░
 
 </details>  
   
-  <a href="https://app.daily.dev/hey_dev"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" width="290" height="300" align="right" alt="Gurjeet's Dev Card"/></a> 
+
   
 <hr>  
   

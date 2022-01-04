@@ -33,7 +33,6 @@
     <img src="https://img.shields.io/badge/figma-orange?style=for-the-badge&logo=Figma&logoColor=white" alt="figma" />
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=github&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/Gitlab-fff?style=for-the-badge&logo=gitlab&logoColor=E24329" alt="gitlab" />
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />

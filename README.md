@@ -19,7 +19,7 @@
   
 <hr>
      
-<details><summary>🏆 Github Trophies</summary>
+<details><summary>🏆 Github Trophies </summary>
   <img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" alt="trophies">  
 </details> 
   
@@ -31,7 +31,6 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=fff" alt="c" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-    <img src="https://img.shields.io/badge/figma-orange?style=for-the-badge&logo=Figma&logoColor=white" alt="figma" />
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=github&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="github" />

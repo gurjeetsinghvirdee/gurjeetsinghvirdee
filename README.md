@@ -84,15 +84,9 @@ Markdown     16 mins         ██░░░░░░░░░░░░░░░
 
 </a>    
   
-<a href="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-dark&fire=00adfe&sideNums=00adfe&currStreakLabel=7ffe00">
-  <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-    dark&fire=00adfe&sideNums=00adfe&currStreakLabel=7ffe00" alt=""/>
+<a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=chartreuse-dark" alt=""/>
 </a>
-  
-<a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=chartreuse-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=chartreuse-dark"               alt="Gurjeet github stats" />
-</a>
-
-
   
 <hr>   
 

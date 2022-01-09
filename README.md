@@ -73,17 +73,17 @@ Markdown     15 mins         ██▓░░░░░░░░░░░░░░
   
 </details>  
   
-
-  
 <hr>  
   
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=chartreuse-dark">
-
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=chartreuse-dark" />
-
 </a>    
+
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-dark">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-dark" alt="streak stats" />
+</a>
   
-<a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee">
+<a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&chartreuse-dark">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=chartreuse-dark" alt=""/>
 </a>
   

@@ -75,23 +75,23 @@ Markdown     8 mins          █▓░░░░░░░░░░░░░░░
   
 <hr>  
   
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=chartreuse-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=chartreuse-dark" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=midnight-purple">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=midnight-purple" />
 </a>    
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-dark">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=chartreuse-dark" alt="streak stats" />
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=midnight-purple">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=midnight-purple" />
 </a>
   
-<a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&chartreuse-dark">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=chartreuse-dark" alt=""/>
+<a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&theme=midnight-purple">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=midnight-purple" />
 </a>
   
 <hr>   
 
 <p align="left">
   <img width="90%" 
-   src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&theme=chartreuse-dark" />
+   src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&theme=midnight-purple" />
 </p> 
   
 <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-user-contribution.svg">    

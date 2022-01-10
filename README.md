@@ -91,7 +91,7 @@ Markdown     8 mins          █▓░░░░░░░░░░░░░░░
 
 <p align="left">
   <img width="90%" 
-   src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&theme=midnight-purple" />
+   src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&bg_color=2C223B&color=FF3CA2&line=F7F645&point=22E5F4" />
 </p> 
   
 <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-user-contribution.svg">    

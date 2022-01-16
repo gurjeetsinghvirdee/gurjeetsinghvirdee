@@ -3,7 +3,6 @@
 <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/vector.gif" align="right" width="320">  
 
 <div align="left">
-  <h3> 🌱 I’m currently learning <strong> DSA </strong></h3>   
   <h3> 🚀 DM me for collab!</h3>
   <h3> 💬 Ask me about Anything</h3>
   <h3> 📕 Read My Articles

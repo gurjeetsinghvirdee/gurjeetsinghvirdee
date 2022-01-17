@@ -5,7 +5,7 @@
 <div align="left">
   <h3> 🚀 DM me for collab!</h3>
   <h3> 💬 Ask me about Anything</h3>
-  <h3> 📕 Read My Articles
+  <h3> 📕 Read My Articles & Blogs 
     <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">
     <img src="https://img.shields.io/badge/geeksforgeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=fff" width="120" height="22"></a>
     <a href="https://hashnode.com/@gurjeetsingh" target="_blank">

@@ -5,11 +5,9 @@
 <div align="left">
   <h3> 🚀 DM me for collab!</h3>
   <h3> 💬 Ask me about Anything</h3>
-  <h3> 📕 Read My Articles & Blogs 
+  <h3> 📕 Read My Articles 
     <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">
     <img src="https://img.shields.io/badge/geeksforgeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=fff" width="120" height="22"></a>
-    <a href="https://hashnode.com/@gurjeetsingh" target="_blank">
-    <img src="https://img.shields.io/badge/hashnode-254FC6?style=for-the-badge&logo=hashnode&logoColor=fff" width="100" height="22"></a>
   </h3> 
   <h3> 💌 How to reach me
     <a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="_blank">
@@ -74,6 +72,8 @@ GitIgnore file   18 mins         █▒░░░░░░░░░░░░░�
 <a href="https://wakatime.com/@ff7098eb-56b3-4619-bbbb-86aad0fce365"><img src="https://wakatime.com/badge/user/ff7098eb-56b3-4619-bbbb-86aad0fce365.svg?style=for-the-badge" alt="Total time coded since Jul 28 2021" /></a>
   
 </details>  
+ 
+<hr>  
   
 # 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->

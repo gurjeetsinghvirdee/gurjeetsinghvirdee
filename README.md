@@ -70,14 +70,14 @@ CSS              22 mins         █▓░░░░░░░░░░░░░�
 GitIgnore file   18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 ```
 <!--END_SECTION:waka--> 
-  
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <a href="https://wakatime.com/@ff7098eb-56b3-4619-bbbb-86aad0fce365"><img src="https://wakatime.com/badge/user/ff7098eb-56b3-4619-bbbb-86aad0fce365.svg?style=for-the-badge" alt="Total time coded since Jul 28 2021" /></a>
   
 </details>  
+  
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->  
   
 <hr>  
   

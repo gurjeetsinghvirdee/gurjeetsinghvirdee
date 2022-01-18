@@ -12,7 +12,7 @@
   <h3> 💌 How to reach me
     <a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="_blank">
     <img src="https://img.shields.io/badge/Gurjeet%20Singh%20Virdee-1976D2?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="22">
-    <a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gurjeet-fff?style=for-the-badge&logo=gmail&logoColor=D74E43" width="110" height="22"></a>
+    <a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Hey, gurjeet-fff?style=for-the-badge&logo=gmail&logoColor=D74E43" width="110" height="22"></a>
    </h3>
 </div>  
   

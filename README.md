@@ -77,6 +77,7 @@ GitIgnore file   18 mins         █▒░░░░░░░░░░░░░�
   
 # 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Best Elementor Themes in 2022](https://gurjeet.hashnode.dev/10-best-elementor-themes-in-2022)
 <!-- BLOG-POST-LIST:END -->  
   
 <hr>  

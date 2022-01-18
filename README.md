@@ -75,7 +75,7 @@ GitIgnore file   18 mins         █▒░░░░░░░░░░░░░�
   
 </details>  
   
-# Blog posts
+# 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->  
   

@@ -5,7 +5,7 @@
 <div align="left">
   <h3> 🚀 DM me for collab!</h3>
   <h3> 💬 Ask me about Anything</h3>
-  <h3> 📕 Read My Articles 
+  <h3> 📕 Latest Articles 
     <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">
     <img src="https://img.shields.io/badge/geeksforgeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=fff" width="120" height="22"></a>
   </h3> 
@@ -27,7 +27,6 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="adobe xd" /> 
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=fff" alt="c" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />

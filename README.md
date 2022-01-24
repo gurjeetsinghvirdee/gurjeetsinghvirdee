@@ -78,6 +78,30 @@ Markdown     2 mins          ███▒░░░░░░░░░░░░░
 <!-- BLOG-POST-LIST:END -->  
   
 <hr>  
+
+  
+## My Github story in 3D. View a 3D model of your GitHub contribution graph.
+
+## ASCII 2021
+  
+```bash   
+      @gurjeetsinghvirdee's 2021 GitHub Skyline      
+
+          ✧▁▁            ✧                           
+     ✦    ▁██▃▄                             ☽     ▂  
+       ▃  █████      ▇                   ✦✧       █ ▃
+       █ ▆█████▄   ✧✧█        ▆▂✧              ▆  █ █
+✧      █ ███████     █ ▂ ▁    ██▅▆▁ ▇      ▁   ██▅█▆█
+▁▁▁▁▁▁▅█▁███████▁▁▇▁▁█▁█▁█▇▁▁▁█████▇█▅▇▁▁▅▁█▁▅▅██████
+
+ https://skyline.github.com/gurjeetsinghvirdee/2021  
+ ```  
+  
+ <!-- GitHub Skyline image: https://skyline.github.com/br3ndonland/2020.png -->
+  
+<a href="https://skyline.github.com/gurjeetsinghvirdee/2021" title="2021 GitHub Skyline"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github%20skyline%20graph%202021.png" alt="2021 GitHub Skyline" width="70%" /></a>
+  
+<hr>  
   
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=midnight-purple">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=midnight-purple" />
@@ -98,4 +122,4 @@ Markdown     2 mins          ███▒░░░░░░░░░░░░░
    src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&theme=synthwave-84" />
 </p> 
   
-<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-user-contribution.svg">    
+<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-user-contribution.svg"> 

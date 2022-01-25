@@ -103,16 +103,16 @@ Markdown     2 mins          ███▒░░░░░░░░░░░░░
   
 <hr>  
   
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=midnight-purple">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=midnight-purple" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=synthwave">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=synthwave" />
 </a>    
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=midnight-purple">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=midnight-purple" />
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" />
 </a>
   
-<a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=midnight-purple">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=midnight-purple" />
+<a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" />
 </a>
   
 <hr>   

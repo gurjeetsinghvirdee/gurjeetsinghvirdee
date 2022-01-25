@@ -76,8 +76,6 @@ Markdown     2 mins          ███▒░░░░░░░░░░░░░
 - [10 Best Elementor Themes in 2022](https://gurjeet.hashnode.dev/10-best-elementor-themes-in-2022)
 <!-- BLOG-POST-LIST:END -->  
   
-<hr>  
-
   
 ## My Github Contribution in 3d view
   
@@ -93,6 +91,7 @@ Markdown     2 mins          ███▒░░░░░░░░░░░░░
 
  https://skyline.github.com/gurjeetsinghvirdee/2021  
  ```  
+
   
  <!-- GitHub Skyline image: https://skyline.github.com/br3ndonland/2020.png -->
   
@@ -100,20 +99,21 @@ Markdown     2 mins          ███▒░░░░░░░░░░░░░
   <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github%20skyline%20graph%202021.png" alt="2021 GitHub Skyline" width="70%" />
 </a>
   
+<hr>  
+  
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave" />
 </a>    
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" />
-</a>
-  
 <a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" />
 </a>
   
-<br>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" />
+</a>  
   
+<hr>
 <p align="left">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurjeetsinghvirdee&theme=dracula&hide_border=true" />
 </p>

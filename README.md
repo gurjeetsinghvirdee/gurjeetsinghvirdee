@@ -68,10 +68,9 @@ Markdown     2 mins          ███▒░░░░░░░░░░░░░
 <a href="https://wakatime.com/@ff7098eb-56b3-4619-bbbb-86aad0fce365"><img src="https://wakatime.com/badge/user/ff7098eb-56b3-4619-bbbb-86aad0fce365.svg?style=for-the-badge" alt="Total time coded since Jul 28 2021" /></a>
   
 </details>  
- 
-<hr>  
+   
   
-# 📚 Latest Blog posts
+## 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Top 5 Python Frameworks for Web Applications in 2022](https://gurjeet.hashnode.dev/top-5-python-frameworks-for-web-applications-in-2022)
 - [10 Best Elementor Themes in 2022](https://gurjeet.hashnode.dev/10-best-elementor-themes-in-2022)
@@ -80,9 +79,7 @@ Markdown     2 mins          ███▒░░░░░░░░░░░░░
 <hr>  
 
   
-## My Github story in 3D. View a 3D model of your GitHub contribution graph.
-
-## ASCII 2021
+## My Github Contribution in 3d view
   
 ```bash   
       @gurjeetsinghvirdee's 2021 GitHub Skyline      
@@ -99,12 +96,12 @@ Markdown     2 mins          ███▒░░░░░░░░░░░░░
   
  <!-- GitHub Skyline image: https://skyline.github.com/br3ndonland/2020.png -->
   
-<a href="https://skyline.github.com/gurjeetsinghvirdee/2021" title="2021 GitHub Skyline"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github%20skyline%20graph%202021.png" alt="2021 GitHub Skyline" width="70%" /></a>
+<a href="https://skyline.github.com/gurjeetsinghvirdee/2021" title="2021 GitHub Skyline">
+  <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github%20skyline%20graph%202021.png" alt="2021 GitHub Skyline" width="70%" />
+</a>
   
-<hr>  
-  
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=synthwave">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=synthwave" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave" />
 </a>    
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave">
@@ -115,11 +112,14 @@ Markdown     2 mins          ███▒░░░░░░░░░░░░░
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" />
 </a>
   
-<hr>   
+<br>
+  
+<p align="left">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurjeetsinghvirdee&theme=dracula&hide_border=true" />
+</p>
 
 <p align="left">
-  <img width="90%" 
-   src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&theme=synthwave-84" />
+  <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&theme=synthwave-84" />
 </p> 
   
 <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-user-contribution.svg"> 

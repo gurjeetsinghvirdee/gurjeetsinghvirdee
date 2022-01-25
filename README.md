@@ -111,8 +111,8 @@ Markdown     2 mins          ███▒░░░░░░░░░░░░░
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=midnight-purple" />
 </a>
   
-<a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&include_all_commits=true&theme=midnight-purple">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=midnight-purple" />
+<a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=midnight-purple">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&include_all_commits=true&theme=midnight-purple" />
 </a>
   
 <hr>   

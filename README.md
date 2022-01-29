@@ -73,6 +73,7 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
   
 ## 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to make a Custom Error page in Next.js](https://gurjeet.hashnode.dev/how-to-make-a-custom-error-page-in-nextjs)
 - [Top 5 Python Frameworks for Web Applications in 2022](https://gurjeet.hashnode.dev/top-5-python-frameworks-for-web-applications-in-2022)
 - [10 Best Elementor Themes in 2022](https://gurjeet.hashnode.dev/10-best-elementor-themes-in-2022)
 <!-- BLOG-POST-LIST:END -->  

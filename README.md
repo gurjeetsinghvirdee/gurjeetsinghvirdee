@@ -96,31 +96,24 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
 
   
  <!-- GitHub Skyline image: https://skyline.github.com/br3ndonland/2020.png -->
-  
-<a href="https://skyline.github.com/gurjeetsinghvirdee/2021" title="2021 GitHub Skyline">
-  <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github%20skyline%20graph%202021.png" alt="2021 GitHub Skyline" width="70%" />
-</a>
+  <p align="center">
+    <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github%20skyline%20graph%202021.png" alt="2021 GitHub Skyline" width="70%" />
+  </p>
   
 <hr>  
   
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave" />
-</a>    
-
-<a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" />
-</a>
-  
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" />
-</a>  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave" />  
+    <img src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" /> 
+  </p>
   
 <hr>
-<p align="left">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurjeetsinghvirdee&theme=dracula&hide_border=true" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurjeetsinghvirdee&theme=dracula&hide_border=true" />
 </p>
 
-<p align="left">
+<p align="center">
   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&theme=synthwave-84" />
 </p> 
   

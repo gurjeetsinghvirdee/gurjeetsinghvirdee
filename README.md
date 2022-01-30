@@ -16,7 +16,7 @@
    </h4>
 </div>  
   
-<hr>
+##  
      
 <details><summary>🏆 Github Trophies </summary>
   <img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" alt="trophies">  
@@ -102,7 +102,7 @@ HTML         7 mins          █░░░░░░░░░░░░░░░░
     <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github%20skyline%20graph%202021.png" alt="2021 GitHub Skyline" width="70%" />
   </p>
   
-<hr>  
+##  
   
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave" />  
@@ -110,13 +110,15 @@ HTML         7 mins          █░░░░░░░░░░░░░░░░
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" /> 
   </p>
   
-<hr>
+##
+  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurjeetsinghvirdee&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&theme=synthwave-84" />
+  <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-user-contribution.svg"> 
 </p> 
   
-<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-user-contribution.svg"> 
+

@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, It's Gurjeet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   
-<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/vector.gif" align="right" width="320">  
+<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/vector.gif" align="right" height="190" width="320">  
 
 <div align="left">
   <h4> 🚀 DM me for collab!</h4>

@@ -5,7 +5,7 @@
 <div align="left">
   <h4> 🚀 DM me for collab!</h4>
   <h4> 💬 Ask me about Anything</h4>
-  <h4> 📕 Latest Articles
+  <h4> 📕 Read My Articles Here
     <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">
     <img src="https://img.shields.io/badge/geeksforgeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=fff" width="120" height="22"></a>
   </h4> 

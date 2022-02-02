@@ -6,10 +6,18 @@
 <ul align="left">
   <li> 🚀 DM me for collab!</li>
   <li> 💬 Ask me about Anything</li>
-  <li> 📕 Read My Articles at <br>
-    <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">
-    <img src="https://img.shields.io/badge/geeksforgeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=fff" width="120" height="22"></a>
-  </li> 
+  <li> 📕 Read My Articles at 
+   <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">@GeeksforGeeks</a>
+  </li>
+  <li> ❤️ Connect with me <br>
+    <a href="https://gurjeet.hashnode.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/@gurjeetsingh-5C87FE?style=for-the-badge&logo=hashnode&logoColor=white" width="130" height="22">
+    <a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="_blank">
+    <img src="https://img.shields.io/badge/Gurjeet%20Singh%20Virdee-1976D2?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="22">
+    <a href="https://leetcode.com/gurjeetsinghvirdee/" target="_blank">
+    <img src="https://img.shields.io/badge/@gurjeetsinghvirdee-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" width="150" height="22">
+    <a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Say, Hello-D74E43?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="22"></a>
+  </li>
 </ul>  
   
 ##  

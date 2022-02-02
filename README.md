@@ -3,10 +3,17 @@
 <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/vector.gif" align="right" height="190" width="320">  
 
 <ul align="left">
-  <li> ❤️ Connect with me <br>
+  <li> ❤️ More About me <br>
     <a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="_blank">
     <img src="https://img.shields.io/badge/Gurjeet%20Singh%20Virdee-1976D2?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="22">
+    <a href="https://drive.google.com/file/d/1uaw5qe-nCQgdBfAdg29axhQL_P3wC8nc/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-0BA5F4?style=for-the-badge&logo=googledrive&logoColor=white">
     <a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Hey, gurjeet-fff?style=for-the-badge&logo=gmail&logoColor=D74E43" width="110" height="22"></a>
+    <a href="https://gurjeet.hashnode.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/@gurjeetsingh-5C87FE?style=for-the-badge&logo=hashnode&logoColor=white" width="150" height="22">
+    <a href="https://leetcode.com/gurjeetsinghvirdee/" target="_blank">
+    <img src="https://img.shields.io/badge/@gurjeetsinghvirdee-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" width="200" height="22">
+
    </li>
   <li> 🚀 DM me for collab!</li>
   <li> 💬 Ask me about Anything</li>

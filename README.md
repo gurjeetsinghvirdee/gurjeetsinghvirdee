@@ -6,7 +6,7 @@
 <ul align="left">
   <li> 🚀 DM me for collab!</li>
   <li> 💬 Ask me about Anything</li>
-  <li> 📕 Read My Articles at
+  <li> 📕 Read My Articles at <br>
     <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">
     <img src="https://img.shields.io/badge/geeksforgeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=fff" width="120" height="22"></a>
   </li> 

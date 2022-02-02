@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, It's Gurjeet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+ ## Hey there, It's Gurjeet
   
 <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/vector.gif" align="right" height="190" width="320">  
 
@@ -80,35 +80,13 @@ JSON         20 mins         █▓░░░░░░░░░░░░░░░
 - [10 Best Elementor Themes in 2022](https://gurjeet.hashnode.dev/10-best-elementor-themes-in-2022)
 <!-- BLOG-POST-LIST:END -->  
   
-  
-## My Github Contribution in 3d view
-  
-```bash   
-      @gurjeetsinghvirdee's 2021 GitHub Skyline      
-
-          ✧▁▁            ✧                           
-     ✦    ▁██▃▄                             ☽     ▂  
-       ▃  █████      ▇                   ✦✧       █ ▃
-       █ ▆█████▄   ✧✧█        ▆▂✧              ▆  █ █
-✧      █ ███████     █ ▂ ▁    ██▅▆▁ ▇      ▁   ██▅█▆█
-▁▁▁▁▁▁▅█▁███████▁▁▇▁▁█▁█▁█▇▁▁▁█████▇█▅▇▁▁▅▁█▁▅▅██████
-
- https://skyline.github.com/gurjeetsinghvirdee/2021  
- ```  
-
-  
- <!-- GitHub Skyline image: https://skyline.github.com/br3ndonland/2020.png -->
-  <p align="center">
-    <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github%20skyline%20graph%202021.png" alt="2021 GitHub Skyline" width="70%" />
-  </p>
-  
-##  
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave" />  
-    <img src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" /> 
-  </p>
+##
+   
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" /> 
+</p>
   
 ##
   
@@ -120,5 +98,3 @@ JSON         20 mins         █▓░░░░░░░░░░░░░░░
   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&theme=synthwave-84" />
   <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-user-contribution.svg"> 
 </p> 
-  
-

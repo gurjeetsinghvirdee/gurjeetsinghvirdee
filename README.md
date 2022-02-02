@@ -3,17 +3,17 @@
 <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/vector.gif" align="right" height="190" width="320">  
 
 <ul align="left">
+  <li> ❤️ Connect with me <br>
+    <a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="_blank">
+    <img src="https://img.shields.io/badge/Gurjeet%20Singh%20Virdee-1976D2?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="22">
+    <a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Hey, gurjeet-fff?style=for-the-badge&logo=gmail&logoColor=D74E43" width="110" height="22"></a>
+   </li>
   <li> 🚀 DM me for collab!</li>
   <li> 💬 Ask me about Anything</li>
   <li> 📕 Read My Articles at
     <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">
     <img src="https://img.shields.io/badge/geeksforgeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=fff" width="120" height="22"></a>
   </li> 
-  <li> ❤️ How to reach me
-    <a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="_blank">
-    <img src="https://img.shields.io/badge/Gurjeet%20Singh%20Virdee-1976D2?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="22">
-    <a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Hey, gurjeet-fff?style=for-the-badge&logo=gmail&logoColor=D74E43" width="110" height="22"></a>
-   </li>
 </ul>  
   
 ##  

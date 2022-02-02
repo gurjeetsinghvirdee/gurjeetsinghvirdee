@@ -59,8 +59,8 @@
   </p>
 </details>  
   
-<details>
-  <summary>📊 Weekly Developement Breakdown</summary>
+
+## 📊 Weekly Developement Breakdown
   
 <!--START_SECTION:waka-->
 ```text
@@ -74,7 +74,7 @@ JSON         20 mins         █▓░░░░░░░░░░░░░░░
 
 <a href="https://wakatime.com/@ff7098eb-56b3-4619-bbbb-86aad0fce365"><img src="https://wakatime.com/badge/user/ff7098eb-56b3-4619-bbbb-86aad0fce365.svg?style=for-the-badge" alt="Total time coded since Jul 28 2021" /></a>
   
-</details>  
+
    
   
 ## 📚 Latest Blog posts

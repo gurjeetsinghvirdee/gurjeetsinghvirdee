@@ -1,5 +1,5 @@
  <h2 align="center">Hey there, It's Gurjeet</h2>
- <p>I'm Gurjeet, Currently I'm in First year and I am a Self-taught MERN Stack Developer and UI Designer, 
+ <p>I'm TCW Intern <a href="https://www.geeksforgeeks.org/">@GeeksforGeeks</a>, Currently enrolled in First year and I am a Self-taught MERN Stack Developer and UI Designer, 
  with a strong eye for innovative design and eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly. 
  I love to contribute on Open Source projects. 
  </p>

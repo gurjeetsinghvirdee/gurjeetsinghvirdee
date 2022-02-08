@@ -17,7 +17,7 @@
  </p>
  
   
-<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/vector.gif" align="right" height="190" width="320">  
+<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/vector.gif" align="right" height="190" width="320">
 
 <ul align="left">
   <li> 🏫 Currently learning DSA </li>
@@ -27,6 +27,7 @@
    <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">@GeeksforGeeks</a>
  </li>
 </ul>  
+         
   
 ##  
      
@@ -66,8 +67,11 @@
     <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=fff" alt="windows" />
   </p>
 </details>  
+     
+     
+<a href="https://app.daily.dev/guri"><img src="https://api.daily.dev/devcards/59a95f45e0b249b49bbfe8803d178eff.png?r=u6v" align="right" width="220" height="320" alt="Gurjeet Singh Virdee's Dev Card"/></a>    
+     
   
-
 ## 📊 Weekly Developement Breakdown
   
 <!--START_SECTION:waka-->

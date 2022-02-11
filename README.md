@@ -27,7 +27,6 @@
    <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">@GeeksforGeeks</a>
  </li>
 </ul>  
-         
   
 ##  
      
@@ -97,9 +96,15 @@ Bash         1 min           ░░░░░░░░░░░░░░░░░
 ##
    
 <p align="center">
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave" />  
+ </a> 
+ <a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" />
+ </a>
+ <a href="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" target="_blank">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" /> 
+ </a> 
 </p>
   
 ##

@@ -1,8 +1,5 @@
- <h2 align="center">Hey there, It's Gurjeet</h2>
- <p>I'm TCW Intern <a href="https://www.geeksforgeeks.org/">@GeeksforGeeks</a>, Currently enrolled in First year and I am a Self-taught MERN Stack Developer and UI Designer, 
- with a strong eye for innovative design and eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly. 
- I love to contribute on Open Source projects. 
- </p>
+## Hey there, It's Gurjeet
+### I'm TCW Intern [GeeksforGeeks](https://www.geeksforgeeks.org/), Currently enrolled in First year and I am a Self-taught MERN Stack Developer and UI Designer, with a strong eye for innovative design and eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly. I love to contribute on Open Source projects. 
 
  <p align="center">
     <a href="https://gurjeet.hashnode.dev/" target="_blank">
@@ -17,7 +14,7 @@
  </p>
  
   
-<img src="../gurjeetsinghvirdee/src/vector.gif" align="right" height="190" width="320">
+<img src="../gurjeetsinghvirdee/src/Assets/vector.gif" align="right" height="190" width="320">
 
 <ul align="left">
   <li> 🏫 Currently learning DSA </li>
@@ -68,7 +65,7 @@
 </details>  
      
      
-<a href="https://app.daily.dev/guri"><img src="../gurjeetsinghvirdee/src/devcard.svg" align="right" width="220" height="320" alt="Gurjeet Singh Virdee's Dev Card"/></a>    
+<a href="https://app.daily.dev/guri"><img src="../gurjeetsinghvirdee/src/Assets/devcard.svg" align="right" width="220" height="320" alt="Gurjeet Singh Virdee's Dev Card"/></a>    
      
   
 ## 📊 Weekly Developement Breakdown
@@ -117,5 +114,5 @@ JSON         20 mins         █░░░░░░░░░░░░░░░░
 
 <p align="center">
   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&theme=synthwave-84" />
-  <img src="../gurjeetsinghvirdee/src/github-user-contribution.svg"> 
+  <img src="../gurjeetsinghvirdee/src/Assets/github-user-contribution.svg"> 
 </p> 

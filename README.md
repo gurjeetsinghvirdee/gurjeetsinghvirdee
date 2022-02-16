@@ -17,7 +17,7 @@
  </p>
  
   
-<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/vector.gif" align="right" height="190" width="320">
+<img src="../gurjeetsinghvirdee/src/vector.gif" align="right" height="190" width="320">
 
 <ul align="left">
   <li> 🏫 Currently learning DSA </li>
@@ -68,7 +68,7 @@
 </details>  
      
      
-<a href="https://app.daily.dev/guri"><img src="https://api.daily.dev/devcards/59a95f45e0b249b49bbfe8803d178eff.png?r=u6v" align="right" width="220" height="320" alt="Gurjeet Singh Virdee's Dev Card"/></a>    
+<a href="https://app.daily.dev/guri"><img src="../gurjeetsinghvirdee/src/devcard.svg" align="right" width="220" height="320" alt="Gurjeet Singh Virdee's Dev Card"/></a>    
      
   
 ## 📊 Weekly Developement Breakdown
@@ -117,5 +117,5 @@ JSON         20 mins         █░░░░░░░░░░░░░░░░
 
 <p align="center">
   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&theme=synthwave-84" />
-  <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-user-contribution.svg"> 
+  <img src="../gurjeetsinghvirdee/src/github-user-contribution.svg"> 
 </p> 

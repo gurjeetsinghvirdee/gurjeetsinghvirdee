@@ -72,8 +72,6 @@
   
 <!--START_SECTION:waka-->
 ```text
-Total: 6 hrs 44 mins
-
 Markdown     3 hrs 59 mins   ██████████████▓░░░░░░░░░░   59.15 % 
 HTML         1 hr 15 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.54 % 
 TypeScript   48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 

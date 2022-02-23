@@ -1,7 +1,7 @@
 ## Hey there, It's Gurjeet
 #### I'm TCW Intern at [GeeksforGeeks](https://www.geeksforgeeks.org/) & Content Creator at [Aviyel](https://aviyel.com/discussions) , Currently enrolled in First year and I am a Self-taught MERN Stack Developer and UI Designer, with a strong eye for innovative design and eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly. I love to contribute on Open Source projects. 
 
-<!--  <p align="left">
+<p align="center">
     <a href="https://gurjeet.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/@gurjeetsingh-5C87FE?style=for-the-badge&logo=hashnode&logoColor=white" width="130" height="22" alt="hashnode">
     <a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="_blank">
@@ -11,11 +11,12 @@
     <a href="https://leetcode.com/gurjeetsinghvirdee/" target="_blank">
     <img src="https://img.shields.io/badge/@gurjeetsinghvirdee-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" width="150" height="22" alt="mail">
     <a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Say, Hello-D74E43?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="22"></a>
- </p> -->
+ </p>
  
-<a href="https://app.daily.dev/guri"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/src/Assets/devcard.svg" align="right" width="200" height="220" alt="Gurjeet Singh Virdee's Dev Card"/></a>      
-
-
+##  
+        
+<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/src/Assets/vector.gif" align="right" height="180" width="280">           
+        
 <ul align="left">
   <li> 🏫 Currently learning DSA </li>
   <li> 🚀 DM me for collab! </li>
@@ -24,8 +25,8 @@
    <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">@GeeksforGeeks</a>
  </li>
 </ul>  
-  
-##  
+        
+##        
      
 <details><summary>🏆 Github Trophies </summary>
   <img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" alt="trophies">  
@@ -61,11 +62,7 @@
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" />
     <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=fff" alt="windows" />
   </p>
-</details>  
-     
-     
-<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/src/Assets/vector.gif" align="right" height="180" width="280">     
-     
+</details>       
   
 ## 📊 Weekly Developement Breakdown
   

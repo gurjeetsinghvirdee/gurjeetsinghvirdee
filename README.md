@@ -1,7 +1,7 @@
 ## Hey there, It's Gurjeet
 #### I'm TCW Intern at [GeeksforGeeks](https://www.geeksforgeeks.org/) & Content Creator at [Aviyel](https://aviyel.com/discussions) , Currently enrolled in First year and I am a Self-taught MERN Stack Developer and UI Designer, with a strong eye for innovative design and eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly. I love to contribute on Open Source projects. 
 
- <p align="center">
+<!--  <p align="left">
     <a href="https://gurjeet.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/@gurjeetsingh-5C87FE?style=for-the-badge&logo=hashnode&logoColor=white" width="130" height="22" alt="hashnode">
     <a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="_blank">
@@ -11,10 +11,10 @@
     <a href="https://leetcode.com/gurjeetsinghvirdee/" target="_blank">
     <img src="https://img.shields.io/badge/@gurjeetsinghvirdee-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" width="150" height="22" alt="mail">
     <a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Say, Hello-D74E43?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="22"></a>
- </p>
+ </p> -->
  
-  
-<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/src/Assets/vector.gif" align="right" height="190" width="320">
+<a href="https://app.daily.dev/guri"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/src/Assets/devcard.svg" align="right" width="200" height="220" alt="Gurjeet Singh Virdee's Dev Card"/></a>      
+
 
 <ul align="left">
   <li> 🏫 Currently learning DSA </li>
@@ -44,7 +44,6 @@
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellij idea" />
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=fff" alt="java" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
     <img src="https://img.shields.io/badge/json-3A3A3A?style=for-the-badge&logo=json&logoColor=fff" alt="json" />
     <img src="https://img.shields.io/badge/markdown-499bea?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
@@ -65,7 +64,7 @@
 </details>  
      
      
-<a href="https://app.daily.dev/guri"><img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/src/Assets/devcard.svg" align="right" width="220" height="320" alt="Gurjeet Singh Virdee's Dev Card"/></a>    
+<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/src/Assets/vector.gif" align="right" height="180" width="280">     
      
   
 ## 📊 Weekly Developement Breakdown

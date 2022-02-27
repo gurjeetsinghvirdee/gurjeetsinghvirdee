@@ -83,15 +83,15 @@ JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░
   
 ##
         
-### Github Stats
+## 💫 Github Stats
         
 <div align="center">
  <a href="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" target="_blank">
-   <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" /> 
+   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" /> 
  </a>
     
  <a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" target="_blank">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" />
  </a>
 </div>      
   
@@ -99,7 +99,7 @@ JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░
         
 <div align="center">
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave" target="_blank">
-       <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave" />  
+       <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave" />  
    </a> 
 </div>   
 

@@ -26,11 +26,7 @@
  </li>
 </ul>  
         
-##        
-     
-<details><summary>🏆 Github Trophies </summary>
-  <img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" alt="trophies">  
-</details> 
+## 
   
 <details>  
   <summary>⚛️ Frameworks, Languages & Other Tools</summary>
@@ -86,24 +82,38 @@ JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░
 <!-- BLOG-POST-LIST:END -->  
   
 ##
-   
-<p align="center">
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave" />  
- </a> 
- <a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" />
- </a>
+        
+### Github Stats
+        
+<div align="center">
  <a href="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" target="_blank">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" /> 
- </a> 
-</p>
+   <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" /> 
+ </a>
+    
+ <a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" target="_blank">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" />
+ </a>
+</div>      
   
 ##
+        
+<div align="center">
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave" target="_blank">
+       <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave" />  
+   </a> 
+</div>   
+
+##        
   
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurjeetsinghvirdee&theme=dracula&hide_border=true" />
 </p>
+        
+##
+       
+<details><summary>🏆 Github Trophies </summary>
+  <img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" alt="trophies">  
+</details>         
 
 <p align="center">
   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&theme=synthwave-84" />

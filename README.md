@@ -19,6 +19,7 @@
         
 <ul align="left">
   <li> 🏫 Currently learning DSA </li>
+  <li> 💜 Contributing at GSSoC'22 </li>
   <li> 🚀 DM me for collab! </li>
   <li> 💬 Ask me about Anything </li>
   <li> 📕 Read My Articles at 

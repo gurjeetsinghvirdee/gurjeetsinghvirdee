@@ -128,3 +128,10 @@ Bash         10 mins         ▒░░░░░░░░░░░░░░░░
   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&theme=synthwave-84" />
   <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/src/Assets/github-user-contribution.svg"> 
 </p> 
+        
+## 🎵 Current Song Playing
+        
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31xcftnaufneyotbwgeuezrzheky&redirect=true" target="_blank"> 
+  <img width="20%" src="https://spotify-github-profile.vercel.app/api/view?uid=31xcftnaufneyotbwgeuezrzheky&cover_image=true&theme=default&bar_color_cover=true" />
+</div>            

@@ -13,9 +13,12 @@
     <a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Say, Hello-D74E43?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="22"></a>
  </p>
  
-##  
-        
-<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/src/Assets/vector.gif" align="right" height="160" width="240">           
+<div align="center">
+   <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/src/Assets/programmer-cycle.gif" height="250" width="380"> 
+</div>        
+   
+ 
+##         
         
 <ul align="left">
   <li> 🏫 Currently learning DSA </li>

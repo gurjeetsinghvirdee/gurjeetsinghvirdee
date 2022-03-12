@@ -1,0 +1,15 @@
+name: testing
+on:
+    push:
+        branches:
+            - main
+
+jobs:
+  reward:
+    runs-on : ubuntu-latest
+    name :  Add points
+    steps:
+      - name : Checking out 
+        uses : actions/checkout@v1
+      - name : Test the points
+        uses : ./

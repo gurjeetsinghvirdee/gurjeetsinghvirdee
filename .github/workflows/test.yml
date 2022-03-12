@@ -11,5 +11,6 @@ jobs:
     steps:
       - name : Checking out 
         uses : actions/checkout@v1
-      - name : Test the points
-        uses : ./
+      - name: Leaderboard Points
+        uses: saitejach127/osf-testing@v1.1
+

@@ -16,4 +16,7 @@
             user_name: gurjeetsinghvirdee
             # Text on contribution graph 
             text: GURJEET
-       - uses: jasineri/simple-push-action@v1
+       - name: gitartwork on contribution graph
+       - uses: jasineri/gitartwork@v1.0.0
+
+

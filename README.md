@@ -88,7 +88,7 @@ YAML         21 mins         ██▓░░░░░░░░░░░░░░
 ##
         
 <details>  
-  <summary>⚛️ Frameworks, Languages & Other Tools</summary>
+  <summary>⚛️ Frameworks, Languages & Other Tools</summary>&nbsp
   <p align="center">
     <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="adobe xd" /> 
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
@@ -106,6 +106,7 @@ YAML         21 mins         ██▓░░░░░░░░░░░░░░
     <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />  
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="my sql" />
+    <img src="https://img.shields.io/badge/netlify-30C8C9?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node" />
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
     <img src="https://img.shields.io/badge/postman-E95723?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
@@ -121,7 +122,8 @@ YAML         21 mins         ██▓░░░░░░░░░░░░░░
         
 ##        
        
-<details><summary>🏆 Github Trophies </summary>
+<details>
+  <summary>🏆 Github Trophies </summary>&nbsp
   <img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" alt="trophies">  
 </details>         
 

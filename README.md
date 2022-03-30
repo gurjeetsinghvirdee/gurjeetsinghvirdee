@@ -120,7 +120,10 @@ YAML         0 secs          ░░░░░░░░░░░░░░░░░
   </p>
 </details>
         
-##        
+##     
+        
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
        
 <details>
   <summary>🏆 Github Trophies </summary>&nbsp

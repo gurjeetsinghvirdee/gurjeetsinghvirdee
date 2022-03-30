@@ -122,8 +122,13 @@ YAML         0 secs          ░░░░░░░░░░░░░░░░░
         
 ##     
         
-<!--START_SECTION:activity-->
+<!--START_SECTION:activity-->  
+<details>
+    <summary><b> ⚙️ Show Older Activity</b></summary>
+</details>            
 <!--END_SECTION:activity-->
+        
+##
        
 <details>
   <summary>🏆 Github Trophies </summary>&nbsp

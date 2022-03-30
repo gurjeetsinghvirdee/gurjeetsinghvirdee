@@ -128,6 +128,10 @@ YAML         0 secs          ░░░░░░░░░░░░░░░░░
 3. ❗️ Reopened issue [#167](https://github.com/Rayman-Sodhi/Clone-IT/issues/167) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
 4. 🎉 Merged PR [#196](https://github.com/Rayman-Sodhi/Clone-IT/pull/196) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
 5. ❗️ Closed issue [#167](https://github.com/Rayman-Sodhi/Clone-IT/issues/167) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+        
+ <details>
+     <summary><b> ⚙️ Show Older Activity</b></summary>
+ </details>
 <!--END_SECTION:activity-->
         
 ##

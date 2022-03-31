@@ -88,14 +88,19 @@ YAML         0 secs          ░░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[03/31 16:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[03/31 16:30]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#223`](https://github.com//Rayman-Sodhi/Clone-IT/pull/223 'Added microsoft teams page clone files') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[03/31 16:30]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#165`](https://github.com//Rayman-Sodhi/Clone-IT/issues/165 'Teams page from Microsoft Teams') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[03/31 16:30]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#223`](https://github.com//Rayman-Sodhi/Clone-IT/issues/223 'Added microsoft teams page clone files') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[03/31 16:29]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#223`](https://github.com//Rayman-Sodhi/Clone-IT/pull/223 'Added microsoft teams page clone files') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[03/31 06:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)  
 `[03/31 04:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[03/31 04:31]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//gurjeetsinghvirdee/gurjeetsinghvirdee/pull/3 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[03/30 19:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [airbnb/javascript](https://github.com/airbnb/javascript)  
 `[03/30 19:31]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [airbnb/javascript](https://github.com/airbnb/javascript) to [gurjeetsinghvirdee/javascript](https://github.com/gurjeetsinghvirdee/javascript)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[03/30 19:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[03/30 18:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/Suvraneel](https://github.com/gurjeetsinghvirdee/Suvraneel)  
 `[03/30 17:44]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#222`](https://github.com//Rayman-Sodhi/Clone-IT/issues/222 'Add Instagram Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
@@ -270,13 +275,6 @@ YAML         0 secs          ░░░░░░░░░░░░░░░░░
 `[03/24 18:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/leetcode-solution-in-js](https://github.com/gurjeetsinghvirdee/leetcode-solution-in-js)  
 `[03/24 15:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
 `[03/24 08:22]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#423`](https://github.com//arpit456jain/Amazing-Js-Projects/issues/423 'Lots of preview pics are missing and lots of projects are there which are not added in json file') in [arpit456jain/Amazing-Js-Projects](https://github.com/arpit456jain/Amazing-Js-Projects)  
-`[03/24 04:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#16`](https://github.com//Rayman-Sodhi/Clone-IT/issues/16 'Enhance the LInkedIn Clone and change the   idea from ConnectedIn to LinkedIn') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[03/24 04:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5`](https://github.com//Rayman-Sodhi/Clone-IT/issues/5 'Add new Website Clones .') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[03/23 11:57]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#118`](https://github.com//Rayman-Sodhi/Clone-IT/issues/118 'UI Enhancement of Flipkart-clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[03/23 07:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [gurjeetsinghvirdee/Pacify-final](https://github.com/gurjeetsinghvirdee/Pacify-final)  
-`[03/23 06:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[03/23 06:32]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#170`](https://github.com//Rayman-Sodhi/Clone-IT/pull/170 'Add scroll to top button on main website') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[03/23 06:32]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#97`](https://github.com//Rayman-Sodhi/Clone-IT/issues/97 'Add scroll to top button to main website') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

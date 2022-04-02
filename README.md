@@ -88,14 +88,16 @@ Git Config   8 mins          ▓░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[04/02 21:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#31`](https://github.com//aviyelverse/aviyel-first-pr/issues/31 'Update README with more content') in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)  
+`[04/02 21:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#31`](https://github.com//aviyelverse/aviyel-first-pr/issues/31 'Update README with more content') in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)  
 `[04/02 19:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#31`](https://github.com//aviyelverse/aviyel-first-pr/issues/31 'Update README with more content') in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)  
 `[04/02 19:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [gurjeetsinghvirdee/aviyel-first-pr](https://github.com/gurjeetsinghvirdee/aviyel-first-pr)  
 `[04/02 19:00]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#70`](https://github.com//girlscript/gssoc-website-new/issues/70 'Feat: Live Chatbot') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[04/02 18:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
-`[04/02 18:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[04/02 18:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
+`[04/02 18:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
 `[04/02 18:44]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#241`](https://github.com//Rayman-Sodhi/Clone-IT/pull/241 'Chabot created ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/02 18:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
 `[04/02 18:22]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#288`](https://github.com//surajm-333/Ace-The-FrontEnd/pull/288 '2048 Game added') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
@@ -290,7 +292,6 @@ Git Config   8 mins          ▓░░░░░░░░░░░░░░░░
 `[03/28 05:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[03/28 05:01]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#168`](https://github.com//Rayman-Sodhi/Clone-IT/issues/168 'Zomato HomePage Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[03/28 05:01]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#204`](https://github.com//Rayman-Sodhi/Clone-IT/pull/204 'Zomato Clone Added') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[03/28 04:59]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#204`](https://github.com//Rayman-Sodhi/Clone-IT/pull/204 'Issue Done ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

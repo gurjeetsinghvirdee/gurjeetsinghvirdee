@@ -88,14 +88,15 @@ Git Config   8 mins          ▓░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[04/02 21:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
 `[04/02 21:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#16`](https://github.com//Rayman-Sodhi/Clone-IT/issues/16 'Enhance the LInkedIn Clone and change the   idea from ConnectedIn to LinkedIn') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/02 21:34]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#71`](https://github.com//girlscript/gssoc-website-new/pull/71 'feat: live chatbot added') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[04/02 21:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[04/02 21:19]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`chatbot`](https://github.com/gurjeetsinghvirdee/gssoc-website-new/tree/chatbot) in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
-`[04/02 21:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#31`](https://github.com//aviyelverse/aviyel-first-pr/issues/31 'Update README with more content') in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[04/02 21:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#31`](https://github.com//aviyelverse/aviyel-first-pr/issues/31 'Update README with more content') in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)  
 `[04/02 21:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#31`](https://github.com//aviyelverse/aviyel-first-pr/issues/31 'Update README with more content') in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)  
 `[04/02 19:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#31`](https://github.com//aviyelverse/aviyel-first-pr/issues/31 'Update README with more content') in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)  
 `[04/02 19:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [gurjeetsinghvirdee/aviyel-first-pr](https://github.com/gurjeetsinghvirdee/aviyel-first-pr)  
@@ -291,8 +292,6 @@ Git Config   8 mins          ▓░░░░░░░░░░░░░░░░
 `[03/28 14:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#206`](https://github.com//Rayman-Sodhi/Clone-IT/issues/206 '#184 NYKAA Clone created') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[03/28 13:57]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#207`](https://github.com//Rayman-Sodhi/Clone-IT/issues/207 'Create Nike Website Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[03/28 13:56]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#206`](https://github.com//Rayman-Sodhi/Clone-IT/issues/206 '#184 NYKAA Clone created') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[03/28 13:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#208`](https://github.com//Rayman-Sodhi/Clone-IT/issues/208 'Home') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[03/28 06:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#205`](https://github.com//Rayman-Sodhi/Clone-IT/issues/205 'Coinbase Webpage Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

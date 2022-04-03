@@ -24,7 +24,7 @@ jobs:
           # Options
           user: gurjeetsinghvirdee
           template: classic
-          base: header, activity, community, repositories, metadata, wakatime
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
           plugin_achievements: yes
           plugin_achievements_display: compact

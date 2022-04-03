@@ -351,7 +351,7 @@ Git Config   8 mins          ▓░░░░░░░░░░░░░░░░
        
 <details>
 <summary> <b>  :trophy: GitHub Achievements </b></summary>
-
+<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/gurjeetsinghvirdee.svg" >    
 </details><br>       
 
 ##

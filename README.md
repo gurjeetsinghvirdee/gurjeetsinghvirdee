@@ -88,14 +88,22 @@ Git Config   8 mins          ▓░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[04/03 11:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
+`[04/03 12:20]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#228`](https://github.com//Rayman-Sodhi/Clone-IT/issues/228 'Title: Styling Discord clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[04/03 12:03]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#249`](https://github.com//Rayman-Sodhi/Clone-IT/issues/249 'testing') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[04/03 12:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#249`](https://github.com//Rayman-Sodhi/Clone-IT/issues/249 'testing') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[04/03 12:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#249`](https://github.com//Rayman-Sodhi/Clone-IT/issues/249 'testing') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[04/03 12:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#249`](https://github.com//Rayman-Sodhi/Clone-IT/issues/249 'testing') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[04/03 12:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[04/03 11:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Ace-The-FrontEnd](https://github.com/gurjeetsinghvirdee/Ace-The-FrontEnd)  
+`[04/03 11:54]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#248`](https://github.com//Rayman-Sodhi/Clone-IT/pull/248 'Amazon clone added') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[04/03 11:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
 `[04/03 11:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/03 11:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#246`](https://github.com//Rayman-Sodhi/Clone-IT/pull/246 'Better Styling') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/03 11:15]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#246`](https://github.com//Rayman-Sodhi/Clone-IT/pull/246 'Better Styling') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/03 11:03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#167`](https://github.com//Rayman-Sodhi/Clone-IT/issues/167 'Make a Hamburger in Navbar ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[04/03 10:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#167`](https://github.com//Rayman-Sodhi/Clone-IT/issues/167 'Make a Hamburger in Navbar ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/03 10:13]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#4359`](https://github.com//chatwoot/chatwoot/issues/4359 'Auto Reply after fetching canned response') in [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)  
 `[04/03 06:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
@@ -293,9 +301,6 @@ Git Config   8 mins          ▓░░░░░░░░░░░░░░░░
 `[03/28 16:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`revert-206-opensource`](https://github.com/Rayman-Sodhi/Clone-IT/tree/revert-206-opensource) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[03/28 16:23]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#177`](https://github.com//Rayman-Sodhi/Clone-IT/issues/177 'Title: Create Rockstar Games Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[03/28 16:23]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Reopened issue [`#177`](https://github.com//Rayman-Sodhi/Clone-IT/issues/177 'Title: Create Rockstar Games Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[03/28 16:17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#174`](https://github.com//Rayman-Sodhi/Clone-IT/issues/174 '#141 Twitter Clone Created') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[03/28 16:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#206`](https://github.com//Rayman-Sodhi/Clone-IT/issues/206 '#184 NYKAA Clone created') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[03/28 16:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#199`](https://github.com//Rayman-Sodhi/Clone-IT/issues/199 '#183 Make My Trip Clone created') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

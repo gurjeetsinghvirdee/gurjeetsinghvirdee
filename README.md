@@ -88,14 +88,19 @@ Git Config   8 mins          ▓░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[04/03 17:59]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#250`](https://github.com//Rayman-Sodhi/Clone-IT/issues/250 'Add MS Paint Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[04/03 17:54]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#48`](https://github.com//Rayman-Sodhi/Clone-IT/issues/48 'Add hotstar clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[04/03 17:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
+`[04/03 17:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
+`[04/03 17:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `22` commits in [gurjeetsinghvirdee/Suvraneel](https://github.com/gurjeetsinghvirdee/Suvraneel)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[04/03 16:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#250`](https://github.com//Rayman-Sodhi/Clone-IT/issues/250 'Add MS Paint Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/03 16:07]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#250`](https://github.com//Rayman-Sodhi/Clone-IT/issues/250 'Add MS Paint Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/03 16:05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#195`](https://github.com//Rayman-Sodhi/Clone-IT/issues/195 'Read this⚡') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/03 15:42]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#234`](https://github.com//DSC-JSS-NOIDA/QuickLearn/pull/234 'MEVN resources added') in [DSC-JSS-NOIDA/QuickLearn](https://github.com/DSC-JSS-NOIDA/QuickLearn)  
 `[04/03 15:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/QuickLearn](https://github.com/gurjeetsinghvirdee/QuickLearn)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[04/03 15:23]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#250`](https://github.com//abhijeet007rocks8/Dev-Scripts/issues/250 '2048 game clone added') in [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)  
 `[04/03 15:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in [gurjeetsinghvirdee/QuickLearn](https://github.com/gurjeetsinghvirdee/QuickLearn)  
 `[04/03 14:58]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#233`](https://github.com//DSC-JSS-NOIDA/QuickLearn/issues/233 'Add MEVN Resources ') in [DSC-JSS-NOIDA/QuickLearn](https://github.com/DSC-JSS-NOIDA/QuickLearn)  
@@ -302,8 +307,6 @@ Git Config   8 mins          ▓░░░░░░░░░░░░░░░░
 `[03/28 17:11]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#212`](https://github.com//Rayman-Sodhi/Clone-IT/pull/212 'Plagiarism Content ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[03/28 17:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[03/28 17:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#200`](https://github.com//Rayman-Sodhi/Clone-IT/issues/200 'Create BBC News Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[03/28 17:02]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#212`](https://github.com//Rayman-Sodhi/Clone-IT/pull/212 'Plagiarism Content ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[03/28 17:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

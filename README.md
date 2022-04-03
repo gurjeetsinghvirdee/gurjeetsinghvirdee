@@ -349,9 +349,9 @@ Git Config   8 mins          ▓░░░░░░░░░░░░░░░░
 ##
        
 <details>
-  <summary>🏆 Github Trophies </summary>&nbsp
-  <img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" alt="trophies">  
-</details>         
+<summary> <b>  :trophy: GitHub Achievements </b></summary>
+
+</details><br>       
 
 ##
 

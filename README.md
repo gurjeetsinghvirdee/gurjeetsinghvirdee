@@ -88,14 +88,18 @@ Git Config   22 mins         ▓░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[04/04 20:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
+`[04/04 19:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
+`[04/04 19:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
+`[04/04 19:36]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`mentor`](https://github.com/gurjeetsinghvirdee/CodingEasy/tree/mentor) in [gurjeetsinghvirdee/CodingEasy](https://github.com/gurjeetsinghvirdee/CodingEasy)  
 `[04/04 19:19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy) to [gurjeetsinghvirdee/CodingEasy](https://github.com/gurjeetsinghvirdee/CodingEasy)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[04/04 19:15]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#234`](https://github.com//arpit456jain/CodingEasy/issues/234 'A separate page for listing our templates and downloading them') in [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy)  
 `[04/04 19:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#236`](https://github.com//arpit456jain/CodingEasy/issues/236 'change in mentor section') in [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy)  
 `[04/04 19:03]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#449`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/449 'Add Expense Tracker') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[04/04 18:37]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#473`](https://github.com//arpit456jain/Amazing-Js-Projects/issues/473 'Add Live Chatbot') in [arpit456jain/Amazing-Js-Projects](https://github.com/arpit456jain/Amazing-Js-Projects)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[04/04 18:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/04 18:29]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#264`](https://github.com//Rayman-Sodhi/Clone-IT/pull/264 'Update scroll top btn') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/04 18:28]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#264`](https://github.com//Rayman-Sodhi/Clone-IT/pull/264 'Update scroll top btn') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
@@ -304,11 +308,6 @@ Git Config   22 mins         ▓░░░░░░░░░░░░░░░░
 `[03/31 16:30]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#223`](https://github.com//Rayman-Sodhi/Clone-IT/issues/223 'Added microsoft teams page clone files') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[03/31 16:29]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#223`](https://github.com//Rayman-Sodhi/Clone-IT/pull/223 'Added microsoft teams page clone files') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[03/31 06:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)  
-`[03/31 04:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[03/31 04:31]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//gurjeetsinghvirdee/gurjeetsinghvirdee/pull/3 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[03/30 19:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [airbnb/javascript](https://github.com/airbnb/javascript)  
-`[03/30 19:31]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [airbnb/javascript](https://github.com/airbnb/javascript) to [gurjeetsinghvirdee/javascript](https://github.com/gurjeetsinghvirdee/javascript)  
-`[03/30 19:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 
 </details>
 <!--END_SECTION:activity-->

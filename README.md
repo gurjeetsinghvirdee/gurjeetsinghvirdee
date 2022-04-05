@@ -88,14 +88,21 @@ Git Config   23 mins         █░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[04/05 15:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Nykaa-Clone](https://github.com/gurjeetsinghvirdee/Nykaa-Clone)  
+`[04/05 15:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/Nykaa-Clone/tree/master) in [gurjeetsinghvirdee/Nykaa-Clone](https://github.com/gurjeetsinghvirdee/Nykaa-Clone)  
+`[04/05 15:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
+`[04/05 15:21]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#276`](https://github.com//Rayman-Sodhi/Clone-IT/issues/276 'News Extension Clone ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[04/05 15:20]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#277`](https://github.com//Rayman-Sodhi/Clone-IT/pull/277 'Latest News Extension Clone  ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[04/05 15:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[04/05 15:20]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#277`](https://github.com//Rayman-Sodhi/Clone-IT/pull/277 'Latest News Extension Clone  ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/05 11:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[04/05 11:02]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Suvraneel/NFT-Emporium](https://github.com/Suvraneel/NFT-Emporium) to [gurjeetsinghvirdee/NFT-Emporium](https://github.com/gurjeetsinghvirdee/NFT-Emporium)  
 `[04/05 11:00]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#272`](https://github.com//Rayman-Sodhi/Clone-IT/pull/272 'Add a Codepen Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/05 10:59]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#272`](https://github.com//Rayman-Sodhi/Clone-IT/issues/272 'Add a Codepen Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/05 10:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/BigB-E-learn-Websit-e](https://github.com/gurjeetsinghvirdee/BigB-E-learn-Websit-e)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[04/05 10:46]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#257`](https://github.com//The-Shivam-garg/BigB-E-learn-Websit-e/pull/257 'Blogs updated') in [The-Shivam-garg/BigB-E-learn-Websit-e](https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e)  
 `[04/05 10:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`blog`](https://github.com/gurjeetsinghvirdee/BigB-E-learn-Websit-e/tree/blog) in [gurjeetsinghvirdee/BigB-E-learn-Websit-e](https://github.com/gurjeetsinghvirdee/BigB-E-learn-Websit-e)  
 `[04/05 09:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#301`](https://github.com//abhijeet007rocks8/Dev-Scripts/issues/301 'Added Todo app') in [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)  
@@ -296,11 +303,6 @@ Git Config   23 mins         █░░░░░░░░░░░░░░░░
 `[04/01 19:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[04/01 19:36]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#233`](https://github.com//Rayman-Sodhi/Clone-IT/issues/233 'Clones linked') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/01 19:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
-`[04/01 18:50]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#150`](https://github.com//Rayman-Sodhi/Clone-IT/issues/150 'Add some new features in FAQ page') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[04/01 18:49]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#150`](https://github.com//Rayman-Sodhi/Clone-IT/issues/150 'Add some new features in FAQ page') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[04/01 18:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
-`[04/01 17:42]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#233`](https://github.com//Rayman-Sodhi/Clone-IT/pull/233 'Clones linked') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[04/01 17:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

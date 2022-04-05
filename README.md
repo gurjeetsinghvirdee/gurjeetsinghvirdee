@@ -88,14 +88,16 @@ Git Config   23 mins         █░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[04/05 09:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#301`](https://github.com//abhijeet007rocks8/Dev-Scripts/issues/301 'Added Todo app') in [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)  
+`[04/05 09:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Dev-Scripts](https://github.com/gurjeetsinghvirdee/Dev-Scripts)  
 `[04/05 09:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#188`](https://github.com//Rayman-Sodhi/Clone-IT/issues/188 'Title: Add a CodePen Clone ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/05 09:19]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#188`](https://github.com//Rayman-Sodhi/Clone-IT/issues/188 'Title: Add a CodePen Clone ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/05 08:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/BigB-E-learn-Websit-e](https://github.com/gurjeetsinghvirdee/BigB-E-learn-Websit-e)  
-`[04/05 08:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [gurjeetsinghvirdee/Dev-Scripts](https://github.com/gurjeetsinghvirdee/Dev-Scripts)  
-`[04/05 08:27]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#301`](https://github.com//abhijeet007rocks8/Dev-Scripts/pull/301 'Added Todo app') in [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[04/05 08:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [gurjeetsinghvirdee/Dev-Scripts](https://github.com/gurjeetsinghvirdee/Dev-Scripts)  
+`[04/05 08:27]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#301`](https://github.com//abhijeet007rocks8/Dev-Scripts/pull/301 'Added Todo app') in [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)  
 `[04/05 08:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [gurjeetsinghvirdee/Dev-Scripts](https://github.com/gurjeetsinghvirdee/Dev-Scripts)  
 `[04/05 08:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/05 08:17]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#270`](https://github.com//Rayman-Sodhi/Clone-IT/pull/270 'Extra footer removed') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
@@ -299,8 +301,6 @@ Git Config   23 mins         █░░░░░░░░░░░░░░░░
 `[04/01 14:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#231`](https://github.com//Rayman-Sodhi/Clone-IT/issues/231 'Twitch Homepage Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/01 14:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#231`](https://github.com//Rayman-Sodhi/Clone-IT/issues/231 'Twitch Homepage Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/01 14:53]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/2048-game/tree/master) in [gurjeetsinghvirdee/2048-game](https://github.com/gurjeetsinghvirdee/2048-game)  
-`[04/01 14:35]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/2048-game](https://github.com/gurjeetsinghvirdee/2048-game)  
-`[04/01 14:20]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#6`](https://github.com//gurjeetsinghvirdee/gurjeetsinghvirdee/issues/6 'feat: demo') in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 
 </details>
 <!--END_SECTION:activity-->

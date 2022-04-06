@@ -298,9 +298,6 @@ Git Config   36 mins         █▒░░░░░░░░░░░░░░░
 `[04/02 18:44]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#241`](https://github.com//Rayman-Sodhi/Clone-IT/pull/241 'Chabot created ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/02 18:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
 `[04/02 18:22]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#288`](https://github.com//surajm-333/Ace-The-FrontEnd/pull/288 '2048 Game added') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
-`[04/02 18:13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`game`](https://github.com/gurjeetsinghvirdee/Ace-The-FrontEnd/tree/game) in [gurjeetsinghvirdee/Ace-The-FrontEnd](https://github.com/gurjeetsinghvirdee/Ace-The-FrontEnd)  
-`[04/02 17:59]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#240`](https://github.com//Rayman-Sodhi/Clone-IT/issues/240 'Add Chatbot') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[04/02 17:59]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#240`](https://github.com//Rayman-Sodhi/Clone-IT/issues/240 'Add Chatbot') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

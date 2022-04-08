@@ -88,14 +88,18 @@ Git Config   36 mins         █░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[04/08 09:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#563`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/563 'Add Starbucks Clone') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
+`[04/08 09:01]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#563`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/563 'Add Starbucks Clone') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
+`[04/08 08:53]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#562`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/562 'Added Quote Generator') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
+`[04/08 08:48]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`quote`](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart/tree/quote) in [gurjeetsinghvirdee/WebDev-ProjectKart](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart)  
 `[04/08 08:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `136` commits in [gurjeetsinghvirdee/WebDev-ProjectKart](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[04/08 08:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#516`](https://github.com//Ayush7614/Bundli-Frontend/issues/516 'Update index.html') in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  
 `[04/08 04:18]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#281`](https://github.com//Rayman-Sodhi/Clone-IT/issues/281 'Amazon Prime Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/08 04:18]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#249`](https://github.com//abhijeet007rocks8/Dev-Scripts/issues/249 'Add Amazon Clone') in [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)  
 `[04/07 21:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/Amazing-Css-Effects](https://github.com/gurjeetsinghvirdee/Amazing-Css-Effects)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[04/07 21:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [gurjeetsinghvirdee/Dev-Scripts](https://github.com/gurjeetsinghvirdee/Dev-Scripts)  
 `[04/07 21:24]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//gurjeetsinghvirdee/Dev-Scripts/pull/1 ',ew') in [gurjeetsinghvirdee/Dev-Scripts](https://github.com/gurjeetsinghvirdee/Dev-Scripts)  
 `[04/07 21:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `22` commits in [gurjeetsinghvirdee/Dev-Scripts](https://github.com/gurjeetsinghvirdee/Dev-Scripts)  
@@ -290,9 +294,6 @@ Git Config   36 mins         █░░░░░░░░░░░░░░░░
 `[04/04 04:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#241`](https://github.com//The-Shivam-garg/BigB-E-learn-Websit-e/issues/241 '[FEATURE] Add  a header in the Feature Page ') in [The-Shivam-garg/BigB-E-learn-Websit-e](https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e)  
 `[04/04 04:47]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#244`](https://github.com//The-Shivam-garg/BigB-E-learn-Websit-e/issues/244 '[FEATURE] Add the original blogs and make them directing') in [The-Shivam-garg/BigB-E-learn-Websit-e](https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e)  
 `[04/04 04:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `107` commits in [gurjeetsinghvirdee/WebDev-ProjectKart](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart)  
-`[04/03 20:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#248`](https://github.com//Rayman-Sodhi/Clone-IT/issues/248 'Amazon clone added') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[04/03 20:46]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#234`](https://github.com//Rayman-Sodhi/Clone-IT/issues/234 'Add Amazon Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[04/03 20:46]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#248`](https://github.com//Rayman-Sodhi/Clone-IT/pull/248 'Amazon clone added') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

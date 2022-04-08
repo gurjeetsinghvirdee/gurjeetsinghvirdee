@@ -88,14 +88,18 @@ Git Config   36 mins         █░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[04/08 22:14]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#335`](https://github.com//abhijeet007rocks8/Dev-Scripts/issues/335 'Wikipedia UI Clone') in [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)  
+`[04/08 22:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/Dev-Scripts](https://github.com/gurjeetsinghvirdee/Dev-Scripts)  
+`[04/08 22:05]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [open-certs/oc-frontend](https://github.com/open-certs/oc-frontend) to [gurjeetsinghvirdee/oc-frontend](https://github.com/gurjeetsinghvirdee/oc-frontend)  
+`[04/08 21:54]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#621`](https://github.com//Ayush7614/Bundli-Frontend/issues/621 'Crypto Website Template') in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  
 `[04/08 20:31]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [FABhishek/WatchPawrii](https://github.com/FABhishek/WatchPawrii) to [gurjeetsinghvirdee/WatchPawrii](https://github.com/gurjeetsinghvirdee/WatchPawrii)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[04/08 20:21]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `2048` from [gurjeetsinghvirdee/ZeroOctave-Javascript-Projects](https://github.com/gurjeetsinghvirdee/ZeroOctave-Javascript-Projects)  
 `[04/08 19:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [gurjeetsinghvirdee/BigB-E-learn-Websit-e](https://github.com/gurjeetsinghvirdee/BigB-E-learn-Websit-e)  
 `[04/08 19:42]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#592`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/592 'Added Snake game') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[04/08 19:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/WebDev-ProjectKart](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[04/08 19:39]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#592`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/592 'Added Snake game') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[04/08 19:38]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#591`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/591 'Added Snake game') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[04/08 19:37]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#591`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/591 'Added Snake game') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
@@ -293,12 +297,6 @@ Git Config   36 mins         █░░░░░░░░░░░░░░░░
 `[04/04 18:23]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#236`](https://github.com//DSC-JSS-NOIDA/QuickLearn/issues/236 'Add Chatbot') in [DSC-JSS-NOIDA/QuickLearn](https://github.com/DSC-JSS-NOIDA/QuickLearn)  
 `[04/04 18:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/QuickLearn](https://github.com/gurjeetsinghvirdee/QuickLearn)  
 `[04/04 18:21]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#84`](https://github.com//geekymeeky/e-bureau/issues/84 'add Chatbot') in [geekymeeky/e-bureau](https://github.com/geekymeeky/e-bureau)  
-`[04/04 18:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
-`[04/04 18:18]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#447`](https://github.com//ZeroOctave/ZeroOctave-Javascript-Projects/issues/447 'landing page footer') in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)  
-`[04/04 18:08]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#448`](https://github.com//ZeroOctave/ZeroOctave-Javascript-Projects/pull/448 '2048 game added') in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)  
-`[04/04 17:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/ZeroOctave-Javascript-Projects](https://github.com/gurjeetsinghvirdee/ZeroOctave-Javascript-Projects)  
-`[04/04 17:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`2048`](https://github.com/gurjeetsinghvirdee/ZeroOctave-Javascript-Projects/tree/2048) in [gurjeetsinghvirdee/ZeroOctave-Javascript-Projects](https://github.com/gurjeetsinghvirdee/ZeroOctave-Javascript-Projects)  
-`[04/04 17:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [gurjeetsinghvirdee/ZeroOctave-Javascript-Projects](https://github.com/gurjeetsinghvirdee/ZeroOctave-Javascript-Projects)  
 
 </details>
 <!--END_SECTION:activity-->

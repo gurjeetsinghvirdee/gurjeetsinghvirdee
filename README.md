@@ -88,14 +88,15 @@ Git Config   27 mins         █░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[04/09 07:37]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Akshata-Gunapache/Wordle-Clone](https://github.com/Akshata-Gunapache/Wordle-Clone) to [gurjeetsinghvirdee/Wordle-Clone](https://github.com/gurjeetsinghvirdee/Wordle-Clone)  
 `[04/08 22:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/08 22:37]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#298`](https://github.com//Rayman-Sodhi/Clone-IT/pull/298 'Added changes to the navbar items') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/08 22:37]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#297`](https://github.com//Rayman-Sodhi/Clone-IT/issues/297 'Design the navbar items') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/08 22:35]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#298`](https://github.com//Rayman-Sodhi/Clone-IT/pull/298 'Added changes to the navbar items') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[04/08 22:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#296`](https://github.com//Rayman-Sodhi/Clone-IT/issues/296 'Instagram Clone Added') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[04/08 22:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#296`](https://github.com//Rayman-Sodhi/Clone-IT/issues/296 'Instagram Clone Added') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/08 22:31]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#533`](https://github.com//Ayush7614/Bundli-Frontend/pull/533 'Discord clone') in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  
 `[04/08 22:31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#533`](https://github.com//Ayush7614/Bundli-Frontend/issues/533 'Discord clone') in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  
 `[04/08 22:30]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#532`](https://github.com//Ayush7614/Bundli-Frontend/pull/532 'LinkedIn Clone Added') in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  
@@ -296,7 +297,6 @@ Git Config   27 mins         █░░░░░░░░░░░░░░░░
 `[04/04 19:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[04/04 19:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[04/04 19:36]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`mentor`](https://github.com/gurjeetsinghvirdee/CodingEasy/tree/mentor) in [gurjeetsinghvirdee/CodingEasy](https://github.com/gurjeetsinghvirdee/CodingEasy)  
-`[04/04 19:19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy) to [gurjeetsinghvirdee/CodingEasy](https://github.com/gurjeetsinghvirdee/CodingEasy)  
 
 </details>
 <!--END_SECTION:activity-->

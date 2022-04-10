@@ -88,14 +88,18 @@ Git Config   27 mins         ▓░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[04/10 16:27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#312`](https://github.com//Rayman-Sodhi/Clone-IT/issues/312 'spacex-page') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[04/10 16:26]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#314`](https://github.com//Rayman-Sodhi/Clone-IT/issues/314 'pinterest') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[04/10 16:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#310`](https://github.com//Rayman-Sodhi/Clone-IT/issues/310 'Added LinkedIn Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[04/10 16:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#304`](https://github.com//Rayman-Sodhi/Clone-IT/issues/304 'Modification of Instagram Clone Login Page and Merge Instagram-Clone and Login Clone in one folder') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/09 22:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/WebDev-ProjectKart](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[04/09 22:13]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#640`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/640 'Added Video Player') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[04/09 22:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#639`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/639 'Add Video Player') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[04/09 22:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`video-player`](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart/tree/video-player) in [gurjeetsinghvirdee/WebDev-ProjectKart](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart)  
 `[04/09 21:40]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#639`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/639 'Add Music Player') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[04/09 21:35]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#86`](https://github.com//geekymeeky/e-bureau/pull/86 'Added Workflows') in [geekymeeky/e-bureau](https://github.com/geekymeeky/e-bureau)  
 `[04/09 21:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/e-bureau](https://github.com/gurjeetsinghvirdee/e-bureau)  
 `[04/09 20:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
@@ -296,9 +300,7 @@ Git Config   27 mins         ▓░░░░░░░░░░░░░░░░
 `[04/05 09:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#188`](https://github.com//Rayman-Sodhi/Clone-IT/issues/188 'Title: Add a CodePen Clone ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/05 09:19]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#188`](https://github.com//Rayman-Sodhi/Clone-IT/issues/188 'Title: Add a CodePen Clone ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/05 08:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/BigB-E-learn-Websit-e](https://github.com/gurjeetsinghvirdee/BigB-E-learn-Websit-e)  
-`[04/05 08:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [gurjeetsinghvirdee/Dev-Scripts](https://github.com/gurjeetsinghvirdee/Dev-Scripts)  
-`[04/05 08:27]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#301`](https://github.com//abhijeet007rocks8/Dev-Scripts/pull/301 'Added Todo app') in [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)  
-`[04/05 08:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [gurjeetsinghvirdee/Dev-Scripts](https://github.com/gurjeetsinghvirdee/Dev-Scripts)  
+`[04/05 08:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [gurjeetsinghvirdee/Dev-Scripts](https://github.com/gurjeetsinghvirdee/Dev-Scripts)  
 
 </details>
 <!--END_SECTION:activity-->

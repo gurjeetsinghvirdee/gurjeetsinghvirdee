@@ -298,9 +298,6 @@ Git Config   27 mins         ▓░░░░░░░░░░░░░░░░
 `[04/05 18:43]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#279`](https://github.com//Rayman-Sodhi/Clone-IT/pull/279 'Coin Toss Clone ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/05 15:18]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#273`](https://github.com//Rayman-Sodhi/Clone-IT/issues/273 'Add a Twitter-Homepage Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/05 15:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Nykaa-Clone](https://github.com/gurjeetsinghvirdee/Nykaa-Clone)  
-`[04/05 15:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/Nykaa-Clone/tree/master) in [gurjeetsinghvirdee/Nykaa-Clone](https://github.com/gurjeetsinghvirdee/Nykaa-Clone)  
-`[04/05 15:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
-`[04/05 15:21]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#276`](https://github.com//Rayman-Sodhi/Clone-IT/issues/276 'News Extension Clone ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

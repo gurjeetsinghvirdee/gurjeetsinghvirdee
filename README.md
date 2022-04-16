@@ -255,7 +255,6 @@ JSON         13 mins         ▓░░░░░░░░░░░░░░░░
 `[04/13 20:33]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#268`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/268 'Created folder to add product card UI') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[04/13 20:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#268`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/268 'Created folder to add product card UI') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[04/13 20:32]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#715`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/715 'Added Animated project') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[04/13 20:29]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#693`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/693 'Hulu UI Clone ') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 
 </details>
 <!--END_SECTION:activity-->

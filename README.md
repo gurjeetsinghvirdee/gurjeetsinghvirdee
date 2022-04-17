@@ -88,14 +88,18 @@ Python       5 mins          ▒░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[04/17 05:07]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#359`](https://github.com//Rayman-Sodhi/Clone-IT/issues/359 'Adding clone of pinterest website ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[04/17 05:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#359`](https://github.com//Rayman-Sodhi/Clone-IT/issues/359 'Adding clone of pinterest website ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[04/17 05:06]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#364`](https://github.com//Rayman-Sodhi/Clone-IT/issues/364 'Reduce size of project by using images on cloud rather than in assets folder') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[04/17 05:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#350`](https://github.com//Rayman-Sodhi/Clone-IT/issues/350 'Links not working') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/16 22:07]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#354`](https://github.com//Rayman-Sodhi/Clone-IT/pull/354 'Adding swiggy clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[04/16 22:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#354`](https://github.com//Rayman-Sodhi/Clone-IT/issues/354 'Adding swiggy clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/16 22:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/16 22:06]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#360`](https://github.com//Rayman-Sodhi/Clone-IT/pull/360 'Added OLX Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/16 22:06]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#360`](https://github.com//Rayman-Sodhi/Clone-IT/pull/360 'Added OLX Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[04/16 22:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/16 22:03]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#346`](https://github.com//Rayman-Sodhi/Clone-IT/issues/346 'The navbar and footer of FAQ page aren\'t consistent with that of Homepage') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/16 22:03]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#363`](https://github.com//Rayman-Sodhi/Clone-IT/pull/363 'Navbar and Footer of FAQ page fixed') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
@@ -275,9 +279,6 @@ Python       5 mins          ▒░░░░░░░░░░░░░░░░
 `[04/13 21:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#262`](https://github.com//Rayman-Sodhi/Clone-IT/issues/262 'W3 schools Homepage') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/13 21:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#262`](https://github.com//Rayman-Sodhi/Clone-IT/issues/262 'W3 schools Homepage') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/13 21:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Reopened issue [`#262`](https://github.com//Rayman-Sodhi/Clone-IT/issues/262 'W3 schools Homepage') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[04/13 21:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#744`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/744 'Added Flappy Bird Game using Javascript') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[04/13 21:10]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#744`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/744 'Added Flappy Bird Game using Javascript') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[04/13 21:07]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#735`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/735 'Added Speed Typer') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 
 </details>
 <!--END_SECTION:activity-->

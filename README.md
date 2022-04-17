@@ -327,7 +327,7 @@ Python       5 mins          ▒░░░░░░░░░░░░░░░░
        
 <details>
 <summary> <b> 🏆 GitHhub Achievements </b></summary>
-<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/gurjeetsinghvirdee.svg" >   
+![Metrics](https://metrics.lecoq.io/gurjeetsinghvirdee?template=classic&isocalendar=1&languages=1&followup=1&introduction=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction.title=true&config.timezone=Asia%2FCalcutta)  
 </details><br>       
         
         

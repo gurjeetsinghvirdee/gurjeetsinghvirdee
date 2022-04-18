@@ -88,14 +88,15 @@ Python       5 mins          ▒░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[04/18 05:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#118`](https://github.com//Rayman-Sodhi/Clone-IT/issues/118 'UI Enhancement of Flipkart-clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/17 21:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/17 21:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#330`](https://github.com//Rayman-Sodhi/Clone-IT/pull/330 'Added tinder clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/17 21:15]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#256`](https://github.com//Rayman-Sodhi/Clone-IT/issues/256 '[Adding]: Building a Tinder Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/17 21:14]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#330`](https://github.com//Rayman-Sodhi/Clone-IT/pull/330 'Added tinder clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[04/17 15:30]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub) to [gurjeetsinghvirdee/CalcHub](https://github.com/gurjeetsinghvirdee/CalcHub)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[04/17 15:30]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub) to [gurjeetsinghvirdee/CalcHub](https://github.com/gurjeetsinghvirdee/CalcHub)  
 `[04/17 15:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#257`](https://github.com//vasu-1/CalcHub/issues/257 'Add Graphing Calculator') in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)  
 `[04/17 15:25]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#257`](https://github.com//vasu-1/CalcHub/issues/257 'Add Graphing Calculator') in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)  
 `[04/17 14:51]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#21`](https://github.com//vasu-1/CalcHub/issues/21 'Graphing calculator ') in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)  
@@ -275,7 +276,6 @@ Python       5 mins          ▒░░░░░░░░░░░░░░░░
 `[04/14 00:07]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#794`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/794 'Dark-Light mode toggle') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[04/14 00:07]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#742`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/742 'Dark-Light mode') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[04/14 00:05]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#794`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/794 'Dark-Light mode toggle') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[04/13 23:14]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#630`](https://github.com//Ayush7614/Bundli-Frontend/issues/630 'I want to add a Double tap to like image project') in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  
 
 </details>
 <!--END_SECTION:activity-->

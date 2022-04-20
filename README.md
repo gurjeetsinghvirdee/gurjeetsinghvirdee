@@ -88,14 +88,15 @@ Bash         1 min           ░░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[04/20 17:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#382`](https://github.com//Rayman-Sodhi/Clone-IT/issues/382 'Amazon Prime Home Page Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/20 16:35]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#283`](https://github.com//Rayman-Sodhi/Clone-IT/issues/283 'Uber UI Clone ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/20 16:35]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#247`](https://github.com//Rayman-Sodhi/Clone-IT/issues/247 'Dino Game Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/20 16:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#379`](https://github.com//Rayman-Sodhi/Clone-IT/issues/379 'Hindustan Petroleum Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/20 16:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#382`](https://github.com//Rayman-Sodhi/Clone-IT/issues/382 'Amazon Prime Home Page Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[04/20 16:27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#384`](https://github.com//Rayman-Sodhi/Clone-IT/issues/384 'Food Panda Website Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[04/20 16:27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#384`](https://github.com//Rayman-Sodhi/Clone-IT/issues/384 'Food Panda Website Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/20 16:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#375`](https://github.com//Rayman-Sodhi/Clone-IT/issues/375 'Ola Website Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/20 16:26]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#375`](https://github.com//Rayman-Sodhi/Clone-IT/issues/375 'Ola Website Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/20 16:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#378`](https://github.com//Rayman-Sodhi/Clone-IT/issues/378 'Add all clones alphabetically in readme') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
@@ -284,7 +285,6 @@ Bash         1 min           ░░░░░░░░░░░░░░░░░
 `[04/17 05:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#359`](https://github.com//Rayman-Sodhi/Clone-IT/issues/359 'Adding clone of pinterest website ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/17 05:06]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#364`](https://github.com//Rayman-Sodhi/Clone-IT/issues/364 'Reduce size of project by using images on cloud rather than in assets folder') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[04/17 05:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#350`](https://github.com//Rayman-Sodhi/Clone-IT/issues/350 'Links not working') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[04/16 22:07]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#354`](https://github.com//Rayman-Sodhi/Clone-IT/pull/354 'Adding swiggy clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

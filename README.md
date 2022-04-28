@@ -291,7 +291,6 @@ EJS          1 min           ░░░░░░░░░░░░░░░░░
 `[04/24 06:33]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#957`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/957 'Pepsi Landing Page') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[04/24 06:33]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#853`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/853 'Pepsi Landing Page') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[04/24 06:33]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#957`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/957 'Pepsi Landing Page') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[04/24 05:15]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#234`](https://github.com//arpit456jain/CodingEasy/issues/234 'A separate page for listing our templates and downloading them') in [arpit456jain/CodingEasy](https://github.com/arpit456jain/CodingEasy)  
 
 </details>
 <!--END_SECTION:activity-->

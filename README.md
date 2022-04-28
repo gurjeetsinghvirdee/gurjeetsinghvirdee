@@ -290,7 +290,6 @@ EJS          1 min           ░░░░░░░░░░░░░░░░░
 `[04/24 07:27]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#929`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/929 'Tiktok Clone ') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[04/24 07:27]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#958`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/958 'Tiktok') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[04/24 07:27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#958`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/958 'Tiktok') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[04/24 06:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#387`](https://github.com//Rayman-Sodhi/Clone-IT/issues/387 'Added new images for modals') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -305,7 +305,6 @@ Git Config   4 mins          ▒░░░░░░░░░░░░░░░░
 `[04/26 14:25]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#998`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/998 'Zoom clone ') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[04/26 14:24]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`zoom_clone`](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart/tree/zoom_clone) in [gurjeetsinghvirdee/WebDev-ProjectKart](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart)  
 `[04/26 14:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/WebDev-ProjectKart](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart)  
-`[04/26 13:27]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#994`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/994 'Added Photopea_Clone files') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 
 </details>
 <!--END_SECTION:activity-->

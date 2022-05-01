@@ -88,14 +88,18 @@ Git Config   4 mins          ▒░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[05/01 16:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/GSGrihSangini](https://github.com/gurjeetsinghvirdee/GSGrihSangini)  
+`[05/01 16:23]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//gurjeetsinghvirdee/GSGrihSangini/pull/1 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/GSGrihSangini](https://github.com/gurjeetsinghvirdee/GSGrihSangini)  
+`[05/01 16:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/GSGrihSangini](https://github.com/gurjeetsinghvirdee/GSGrihSangini)  
+`[05/01 16:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1117`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1117 'adding github profile') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/01 13:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[05/01 13:10]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#425`](https://github.com//Rayman-Sodhi/Clone-IT/pull/425 'Added Google Maps Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/01 13:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#423`](https://github.com//Rayman-Sodhi/Clone-IT/issues/423 'Google Maps Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/01 13:09]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#425`](https://github.com//Rayman-Sodhi/Clone-IT/pull/425 'Added Google Maps Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/01 06:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1099`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/1099 'Palindrome checker') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[05/01 06:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/01 06:26]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1099`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/1099 'Palindrome checker') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/01 01:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
@@ -309,10 +313,6 @@ Git Config   4 mins          ▒░░░░░░░░░░░░░░░░
 `[04/28 20:40]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1050`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/1050 'type writer added') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[04/28 20:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
 `[04/28 20:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`patch-behance`](https://github.com/gurjeetsinghvirdee/Clone-IT/tree/patch-behance) in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
-`[04/28 19:56]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1050`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1050 'type writer added') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[04/28 19:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `257` commits in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
-`[04/28 19:40]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [jatin0814/BehanceWebPage](https://github.com/jatin0814/BehanceWebPage) to [gurjeetsinghvirdee/BehanceWebPage](https://github.com/gurjeetsinghvirdee/BehanceWebPage)  
-`[04/28 19:09]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#51`](https://github.com//KaizenGirl1111/GSGrihSangini/pull/51 'Project Hosted in Vercel') in [KaizenGirl1111/GSGrihSangini](https://github.com/KaizenGirl1111/GSGrihSangini)  
 
 </details>
 <!--END_SECTION:activity-->

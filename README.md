@@ -313,7 +313,6 @@ Git Config   4 mins          ▒░░░░░░░░░░░░░░░░
 `[04/28 19:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `257` commits in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
 `[04/28 19:40]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [jatin0814/BehanceWebPage](https://github.com/jatin0814/BehanceWebPage) to [gurjeetsinghvirdee/BehanceWebPage](https://github.com/gurjeetsinghvirdee/BehanceWebPage)  
 `[04/28 19:09]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#51`](https://github.com//KaizenGirl1111/GSGrihSangini/pull/51 'Project Hosted in Vercel') in [KaizenGirl1111/GSGrihSangini](https://github.com/KaizenGirl1111/GSGrihSangini)  
-`[04/28 19:06]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#51`](https://github.com//KaizenGirl1111/GSGrihSangini/pull/51 'Project Hosted in Vercel') in [KaizenGirl1111/GSGrihSangini](https://github.com/KaizenGirl1111/GSGrihSangini)  
 
 </details>
 <!--END_SECTION:activity-->

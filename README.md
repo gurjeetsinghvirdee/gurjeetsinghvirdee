@@ -88,14 +88,18 @@ Git Config   4 mins          ▒░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[05/01 13:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[05/01 13:10]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#425`](https://github.com//Rayman-Sodhi/Clone-IT/pull/425 'Added Google Maps Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[05/01 13:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#423`](https://github.com//Rayman-Sodhi/Clone-IT/issues/423 'Google Maps Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[05/01 13:09]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#425`](https://github.com//Rayman-Sodhi/Clone-IT/pull/425 'Added Google Maps Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/01 06:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1099`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/1099 'Palindrome checker') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[05/01 06:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/01 06:26]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1099`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/1099 'Palindrome checker') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/01 01:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/01 01:22]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1090`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/1090 'Height Converter') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[05/01 01:22]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1069`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1069 'Height Converter') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/01 01:22]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1090`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/1090 'Height Converter') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/01 00:37]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1084`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1084 'Music App') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
@@ -310,9 +314,6 @@ Git Config   4 mins          ▒░░░░░░░░░░░░░░░░
 `[04/28 19:40]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [jatin0814/BehanceWebPage](https://github.com/jatin0814/BehanceWebPage) to [gurjeetsinghvirdee/BehanceWebPage](https://github.com/gurjeetsinghvirdee/BehanceWebPage)  
 `[04/28 19:09]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#51`](https://github.com//KaizenGirl1111/GSGrihSangini/pull/51 'Project Hosted in Vercel') in [KaizenGirl1111/GSGrihSangini](https://github.com/KaizenGirl1111/GSGrihSangini)  
 `[04/28 19:06]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#51`](https://github.com//KaizenGirl1111/GSGrihSangini/pull/51 'Project Hosted in Vercel') in [KaizenGirl1111/GSGrihSangini](https://github.com/KaizenGirl1111/GSGrihSangini)  
-`[04/28 19:02]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`patch-deployed`](https://github.com/gurjeetsinghvirdee/GSGrihSangini/tree/patch-deployed) in [gurjeetsinghvirdee/GSGrihSangini](https://github.com/gurjeetsinghvirdee/GSGrihSangini)  
-`[04/28 18:52]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [KaizenGirl1111/GSGrihSangini](https://github.com/KaizenGirl1111/GSGrihSangini) to [gurjeetsinghvirdee/GSGrihSangini](https://github.com/gurjeetsinghvirdee/GSGrihSangini)  
-`[04/28 15:38]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#678`](https://github.com//Ayush7614/Bundli-Frontend/issues/678 'Space Tourism Application') in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  
 
 </details>
 <!--END_SECTION:activity-->

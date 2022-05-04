@@ -88,14 +88,15 @@ Other        6 mins          ▒░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[05/04 15:17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1200`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1200 'Added restuarant website') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/04 15:16]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `revert-779-theme` from [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/04 15:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/04 15:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1203`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/1203 'Revert "Added Theme Builder"') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/04 15:15]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1203`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/1203 'Revert "Added Theme Builder"') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[05/04 15:15]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`revert-779-theme`](https://github.com/khushi-purwar/WebDev-ProjectKart/tree/revert-779-theme) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[05/04 15:15]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`revert-779-theme`](https://github.com/khushi-purwar/WebDev-ProjectKart/tree/revert-779-theme) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/04 15:14]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1200`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1200 'Added restuarant website') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/04 15:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#434`](https://github.com//Rayman-Sodhi/Clone-IT/issues/434 'Weather') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/04 15:10]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#434`](https://github.com//Rayman-Sodhi/Clone-IT/pull/434 'Weather') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
@@ -293,7 +294,6 @@ Other        6 mins          ▒░░░░░░░░░░░░░░░░
 `[05/03 05:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1145`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1145 'Flip Card Game') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/03 04:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/03 04:38]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1126`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/1126 'Syntra Digital Agency UI added') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[05/03 04:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1104`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1104 'Syntra Digital Agency UI') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 
 </details>
 <!--END_SECTION:activity-->

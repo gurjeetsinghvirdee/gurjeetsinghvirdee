@@ -88,14 +88,15 @@ Git Config   1 min           ░░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[05/11 13:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#252`](https://github.com//harshita214/Chrome-Extension/issues/252 'Holiday Extension added') in [harshita214/Chrome-Extension](https://github.com/harshita214/Chrome-Extension)  
 `[05/11 09:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#475`](https://github.com//Rayman-Sodhi/Clone-IT/issues/475 'Geeks For Geeks Clone ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/11 09:23]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1632`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1632 'Books Recommendation Webpage') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/11 08:04]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `space` from [gurjeetsinghvirdee/Runn](https://github.com/gurjeetsinghvirdee/Runn)  
 `[05/11 08:04]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#124`](https://github.com//TusharAMD/Runn/pull/124 'Space Station Defence Game') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
-`[05/11 08:04]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dino` from [gurjeetsinghvirdee/Runn](https://github.com/gurjeetsinghvirdee/Runn)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[05/11 08:04]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dino` from [gurjeetsinghvirdee/Runn](https://github.com/gurjeetsinghvirdee/Runn)  
 `[05/11 08:04]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#123`](https://github.com//TusharAMD/Runn/pull/123 'Added Dino') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/11 08:04]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `pong` from [gurjeetsinghvirdee/Runn](https://github.com/gurjeetsinghvirdee/Runn)  
 `[05/11 08:04]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#122`](https://github.com//TusharAMD/Runn/pull/122 'Added Pong') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  

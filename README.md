@@ -88,14 +88,18 @@ CSS          2 mins          ▒░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[05/12 07:36]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1650`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/1650 'Revert "Lorem Landing Page"') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
+`[05/12 07:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
+`[05/12 07:36]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1650`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/1650 'Revert "Lorem Landing Page"') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
+`[05/12 07:36]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`revert-1590-lorem`](https://github.com/khushi-purwar/WebDev-ProjectKart/tree/revert-1590-lorem) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/12 06:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#717`](https://github.com//Ayush7614/Bundli-Frontend/issues/717 'Vertical Image sliders') in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[05/12 06:20]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#125`](https://github.com//TusharAMD/Runn/issues/125 'Rock Paper Scissors') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/12 06:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#116`](https://github.com//TusharAMD/Runn/issues/116 'Dino game') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/12 06:16]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#117`](https://github.com//TusharAMD/Runn/issues/117 'Pong game') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/12 06:16]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#119`](https://github.com//TusharAMD/Runn/issues/119 'Space Station Defense game ') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[05/12 06:14]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#719`](https://github.com//Ayush7614/Bundli-Frontend/issues/719 'Auto assign?') in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  
 `[05/12 06:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#719`](https://github.com//Ayush7614/Bundli-Frontend/issues/719 'Auto assign?') in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  
 `[05/12 06:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#719`](https://github.com//Ayush7614/Bundli-Frontend/issues/719 'Auto assign?') in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  
@@ -296,9 +300,6 @@ CSS          2 mins          ▒░░░░░░░░░░░░░░░░
 `[05/09 19:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/09 19:21]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1472`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1472 'URL Shortener Service') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/09 19:21]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1556`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/1556 'Added URL-SHORTENER') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[05/09 19:21]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1556`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/1556 'Added URL-SHORTENER') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[05/09 19:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[05/09 19:14]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1555`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/1555 'Added TimelineJS') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 
 </details>
 <!--END_SECTION:activity-->

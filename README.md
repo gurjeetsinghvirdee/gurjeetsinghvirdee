@@ -88,14 +88,19 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[05/13 16:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#171`](https://github.com//TusharAMD/Runn/issues/171 'Car racing game ') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
+`[05/13 16:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#172`](https://github.com//TusharAMD/Runn/issues/172 'Mario game') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
+`[05/13 16:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `69` commits in [gurjeetsinghvirdee/Runn](https://github.com/gurjeetsinghvirdee/Runn)  
+`[05/13 16:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#123`](https://github.com//TusharAMD/Runn/issues/123 'Added Dino') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
+`[05/13 16:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#116`](https://github.com//TusharAMD/Runn/issues/116 'Dino game') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[05/13 16:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#172`](https://github.com//TusharAMD/Runn/issues/172 'Mario game') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/13 16:24]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#171`](https://github.com//TusharAMD/Runn/issues/171 'Car racing game ') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/13 16:20]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#60`](https://github.com//KaizenGirl1111/GSGrihSangini/issues/60 'UI improvement of login/signup page') in [KaizenGirl1111/GSGrihSangini](https://github.com/KaizenGirl1111/GSGrihSangini)  
 `[05/13 16:16]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#231`](https://github.com//Hackathon7/Pacify-final/issues/231 'Add Google Auth ') in [Hackathon7/Pacify-final](https://github.com/Hackathon7/Pacify-final)  
 `[05/13 16:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#124`](https://github.com//TusharAMD/Runn/issues/124 'Space Station Defence Game') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[05/13 16:13]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Reopened PR [`#124`](https://github.com//TusharAMD/Runn/pull/124 'Space Station Defence Game') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/13 16:12]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Reopened issue [`#119`](https://github.com//TusharAMD/Runn/issues/119 'Space Station Defense game ') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/13 16:12]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`space`](https://github.com/gurjeetsinghvirdee/Runn/tree/space) in [gurjeetsinghvirdee/Runn](https://github.com/gurjeetsinghvirdee/Runn)  
@@ -311,10 +316,6 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 `[05/10 06:00]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1580`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/1580 'Admin Panel') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/10 05:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`admin`](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart/tree/admin) in [gurjeetsinghvirdee/WebDev-ProjectKart](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart)  
 `[05/10 05:41]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1577`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1577 'Admin Panel') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[05/10 05:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `28` commits in [gurjeetsinghvirdee/WebDev-ProjectKart](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart)  
-`[05/10 04:51]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#470`](https://github.com//Rayman-Sodhi/Clone-IT/pull/470 'Added HP Laptop Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[05/10 04:50]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#464`](https://github.com//Rayman-Sodhi/Clone-IT/pull/464 'Excel Clone recommit') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[05/10 04:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 
 </details>
 <!--END_SECTION:activity-->

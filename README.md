@@ -88,14 +88,16 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[05/14 08:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jasineri/gitartwork](https://github.com/jasineri/gitartwork)  
+`[05/14 08:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[05/13 17:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1000` commits in [gurjeetsinghvirdee/GitHubGraduation-2022](https://github.com/gurjeetsinghvirdee/GitHubGraduation-2022)  
 `[05/13 16:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#171`](https://github.com//TusharAMD/Runn/issues/171 'Car racing game ') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/13 16:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#172`](https://github.com//TusharAMD/Runn/issues/172 'Mario game') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
-`[05/13 16:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `69` commits in [gurjeetsinghvirdee/Runn](https://github.com/gurjeetsinghvirdee/Runn)  
-`[05/13 16:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#123`](https://github.com//TusharAMD/Runn/issues/123 'Added Dino') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[05/13 16:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `69` commits in [gurjeetsinghvirdee/Runn](https://github.com/gurjeetsinghvirdee/Runn)  
+`[05/13 16:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#123`](https://github.com//TusharAMD/Runn/issues/123 'Added Dino') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/13 16:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#116`](https://github.com//TusharAMD/Runn/issues/116 'Dino game') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/13 16:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#172`](https://github.com//TusharAMD/Runn/issues/172 'Mario game') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/13 16:24]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#171`](https://github.com//TusharAMD/Runn/issues/171 'Car racing game ') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
@@ -312,10 +314,6 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 `[05/10 07:09]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1576`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/1576 'Action Dragon Game') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/10 07:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1554`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1554 'Action Game using HTML,CSS  and javascript') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/10 07:09]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1576`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/1576 'Action Dragon Game') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[05/10 06:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1580`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1580 'Admin Panel') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[05/10 06:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/WebDev-ProjectKart](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart)  
-`[05/10 06:00]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1580`](https://github.com//khushi-purwar/WebDev-ProjectKart/pull/1580 'Admin Panel') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[05/10 05:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`admin`](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart/tree/admin) in [gurjeetsinghvirdee/WebDev-ProjectKart](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart)  
 
 </details>
 <!--END_SECTION:activity-->

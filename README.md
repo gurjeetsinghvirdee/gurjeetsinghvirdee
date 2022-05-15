@@ -373,7 +373,7 @@ Other        0 secs          ▒░░░░░░░░░░░░░░░░
 
 <p align="center">
   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&theme=synthwave-84" />
-  <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/src/Assets/github-user-contribution.svg" /> 
+  <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-user-contribution.svg" /> 
 </p> 
         
 ## 🎵 Current Song Playing

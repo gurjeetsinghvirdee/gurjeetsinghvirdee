@@ -362,7 +362,7 @@ Other        0 secs          ▒░░░░░░░░░░░░░░░░
        
 <details>
 <summary> <b> 🏆 GitHhub Achievements </b></summary>
-<img src="https://user-images.githubusercontent.com/73753957/163707683-caced21f-9877-40db-a172-d962cd02dd84.svg" />
+<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-metrics.svg" />
 </details><br>       
         
         

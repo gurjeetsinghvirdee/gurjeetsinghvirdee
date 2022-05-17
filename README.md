@@ -299,7 +299,6 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 `[05/10 17:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Runn](https://github.com/gurjeetsinghvirdee/Runn)  
 `[05/10 17:30]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#121`](https://github.com//TusharAMD/Runn/pull/121 'Pong game') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/10 17:27]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`game-2`](https://github.com/gurjeetsinghvirdee/Runn/tree/game-2) in [gurjeetsinghvirdee/Runn](https://github.com/gurjeetsinghvirdee/Runn)  
-`[05/10 17:19]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#120`](https://github.com//TusharAMD/Runn/pull/120 'Dino Game') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 
 </details>
 <!--END_SECTION:activity-->

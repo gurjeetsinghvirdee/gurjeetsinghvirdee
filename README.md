@@ -83,14 +83,15 @@ No activity tracked
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[05/19 11:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `153` commits in [gurjeetsinghvirdee/WebDev-ProjectKart](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart)  
 `[05/19 11:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#122`](https://github.com//TusharAMD/Runn/issues/122 'Added Pong') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/19 11:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#220`](https://github.com//TusharAMD/Runn/issues/220 'Game added GhostBusters') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/19 11:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#155`](https://github.com//TusharAMD/Runn/issues/155 'Game added AeroBlasters') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/19 11:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#137`](https://github.com//TusharAMD/Runn/issues/137 'Memory Puzzle Game added') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
-`[05/19 11:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#136`](https://github.com//TusharAMD/Runn/issues/136 'Mine Sweeper Game added') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[05/19 11:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#136`](https://github.com//TusharAMD/Runn/issues/136 'Mine Sweeper Game added') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/19 11:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#112`](https://github.com//TusharAMD/Runn/issues/112 'Gesture Control added for Bounce') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/19 11:06]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#111`](https://github.com//TusharAMD/Runn/issues/111 'Gesture Control added') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/19 11:06]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#105`](https://github.com//TusharAMD/Runn/issues/105 'Bounce Game added') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
@@ -308,7 +309,6 @@ No activity tracked
 `[05/11 08:04]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#123`](https://github.com//TusharAMD/Runn/pull/123 'Added Dino') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/11 08:04]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `pong` from [gurjeetsinghvirdee/Runn](https://github.com/gurjeetsinghvirdee/Runn)  
 `[05/11 08:04]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#122`](https://github.com//TusharAMD/Runn/pull/122 'Added Pong') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
-`[05/11 06:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

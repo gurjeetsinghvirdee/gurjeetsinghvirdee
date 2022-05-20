@@ -84,14 +84,18 @@ JavaScript   12 mins         ███████████▒░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[05/20 13:32]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1587`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1587 'Wordtype') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
+`[05/20 13:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1508`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1508 'Whiteboard') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
+`[05/20 13:26]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1356`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1356 'Add to cart') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
+`[05/20 13:23]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1660`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1660 'Degree align The House  (added Readme)') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/19 15:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/leetcode-solution-in-js](https://github.com/gurjeetsinghvirdee/leetcode-solution-in-js)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[05/19 11:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `153` commits in [gurjeetsinghvirdee/WebDev-ProjectKart](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart)  
 `[05/19 11:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#122`](https://github.com//TusharAMD/Runn/issues/122 'Added Pong') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/19 11:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#220`](https://github.com//TusharAMD/Runn/issues/220 'Game added GhostBusters') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/19 11:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#155`](https://github.com//TusharAMD/Runn/issues/155 'Game added AeroBlasters') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[05/19 11:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#137`](https://github.com//TusharAMD/Runn/issues/137 'Memory Puzzle Game added') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/19 11:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#136`](https://github.com//TusharAMD/Runn/issues/136 'Mine Sweeper Game added') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/19 11:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#112`](https://github.com//TusharAMD/Runn/issues/112 'Gesture Control added for Bounce') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  

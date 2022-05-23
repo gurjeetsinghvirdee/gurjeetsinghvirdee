@@ -84,14 +84,15 @@ JavaScript   12 mins         ███████████▒░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[05/23 15:45]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#775`](https://github.com//Ayush7614/Bundli-Frontend/issues/775 'CS Quiz App in React & Typescript') in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  
 `[05/23 15:33]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#342`](https://github.com//Rayman-Sodhi/Clone-IT/issues/342 'Tumblr clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/23 15:32]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#516`](https://github.com//Rayman-Sodhi/Clone-IT/issues/516 '[New Issue]:  Disney+ Clone (REACT)') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/23 15:13]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#526`](https://github.com//Rayman-Sodhi/Clone-IT/issues/526 'Nike SNKRS Clone ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/23 15:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[05/23 15:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#553`](https://github.com//Rayman-Sodhi/Clone-IT/issues/553 'AMAZON-CLONE') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[05/23 15:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#553`](https://github.com//Rayman-Sodhi/Clone-IT/issues/553 'AMAZON-CLONE') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/23 15:06]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#551`](https://github.com//Rayman-Sodhi/Clone-IT/issues/551 '[New Issue]: Twitter Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/23 15:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/23 15:06]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#556`](https://github.com//Rayman-Sodhi/Clone-IT/pull/556 'Twitter-UI-clone added') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
@@ -309,7 +310,6 @@ JavaScript   12 mins         ███████████▒░░░░░
 `[05/13 01:54]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`revert-697-main`](https://github.com/Ayush7614/Bundli-Frontend/tree/revert-697-main) in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  
 `[05/13 01:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#697`](https://github.com//Ayush7614/Bundli-Frontend/issues/697 'CSS Finger scanning effect') in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  
 `[05/13 01:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#714`](https://github.com//Ayush7614/Bundli-Frontend/issues/714 'NVIDIA Clone') in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  
-`[05/13 01:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  
 
 </details>
 <!--END_SECTION:activity-->

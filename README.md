@@ -88,14 +88,18 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[05/27 18:54]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#606`](https://github.com//Rayman-Sodhi/Clone-IT/issues/606 'Honda  Homepage Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[05/27 18:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[05/27 18:54]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#608`](https://github.com//Rayman-Sodhi/Clone-IT/pull/608 'Added Responsive Honda Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[05/27 18:53]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#608`](https://github.com//Rayman-Sodhi/Clone-IT/pull/608 'Added Responsive Honda Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/27 16:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[05/27 16:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#175`](https://github.com//TusharAMD/Runn/issues/175 'Added Egg Catcher Game') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/27 16:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  
 `[05/27 16:25]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#867`](https://github.com//Ayush7614/Bundli-Frontend/pull/867 'Gssoc logo added') in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  
 `[05/27 16:24]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#867`](https://github.com//Ayush7614/Bundli-Frontend/pull/867 'Gssoc logo added') in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[05/27 16:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `262` commits in [gurjeetsinghvirdee/Bundli-Frontend](https://github.com/gurjeetsinghvirdee/Bundli-Frontend)  
 `[05/27 16:20]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#599`](https://github.com//Rayman-Sodhi/Clone-IT/pull/599 'Added Loruki clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/27 16:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
@@ -323,11 +327,6 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 `[05/20 13:23]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1660`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1660 'Degree align The House  (added Readme)') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/19 15:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/leetcode-solution-in-js](https://github.com/gurjeetsinghvirdee/leetcode-solution-in-js)  
 `[05/19 11:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `153` commits in [gurjeetsinghvirdee/WebDev-ProjectKart](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart)  
-`[05/19 11:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#122`](https://github.com//TusharAMD/Runn/issues/122 'Added Pong') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
-`[05/19 11:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#220`](https://github.com//TusharAMD/Runn/issues/220 'Game added GhostBusters') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
-`[05/19 11:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#155`](https://github.com//TusharAMD/Runn/issues/155 'Game added AeroBlasters') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
-`[05/19 11:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#137`](https://github.com//TusharAMD/Runn/issues/137 'Memory Puzzle Game added') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
-`[05/19 11:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#136`](https://github.com//TusharAMD/Runn/issues/136 'Mine Sweeper Game added') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 
 </details>
 <!--END_SECTION:activity-->

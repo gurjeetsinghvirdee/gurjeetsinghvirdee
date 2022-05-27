@@ -88,14 +88,18 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[05/27 15:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`hang`](https://github.com/gurjeetsinghvirdee/Runn/tree/hang) in [gurjeetsinghvirdee/Runn](https://github.com/gurjeetsinghvirdee/Runn)  
+`[05/27 14:59]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#490`](https://github.com//TusharAMD/Runn/issues/490 'Added Golf game') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
+`[05/27 14:58]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#490`](https://github.com//TusharAMD/Runn/pull/490 'Added Golf game') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
+`[05/27 14:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`golf`](https://github.com/gurjeetsinghvirdee/Runn/tree/golf) in [gurjeetsinghvirdee/Runn](https://github.com/gurjeetsinghvirdee/Runn)  
 `[05/27 14:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in [gurjeetsinghvirdee/Runn](https://github.com/gurjeetsinghvirdee/Runn)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[05/27 13:14]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#467`](https://github.com//Rayman-Sodhi/Clone-IT/issues/467 'PayPal Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/27 12:22]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1722`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1722 'Fully Responsive Tracker-Expense Calculator (HTML, CSS, JavaScript)') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/27 12:22]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1722`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1722 'Fully Responsive Tracker-Expense Calculator (HTML, CSS, JavaScript)') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/27 10:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#598`](https://github.com//Rayman-Sodhi/Clone-IT/issues/598 'Added Patatap clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[05/27 10:08]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#598`](https://github.com//Rayman-Sodhi/Clone-IT/pull/598 'Added Patatap clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/27 09:01]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#474`](https://github.com//TusharAMD/Runn/issues/474 'game launcher') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/27 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#473`](https://github.com//TusharAMD/Runn/issues/473 'Formula F1 Video game') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
@@ -330,9 +334,6 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 `[05/19 09:20]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#523`](https://github.com//Rayman-Sodhi/Clone-IT/pull/523 'tiktok') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/19 09:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/19 09:20]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#521`](https://github.com//Rayman-Sodhi/Clone-IT/pull/521 'Google Classroom Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[05/19 09:20]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#345`](https://github.com//Rayman-Sodhi/Clone-IT/issues/345 'Google Classroom Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[05/19 09:19]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#521`](https://github.com//Rayman-Sodhi/Clone-IT/pull/521 'Google Classroom Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[05/19 09:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

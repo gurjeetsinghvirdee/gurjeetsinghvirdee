@@ -88,14 +88,16 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[05/30 17:14]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#728`](https://github.com//surajm-333/Ace-The-FrontEnd/issues/728 'Drag and Drop') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
+`[05/30 17:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#728`](https://github.com//surajm-333/Ace-The-FrontEnd/issues/728 'Drag and Drop') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
 `[05/30 15:06]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#725`](https://github.com//surajm-333/Ace-The-FrontEnd/pull/725 'Netflix Navigation') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
 `[05/30 15:06]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#725`](https://github.com//surajm-333/Ace-The-FrontEnd/pull/725 'Netflix Navigation') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
 `[05/30 15:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#712`](https://github.com//surajm-333/Ace-The-FrontEnd/issues/712 '[New Issue]: Animated heartbeat effect') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
-`[05/30 15:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
-`[05/30 15:02]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#722`](https://github.com//surajm-333/Ace-The-FrontEnd/pull/722 'Added Animated Heartbeat') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[05/30 15:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
+`[05/30 15:02]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#722`](https://github.com//surajm-333/Ace-The-FrontEnd/pull/722 'Added Animated Heartbeat') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
 `[05/30 15:02]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#722`](https://github.com//surajm-333/Ace-The-FrontEnd/pull/722 'Added Animated Heartbeat') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
 `[05/30 14:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
 `[05/30 14:51]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#721`](https://github.com//surajm-333/Ace-The-FrontEnd/pull/721 'Added Age Calculator') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
@@ -322,7 +324,6 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 `[05/26 15:42]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#586`](https://github.com//Rayman-Sodhi/Clone-IT/issues/586 'Sololearn Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/26 15:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/26 15:42]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#589`](https://github.com//Rayman-Sodhi/Clone-IT/pull/589 'Sololearn Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[05/26 15:42]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#589`](https://github.com//Rayman-Sodhi/Clone-IT/pull/589 'Sololearn Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

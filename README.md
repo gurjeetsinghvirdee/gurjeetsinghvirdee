@@ -313,7 +313,6 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 `[05/27 16:25]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#867`](https://github.com//Ayush7614/Bundli-Frontend/pull/867 'Gssoc logo added') in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  
 `[05/27 16:24]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#867`](https://github.com//Ayush7614/Bundli-Frontend/pull/867 'Gssoc logo added') in [Ayush7614/Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend)  
 `[05/27 16:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `262` commits in [gurjeetsinghvirdee/Bundli-Frontend](https://github.com/gurjeetsinghvirdee/Bundli-Frontend)  
-`[05/27 16:20]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#599`](https://github.com//Rayman-Sodhi/Clone-IT/pull/599 'Added Loruki clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

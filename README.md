@@ -88,14 +88,15 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[05/31 06:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#719`](https://github.com//surajm-333/Ace-The-FrontEnd/issues/719 'Palindrome Checker') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
 `[05/31 05:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
 `[05/31 05:17]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#708`](https://github.com//surajm-333/Ace-The-FrontEnd/pull/708 'Portfolio') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
 `[05/31 05:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#674`](https://github.com//surajm-333/Ace-The-FrontEnd/issues/674 'Portfolio Website') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
 `[05/31 05:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
-`[05/31 05:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#740`](https://github.com//surajm-333/Ace-The-FrontEnd/pull/740 '3D rotating cube') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[05/31 05:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#740`](https://github.com//surajm-333/Ace-The-FrontEnd/pull/740 '3D rotating cube') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
 `[05/31 05:15]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#740`](https://github.com//surajm-333/Ace-The-FrontEnd/pull/740 '3D rotating cube') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
 `[05/30 18:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#745`](https://github.com//surajm-333/Ace-The-FrontEnd/issues/745 'Code cleaning and arranging the repositories in alphabetical order') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
 `[05/30 18:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#745`](https://github.com//surajm-333/Ace-The-FrontEnd/issues/745 'Code cleaning and arranging the repositories in alphabetical order') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
@@ -321,7 +322,6 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 `[05/26 17:32]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#594`](https://github.com//Rayman-Sodhi/Clone-IT/pull/594 'added Coursera Responsive  Code') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/26 17:32]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#593`](https://github.com//Rayman-Sodhi/Clone-IT/issues/593 'Coursera Website Clone ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/26 17:31]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#594`](https://github.com//Rayman-Sodhi/Clone-IT/pull/594 'added Coursera Responsive  Code') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[05/26 15:59]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#581`](https://github.com//Rayman-Sodhi/Clone-IT/pull/581 'Added Docker Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -309,7 +309,6 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 `[05/27 20:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#498`](https://github.com//TusharAMD/Runn/issues/498 'Whac a mole') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/27 20:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#497`](https://github.com//TusharAMD/Runn/issues/497 'Memory Game ') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[05/27 20:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#496`](https://github.com//TusharAMD/Runn/issues/496 'Frogger') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
-`[05/27 20:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#495`](https://github.com//TusharAMD/Runn/issues/495 'Breakout Game') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 
 </details>
 <!--END_SECTION:activity-->

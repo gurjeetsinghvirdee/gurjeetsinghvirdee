@@ -115,6 +115,10 @@ JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░
   <img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" alt="trophies">  
 </details>         
 
+##
+
+## 📈 Github Contribution Graph
+
 <p align="center">
   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&theme=synthwave-84" />
   <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/src/Assets/github-user-contribution.svg"> 

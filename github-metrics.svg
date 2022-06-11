@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1494" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1853" class="">
     <defs>
         <style/>
     </defs>
@@ -2179,7 +2179,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 10 Jun 2022, 20:04:33
+                            On 9 Jun 2022, 23:26:00
                         </div>
                     </section>
                 </div>
@@ -2189,29 +2189,29 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Delete Car Racing Game directory
+                            Delete Google-Search-Engine-Clone directory
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">e690719c</span>
-                            <span class="code">Car Racing Game/readme.md</span>
-                            <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--5</span></span>
+                            <span class="code">cfebcbf8</span>
+                            <span class="code">Google-Search-Engine-Clone/.eslintcache</span>
+                            <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,5 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"># CAR RACING GAME<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line">## OUTPUT<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line">[![VIDEO](https://user-images.githubusercontent.com/82095877/167179292-47536863-b210-41e7-8761-822e2f390667.png)](https://user-images.githubusercontent.com/82095877/167179305-f9ce7fbe-53ae-44a9-93cf-8b85c8a6334c.mp4)</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">[{"E:\\GSSo'C 22\\WebDev-ProjectKart\\Google-Search-Engine-Clone\\src\\index.js":"1","E:\\GSSo'C 22\\WebDev-ProjectKart\\Google-Search-Engine-Clone\\src\\StateProvider.js":"2","E:\\GSSo'C 22\\WebDev-ProjectKart\\Google-Search-Engine-Clone\\src\\reducer.js":"3","E:\\GSSo'C 22\\WebDev-ProjectKart\\Google-Search-Engine-Clone\\src\\SearchPage.js":"4","E:\\GSSo'C 22\\WebDev-ProjectKart\\Google-Search-Engine-Clone\\src\\Home.js":"5","E:\\GSSo'C 22\\WebDev-ProjectKart\\Google-Search-Engine-Clone\\src\\response.js":"6","E:\\GSSo'C 22\\WebDev-ProjectKart\\Google-Search-Engine-Clone\\src\\useGoogleSearch.js":"7","E:\\GSSo'C 22\\WebDev-ProjectKart\\Google-Search-Engine-Clone\\src\\config.js":"8"},{"size":692,"mtime":1648494782822,"results":"9","hashOfConfig":"10"},{"size":462,"mtime":1648494782778,"results":"11","hashOfConfig":"10"},{"size":441,"mtime":1648494782842,"results":"12","hashOfConfig":"10"},{"size":4905,"mtime":1648494782758,"results":"13","hashOfConfig":"10"},{"size":1420,"mtime":1648494782675,"results":"14","hashOfConfig":"10"},{"size":18360,"mtime":1648494782882,"results":"15","hashOfConfig":"10"},{"size":626,"mtime":1649015325916,"results":"16","hashOfConfig":"10"},{"size":92,"mtime":1649015319296,"results":"17","hashOfConfig":"10"},{"filePath":"18","messages":"19","errorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0},"1d2v9cw",{"filePath":"20","messages":"21","errorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0},{"filePath":"22","messages":"23","errorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0},{"filePath":"24","messages":"25","errorCount":0,"warningCount":2,"fixableErrorCount":0,"fixableWarningCount":0,"source":null},{"filePath":"26","messages":"27","errorCount":0,"warningCount":1,"fixableErrorCount":0,"fixableWarningCount":0,"source":null},{"filePath":"28","messages":"29","errorCount":0,"warningCount":1,"fixableErrorCount":0,"fixableWarningCount":0,"source":null},{"filePath":"30","messages":"31","errorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0},{"filePath":"32","messages":"33","errorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0},"E:\\GSSo'C 22\\WebDev-ProjectKart\\Google-Search-Engine-Clone\\src\\index.js",[],"E:\\GSSo'C 22\\WebDev-ProjectKart\\Google-Search-Engine-Clone\\src\\StateProvider.js",[],"E:\\GSSo'C 22\\WebDev-ProjectKart\\Google-Search-Engine-Clone\\src\\reducer.js",[],"E:\\GSSo'C 22\\WebDev-ProjectKart\\Google-Search-Engine-Clone\\src\\SearchPage.js",["34","35"],"E:\\GSSo'C 22\\WebDev-ProjectKart\\Google-Search-Engine-Clone\\src\\Home.js",["36"],"E:\\GSSo'C 22\\WebDev-ProjectKart\\Google-Search-Engine-Clone\\src\\response.js",["37"],"E:\\GSSo'C 22\\WebDev-ProjectKart\\Google-Search-Engine-Clone\\src\\useGoogleSearch.js",[],"E:\\GSSo'C 22\\WebDev-ProjectKart\\Google-Search-Engine-Clone\\src\\config.js",[],{"ruleId":"38","severity":1,"message":"39","line":5,"column":8,"nodeType":"40","messageId":"41","endLine":5,"endColumn":16},{"ruleId":"38","severity":1,"message":"42","line":16,"column":22,"nodeType":"40","messageId":"41","endLine":16,"endColumn":30},{"ruleId":"38","severity":1,"message":"43","line":3,"column":10,"nodeType":"40","messageId":"41","endLine":3,"endColumn":14},{"ruleId":"44","severity":1,"message":"45","line":1,"column":1,"nodeType":"46","endLine":337,"endColumn":4},"no-unused-vars","'Response' is defined but never used.","Identifier","unusedVar","'dispatch' is assigned a value but never used.","'Link' is defined but never used.","import/no-anonymous-default-export","Assign object to a variable before exporting as module default","ExportDefaultDeclaration"]<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jun 2022, 22:46:41 (timezone Asia/Calcutta) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 11 Jun 2022, 23:50:58 (timezone Asia/Calcutta) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

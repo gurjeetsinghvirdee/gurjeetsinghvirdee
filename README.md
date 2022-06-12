@@ -37,11 +37,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-XML          11 mins         ██████████████▒░░░░░░░░░░   57.63 %
-Markdown     7 mins          █████████▒░░░░░░░░░░░░░░░   36.80 %
-YAML         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 

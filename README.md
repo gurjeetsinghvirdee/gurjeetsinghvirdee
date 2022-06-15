@@ -307,10 +307,8 @@ No activity tracked
     <img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" >   
 </p>       
         
-##
-        
-<details>  
-  <summary>⚛️ Frameworks, Languages & Other Tools</summary>&nbsp
+## ⚛️ Frameworks, Languages & Other Tools
+       
   <p align="center">
     <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="adobe xd" /> 
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
@@ -340,7 +338,7 @@ No activity tracked
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" />
     <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=fff" alt="windows" />
   </p>
-</details>
+
         
 ##
        

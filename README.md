@@ -300,7 +300,6 @@ No activity tracked
 `[05/30 06:15]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#674`](https://github.com//Rayman-Sodhi/Clone-IT/pull/674 'Tesla clone ReactJS') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/30 03:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1658`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1658 'pay for cause (added readme and video)') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[05/30 03:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1690`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1690 'DC Trump Card (added Readme and video)') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[05/29 19:03]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#647`](https://github.com//Rayman-Sodhi/Clone-IT/issues/647 'Chat app') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

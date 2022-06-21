@@ -21,8 +21,7 @@
 ##         
         
 <ul align="left">
-  <li> 🏫 Currently learning DSA </li>
-  <li> 💜 Contributing at GSSoC'22 </li>
+    <li> 🏫 Currently learning DSA </li>
   <li> 🤝 Collaborator at <a href="https://github.com/Rayman-Sodhi/Clone-IT"> Clone-IT </a></li>
   <li> 💬 Ask me about Anything </li>
   <li> 📕 Read My Articles at 

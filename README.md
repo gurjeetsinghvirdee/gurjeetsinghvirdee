@@ -82,14 +82,17 @@ No activity tracked
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[06/22 17:26]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#57`](https://github.com//aviyelverse/aviyel-first-pr/issues/57 'Readme updated') in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)  
+`[06/22 17:24]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#57`](https://github.com//aviyelverse/aviyel-first-pr/pull/57 'Readme updated') in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)  
+`[06/22 17:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/aviyel-first-pr](https://github.com/gurjeetsinghvirdee/aviyel-first-pr)  
 `[06/22 17:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/good-first-issue-finder](https://github.com/gurjeetsinghvirdee/good-first-issue-finder)  
 `[06/22 16:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `44` commits in [gurjeetsinghvirdee/aviyel-first-pr](https://github.com/gurjeetsinghvirdee/aviyel-first-pr)  
-`[06/21 16:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[06/20 16:09]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [siddhi-244/NFT-preview-card-component](https://github.com/siddhi-244/NFT-preview-card-component) to [gurjeetsinghvirdee/NFT-preview-card-component](https://github.com/gurjeetsinghvirdee/NFT-preview-card-component)  
-`[06/20 16:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [siddhi-244/NFT-preview-card-component](https://github.com/siddhi-244/NFT-preview-card-component)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[06/21 16:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
+`[06/20 16:09]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [siddhi-244/NFT-preview-card-component](https://github.com/siddhi-244/NFT-preview-card-component) to [gurjeetsinghvirdee/NFT-preview-card-component](https://github.com/gurjeetsinghvirdee/NFT-preview-card-component)  
+`[06/20 16:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [siddhi-244/NFT-preview-card-component](https://github.com/siddhi-244/NFT-preview-card-component)  
 `[06/19 13:59]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish) to [gurjeetsinghvirdee/Embellish](https://github.com/gurjeetsinghvirdee/Embellish)  
 `[06/19 13:44]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [EddieHubCommunity/good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder) to [gurjeetsinghvirdee/good-first-issue-finder](https://github.com/gurjeetsinghvirdee/good-first-issue-finder)  
 `[06/18 15:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
@@ -296,9 +299,6 @@ No activity tracked
 `[05/30 06:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/30 06:16]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#676`](https://github.com//Rayman-Sodhi/Clone-IT/pull/676 'Javatpoint clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/30 06:16]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#676`](https://github.com//Rayman-Sodhi/Clone-IT/pull/676 'Javatpoint clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[05/30 06:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[05/30 06:16]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#675`](https://github.com//Rayman-Sodhi/Clone-IT/pull/675 'Loruki clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[05/30 06:16]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#675`](https://github.com//Rayman-Sodhi/Clone-IT/pull/675 'Loruki clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

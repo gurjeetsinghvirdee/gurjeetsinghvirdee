@@ -80,7 +80,7 @@ No activity tracked
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[06/26 14:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/leetcode-solution-in-js](https://github.com/gurjeetsinghvirdee/leetcode-solution-in-js)  
+`[06/27 15:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/leetcode-solution-in-js](https://github.com/gurjeetsinghvirdee/leetcode-solution-in-js)  
 `[06/26 14:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `90` commits in [gurjeetsinghvirdee/Badges4-README.md-Profile](https://github.com/gurjeetsinghvirdee/Badges4-README.md-Profile)  
 `[06/25 17:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[06/25 06:16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#119`](https://github.com//aviyelverse/Open-Source-Requests/issues/119 'Integrate Chatwoot inside Angular Project') in [aviyelverse/Open-Source-Requests](https://github.com/aviyelverse/Open-Source-Requests)  
@@ -296,8 +296,6 @@ No activity tracked
 `[05/30 10:34]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#737`](https://github.com//surajm-333/Ace-The-FrontEnd/pull/737 'Kudozu-Quiz-App Added') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
 `[05/30 10:33]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#738`](https://github.com//surajm-333/Ace-The-FrontEnd/pull/738 'Added Kudozu-Quiz-App') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
 `[05/30 10:23]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#708`](https://github.com//surajm-333/Ace-The-FrontEnd/pull/708 'Portfolio') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
-`[05/30 10:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[05/30 10:01]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#677`](https://github.com//Rayman-Sodhi/Clone-IT/pull/677 'design and architecture site') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

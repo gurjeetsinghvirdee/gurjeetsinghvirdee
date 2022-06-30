@@ -297,7 +297,6 @@ Other      0 secs          ▒░░░░░░░░░░░░░░░░�
 `[05/30 10:46]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#721`](https://github.com//surajm-333/Ace-The-FrontEnd/pull/721 'Added Age Calculator') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
 `[05/30 10:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#728`](https://github.com//surajm-333/Ace-The-FrontEnd/issues/728 'Drag and Drop') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
 `[05/30 10:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#734`](https://github.com//surajm-333/Ace-The-FrontEnd/issues/734 'Learning website') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
-`[05/30 10:34]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#737`](https://github.com//surajm-333/Ace-The-FrontEnd/pull/737 'Kudozu-Quiz-App Added') in [surajm-333/Ace-The-FrontEnd](https://github.com/surajm-333/Ace-The-FrontEnd)  
 
 </details>
 <!--END_SECTION:activity-->

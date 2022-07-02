@@ -15,16 +15,17 @@
     <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/gitartwork.svg" />
 </p>    
    
- 
 ##         
         
 <ul align="left">
-    <li> 🏫 Currently learning DSA </li>
+  <li> 💻 Contributor at HCSoC'22 </li>
+  <li> 🎉 Secured 1oth Rank in GSSoC'22 </li>
+  <li> 🏫 Currently learning DSA </li>
   <li> 🤝 Collaborator at <a href="https://github.com/Rayman-Sodhi/Clone-IT"> Clone-IT </a></li>
   <li> 💬 Ask me about Anything </li>
   <li> 📕 Read My Articles at 
-   <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">@GeeksforGeeks</a>
- </li>
+    <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">@GeeksforGeeks</a>
+  </li>
 </ul>  
         
 ##        
@@ -71,7 +72,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
         
 <div align="center">
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave" target="_blank">
-       <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&&theme=synthwave" />  
+       <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&hide=html&theme=synthwave" />  
    </a> 
 </div>   
 

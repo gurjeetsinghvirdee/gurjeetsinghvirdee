@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.38375634009924" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.38375634009924" y="0" width="33.495384922782385" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="416.8791412628816" y="0" width="27.531771919247756" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="444.4109131821294" y="0" width="9.802848286342277" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="454.21376146847166" y="0" width="4.217577980816266" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="458.4313394492879" y="0" width="0.6028722690043046" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.0342117182922" y="0" width="0.5818064172220877" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.6160181355143" y="0" width="0.3839818644857005" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.40109822168694" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.40109822168694" y="0" width="33.49690004435302" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="416.89799826603996" y="0" width="27.533017284291596" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="444.43101555033155" y="0" width="9.803291705843995" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="454.23430725617555" y="0" width="4.19696123672712" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="458.4312684929027" y="0" width="0.6028995391724551" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.0341680320752" y="0" width="0.5818327345029519" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.6160007665781" y="0" width="0.3839992334219572" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2688,7 +2688,7 @@ The profile looks good &amp; clear so we used it here `summary` and `details` ta
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="75.95 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="76.98333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2710,10 +2710,10 @@ The profile looks good &amp; clear so we used it here `summary` and `details` ta
                                     <span class="prefix">Great</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">347</div>
+                                        <div class="value">349</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 347 times</div>
+                                <div class="text">Repositories have been deployed 349 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3268,7 +3268,7 @@ The profile looks good &amp; clear so we used it here `summary` and `details` ta
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jul 2022, 17:40:18 (timezone Asia/Calcutta) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 2 Jul 2022, 18:01:40 (timezone Asia/Calcutta) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

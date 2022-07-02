@@ -1,5 +1,5 @@
 ## Hey there, It's Gurjeet
-#### I'm TCW Intern at [GeeksforGeeks](https://www.geeksforgeeks.org/) & Content Creator at [Aviyel](https://aviyel.com/discussions) , Currently enrolled in Second year and I'm a Self-taught MERN Stack Developer and UI Designer, ❤️ to contribute on Open Source projects. 
+#### Former TCW Intern at [GeeksforGeeks](https://www.geeksforgeeks.org/) & Content Creator at [Aviyel](https://aviyel.com/discussions) , Currently enrolled in Second year and I'm a Self-taught MERN Stack Developer and UI Designer, ❤️ to contribute on Open Source projects. 
 
 <p align="center">
     <a href="https://gurjeet.hashnode.dev/" target="_blank">

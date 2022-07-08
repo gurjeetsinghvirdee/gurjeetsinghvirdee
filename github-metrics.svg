@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1867" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1853" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.26m added, 159k removed
+                                    2.28m added, 160k removed
                                 </div>
                             </section>
                             <section>
@@ -215,7 +215,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    24 Languages
+                    25 Languages
                 </h2>
             </section>
             <section class="column">
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.44447647195636" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.44447647195636" y="0" width="33.50045963902888" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="416.9449361109852" y="0" width="27.54789782520668" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="444.4928339361919" y="0" width="9.80348925455054" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="454.29632319074244" y="0" width="4.130214077573483" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="458.42653726831594" y="0" width="0.6076113010254104" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.0341485693413" y="0" width="0.5818444591672356" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.6159930285085" y="0" width="0.3840069714913886" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.43793844542427" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.43793844542427" y="0" width="33.49988843013842" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="416.9378268755627" y="0" width="27.547428112124507" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="444.48525498768714" y="0" width="9.803322097434485" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="454.28857708512163" y="0" width="4.137987011957598" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="458.4265640970793" y="0" width="0.607600940780183" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.03416503785945" y="0" width="0.5818345382667011" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.61599957612617" y="0" width="0.38400042387387895" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2403,6 +2403,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">gurjeetsinghvirdee/angular</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#301353d</div>
+                                        <div class="message">Delete src/app/server directory</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">Rayman-Sodhi/Clone-IT</span>
                                     </div>
                                 </div>
@@ -2471,26 +2491,6 @@
                                     <div class="commit">
                                         <div class="sha">#34959d5</div>
                                         <div class="message">2 components created</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">gurjeetsinghvirdee/angular</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#939f59a</div>
-                                        <div class="message">removed vs code files</div>
                                     </div>
                                 </div>
                             </section>
@@ -2681,7 +2681,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.3875 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.5425 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2703,10 +2703,10 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">505</div>
+                                        <div class="value">507</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 505 times</div>
+                                <div class="text">Repositories have been deployed 507 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3246,22 +3246,22 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">939f59ab</span>
-                            <span class="code">.vscode/extensions.json</span>
-                            <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--4</span></span>
+                            <span class="code">.vscode/settings.json</span>
+                            <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--3</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,4 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">{<br /></span><span class="token prefix deleted">-</span><span class="token line">// For more information, visit: https://go.microsoft.com/fwlink/?linkid=827846<br /></span><span class="token prefix deleted">-</span><span class="token line">"recommendations": ["angular.ng-template"]<br /></span><span class="token prefix deleted">-</span><span class="token line">}</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,3 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">{<br /></span><span class="token prefix deleted">-</span><span class="token line">   "git.ignoreLimitWarning": true<br /></span><span class="token prefix deleted">-</span><span class="token line">}<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jul 2022, 22:58:45 (timezone Asia/Calcutta) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 8 Jul 2022, 23:54:38 (timezone Asia/Calcutta) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

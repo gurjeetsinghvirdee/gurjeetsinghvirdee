@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2120" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1907" class="">
     <defs>
         <style/>
     </defs>
@@ -2632,7 +2632,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="11.935 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="12.0125 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2654,10 +2654,10 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">654</div>
+                                        <div class="value">655</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 654 times</div>
+                                <div class="text">Repositories have been deployed 655 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -3224,7 +3224,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 12 Jul 2022, 21:53:35
+                            On 11 Jul 2022, 23:02:14
                         </div>
                     </section>
                 </div>
@@ -3234,29 +3234,29 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Delete WorkFlowy directory
+                            Delete Paytm Website Clone directory
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">7470e1dc</span>
-                            <span class="code">WorkFlowy/img/logo.svg</span>
-                            <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--8</span></span>
+                            <span class="code">c0dfb395</span>
+                            <span class="code">Paytm Website Clone/Paytm_files/ad9d15ee.svg</span>
+                            <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--3</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,8 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line">&lt;path d="M6.625 2.77295H30.3256C31.8396 2.77295 33.0669 3.99814 33.0669 5.5095C33.0669 7.02087 31.8396 8.24604 30.3256 8.24604H6.625V2.77295Z" fill="#B2CADB"/&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line">&lt;path d="M12.4502 14.5747H30.3256C31.8396 14.5747 33.0669 15.7999 33.0669 17.3113C33.0669 18.8226 31.8396 20.0478 30.3256 20.0478H12.4502V14.5747Z" fill="#B2CADB"/&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line">&lt;path d="M6.625 26.376H30.3256C31.8396 26.376 33.0669 27.6012 33.0669 29.1125C33.0669 30.6239 31.8396 31.8491 30.3256 31.8491H6.625V26.376Z" fill="#B2CADB"/&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line">&lt;path d="M4.74009 10.2417C7.35797 10.2417 9.48018 8.12317 9.48018 5.50979C9.48018 2.8964 7.35797 0.777832 4.74009 0.777832C2.12221 0.777832 0 2.8964 0 5.50979C0 8.12317 2.12221 10.2417 4.74009 10.2417Z" fill="#47525B"/&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line">&lt;path d="M13.4208 22.043C16.0387 22.043 18.1609 19.9244 18.1609 17.3111C18.1609 14.6977 16.0387 12.5791 13.4208 12.5791C10.8029 12.5791 8.68066 14.6977 8.68066 17.3111C8.68066 19.9244 10.8029 22.043 13.4208 22.043Z" fill="#47525B"/&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line">&lt;path d="M4.74009 33.8448C7.35797 33.8448 9.48018 31.7262 9.48018 29.1128C9.48018 26.4994 7.35797 24.3809 4.74009 24.3809C2.12221 24.3809 0 26.4994 0 29.1128C0 31.7262 2.12221 33.8448 4.74009 33.8448Z" fill="#47525B"/&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line">&lt;/svg&gt;</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,3 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;svg width="13" height="25" viewBox="0 0 13 25" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line">&lt;path d="M3.69998 8.26667H0.599976V12.4H3.69998V24.8H8.86664V12.4H12.5866L13 8.26667H8.86664V6.51C8.86664 5.58 9.07331 5.16667 10.0033 5.16667H13V0H9.07331C5.35331 0 3.69998 1.65333 3.69998 4.75333V8.26667Z" fill="#707070"/&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line">&lt;/svg&gt;</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jul 2022, 14:50:14 (timezone Asia/Calcutta) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 14 Jul 2022, 15:52:39 (timezone Asia/Calcutta) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

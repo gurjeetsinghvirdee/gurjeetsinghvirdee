@@ -18,7 +18,7 @@
 ##         
         
 <ul align="left">
-  <li> 💻 Contributor at HSSOC'22 </li>
+  <li> 💻 Contributor & Project Admin at HSOC'22 </li>
   <li> 🎉 Secured 10th Rank Globally in GSSoC'22 </li>
   <li> 🏫 Currently learning DSA </li>
   <li> 🤝 Collaborator at <a href="https://github.com/Rayman-Sodhi/Clone-IT"> Clone-IT </a></li>

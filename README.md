@@ -84,14 +84,15 @@ Markdown     9 mins          █▒░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/17 14:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `44` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[07/17 07:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Dev-Geeks](https://github.com/gurjeetsinghvirdee/Dev-Geeks)  
 `[07/17 07:29]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#161`](https://github.com//pranjay-poddar/Dev-Geeks/pull/161 'Custom error page added') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
 `[07/17 07:22]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`404`](https://github.com/gurjeetsinghvirdee/Dev-Geeks/tree/404) in [gurjeetsinghvirdee/Dev-Geeks](https://github.com/gurjeetsinghvirdee/Dev-Geeks)  
 `[07/17 06:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `32` commits in [gurjeetsinghvirdee/Dev-Geeks](https://github.com/gurjeetsinghvirdee/Dev-Geeks)  
-`[07/16 14:41]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind) to [gurjeetsinghvirdee/LeetCode-Grind](https://github.com/gurjeetsinghvirdee/LeetCode-Grind)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[07/16 14:41]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind) to [gurjeetsinghvirdee/LeetCode-Grind](https://github.com/gurjeetsinghvirdee/LeetCode-Grind)  
 `[07/16 09:41]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#693`](https://github.com//Rayman-Sodhi/Clone-IT/issues/693 'Paytm Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[07/15 20:06]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#147`](https://github.com//pranjay-poddar/Dev-Geeks/issues/147 'Tech Blog Template') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
 `[07/15 20:04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#146`](https://github.com//pranjay-poddar/Dev-Geeks/issues/146 'Custom Error Page or 404') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
@@ -236,7 +237,6 @@ Markdown     9 mins          █▒░░░░░░░░░░░░░░░
 `[06/06 03:40]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#465`](https://github.com//Rayman-Sodhi/Clone-IT/issues/465 'My own Esports website ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[06/06 03:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#441`](https://github.com//Rayman-Sodhi/Clone-IT/issues/441 'Add wix ecommerce website home page clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[06/06 03:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#409`](https://github.com//Rayman-Sodhi/Clone-IT/issues/409 'Groww investement website clone .') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[06/06 03:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#591`](https://github.com//Rayman-Sodhi/Clone-IT/issues/591 'CODECHEF') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

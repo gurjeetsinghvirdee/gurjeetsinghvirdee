@@ -237,7 +237,6 @@ JSON             5 mins          ▓░░░░░░░░░░░░░░�
 `[06/09 17:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1702`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1702 'Commune-waitlist-page-1') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[06/09 17:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1703`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1703 'DON\'T MAKE ANY ISSUES AND PR WE ARE NOT ACCEPTING IT ANYMORE') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[06/09 17:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[06/06 15:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `214` commits in [gurjeetsinghvirdee/GitHubGraduation-2022](https://github.com/gurjeetsinghvirdee/GitHubGraduation-2022)  
 
 </details>
 <!--END_SECTION:activity-->

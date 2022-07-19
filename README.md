@@ -86,14 +86,15 @@ JSON             5 mins          ▓░░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/19 13:52]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#694`](https://github.com//Rayman-Sodhi/Clone-IT/pull/694 'paytm clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[07/19 09:18]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#694`](https://github.com//Rayman-Sodhi/Clone-IT/pull/694 'paytm clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[07/18 15:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#180`](https://github.com//pranjay-poddar/Dev-Geeks/issues/180 'Lizard Spock Game') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
 `[07/18 09:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#180`](https://github.com//pranjay-poddar/Dev-Geeks/issues/180 'Lizard Spock Game') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
 `[07/18 09:08]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#180`](https://github.com//pranjay-poddar/Dev-Geeks/issues/180 'Lizard Spock Game') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
-`[07/18 09:06]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `stackoverflow` from [gurjeetsinghvirdee/WebDev-ProjectKart](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[07/18 09:06]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `stackoverflow` from [gurjeetsinghvirdee/WebDev-ProjectKart](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart)  
 `[07/18 08:43]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#178`](https://github.com//pranjay-poddar/Dev-Geeks/pull/178 'Tech Blog Template Added') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
 `[07/18 08:41]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`blog-template`](https://github.com/gurjeetsinghvirdee/Dev-Geeks/tree/blog-template) in [gurjeetsinghvirdee/Dev-Geeks](https://github.com/gurjeetsinghvirdee/Dev-Geeks)  
 `[07/18 08:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [gurjeetsinghvirdee/Dev-Geeks](https://github.com/gurjeetsinghvirdee/Dev-Geeks)  
@@ -237,7 +238,7 @@ JSON             5 mins          ▓░░░░░░░░░░░░░░�
 `[06/09 17:50]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1174`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1174 'Adding Doubtnut app clone') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[06/09 17:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1702`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1702 'Commune-waitlist-page-1') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[06/09 17:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1703`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1703 'DON\'T MAKE ANY ISSUES AND PR WE ARE NOT ACCEPTING IT ANYMORE') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[06/09 17:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
+`[06/09 17:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 
 </details>
 <!--END_SECTION:activity-->

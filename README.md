@@ -243,7 +243,6 @@ JSON             5 mins          ▓░░░░░░░░░░░░░░�
 `[06/09 17:50]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1406`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1406 'Fully responsive food ordering website') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[06/09 17:50]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1393`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1393 'Css liquid loader animation ') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[06/09 17:50]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1303`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1303 'Adding Readme into CSS Grid') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[06/09 17:50]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1243`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1243 'AI face detection') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 
 </details>
 <!--END_SECTION:activity-->

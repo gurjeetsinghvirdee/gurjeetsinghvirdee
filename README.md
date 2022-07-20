@@ -21,7 +21,8 @@
   <li> 💻 Contributor & Project Admin at HSOC'22 </li>
   <li> 🎉 Secured 10th Rank Globally in GSSoC'22 </li>
   <li> 🏫 Currently learning DSA </li>
-  <li> 🤝 Collaborator at <a href="https://github.com/Rayman-Sodhi/Clone-IT"> Clone-IT </a></li>
+  <li> 🤝 Collaborator at <a href="https://github.com/Rayman-Sodhi/Clone-IT"> Clone-IT </a>& &nbsp;<a href="https://github.com/utkarsh006/LeetCode-Grind"> LeetCode-    Grind </a>
+  </li>
   <li> 💬 Ask me about Anything </li>
   <li> 📕 Read My Articles at 
     <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">@GeeksforGeeks</a>

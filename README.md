@@ -87,14 +87,17 @@ Other            10 mins         ▓░░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/23 16:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish)  
+`[07/23 15:50]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#275`](https://github.com//siddhi-244/Embellish/issues/275 'Day Night Hover effect') in [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish)  
+`[07/23 15:50]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#275`](https://github.com//siddhi-244/Embellish/issues/275 'Day Night Hover effect') in [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish)  
 `[07/23 15:15]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#274`](https://github.com//siddhi-244/Embellish/issues/274 'Drag & Drop Card Added') in [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish)  
 `[07/23 15:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [gurjeetsinghvirdee/Embellish](https://github.com/gurjeetsinghvirdee/Embellish)  
-`[07/23 14:16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#272`](https://github.com//siddhi-244/Embellish/issues/272 'Glassmorphism Card Added') in [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish)  
-`[07/23 14:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Embellish](https://github.com/gurjeetsinghvirdee/Embellish)  
-`[07/23 14:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#274`](https://github.com//siddhi-244/Embellish/issues/274 'Drag & Drop Card Added') in [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[07/23 14:16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#272`](https://github.com//siddhi-244/Embellish/issues/272 'Glassmorphism Card Added') in [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish)  
+`[07/23 14:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Embellish](https://github.com/gurjeetsinghvirdee/Embellish)  
+`[07/23 14:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#274`](https://github.com//siddhi-244/Embellish/issues/274 'Drag & Drop Card Added') in [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish)  
 `[07/23 14:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Embellish](https://github.com/gurjeetsinghvirdee/Embellish)  
 `[07/23 10:47]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#38`](https://github.com//utkarsh006/LeetCode-Grind/issues/38 'JULY 22 : Partition List') in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
 `[07/23 10:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/LeetCode-Grind](https://github.com/gurjeetsinghvirdee/LeetCode-Grind)  
@@ -253,8 +256,6 @@ Other            10 mins         ▓░░░░░░░░░░░░░░�
 `[06/15 16:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[06/14 16:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[06/13 14:44]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) to [gurjeetsinghvirdee/freeCodeCamp](https://github.com/gurjeetsinghvirdee/freeCodeCamp)  
-`[06/12 17:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/GitHubGraduation-2022](https://github.com/gurjeetsinghvirdee/GitHubGraduation-2022)  
-`[06/12 17:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

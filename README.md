@@ -87,14 +87,18 @@ Other            10 mins         ▓░░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/23 09:03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#272`](https://github.com//siddhi-244/Embellish/issues/272 'Glassmorphism Card Added') in [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish)  
+`[07/23 09:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Embellish](https://github.com/gurjeetsinghvirdee/Embellish)  
+`[07/23 08:56]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#273`](https://github.com//siddhi-244/Embellish/issues/273 'Drag & Drop Card') in [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish)  
+`[07/23 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#273`](https://github.com//siddhi-244/Embellish/issues/273 'Drag & Drop Card') in [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish)  
 `[07/23 07:16]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#272`](https://github.com//siddhi-244/Embellish/pull/272 'Glassmorphism Card Added') in [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[07/23 07:15]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#272`](https://github.com//siddhi-244/Embellish/pull/272 'Glassmorphism Card Added') in [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish)  
 `[07/23 07:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Embellish](https://github.com/gurjeetsinghvirdee/Embellish)  
 `[07/22 16:39]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#272`](https://github.com//siddhi-244/Embellish/pull/272 'Glassmorphism Card Added') in [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish)  
 `[07/22 16:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`card`](https://github.com/gurjeetsinghvirdee/Embellish/tree/card) in [gurjeetsinghvirdee/Embellish](https://github.com/gurjeetsinghvirdee/Embellish)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/22 16:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `26` commits in [gurjeetsinghvirdee/Embellish](https://github.com/gurjeetsinghvirdee/Embellish)  
 `[07/22 13:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#271`](https://github.com//siddhi-244/Embellish/issues/271 'Glassmorphism Card') in [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish)  
 `[07/22 13:25]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#36`](https://github.com//utkarsh006/LeetCode-Grind/issues/36 'May Challenges Readme') in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
@@ -240,10 +244,7 @@ Other            10 mins         ▓░░░░░░░░░░░░░░�
 `[06/13 14:44]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) to [gurjeetsinghvirdee/freeCodeCamp](https://github.com/gurjeetsinghvirdee/freeCodeCamp)  
 `[06/12 17:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/GitHubGraduation-2022](https://github.com/gurjeetsinghvirdee/GitHubGraduation-2022)  
 `[06/12 17:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[06/10 14:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[06/09 17:59]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1009`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1009 'Copied Project ') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[06/09 17:59]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#992`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/992 'Adding Matrix Multiplication Calculator') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[06/09 17:59]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#969`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/969 'Netlify Website Clone') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
+`[06/10 14:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -1,5 +1,12 @@
-## Hey there, It's Gurjeet
-#### Former TCW Intern at [GeeksforGeeks](https://www.geeksforgeeks.org/) & Content Creator at [Aviyel](https://aviyel.com/discussions) , Currently enrolled in Second year and I'm a Self-taught MERN Stack Developer and UI Designer, ❤️ to contribute on Open Source projects. 
+## Hey there 👋
+
+<p align="center">
+    <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/gitartwork.svg" />
+</p>   
+
+<h3 align="center">About Me</h3>
+
+I'm Gurjeet Singh Virdee, A Self-taught MERN Stack Developer and UI Designer, Currently in Second Year Studying BCA, Collabing with [Aviyel](https://aviyel.com/discussions) as Content Creator, Former Technical Team Member & Mentored 150+ Contributors on [GSSoC'22](https://gssoc.girlscript.tech/) and also A Technical Content Writer at [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
 <p align="center">
     <a href="https://gurjeet.hashnode.dev/" target="_blank">
@@ -11,10 +18,6 @@
     <a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Say, Hello-D74E43?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="22"></a>
  </p>
  
-<p align="center">
-    <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/gitartwork.svg" />
-</p>    
-   
 ##         
         
 <ul align="left">

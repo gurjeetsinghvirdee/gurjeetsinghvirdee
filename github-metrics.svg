@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1953" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2156" class="">
     <defs>
         <style/>
     </defs>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.86935835987293" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.86935835987293" y="0" width="33.53758036813278" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="417.4069387280057" y="0" width="27.578422721389295" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="444.985361449395" y="0" width="9.814352170248185" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="454.79971361964317" y="0" width="3.6250801477045487" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="458.4247937673477" y="0" width="0.6082845746087839" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.03307834195647" y="0" width="0.5824891813824553" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.61556752333894" y="0" width="0.38443247666105895" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.8762089646129" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.8762089646129" y="0" width="33.53817888609738" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="417.4143878507103" y="0" width="27.57891489110616" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="444.9933027418164" y="0" width="9.814527319022195" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="454.80783006083857" y="0" width="3.61693559508255" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="458.42476565592114" y="0" width="0.608295430169665" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.0330610860908" y="0" width="0.5824995765938992" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.6155606626847" y="0" width="0.384439337315314" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2408,6 +2408,74 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 12 commits in
+                                        <span class="repo">gurjeetsinghvirdee/Embellish</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#37d9396</div>
+                                        <div class="message">Merge pull request #270 from yashkondewar/main
+
+Added Navbar</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa6530f</div>
+                                        <div class="message">Merge pull request #274 from gurjeetsinghvirdee/drag
+
+Drag &amp; Drop Card Added</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d0e45b8</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#731ccfe</div>
+                                        <div class="message">Merge branch 'main' into drag</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d92d27</div>
+                                        <div class="message">Delete main.js</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b7db72</div>
+                                        <div class="message">Demo video attached</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c70dadd</div>
+                                        <div class="message">Drag n Drop Card Added</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb28ad8</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#86aee28</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9634f0e</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b099faf</div>
+                                        <div class="message">Updated README.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a0142cb</div>
+                                        <div class="message">Added Navbar</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 6 commits in
                                         <span class="repo">gurjeetsinghvirdee/Embellish</span>
                                     </div>
@@ -2487,26 +2555,6 @@ Glassmorphism Card Added</div>
                                 </div>
                                 <div class="details">
                                     <div>opened  in <span class="repo">siddhi-244/Embellish</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#274 Drag &amp; Drop Card Added</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by gurjeetsinghvirdee in <span class="repo">siddhi-244/Embellish</span></div>
-                                    <div class="comment">
-                                        <i>Please resolve the conflicts</i>
-                                        Resolved
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2617,7 +2665,7 @@ Glassmorphism Card Added</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="34.6425 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="34.7975 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2639,10 +2687,10 @@ Glassmorphism Card Added</div>
                                     <span class="prefix">Super</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">947</div>
+                                        <div class="value">949</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 947 times</div>
+                                <div class="text">Repositories have been deployed 949 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -3244,7 +3292,7 @@ Glassmorphism Card Added</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 23 Jul 2022, 20:43:52
+                            On 23 Jul 2022, 12:33:59
                         </div>
                     </section>
                 </div>
@@ -3261,22 +3309,22 @@ Glassmorphism Card Added</div>
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">8e7ecad3</span>
-                            <span class="code">HTML+CSS+JS/README.md</span>
-                            <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--0</span></span>
+                            <span class="code">HTML+CSS+JS/Cards/Glassmorphism-Card/style.css</span>
+                            <span class="code"><span class="snippet additions">++4</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -71,6 +71,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"> - [Simple Profile Card](Cards/Simple-Profile-Card)<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line"> - [Information Card](Cards/Information-Card)<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line"> - [Glassmorphism Card](Cards/Glassmorphism-Card)<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">-   [Background](Background)<br /></span><span class="token prefix unchanged">·</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -5,6 +5,10 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   font-family: Verdana, Geneva, Tahoma, sans-serif;<br /></span><span class="token prefix unchanged">·</span><span class="token line">}<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">.container {<br /></span><span class="token prefix inserted">+</span><span class="token line">   padding-top: 120px;<br /></span><span class="token prefix inserted">+</span><span class="token line">}<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">.container::after {<br /></span><span class="token prefix unchanged">·</span><span class="token line">   content: '';<br /></span><span class="token prefix unchanged">·</span><span class="token line">   height: 50px;</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jul 2022, 11:54:09 (timezone Asia/Calcutta) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 24 Jul 2022, 12:48:19 (timezone Asia/Calcutta) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

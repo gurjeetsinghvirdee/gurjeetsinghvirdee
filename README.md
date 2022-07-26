@@ -90,14 +90,18 @@ C++          56 mins         ██▒░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/26 17:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[07/26 17:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#696`](https://github.com//Rayman-Sodhi/Clone-IT/issues/696 'Zomato Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[07/26 17:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#696`](https://github.com//Rayman-Sodhi/Clone-IT/issues/696 'Zomato Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[07/26 17:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/GSGrihSangini](https://github.com/gurjeetsinghvirdee/GSGrihSangini)  
 `[07/25 21:15]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#10132`](https://github.com//facebook/create-react-app/issues/10132 'npx create-react-app is not working') in [facebook/create-react-app](https://github.com/facebook/create-react-app)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[07/25 18:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#693`](https://github.com//Rayman-Sodhi/Clone-IT/issues/693 'Paytm Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[07/25 18:08]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#693`](https://github.com//Rayman-Sodhi/Clone-IT/issues/693 'Paytm Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[07/25 16:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [gurjeetsinghvirdee/GSGrihSangini](https://github.com/gurjeetsinghvirdee/GSGrihSangini)  
 `[07/25 15:48]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [KaizenGirl1111/GSGrihSangini](https://github.com/KaizenGirl1111/GSGrihSangini) to [gurjeetsinghvirdee/GSGrihSangini](https://github.com/gurjeetsinghvirdee/GSGrihSangini)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/25 15:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [gurjeetsinghvirdee/GSGrihSangini](https://github.com/gurjeetsinghvirdee/GSGrihSangini)  
 `[07/25 09:15]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1727`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1727 'Layout improvement') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[07/24 13:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `49` commits in [gurjeetsinghvirdee/WebDev-ProjectKart](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart)  
@@ -249,8 +253,7 @@ C++          56 mins         ██▒░░░░░░░░░░░░░░
 `[07/04 16:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[07/03 16:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/leetcode-solution-in-js](https://github.com/gurjeetsinghvirdee/leetcode-solution-in-js)  
 `[07/02 14:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)  
-`[07/02 12:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[07/02 11:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/angular](https://github.com/gurjeetsinghvirdee/angular)  
+`[07/02 12:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 
 </details>
 <!--END_SECTION:activity-->

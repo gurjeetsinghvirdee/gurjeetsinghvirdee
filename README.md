@@ -4,7 +4,7 @@
     <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/gitartwork.svg" />
 </p>   
 
-<h3 align="center">About Me</h3>
+
 
 I'm Gurjeet Singh Virdee, A Self-taught MERN Stack Developer and UI Designer, Currently in Second Year Studying BCA, Collabing with [Aviyel](https://aviyel.com/discussions) as Content Creator, Former Technical Team Member & Mentored 150+ Contributors on [GSSoC'22](https://gssoc.girlscript.tech/) and also A Technical Content Writer at [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
@@ -50,6 +50,8 @@ XML          1 min           ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka--> 
 
 <a href="https://wakatime.com/@ff7098eb-56b3-4619-bbbb-86aad0fce365"><img src="https://wakatime.com/badge/user/ff7098eb-56b3-4619-bbbb-86aad0fce365.svg?style=for-the-badge" alt="Total time coded since Jul 28 2021" /></a>
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgurjeetsinghvirdee%2Fgurjeetsinghvirdee&label=VISITORS&labelColor=%E98139&countColor=%23e5289e)
   
     
 ## 📚 Latest Blog posts

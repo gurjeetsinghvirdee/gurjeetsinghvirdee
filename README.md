@@ -253,7 +253,6 @@ XML          1 min           ░░░░░░░░░░░░░░░░░
 `[07/09 10:05]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#690`](https://github.com//Rayman-Sodhi/Clone-IT/pull/690 'Create CODE_OF_CONDUCT.md') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[07/09 10:05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`add-code-of-conduct`](https://github.com/Rayman-Sodhi/Clone-IT/tree/add-code-of-conduct) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[07/09 09:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `787` commits in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
-`[07/09 09:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//gurjeetsinghvirdee/Clone-IT/pull/4 'Some changes with icons colors') in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

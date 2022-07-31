@@ -6,7 +6,7 @@
 
 
 
-I'm Gurjeet Singh Virdee, A Self-taught MERN Stack Developer and UI Designer, Currently in Second Year Studying BCA, Collabing with [Aviyel](https://aviyel.com/discussions) as Content Creator, Former Technical Team Member & Mentored 150+ Contributors on [GSSoC'22](https://gssoc.girlscript.tech/) and also A Technical Content Writer at [GeeksforGeeks](https://www.geeksforgeeks.org/)
+I'm Gurjeet Singh Virdee, A Self-taught MERN Stack Developer and UI Designer, Currently in Second Year Studying BCA, Campus Mentor at [Mentro](https://mentro.tech/), Collabing with [Aviyel](https://aviyel.com/discussions) as Content Creator, Former Technical Team Member & Mentored 150+ Contributors on [GSSoC'22](https://gssoc.girlscript.tech/) and also A Technical Content Writer at [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
 <p align="center">
     <a href="https://gurjeet.hashnode.dev/" target="_blank">

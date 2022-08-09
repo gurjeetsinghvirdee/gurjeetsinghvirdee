@@ -89,14 +89,15 @@ No activity tracked
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[08/09 14:59]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#143`](https://github.com//utkarsh006/LeetCode-Grind/issues/143 'JAN 24: Detect Capital ') in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
 `[08/08 18:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[08/08 18:14]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#5`](https://github.com//Rayman-Sodhi/Clone-IT/issues/5 'Add Website Clones ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[08/07 13:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
 `[08/07 13:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#138`](https://github.com//utkarsh006/LeetCode-Grind/issues/138 'AUG 6 : Poor Pigs ') in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
-`[08/07 04:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#706`](https://github.com//Rayman-Sodhi/Clone-IT/issues/706 'Fackbook Login Page') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[08/07 04:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#706`](https://github.com//Rayman-Sodhi/Clone-IT/issues/706 'Fackbook Login Page') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[08/06 22:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[08/06 17:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `22` commits in [gurjeetsinghvirdee/LeetCode-Grind](https://github.com/gurjeetsinghvirdee/LeetCode-Grind)  
 `[08/06 17:05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#706`](https://github.com//Rayman-Sodhi/Clone-IT/issues/706 'Fackbook Login Page') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
@@ -277,7 +278,6 @@ No activity tracked
 `[07/18 09:08]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#180`](https://github.com//pranjay-poddar/Dev-Geeks/issues/180 'Lizard Spock Game') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
 `[07/18 09:06]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `stackoverflow` from [gurjeetsinghvirdee/WebDev-ProjectKart](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart)  
 `[07/18 08:43]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#178`](https://github.com//pranjay-poddar/Dev-Geeks/pull/178 'Tech Blog Template Added') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
-`[07/18 08:41]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`blog-template`](https://github.com/gurjeetsinghvirdee/Dev-Geeks/tree/blog-template) in [gurjeetsinghvirdee/Dev-Geeks](https://github.com/gurjeetsinghvirdee/Dev-Geeks)  
 
 </details>
 <!--END_SECTION:activity-->

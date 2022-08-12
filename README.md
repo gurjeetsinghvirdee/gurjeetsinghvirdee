@@ -43,7 +43,9 @@ I'm Gurjeet Singh Virdee, A Self-taught MERN Stack Developer and UI Designer, Cu
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown     1 hr 55 mins    ███████████████████▓░░░░░   78.95 %
+JavaScript   30 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka--> 

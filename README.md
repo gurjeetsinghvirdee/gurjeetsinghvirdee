@@ -89,14 +89,15 @@ No activity tracked
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[08/12 07:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Leetcode-in-JS](https://github.com/gurjeetsinghvirdee/Leetcode-in-JS)  
 `[08/11 17:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[08/10 18:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/NFT-Emporium](https://github.com/gurjeetsinghvirdee/NFT-Emporium)  
 `[08/10 16:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[08/10 12:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
-`[08/09 16:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[08/09 16:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
 `[08/09 14:59]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#143`](https://github.com//utkarsh006/LeetCode-Grind/issues/143 'JAN 24: Detect Capital ') in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
 `[08/08 18:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[08/08 18:14]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#5`](https://github.com//Rayman-Sodhi/Clone-IT/issues/5 'Add Website Clones ') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
@@ -276,8 +277,6 @@ No activity tracked
 `[07/20 05:26]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind) to [gurjeetsinghvirdee/LeetCode-Grind](https://github.com/gurjeetsinghvirdee/LeetCode-Grind)  
 `[07/20 05:19]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#21`](https://github.com//utkarsh006/LeetCode-Grind/issues/21 'Adding .cpp extension in all files') in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
 `[07/20 05:19]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#21`](https://github.com//utkarsh006/LeetCode-Grind/issues/21 'Adding .cpp extension in all files') in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
-`[07/19 13:52]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#694`](https://github.com//Rayman-Sodhi/Clone-IT/pull/694 'paytm clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[07/19 09:18]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#694`](https://github.com//Rayman-Sodhi/Clone-IT/pull/694 'paytm clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

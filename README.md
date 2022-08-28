@@ -43,7 +43,7 @@ I'm Gurjeet Singh Virdee, A Self-taught MERN Stack Developer and UI Designer, Cu
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JSON   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka--> 

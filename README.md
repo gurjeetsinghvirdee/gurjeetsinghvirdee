@@ -1,4 +1,4 @@
-## Hey everyone
+## Hey Everyone!
 
 <p align="center">
     <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/gitartwork.svg" />

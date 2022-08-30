@@ -91,14 +91,15 @@ JSON         5 mins          █▒░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[08/30 08:40]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#187`](https://github.com//utkarsh006/LeetCode-Grind/issues/187 'Aug 23 Daily Challenge ') in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
 `[08/29 17:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[08/29 14:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nishkarsh800/LeetCode-Contests](https://github.com/nishkarsh800/LeetCode-Contests)  
 `[08/27 20:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [gurjeetsinghvirdee/Leet-Blog](https://github.com/gurjeetsinghvirdee/Leet-Blog)  
 `[08/26 16:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[08/26 11:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [utkarsh006/Algo-Master-Sheet](https://github.com/utkarsh006/Algo-Master-Sheet)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[08/26 11:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [utkarsh006/Algo-Master-Sheet](https://github.com/utkarsh006/Algo-Master-Sheet)  
 `[08/25 16:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[08/24 18:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[08/24 10:14]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#187`](https://github.com//utkarsh006/LeetCode-Grind/issues/187 'Aug 23 Daily Challenge ') in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
@@ -254,7 +255,6 @@ JSON         5 mins          █▒░░░░░░░░░░░░░░░
 `[07/22 16:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`card`](https://github.com/gurjeetsinghvirdee/Embellish/tree/card) in [gurjeetsinghvirdee/Embellish](https://github.com/gurjeetsinghvirdee/Embellish)  
 `[07/22 16:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `26` commits in [gurjeetsinghvirdee/Embellish](https://github.com/gurjeetsinghvirdee/Embellish)  
 `[07/22 13:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#271`](https://github.com//siddhi-244/Embellish/issues/271 'Glassmorphism Card') in [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish)  
-`[07/22 13:25]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#36`](https://github.com//utkarsh006/LeetCode-Grind/issues/36 'May Challenges Readme') in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
 
 </details>
 <!--END_SECTION:activity-->

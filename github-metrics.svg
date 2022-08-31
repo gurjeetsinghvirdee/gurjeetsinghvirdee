@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.2407116361652" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.2407116361652" y="0" width="33.474769133316016" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="416.71548076948125" y="0" width="27.52426901163216" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="444.2397497811134" y="0" width="9.795080452490746" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="454.03483023360417" y="0" width="4.3930566497637455" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="458.4278868833679" y="0" width="0.6070901311616045" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.0349770145295" y="0" width="0.5813453904418373" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.6163224049713" y="0" width="0.38367759502868143" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.2428700147971" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.2428700147971" y="0" width="33.474957660328435" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="416.7178276751256" y="0" width="27.52442402594116" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="444.2422517010667" y="0" width="9.79513561753899" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="454.03738731860574" y="0" width="4.390490710756667" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="458.42787802936243" y="0" width="0.6070935502408593" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.0349715796033" y="0" width="0.5813486645289331" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.6163202441322" y="0" width="0.3836797558678029" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2547,7 +2547,7 @@ Labels removed</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="102.30000000000001 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="102.50666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2569,10 +2569,10 @@ Labels removed</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">1990</div>
+                                        <div class="value">1992</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 1990 times</div>
+                                <div class="text">Repositories have been deployed 1992 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3249,7 +3249,7 @@ Labels removed</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Aug 2022, 22:53:42 (timezone Asia/Calcutta) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 31 Aug 2022, 23:59:50 (timezone Asia/Calcutta) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -240,7 +240,6 @@ No activity tracked
 `[07/23 14:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#274`](https://github.com//siddhi-244/Embellish/issues/274 'Drag & Drop Card Added') in [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish)  
 `[07/23 14:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Embellish](https://github.com/gurjeetsinghvirdee/Embellish)  
 `[07/23 10:47]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#38`](https://github.com//utkarsh006/LeetCode-Grind/issues/38 'JULY 22 : Partition List') in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
-`[07/23 10:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/LeetCode-Grind](https://github.com/gurjeetsinghvirdee/LeetCode-Grind)  
 
 </details>
 <!--END_SECTION:activity-->

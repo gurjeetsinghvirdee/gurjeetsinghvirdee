@@ -82,14 +82,18 @@ CSS        0 secs          █▒░░░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[09/10 15:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
+`[09/10 16:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
+`[09/10 16:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2`](https://github.com//gurjeetsinghvirdee/Medictry/pull/2 'Add .circleci/config.yml') in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
+`[09/10 16:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `circleci-project-setup` from [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
+`[09/10 16:00]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//gurjeetsinghvirdee/Medictry/pull/2 'Add .circleci/config.yml') in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
+`[09/10 15:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[09/10 15:20]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1`](https://github.com//gurjeetsinghvirdee/Medictry/pull/1 'Add .circleci/config.yml') in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
 `[09/10 15:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
 `[09/10 15:15]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//gurjeetsinghvirdee/Medictry/pull/1 'Add .circleci/config.yml') in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
 `[09/10 15:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[09/10 15:15]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`circleci-project-setup`](https://github.com/gurjeetsinghvirdee/Medictry/tree/circleci-project-setup) in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
 `[09/10 15:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
 `[09/10 15:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `main` from [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
@@ -240,10 +244,6 @@ CSS        0 secs          █▒░░░░░░░░░░░░░░░�
 `[07/24 12:38]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#276`](https://github.com//siddhi-244/Embellish/issues/276 'Day Night Hover effect Added') in [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish)  
 `[07/24 12:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Embellish](https://github.com/gurjeetsinghvirdee/Embellish)  
 `[07/24 11:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [gurjeetsinghvirdee/Leetcode-in-JS](https://github.com/gurjeetsinghvirdee/Leetcode-in-JS)  
-`[07/24 11:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[07/24 10:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Leetcode-in-JS](https://github.com/gurjeetsinghvirdee/Leetcode-in-JS)  
-`[07/24 08:35]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/Leetcode-in-JS/tree/master) in [gurjeetsinghvirdee/Leetcode-in-JS](https://github.com/gurjeetsinghvirdee/Leetcode-in-JS)  
-`[07/24 08:34]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/Leetcode-in-JS](https://github.com/gurjeetsinghvirdee/Leetcode-in-JS)  
 
 </details>
 <!--END_SECTION:activity-->

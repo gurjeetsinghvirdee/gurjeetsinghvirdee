@@ -85,7 +85,7 @@ XML          2 mins          ▓░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[09/12 15:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
+`[09/12 16:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
 `[09/11 17:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Berlywud](https://github.com/gurjeetsinghvirdee/Berlywud)  
 `[09/11 15:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
 `[09/10 16:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2`](https://github.com//gurjeetsinghvirdee/Medictry/pull/2 'Add .circleci/config.yml') in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
@@ -244,8 +244,6 @@ XML          2 mins          ▓░░░░░░░░░░░░░░░░
 `[07/25 16:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [gurjeetsinghvirdee/GSGrihSangini](https://github.com/gurjeetsinghvirdee/GSGrihSangini)  
 `[07/25 15:48]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [KaizenGirl1111/GSGrihSangini](https://github.com/KaizenGirl1111/GSGrihSangini) to [gurjeetsinghvirdee/GSGrihSangini](https://github.com/gurjeetsinghvirdee/GSGrihSangini)  
 `[07/25 15:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [gurjeetsinghvirdee/GSGrihSangini](https://github.com/gurjeetsinghvirdee/GSGrihSangini)  
-`[07/25 09:15]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1727`](https://github.com//khushi-purwar/WebDev-ProjectKart/issues/1727 'Layout improvement') in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)  
-`[07/24 13:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `49` commits in [gurjeetsinghvirdee/WebDev-ProjectKart](https://github.com/gurjeetsinghvirdee/WebDev-ProjectKart)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -85,14 +85,19 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[09/19 17:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Medictry/Web-app](https://github.com/Medictry/Web-app)  
+`[09/19 17:51]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//Medictry/Web-app/pull/1 'Create LICENSE.txt') in [Medictry/Web-app](https://github.com/Medictry/Web-app)  
+`[09/19 17:49]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//Medictry/Web-app/pull/1 'Create LICENSE.txt') in [Medictry/Web-app](https://github.com/Medictry/Web-app)  
+`[09/19 17:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`add-license-1`](https://github.com/Medictry/Web-app/tree/add-license-1) in [Medictry/Web-app](https://github.com/Medictry/Web-app)  
+`[09/19 17:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/Medictry/Web-app/tree/master) in [Medictry/Web-app](https://github.com/Medictry/Web-app)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[09/19 07:24]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Medictry/Web-app](https://github.com/Medictry/Web-app)  
 `[09/18 18:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Leet-Blog](https://github.com/gurjeetsinghvirdee/Leet-Blog)  
 `[09/17 15:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
 `[09/16 17:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
 `[09/16 16:20]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#226`](https://github.com//utkarsh006/LeetCode-Grind/pull/226 'Create CODE_OF_CONDUCT.md') in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[09/16 16:20]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#226`](https://github.com//utkarsh006/LeetCode-Grind/pull/226 'Create CODE_OF_CONDUCT.md') in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
 `[09/16 16:20]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`add-code-of-conduct-1`](https://github.com/utkarsh006/LeetCode-Grind/tree/add-code-of-conduct-1) in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
 `[09/16 14:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dhirendra9032/TrivagoClone](https://github.com/dhirendra9032/TrivagoClone)  
@@ -242,10 +247,6 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 `[07/28 09:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `51` commits in [gurjeetsinghvirdee/LeetCode-Grind](https://github.com/gurjeetsinghvirdee/LeetCode-Grind)  
 `[07/28 09:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
 `[07/28 09:22]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#697`](https://github.com//Rayman-Sodhi/Clone-IT/issues/697 'zomato clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[07/27 06:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#70`](https://github.com//utkarsh006/LeetCode-Grind/issues/70 'July 27 : Flatten Binary Tree to Linked List') in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
-`[07/27 06:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#289`](https://github.com//pranjay-poddar/Dev-Geeks/issues/289 'Google Search Engine Clone') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
-`[07/27 06:00]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#289`](https://github.com//pranjay-poddar/Dev-Geeks/issues/289 'Google Search Engine Clone') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
-`[07/27 04:23]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#696`](https://github.com//Rayman-Sodhi/Clone-IT/issues/696 'Zomato Clone') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

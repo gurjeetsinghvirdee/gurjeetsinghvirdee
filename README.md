@@ -84,7 +84,7 @@ JSON         0 secs          █▓░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[09/20 15:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Medictry/Web-app](https://github.com/Medictry/Web-app)  
+`[09/20 16:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Medictry/Web-app](https://github.com/Medictry/Web-app)  
 `[09/19 17:51]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//Medictry/Web-app/pull/1 'Create LICENSE.txt') in [Medictry/Web-app](https://github.com/Medictry/Web-app)  
 `[09/19 17:49]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//Medictry/Web-app/pull/1 'Create LICENSE.txt') in [Medictry/Web-app](https://github.com/Medictry/Web-app)  
 `[09/19 17:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`add-license-1`](https://github.com/Medictry/Web-app/tree/add-license-1) in [Medictry/Web-app](https://github.com/Medictry/Web-app)  
@@ -243,7 +243,7 @@ JSON         0 secs          █▓░░░░░░░░░░░░░░░
 `[07/28 09:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
 `[07/28 09:40]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#79`](https://github.com//utkarsh006/LeetCode-Grind/pull/79 'Issue template fixed') in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
 `[07/28 09:40]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#79`](https://github.com//utkarsh006/LeetCode-Grind/pull/79 'Issue template fixed') in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
-`[07/28 09:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `51` commits in [gurjeetsinghvirdee/LeetCode-Grind](https://github.com/gurjeetsinghvirdee/LeetCode-Grind)  
+`[07/28 09:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/LeetCode-Grind](https://github.com/gurjeetsinghvirdee/LeetCode-Grind)  
 
 </details>
 <!--END_SECTION:activity-->

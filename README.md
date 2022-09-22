@@ -87,14 +87,16 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[09/22 15:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
+`[09/22 16:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
+`[09/22 16:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
+`[09/22 16:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
 `[09/21 15:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Learn-Kotlin](https://github.com/gurjeetsinghvirdee/Learn-Kotlin)  
 `[09/21 15:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
-`[09/21 15:24]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#10`](https://github.com//utkarsh006/Learn-Kotlin/pull/10 'basic syntax removed') in [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
-`[09/21 15:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[09/21 15:24]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#10`](https://github.com//utkarsh006/Learn-Kotlin/pull/10 'basic syntax removed') in [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
+`[09/21 15:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
 `[09/21 15:24]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#10`](https://github.com//utkarsh006/Learn-Kotlin/pull/10 'basic syntax removed') in [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
 `[09/21 15:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/Learn-Kotlin](https://github.com/gurjeetsinghvirdee/Learn-Kotlin)  
 `[09/21 15:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
@@ -266,9 +268,6 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 `[07/30 14:23]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#197`](https://github.com//KaizenGirl1111/GSGrihSangini/pull/197 'textarea used instead of input') in [KaizenGirl1111/GSGrihSangini](https://github.com/KaizenGirl1111/GSGrihSangini)  
 `[07/30 14:22]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#191`](https://github.com//KaizenGirl1111/GSGrihSangini/issues/191 'Add category Form(Backend)') in [KaizenGirl1111/GSGrihSangini](https://github.com/KaizenGirl1111/GSGrihSangini)  
 `[07/30 14:22]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#191`](https://github.com//KaizenGirl1111/GSGrihSangini/issues/191 'Add category Form(Backend)') in [KaizenGirl1111/GSGrihSangini](https://github.com/KaizenGirl1111/GSGrihSangini)  
-`[07/30 14:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [KaizenGirl1111/GSGrihSangini](https://github.com/KaizenGirl1111/GSGrihSangini)  
-`[07/30 14:18]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#198`](https://github.com//KaizenGirl1111/GSGrihSangini/pull/198 'Frontend-AddCategory') in [KaizenGirl1111/GSGrihSangini](https://github.com/KaizenGirl1111/GSGrihSangini)  
-`[07/30 14:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `19` commits in [KaizenGirl1111/GSGrihSangini](https://github.com/KaizenGirl1111/GSGrihSangini)  
 
 </details>
 <!--END_SECTION:activity-->

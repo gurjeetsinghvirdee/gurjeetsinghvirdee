@@ -8,6 +8,14 @@
 
 I'm Gurjeet Singh Virdee, A Self-taught MERN Stack Developer and UI Designer, Currently in Second Year Studying BCA, Collabing with [Aviyel](https://aviyel.com/discussions) as Content Creator, Former Technical Team Member & Mentored 150+ Contributors on [GSSoC'22](https://gssoc.girlscript.tech/) and also A Technical Content Writer at [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
+<!------------------------------------------- Spotify Profile --------------------------------------------->
+
+<div align="center">
+    <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31xcftnaufneyotbwgeuezrzheky&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31xcftnaufneyotbwgeuezrzheky&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true" /></a>
+</div>
+
+<br>
+
 <p align="center">
     <a href="https://gurjeet.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/@gurjeetsingh-5C87FE?style=for-the-badge&logo=hashnode&logoColor=white" width="130" height="22" alt="hashnode">
@@ -328,7 +336,6 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 </details><br>       
         
         
-
 ##
 
 ## 📈 Github Activity Graph
@@ -337,10 +344,3 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&theme=synthwave-84" />
   <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/output/github-contribution-grid-snake.svg" /> 
 </p> 
-        
-## 🎵 Current Song Playing
-        
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31xcftnaufneyotbwgeuezrzheky&redirect=true" target="_blank"> 
-  <img width="20%" src="https://spotify-github-profile.vercel.app/api/view?uid=31xcftnaufneyotbwgeuezrzheky&cover_image=true&theme=default&bar_color_cover=true" />
-</div>            

@@ -4,17 +4,7 @@
     <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/gitartwork.svg" />
 </p>   
 
-
-
-I'm Gurjeet Singh Virdee, A Self-taught MERN Stack Developer and UI Designer, Currently in Second Year Studying BCA, Collabing with [Aviyel](https://aviyel.com/discussions) as Content Creator, Former Technical Team Member & Mentored 150+ Contributors on [GSSoC'22](https://gssoc.girlscript.tech/) and also A Technical Content Writer at [GeeksforGeeks](https://www.geeksforgeeks.org/)
-
-<!------------------------------------------- Spotify Profile --------------------------------------------->
-
-<div align="center">
-    <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31xcftnaufneyotbwgeuezrzheky&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31xcftnaufneyotbwgeuezrzheky&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true" /></a>
-</div>
-
-<br>
+I'm a Self-taught MERN Stack Developer and UI Designer, Currently in Second Year Studying BCA, Co-Founder at [Medictry](https://www.linkedin.com/company/89489745/admin/), Collabing with [Aviyel](https://aviyel.com/discussions) as Content Creator, Former Technical Team Member & Mentored 150+ Contributors on [GSSoC'22](https://gssoc.girlscript.tech/) and also A Technical Content Writer at [GeeksforGeeks](https://www.geeksforgeeks.org/)  
 
 <p align="center">
     <a href="https://gurjeet.hashnode.dev/" target="_blank">
@@ -31,8 +21,6 @@ I'm Gurjeet Singh Virdee, A Self-taught MERN Stack Developer and UI Designer, Cu
 <div align="center"> 
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgurjeetsinghvirdee%2Fgurjeetsinghvirdee&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
 </div>
-
-##         
         
 <ul align="left">
   <li> 🏢 Co-Founder at <a href="https://www.linkedin.com/company/medictry/">Medictry</a>
@@ -47,8 +35,12 @@ I'm Gurjeet Singh Virdee, A Self-taught MERN Stack Developer and UI Designer, Cu
     <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">@GeeksforGeeks</a>
   </li>
 </ul>  
-        
-##        
+
+<!------------------------------------------- Spotify Profile --------------------------------------------->
+
+<div align="center">
+    <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31xcftnaufneyotbwgeuezrzheky&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31xcftnaufneyotbwgeuezrzheky&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true" /></a>
+</div>    
   
 ## 📊 Weekly Developement Breakdown
   

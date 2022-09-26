@@ -331,7 +331,7 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 ##
        
 <details>
-<summary> <b> 🏆 GitHhub Achievements </b></summary>
+<summary> <b> 🏆 GitHhub Metrics </b></summary>
 <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-metrics.svg" />
 </details><br>       
         

@@ -23,11 +23,10 @@ I'm a Self-taught MERN Stack Developer and UI Designer, Currently in Second Year
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgurjeetsinghvirdee%2Fgurjeetsinghvirdee&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
 </div>
 
-
-<img align="right" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/src/Assets/vector.gif" width="350" height="220" />
-
-        
+<br>
+  
 <ul align="left">
+    <img align="right" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/src/Assets/vector.gif" width="350" height="200" />
   <li> 🏢 Co-Founder at <a href="https://www.linkedin.com/company/medictry/">Medictry</a>
   <li> 💻 Contributor & Project Admin at HSOC'22 </li>
   <li> 🎉 Secured 10th Rank Globally in GSSoC'22 </li>

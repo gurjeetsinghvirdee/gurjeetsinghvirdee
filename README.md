@@ -320,18 +320,14 @@ XML        3 mins          ▓░░░░░░░░░░░░░░░░�
         <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=fff" alt="windows" />
      </p>
   </details>
-
-        
+ 
 ##
        
 <details>
 <summary> <b> 🏆 GitHhub Metrics </b></summary>
 <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-metrics.svg" />
-</details><br>       
-        
-        
-##
-
+</details>   
+      
 ## 📈 Github Activity Graph
 
 <p align="center">

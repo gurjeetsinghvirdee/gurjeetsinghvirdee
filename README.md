@@ -89,14 +89,15 @@ XML        3 mins          ▓░░░░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[09/28 10:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [siddhi-244/HacktoberFest-Checklist](https://github.com/siddhi-244/HacktoberFest-Checklist)  
 `[09/27 13:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Eazy-Android](https://github.com/gurjeetsinghvirdee/Eazy-Android)  
 `[09/27 13:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[09/26 17:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/LeetCode-Grind](https://github.com/gurjeetsinghvirdee/LeetCode-Grind)  
 `[09/26 17:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[09/26 15:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Eazy-Android](https://github.com/gurjeetsinghvirdee/Eazy-Android)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[09/26 15:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Eazy-Android](https://github.com/gurjeetsinghvirdee/Eazy-Android)  
 `[09/26 15:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[09/26 15:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [utkarsh006/Eazy-Android](https://github.com/utkarsh006/Eazy-Android)  
 `[09/26 15:04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#30`](https://github.com//utkarsh006/Eazy-Android/pull/30 'updated links') in [utkarsh006/Eazy-Android](https://github.com/utkarsh006/Eazy-Android)  
@@ -275,7 +276,6 @@ XML        3 mins          ▓░░░░░░░░░░░░░░░░�
 `[08/20 10:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#175`](https://github.com//utkarsh006/LeetCode-Grind/issues/175 'AUG 20 : Minimum Number of Refueling Stops') in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
 `[08/19 16:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
 `[08/18 17:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/Leetcode-in-JS](https://github.com/gurjeetsinghvirdee/Leetcode-in-JS)  
-`[08/17 16:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 
 </details>
 <!--END_SECTION:activity-->

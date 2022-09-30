@@ -92,14 +92,22 @@ YAML         0 secs          ░░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[09/30 22:18]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `IDE` from [gurjeetsinghvirdee/Dev-Geeks](https://github.com/gurjeetsinghvirdee/Dev-Geeks)  
+`[09/30 22:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Dev-Geeks](https://github.com/gurjeetsinghvirdee/Dev-Geeks)  
+`[09/30 22:12]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#467`](https://github.com//pranjay-poddar/Dev-Geeks/pull/467 'Markdown Editor Added') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
+`[09/30 22:10]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`editor`](https://github.com/gurjeetsinghvirdee/Dev-Geeks/tree/editor) in [gurjeetsinghvirdee/Dev-Geeks](https://github.com/gurjeetsinghvirdee/Dev-Geeks)  
+`[09/30 21:52]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#466`](https://github.com//pranjay-poddar/Dev-Geeks/pull/466 'Ide') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[09/30 21:51]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#466`](https://github.com//pranjay-poddar/Dev-Geeks/pull/466 'Ide') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
+`[09/30 21:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `718` commits in [gurjeetsinghvirdee/Dev-Geeks](https://github.com/gurjeetsinghvirdee/Dev-Geeks)  
+`[09/30 21:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`IDE`](https://github.com/gurjeetsinghvirdee/Dev-Geeks/tree/IDE) in [gurjeetsinghvirdee/Dev-Geeks](https://github.com/gurjeetsinghvirdee/Dev-Geeks)  
 `[09/30 20:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[09/30 20:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/DSA-4-All](https://github.com/gurjeetsinghvirdee/DSA-4-All)  
 `[09/30 20:38]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#34`](https://github.com//ayu8/DSA-4-All/pull/34 'car pooling.cpp added') in [ayu8/DSA-4-All](https://github.com/ayu8/DSA-4-All)  
 `[09/30 20:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/DSA-4-All](https://github.com/gurjeetsinghvirdee/DSA-4-All)  
 `[09/30 20:36]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`sorting`](https://github.com/gurjeetsinghvirdee/DSA-4-All/tree/sorting) in [gurjeetsinghvirdee/DSA-4-All](https://github.com/gurjeetsinghvirdee/DSA-4-All)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[09/30 20:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
 `[09/30 20:16]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#32`](https://github.com//ayu8/DSA-4-All/issues/32 'Car pooling') in [ayu8/DSA-4-All](https://github.com/ayu8/DSA-4-All)  
 `[09/30 20:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [gurjeetsinghvirdee/DSA-4-All](https://github.com/gurjeetsinghvirdee/DSA-4-All)  
@@ -285,14 +293,6 @@ YAML         0 secs          ░░░░░░░░░░░░░░░░░
 `[09/10 15:15]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`circleci-project-setup`](https://github.com/gurjeetsinghvirdee/Medictry/tree/circleci-project-setup) in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
 `[09/10 15:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
 `[09/10 15:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `main` from [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
-`[09/10 15:05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/Medictry/tree/master) in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
-`[09/10 15:04]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/sedfvsd](https://github.com/gurjeetsinghvirdee/sedfvsd)  
-`[09/10 14:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
-`[09/09 17:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[09/08 16:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
-`[09/08 15:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
-`[09/08 15:58]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#225`](https://github.com//utkarsh006/LeetCode-Grind/pull/225 'PR labeler update') in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
-`[09/08 15:58]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#225`](https://github.com//utkarsh006/LeetCode-Grind/pull/225 'PR labeler update') in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
 
 </details>
 <!--END_SECTION:activity-->

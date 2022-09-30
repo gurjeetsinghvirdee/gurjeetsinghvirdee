@@ -32,8 +32,7 @@ I'm a Self-taught MERN Stack Developer and UI Designer, Currently in Second Year
   <li> 💻 Contributor & Project Admin at HSOC'22 </li>
   <li> 🎉 Secured 10th Rank Globally in GSSoC'22 </li>
   <li> 🏫 Currently learning DSA </li>
-  <li> 🤝 Collaborator at <a href="https://github.com/Rayman-Sodhi/Clone-IT"> Clone-IT </a> , <a href="https://github.com/utkarsh006/LeetCode-Grind"> 
-  LeetCode-Grind </a> & <a href="https://github.com/utkarsh006/Eazy-Android"> Eazy-Android </a>
+  <li> 🤝 Collaborator at <a href="https://github.com/Rayman-Sodhi/Clone-IT"> Clone-IT </a> & <a href="https://github.com/utkarsh006/Eazy-Android"> Eazy-Android </a>
   </li>
   <li> 💬 Ask me about Anything </li>
   <li> 📕 Read My Articles at 

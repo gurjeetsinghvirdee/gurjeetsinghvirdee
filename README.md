@@ -93,14 +93,18 @@ YAML         0 secs          ░░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[09/30 19:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#23`](https://github.com//ayu8/DSA-4-All/issues/23 '132 Pattern') in [ayu8/DSA-4-All](https://github.com/ayu8/DSA-4-All)  
+`[09/30 19:07]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#23`](https://github.com//ayu8/DSA-4-All/issues/23 '132 Pattern') in [ayu8/DSA-4-All](https://github.com/ayu8/DSA-4-All)  
+`[09/30 19:05]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ayu8/DSA-4-All](https://github.com/ayu8/DSA-4-All) to [gurjeetsinghvirdee/DSA-4-All](https://github.com/gurjeetsinghvirdee/DSA-4-All)  
+`[09/30 19:05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#22`](https://github.com//ayu8/DSA-4-All/issues/22 'Backspace String Compare') in [ayu8/DSA-4-All](https://github.com/ayu8/DSA-4-All)  
 `[09/30 18:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[09/30 18:54]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#6`](https://github.com//diwash007/PDF-Dark-Mode/pull/6 'Guidelines added') in [diwash007/PDF-Dark-Mode](https://github.com/diwash007/PDF-Dark-Mode)  
 `[09/30 18:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/PDF-Dark-Mode](https://github.com/gurjeetsinghvirdee/PDF-Dark-Mode)  
 `[09/30 18:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//gurjeetsinghvirdee/PDF-Dark-Mode/pull/1 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/PDF-Dark-Mode](https://github.com/gurjeetsinghvirdee/PDF-Dark-Mode)  
 `[09/30 18:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/PDF-Dark-Mode](https://github.com/gurjeetsinghvirdee/PDF-Dark-Mode)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[09/30 18:38]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [diwash007/PDF-Dark-Mode](https://github.com/diwash007/PDF-Dark-Mode) to [gurjeetsinghvirdee/PDF-Dark-Mode](https://github.com/gurjeetsinghvirdee/PDF-Dark-Mode)  
 `[09/30 18:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[09/30 18:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1`](https://github.com//gurjeetsinghvirdee/Dev-Geeks/pull/1 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/Dev-Geeks](https://github.com/gurjeetsinghvirdee/Dev-Geeks)  
@@ -287,10 +291,6 @@ YAML         0 secs          ░░░░░░░░░░░░░░░░░
 `[08/30 15:53]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#708`](https://github.com//Rayman-Sodhi/Clone-IT/pull/708 'Labels removed') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[08/30 15:52]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#708`](https://github.com//Rayman-Sodhi/Clone-IT/pull/708 'Labels removed') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[08/30 15:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
-`[08/30 08:40]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#187`](https://github.com//utkarsh006/LeetCode-Grind/issues/187 'Aug 23 Daily Challenge ') in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
-`[08/29 17:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[08/29 14:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nishkarsh800/LeetCode-Contests](https://github.com/nishkarsh800/LeetCode-Contests)  
-`[08/27 20:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Leet-Blog](https://github.com/gurjeetsinghvirdee/Leet-Blog)  
 
 </details>
 <!--END_SECTION:activity-->

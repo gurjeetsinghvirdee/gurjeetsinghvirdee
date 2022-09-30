@@ -26,7 +26,7 @@ I'm a Self-taught MERN Stack Developer and UI Designer, Currently in Second Year
 <br>
   
 <ul align="left">
-    <img align="right" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/src/Assets/vector.gif" width="320" height="220" />
+    <img align="right" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/src/Assets/vector.gif" width="320" height="200" />
   <li> 🏢 Co-Founder at <a href="https://www.linkedin.com/company/medictry/">Medictry</a>
   <li> 🧑‍💻 Contributing at Hactoberfest'22 </li>
   <li> 💻 Contributor & Project Admin at HSOC'22 </li>

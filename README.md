@@ -92,14 +92,20 @@ YAML         0 secs          ░░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[10/01 07:45]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6`](https://github.com//diwash007/PDF-Dark-Mode/issues/6 'Guidelines added') in [diwash007/PDF-Dark-Mode](https://github.com/diwash007/PDF-Dark-Mode)  
+`[10/01 07:42]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//gurjeetsinghvirdee/PDF-Dark-Mode/pull/2 'Revert "[ImgBot] Optimize images"') in [gurjeetsinghvirdee/PDF-Dark-Mode](https://github.com/gurjeetsinghvirdee/PDF-Dark-Mode)  
+`[10/01 07:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/PDF-Dark-Mode](https://github.com/gurjeetsinghvirdee/PDF-Dark-Mode)  
+`[10/01 07:41]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//gurjeetsinghvirdee/PDF-Dark-Mode/pull/2 'Revert "[ImgBot] Optimize images"') in [gurjeetsinghvirdee/PDF-Dark-Mode](https://github.com/gurjeetsinghvirdee/PDF-Dark-Mode)  
+`[10/01 07:41]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`revert-1-imgbot`](https://github.com/gurjeetsinghvirdee/PDF-Dark-Mode/tree/revert-1-imgbot) in [gurjeetsinghvirdee/PDF-Dark-Mode](https://github.com/gurjeetsinghvirdee/PDF-Dark-Mode)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[10/01 07:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/PDF-Dark-Mode](https://github.com/gurjeetsinghvirdee/PDF-Dark-Mode)  
 `[10/01 06:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [gurjeetsinghvirdee/Dev-Geeks](https://github.com/gurjeetsinghvirdee/Dev-Geeks)  
 `[10/01 06:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [utkarsh006/Eazy-Android](https://github.com/utkarsh006/Eazy-Android)  
 `[09/30 22:18]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `IDE` from [gurjeetsinghvirdee/Dev-Geeks](https://github.com/gurjeetsinghvirdee/Dev-Geeks)  
 `[09/30 22:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Dev-Geeks](https://github.com/gurjeetsinghvirdee/Dev-Geeks)  
 `[09/30 22:12]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#467`](https://github.com//pranjay-poddar/Dev-Geeks/pull/467 'Markdown Editor Added') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[09/30 22:10]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`editor`](https://github.com/gurjeetsinghvirdee/Dev-Geeks/tree/editor) in [gurjeetsinghvirdee/Dev-Geeks](https://github.com/gurjeetsinghvirdee/Dev-Geeks)  
 `[09/30 21:52]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#466`](https://github.com//pranjay-poddar/Dev-Geeks/pull/466 'Ide') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
 `[09/30 21:51]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#466`](https://github.com//pranjay-poddar/Dev-Geeks/pull/466 'Ide') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
@@ -287,11 +293,6 @@ YAML         0 secs          ░░░░░░░░░░░░░░░░░
 `[09/10 16:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2`](https://github.com//gurjeetsinghvirdee/Medictry/pull/2 'Add .circleci/config.yml') in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
 `[09/10 16:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `circleci-project-setup` from [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
 `[09/10 16:00]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//gurjeetsinghvirdee/Medictry/pull/2 'Add .circleci/config.yml') in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
-`[09/10 15:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
-`[09/10 15:20]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1`](https://github.com//gurjeetsinghvirdee/Medictry/pull/1 'Add .circleci/config.yml') in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
-`[09/10 15:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
-`[09/10 15:15]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//gurjeetsinghvirdee/Medictry/pull/1 'Add .circleci/config.yml') in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
-`[09/10 15:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
 
 </details>
 <!--END_SECTION:activity-->

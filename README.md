@@ -92,14 +92,20 @@ JSON         4 mins          ▓░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[10/03 18:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`hash-map`](https://github.com/gurjeetsinghvirdee/DSA-4-All/tree/hash-map) in [gurjeetsinghvirdee/DSA-4-All](https://github.com/gurjeetsinghvirdee/DSA-4-All)  
+`[10/03 18:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [gurjeetsinghvirdee/DSA-4-All](https://github.com/gurjeetsinghvirdee/DSA-4-All)  
+`[10/03 18:45]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#103`](https://github.com//ayu8/DSA-4-All/pull/103 'Create Search in Rotated Sorted Array II.cpp') in [ayu8/DSA-4-All](https://github.com/ayu8/DSA-4-All)  
+`[10/03 18:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/DSA-4-All](https://github.com/gurjeetsinghvirdee/DSA-4-All)  
+`[10/03 18:36]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`binary`](https://github.com/gurjeetsinghvirdee/DSA-4-All/tree/binary) in [gurjeetsinghvirdee/DSA-4-All](https://github.com/gurjeetsinghvirdee/DSA-4-All)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[10/03 18:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [gurjeetsinghvirdee/DSA-4-All](https://github.com/gurjeetsinghvirdee/DSA-4-All)  
 `[10/03 13:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[10/03 13:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [gurjeetsinghvirdee/Dev-Geeks](https://github.com/gurjeetsinghvirdee/Dev-Geeks)  
 `[10/03 09:19]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#540`](https://github.com//pranjay-poddar/Dev-Geeks/pull/540 '2048 game in Python') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
 `[10/03 09:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Dev-Geeks](https://github.com/gurjeetsinghvirdee/Dev-Geeks)  
 `[10/03 08:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [gurjeetsinghvirdee/Eazy-Android](https://github.com/gurjeetsinghvirdee/Eazy-Android)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/03 07:54]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#7`](https://github.com//Rick-mad-lab/Todolist/issues/7 'Add Contribution Guidelines') in [Rick-mad-lab/Todolist](https://github.com/Rick-mad-lab/Todolist)  
 `[10/03 07:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#90`](https://github.com//ayu8/DSA-4-All/issues/90 'Reduce Array Size to The Half') in [ayu8/DSA-4-All](https://github.com/ayu8/DSA-4-All)  
 `[10/03 07:44]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#89`](https://github.com//ayu8/DSA-4-All/issues/89 'Search in Rotated Sorted Array ll') in [ayu8/DSA-4-All](https://github.com/ayu8/DSA-4-All)  
@@ -300,8 +306,6 @@ JSON         4 mins          ▓░░░░░░░░░░░░░░░░
 `[09/21 13:38]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//utkarsh006/Learn-Kotlin/pull/1 'Create CODE_OF_CONDUCT.md') in [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
 `[09/21 13:38]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`add-code-of-conduct-1`](https://github.com/utkarsh006/Learn-Kotlin/tree/add-code-of-conduct-1) in [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
 `[09/20 17:28]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin) to [gurjeetsinghvirdee/Learn-Kotlin](https://github.com/gurjeetsinghvirdee/Learn-Kotlin)  
-`[09/18 18:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Leet-Blog](https://github.com/gurjeetsinghvirdee/Leet-Blog)  
-`[09/17 15:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/Medictry](https://github.com/gurjeetsinghvirdee/Medictry)  
 
 </details>
 <!--END_SECTION:activity-->

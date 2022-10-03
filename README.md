@@ -92,14 +92,20 @@ JSON         4 mins          ▓░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[10/03 19:21]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#709`](https://github.com//Rayman-Sodhi/Clone-IT/pull/709 'bugs fix') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[10/03 19:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[10/03 19:21]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#709`](https://github.com//Rayman-Sodhi/Clone-IT/pull/709 'bugs fix') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
+`[10/03 19:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
+`[10/03 19:09]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#104`](https://github.com//ayu8/DSA-4-All/pull/104 'Create Reduce_Array_Size_to_The_Half.cpp') in [ayu8/DSA-4-All](https://github.com/ayu8/DSA-4-All)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[10/03 19:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/DSA-4-All](https://github.com/gurjeetsinghvirdee/DSA-4-All)  
 `[10/03 18:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`hash-map`](https://github.com/gurjeetsinghvirdee/DSA-4-All/tree/hash-map) in [gurjeetsinghvirdee/DSA-4-All](https://github.com/gurjeetsinghvirdee/DSA-4-All)  
 `[10/03 18:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [gurjeetsinghvirdee/DSA-4-All](https://github.com/gurjeetsinghvirdee/DSA-4-All)  
 `[10/03 18:45]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#103`](https://github.com//ayu8/DSA-4-All/pull/103 'Create Search in Rotated Sorted Array II.cpp') in [ayu8/DSA-4-All](https://github.com/ayu8/DSA-4-All)  
 `[10/03 18:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/DSA-4-All](https://github.com/gurjeetsinghvirdee/DSA-4-All)  
 `[10/03 18:36]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`binary`](https://github.com/gurjeetsinghvirdee/DSA-4-All/tree/binary) in [gurjeetsinghvirdee/DSA-4-All](https://github.com/gurjeetsinghvirdee/DSA-4-All)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/03 18:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [gurjeetsinghvirdee/DSA-4-All](https://github.com/gurjeetsinghvirdee/DSA-4-All)  
 `[10/03 13:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[10/03 13:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [gurjeetsinghvirdee/Dev-Geeks](https://github.com/gurjeetsinghvirdee/Dev-Geeks)  

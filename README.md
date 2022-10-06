@@ -51,12 +51,12 @@ I'm a Self-taught MERN Stack Developer and UI Designer, Currently in Second Year
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 11 mins    ███████▒░░░░░░░░░░░░░░░░░   29.99 %
-HTML         50 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.22 %
-C++          49 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.97 %
-Markdown     33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-CSS          18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-JavaScript   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Python       1 hr 11 mins    ██████████░░░░░░░░░░░░░░░   39.93 %
+C++          49 mins         ███████░░░░░░░░░░░░░░░░░░   27.91 %
+Markdown     33 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
+JavaScript   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+HTML         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka--> 

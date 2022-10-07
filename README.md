@@ -48,7 +48,7 @@ I'm a Self-taught MERN Stack Developer and UI Designer, Currently in Second Year
 
 <!------------------------------------------- Hacktoberfest | Holopin Badges ------------------------------>
 
-### ✡️ Hactoberfest Badges
+## ✡️ Hactoberfest Badges
 
 [![@guri's Holopin board](https://holopin.io/api/user/board?user=guri)](https://holopin.io/@guri)
   

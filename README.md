@@ -45,6 +45,12 @@ I'm a Self-taught MERN Stack Developer and UI Designer, Currently in Second Year
 <div align="center">
     <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31xcftnaufneyotbwgeuezrzheky&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31xcftnaufneyotbwgeuezrzheky&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true" /></a>
 </div>    
+
+<!------------------------------------------- Hacktoberfest | Holopin Badges ------------------------------>
+
+### ✡️ Hactoberfest Badges
+
+[![@guri's Holopin board](https://holopin.io/api/user/board?user=guri)](https://holopin.io/@guri)
   
 ## 📊 Weekly Developement Breakdown
   

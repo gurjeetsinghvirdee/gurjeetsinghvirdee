@@ -309,9 +309,20 @@ No activity tracked
 </details>
 <!--END_SECTION:activity-->
         
-## 
+<!---------------------- OPEN SOUCRE CONTRIBUTIONS ---------------------->
         
-  <details>
+<details>
+    <summary><h3> OPEN SOURCE CONTRIBUTIONS </h3></summary>  
+    
+|S.No.|Open Source Program |Duration| Contribution Link|Role|Rewards|
+|---------|--------|-------|-------|----|-----|    
+| 1. |GirlScript Summer Of Code| 1st Mar - 31st May 2022 |  | Contributor | |    
+| 1. |GirlScript Summer Of Code| 1st Mar - 31st May 2022 |  | Mentor | |
+| 1. |GirlScript Summer Of Code| 1st Mar - 31st July 2022 |  | Technical Team | |
+    
+</details>
+        
+<details>
    <summary> <b> ⚛️ Frameworks, Languages & Other Tools </b> </summary> <br>
      <p align="center">
         <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="adobe xd" /> 
@@ -342,7 +353,7 @@ No activity tracked
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" />
         <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=fff" alt="windows" />
      </p>
-  </details>
+</details>
        
 <details>
     <summary> <b> 🏆 GitHhub Metrics </b></summary>

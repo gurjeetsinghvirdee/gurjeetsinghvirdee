@@ -55,6 +55,21 @@ No activity tracked
 <!--END_SECTION:waka--> 
 
 <a href="https://wakatime.com/@ff7098eb-56b3-4619-bbbb-86aad0fce365"><img src="https://wakatime.com/badge/user/ff7098eb-56b3-4619-bbbb-86aad0fce365.svg?style=for-the-badge" alt="Total time coded since Jul 28 2021" /></a> 
+
+<!---------------------- OPEN SOUCRE CONTRIBUTIONS ---------------------->
+        
+<details>
+    <summary><h3> OPEN SOURCE CONTRIBUTIONS </h3></summary>  
+    
+|S.No.|Open Source Program |Duration| Contribution Link|Role|Rewards|
+|---------|--------|-------|-------|----|-----|    
+| 1. | GirlScript Summer Of Code | 1st Mar - 31st May 2022 |  | Contributor | |    
+| 2. | GirlScript Summer Of Code | 1st Mar - 31st May 2022 | [Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend) & [WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart) | Mentor | |
+| 3. | GirlScript Summer Of Code | 1st Mar - 31st July 2022 | Discord Moderator | Technical Team |  |
+| 4. | Hack Club RAIT | 1st July - 30st September 2022 |  | Contributor | [Link](https://docs.google.com/document/d/1_ZutQmDbGkuFsbypF2oX_jbmFMf7OV-X4kr8xVs5J0w/edit) |
+| 5. | Hack Club RAIT | 1st July - 30st September 2022 |  | Project Admin | [Link](https://docs.google.com/document/d/1l2b850sK2UPsJBd8i8y1MKpfJtT3-KTNgAFqPGt_9sI/edit) |
+    
+</details>
         
 ## 💫 Github Stats
         
@@ -308,19 +323,6 @@ No activity tracked
 
 </details>
 <!--END_SECTION:activity-->
-        
-<!---------------------- OPEN SOUCRE CONTRIBUTIONS ---------------------->
-        
-<details>
-    <summary><h3> OPEN SOURCE CONTRIBUTIONS </h3></summary>  
-    
-|S.No.|Open Source Program |Duration| Contribution Link|Role|Rewards|
-|---------|--------|-------|-------|----|-----|    
-| 1. |GirlScript Summer Of Code| 1st Mar - 31st May 2022 |  | Contributor | |    
-| 1. |GirlScript Summer Of Code| 1st Mar - 31st May 2022 |  | Mentor | |
-| 1. |GirlScript Summer Of Code| 1st Mar - 31st July 2022 |  | Technical Team | |
-    
-</details>
         
 <details>
    <summary> <b> ⚛️ Frameworks, Languages & Other Tools </b> </summary> <br>

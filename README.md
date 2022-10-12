@@ -1,8 +1,6 @@
 ## Hey Everyone!
 
-<p align="center">
-    <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/gitartwork.svg" />
-</p>   
+[![@guri's Holopin board](https://holopin.io/api/user/board?user=guri)](https://holopin.io/@guri)
 
 I'm a Self-taught MERN Stack Developer and UI Designer, Currently in Second Year Studying BCA, Co-Founder at [Medictry](https://www.linkedin.com/company/89489745/admin/), Collabing with [Aviyel](https://aviyel.com/discussions) as Content Creator, Former Technical Team Member & Mentored 150+ Contributors on [GSSoC'22](https://gssoc.girlscript.tech/) and also A Technical Content Writer at [GeeksforGeeks](https://www.geeksforgeeks.org/)  
 
@@ -46,12 +44,6 @@ I'm a Self-taught MERN Stack Developer and UI Designer, Currently in Second Year
     <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31xcftnaufneyotbwgeuezrzheky&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31xcftnaufneyotbwgeuezrzheky&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true" /></a>
 </div>    
 
-<!------------------------------------------- Hacktoberfest | Holopin Badges ------------------------------>
-
-## ✡️ Hactoberfest Badges
-
-[![@guri's Holopin board](https://holopin.io/api/user/board?user=guri)](https://holopin.io/@guri)
-  
 ## 📊 Weekly Developement Breakdown
   
 <!--START_SECTION:waka-->
@@ -83,12 +75,6 @@ No activity tracked
        <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=synthwave&langs_count=15" />  
    </a> 
 </div>   
-
-##        
-  
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurjeetsinghvirdee&theme=dracula&hide_border=true" />
-</p>
         
 ### ⚡ Recent Activity     
         
@@ -320,13 +306,7 @@ No activity tracked
 `[09/21 14:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/Learn-Kotlin](https://github.com/gurjeetsinghvirdee/Learn-Kotlin)  
 
 </details>
-<!--END_SECTION:activity-->
- 
-##        
-        
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" >   
-</p>       
+<!--END_SECTION:activity-->      
         
 ## 
         
@@ -362,12 +342,15 @@ No activity tracked
         <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=fff" alt="windows" />
      </p>
   </details>
-##
        
 <details>
-<summary> <b> 🏆 GitHhub Metrics </b></summary>
-<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-metrics.svg" />
+    <summary> <b> 🏆 GitHhub Metrics </b></summary>
+        <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-metrics.svg" />
 </details>   
+
+<p align="center">
+    <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/gitartwork.svg" />
+</p> 
       
 ## 📈 Github Activity Graph
 

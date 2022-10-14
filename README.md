@@ -64,13 +64,13 @@ Other        0 secs          ▒░░░░░░░░░░░░░░░░
 <details>
     <summary><h3> OPEN SOURCE CONTRIBUTIONS </h3></summary>  
     
-|S.No.|Open Source Program |Duration| Contribution Link|Role|Rewards|
+|S.No.|Open Source Program |Duration| Contribution |Role|Rewards|
 |---------|--------|-------|-------|----|-----|    
 | 1. | GirlScript Summer Of Code | 1st Mar - 31st May 2022 |  | Contributor | |    
 | 2. | GirlScript Summer Of Code | 1st Mar - 31st May 2022 | [Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend) & [WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart) | Mentor | |
 | 3. | GirlScript Summer Of Code | 1st Mar - 31st July 2022 | Discord Moderator | Technical Team |  |
-| 4. | Hack Club RAIT | 1st July - 30st September 2022 |  | Contributor | [Link](https://docs.google.com/document/d/1_ZutQmDbGkuFsbypF2oX_jbmFMf7OV-X4kr8xVs5J0w/edit) |
-| 5. | Hack Club RAIT | 1st July - 30st September 2022 |  | Project Admin | [Link](https://docs.google.com/document/d/1l2b850sK2UPsJBd8i8y1MKpfJtT3-KTNgAFqPGt_9sI/edit) |
+| 4. | Hack Club RAIT | 1st July - 30st September 2022 | [Link](https://docs.google.com/document/d/1_ZutQmDbGkuFsbypF2oX_jbmFMf7OV-X4kr8xVs5J0w) | Contributor | |
+| 5. | Hacktoberfest | 1st October - 31st October 2022 | | Contributor |  | 
     
 </details>
         

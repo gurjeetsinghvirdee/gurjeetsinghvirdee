@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.44m added, 266k removed
+                                    2.44m added, 243k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="382.77612126432984" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="382.77612126432984" y="0" width="33.432659465303" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="416.20878072963285" y="0" width="27.560404080396253" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="443.76918481002906" y="0" width="9.781206891449" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="453.5503917014781" y="0" width="4.879721892266926" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="458.430113593745" y="0" width="0.6062302605323264" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.0363438542773" y="0" width="0.5805219841615366" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.6168658384388" y="0" width="0.3831341615611567" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="382.77579836011284" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="382.77579836011284" y="0" width="33.43263126201098" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="416.2084296221238" y="0" width="27.560380830851145" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="443.76881045297495" y="0" width="9.781198640169004" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="453.55000909314396" y="0" width="4.880105824933745" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="458.4301149180777" y="0" width="0.6062297491255362" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.03634466720325" y="0" width="0.5805214944418641" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.61686616164513" y="0" width="0.3831338383549023" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2559,7 +2559,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="224.13 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="224.44 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2581,10 +2581,10 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">3169</div>
+                                        <div class="value">3172</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 3169 times</div>
+                                <div class="text">Repositories have been deployed 3172 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2836,7 +2836,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 207k out of 100m users</span>
+                                    <span class="gh">ranked 208k out of 100m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">43</div>
                                     </div>
@@ -3229,7 +3229,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 14 Oct 2022, 20:06:19
+                            On 14 Oct 2022, 17:12:00
                         </div>
                     </section>
                 </div>
@@ -3239,14 +3239,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            stripe colr chnged
+                            drawed a new shape with their settings
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">513fa1fb</span>
-                            <span class="code">main.js</span>
+                            <span class="code">dfdab20d</span>
+                            <span class="code">canvas.css</span>
                             <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
@@ -3254,14 +3254,15 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -6,7 +6,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">// canvas settings<br /></span><span class="token prefix unchanged">·</span><span class="token line">ctx.fillStyle = 'yellow';<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">ctx.strokeStyle = 'violet';<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">ctx.strokeStyle = 'blueviolet';<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">ctx.lineWidth = 30;<br /></span><span class="token prefix unchanged">·</span><span class="token line">ctx.lineCap = 'round';<br /></span><span class="token prefix unchanged">·</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -5,7 +5,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">}<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">#canvas1 {<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">background: aquamarine;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">background: rgb(212, 102, 172);<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">position: absolute;<br /></span><span class="token prefix unchanged">·</span><span class="token line">left: 0;<br /></span><span class="token prefix unchanged">·</span><span class="token line">top: 0;
+</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Oct 2022, 23:16:49 (timezone Asia/Calcutta) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 14 Oct 2022, 23:59:54 (timezone Asia/Calcutta) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

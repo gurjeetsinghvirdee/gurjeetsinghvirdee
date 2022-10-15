@@ -67,10 +67,10 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
     
 |S.No.|Open Source Program |Duration| Contribution |Role|Rewards|
 |---------|--------|-------|-------|----|-----|    
-| 1. | GirlScript Summer Of Code | 1st Mar - 31st May 2022 |  | Contributor | [Reward](https://drive.google.com/drive/folders/1gYYFepBLm09uATAZ9_Nh34opop_0nfCi?usp=sharing) |    
+| 1. | GirlScript Summer Of Code | 1st Mar - 31st May 2022 | [Contribution Link](https://docs.google.com/document/d/15t_iThcyiNgIuAUmTJ9Utjy1ccxwTGZXy_0n8VYsHLE/edit?usp=sharing) | Contributor | [Reward](https://drive.google.com/drive/folders/1gYYFepBLm09uATAZ9_Nh34opop_0nfCi?usp=sharing) |    
 | 2. | GirlScript Summer Of Code | 1st Mar - 31st May 2022 | [Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend) & [WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart) | Mentor | [Reward](https://drive.google.com/drive/folders/1d0gDnPh8gR8qU61g-fWLEhahhshR8PXh?usp=sharing) |
 | 3. | GirlScript Summer Of Code | 1st Mar - 31st July 2022 | Discord Moderator | Technical Team | [Reward](https://drive.google.com/drive/folders/1B2jDXyXA-L-XXypvaNzrpXRTVY7GW-04?usp=sharing) |
-| 4. | Hack Club RAIT | 1st July - 30st September 2022 | [Link](https://docs.google.com/document/d/1_ZutQmDbGkuFsbypF2oX_jbmFMf7OV-X4kr8xVs5J0w) | Contributor | |
+| 4. | Hack Club RAIT | 1st July - 30st September 2022 | [Contribution Link](https://docs.google.com/document/d/1_ZutQmDbGkuFsbypF2oX_jbmFMf7OV-X4kr8xVs5J0w) | Contributor | |
 | 5. | Hacktoberfest | 1st October - 31st October 2022 | | Contributor |  | 
     
 </details>

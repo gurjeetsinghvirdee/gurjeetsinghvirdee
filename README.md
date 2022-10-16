@@ -98,7 +98,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[10/16 14:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
+`[10/16 15:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
 `[10/16 14:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `31` commits in [gurjeetsinghvirdee/Eazy-Android](https://github.com/gurjeetsinghvirdee/Eazy-Android)  
 `[10/16 14:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Canvas-Art](https://github.com/gurjeetsinghvirdee/Canvas-Art)  
 `[10/15 10:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
@@ -313,7 +313,6 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 `[09/21 15:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
 `[09/21 15:24]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#10`](https://github.com//utkarsh006/Learn-Kotlin/pull/10 'basic syntax removed') in [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
 `[09/21 15:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
-`[09/21 15:24]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#10`](https://github.com//utkarsh006/Learn-Kotlin/pull/10 'basic syntax removed') in [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
 
 </details>
 <!--END_SECTION:activity-->

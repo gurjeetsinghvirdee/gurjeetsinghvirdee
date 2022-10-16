@@ -88,6 +88,14 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 </div>      
   
 ##
+
+<div align="center">
+    <a href="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" target="_blank">
+        <img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&column=4&row=2&theme=radical" />
+    </a>
+</diV>
+
+##
         
 <div align="center">
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=synthwave&langs_count=15" target="_blank">

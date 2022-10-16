@@ -318,6 +318,8 @@ CSS          6 mins          █▒░░░░░░░░░░░░░░░
 
 </details>
 <!--END_SECTION:activity-->
+
+![](./profile-3d-contrib/profile-gitblock.svg)
         
 <details>
    <summary> <b> ⚛️ Frameworks, Languages & Other Tools </b> </summary> <br>

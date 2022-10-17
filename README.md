@@ -2,7 +2,7 @@
 
 [![@guri's Holopin board](https://holopin.io/api/user/board?user=guri)](https://holopin.io/@guri)
 
-I'm a Self-taught MERN Stack Developer and UI Designer, Currently in Second Year Studying BCA, Co-Founder at [Medictry](https://www.linkedin.com/company/89489745/admin/), Collabing with [Aviyel](https://aviyel.com/discussions) as Content Creator, Former Technical Team Member & Mentored 150+ Contributors on [GSSoC'22](https://gssoc.girlscript.tech/) and also A Technical Content Writer at [GeeksforGeeks](https://www.geeksforgeeks.org/)  
+I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BCA, Co-Founder at [Medictry](https://www.linkedin.com/company/89489745/admin/), Collabing with [Aviyel](https://aviyel.com/discussions) as Content Creator, Former Technical Team Member & Mentored 150+ Contributors on [GSSoC'22](https://gssoc.girlscript.tech/) and also A Technical Content Writer at [GeeksforGeeks](https://www.geeksforgeeks.org/)  
 
 
 <p align="center">

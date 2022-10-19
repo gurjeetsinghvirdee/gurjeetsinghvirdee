@@ -85,7 +85,7 @@ Other        4 mins          ▒░░░░░░░░░░░░░░░░
  </a>
 </div>      
   
-##
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <div align="center">
     <a href="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" target="_blank">
@@ -93,7 +93,7 @@ Other        4 mins          ▒░░░░░░░░░░░░░░░░
     </a>
 </diV>
 
-##
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
         
 <div align="center">
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=synthwave&langs_count=15" target="_blank">
@@ -352,6 +352,8 @@ Other        4 mins          ▒░░░░░░░░░░░░░░░░
         <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=fff" alt="windows" />
      </p>
 </details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
        
 <details>
     <summary> <b> 🏆 GitHhub Metrics </b></summary>

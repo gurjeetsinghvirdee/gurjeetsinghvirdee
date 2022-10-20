@@ -4,6 +4,7 @@
 
 I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BCA, Co-Founder at [Medictry](https://www.linkedin.com/company/89489745/admin/), Collabing with [Aviyel](https://aviyel.com/discussions) as Content Creator, Former Technical Team Member & Mentored 150+ Contributors on [GSSoC'22](https://gssoc.girlscript.tech/) and also A Technical Content Writer at [GeeksforGeeks](https://www.geeksforgeeks.org/)  
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
 <p align="center">
     <a href="https://gurjeet.hashnode.dev/" target="_blank">
@@ -85,7 +86,7 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
  </a>
 </div>      
   
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
 <div align="center">
     <a href="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" target="_blank">
@@ -93,7 +94,7 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
     </a>
 </diV>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
         
 <div align="center">
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=synthwave&langs_count=15" target="_blank">
@@ -319,6 +320,8 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
         
 <details>
    <summary> <b> ⚛️ Frameworks, Languages & Other Tools </b> </summary> <br>
@@ -353,12 +356,14 @@ Markdown     2 mins          ▒░░░░░░░░░░░░░░░░
      </p>
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
        
 <details>
     <summary> <b> 🏆 GitHhub Metrics </b></summary>
         <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-metrics.svg" />
 </details>   
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
 <p align="center">
     <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/gitartwork.svg" />

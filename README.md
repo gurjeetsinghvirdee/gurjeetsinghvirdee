@@ -4,8 +4,6 @@
 
 I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BCA, Co-Founder at [Medictry](https://www.linkedin.com/company/89489745/admin/), Collabing with [Aviyel](https://aviyel.com/discussions) as Content Creator, Former Technical Team Member & Mentored 150+ Contributors on [GSSoC'22](https://gssoc.girlscript.tech/) and also A Technical Content Writer at [GeeksforGeeks](https://www.geeksforgeeks.org/)  
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
-
 <p align="center">
     <a href="https://gurjeet.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/@gurjeetsingh-5C87FE?style=for-the-badge&logo=hashnode&logoColor=white" width="130" height="22" alt="hashnode">
@@ -22,7 +20,7 @@ I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BC
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgurjeetsinghvirdee%2Fgurjeetsinghvirdee&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
 </div>
 
-<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
   
 <ul align="left">
     <img align="right" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/src/Assets/vector.gif" width="320" height="200" />

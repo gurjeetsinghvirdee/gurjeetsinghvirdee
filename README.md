@@ -314,6 +314,8 @@ HTML         3 mins          ▓░░░░░░░░░░░░░░░░
 </details>
 <!--END_SECTION:activity-->
 
+## 📈 Github Activity Graph
+
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
@@ -363,10 +365,6 @@ HTML         3 mins          ▓░░░░░░░░░░░░░░░░
 <p align="center">
     <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/gitartwork.svg" />
 </p> 
-      
-## 📈 Github Activity Graph
-
-##
 
 ## 📈 Github Contribution Graph
 

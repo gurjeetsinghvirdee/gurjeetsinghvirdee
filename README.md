@@ -49,10 +49,11 @@ I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BC
   
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 41 mins    █████████████████████▓░░░   87.15 % 
-CSS          6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Other        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-HTML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+JavaScript   1 hr 41 mins    ███████████████████▒░░░░░   77.63 % 
+HTML         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Markdown     6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+CSS          6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Other        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 ```
 <!--END_SECTION:waka--> 
 

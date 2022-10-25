@@ -309,7 +309,6 @@ YAML         1 min           ▒░░░░░░░░░░░░░░░░
 `[09/23 15:34]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#16`](https://github.com//utkarsh006/Learn-Kotlin/pull/16 'maintainers updated') in [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
 `[09/23 15:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Learn-Kotlin](https://github.com/gurjeetsinghvirdee/Learn-Kotlin)  
 `[09/23 15:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
-`[09/23 15:24]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#15`](https://github.com//utkarsh006/Learn-Kotlin/pull/15 'Readme updated with most of necessary content') in [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
 
 </details>
 <!--END_SECTION:activity-->

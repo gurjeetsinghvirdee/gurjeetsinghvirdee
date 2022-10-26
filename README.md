@@ -29,7 +29,7 @@ I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BC
   <li> 🏢 Co-Founder at <a href="https://www.linkedin.com/company/medictry/">Medictry</a>
   <li> 🧑‍💻 <strong>8</strong> PRs Merged at Hactoberfest'22 </li>
   <li> 💻 Contributor & Project Admin at HSOC'22 </li>
-  <li> 🎉 Secured 10th Rank Globally in GSSoC'22 </li>
+  <li> 🎉 Secured <strong>10th</strong> Rank Globally in GSSoC'22 </li>
   <li> 🏫 Currently learning DSA </li>
   <li> 🤝 Collaborator at <a href="https://github.com/Rayman-Sodhi/Clone-IT"> Clone-IT </a> & <a href="https://github.com/utkarsh006/Eazy-Android"> Eazy-Android </a>
   </li>

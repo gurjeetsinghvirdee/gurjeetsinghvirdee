@@ -62,7 +62,7 @@ YAML         1 min           ▒░░░░░░░░░░░░░░░░
 <!---------------------- OPEN SOUCRE CONTRIBUTIONS ---------------------->
         
 <details>
-    <summary><h3> OPEN SOURCE CONTRIBUTIONS </h3></summary>  
+    <summary><h3>🎯 OPEN SOURCE CONTRIBUTIONS</h3></summary>  
     
 |S.No.|Open Source Program |Duration| Contribution |Role|Rewards|
 |---------|--------|-------|-------|----|-----|    

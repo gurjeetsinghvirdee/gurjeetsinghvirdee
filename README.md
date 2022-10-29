@@ -112,14 +112,15 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[10/29 21:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Eazy-Android](https://github.com/gurjeetsinghvirdee/Eazy-Android)  
 `[10/29 21:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
 `[10/29 21:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[10/27 17:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Eazy-Android](https://github.com/gurjeetsinghvirdee/Eazy-Android)  
 `[10/26 16:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[10/25 16:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Canvas-Art](https://github.com/gurjeetsinghvirdee/Canvas-Art)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[10/25 16:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Canvas-Art](https://github.com/gurjeetsinghvirdee/Canvas-Art)  
 `[10/23 20:02]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [IOSD/IOSD-BPIT-Hacktoberfest-2022](https://github.com/IOSD/IOSD-BPIT-Hacktoberfest-2022) to [gurjeetsinghvirdee/IOSD-BPIT-Hacktoberfest-2022](https://github.com/gurjeetsinghvirdee/IOSD-BPIT-Hacktoberfest-2022)  
 `[10/22 23:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Canvas-Art](https://github.com/gurjeetsinghvirdee/Canvas-Art)  
 `[10/22 22:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
@@ -313,7 +314,6 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 `[09/23 15:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Learn-Kotlin](https://github.com/gurjeetsinghvirdee/Learn-Kotlin)  
 `[09/23 15:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
 `[09/23 15:40]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#17`](https://github.com//utkarsh006/Learn-Kotlin/pull/17 'maintainers update') in [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
-`[09/23 15:39]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#17`](https://github.com//utkarsh006/Learn-Kotlin/pull/17 'maintainers update') in [utkarsh006/Learn-Kotlin](https://github.com/utkarsh006/Learn-Kotlin)  
 
 </details>
 <!--END_SECTION:activity-->

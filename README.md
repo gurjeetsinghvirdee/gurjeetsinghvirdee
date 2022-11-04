@@ -50,7 +50,7 @@ I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BC
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 July 2021 - To: 01 November 2022
+From: 27 July 2021 - To: 03 November 2022
 
 Total Time: 192 hrs 29 mins
 

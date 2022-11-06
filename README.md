@@ -112,14 +112,15 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[11/06 16:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[11/05 15:36]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//khushbumaheshwarii/TinDog/issues/1 'Fixed padding') in [khushbumaheshwarii/TinDog](https://github.com/khushbumaheshwarii/TinDog)  
 `[11/05 15:36]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//khushbumaheshwarii/TinDog/pull/1 'Fixed padding') in [khushbumaheshwarii/TinDog](https://github.com/khushbumaheshwarii/TinDog)  
 `[11/05 15:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/TinDog](https://github.com/gurjeetsinghvirdee/TinDog)  
 `[11/05 15:34]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//gurjeetsinghvirdee/TinDog/pull/1 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/TinDog](https://github.com/gurjeetsinghvirdee/TinDog)  
-`[11/05 15:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/TinDog](https://github.com/gurjeetsinghvirdee/TinDog)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[11/05 15:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/TinDog](https://github.com/gurjeetsinghvirdee/TinDog)  
 `[11/05 15:09]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [khushbumaheshwarii/TinDog](https://github.com/khushbumaheshwarii/TinDog) to [gurjeetsinghvirdee/TinDog](https://github.com/gurjeetsinghvirdee/TinDog)  
 `[11/05 14:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/moving-car-animation](https://github.com/gurjeetsinghvirdee/moving-car-animation)  
 `[11/04 18:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
@@ -320,7 +321,6 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 `[09/26 14:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [utkarsh006/Eazy-Android](https://github.com/utkarsh006/Eazy-Android)  
 `[09/26 14:37]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#28`](https://github.com//utkarsh006/Eazy-Android/pull/28 'removed un-necessary files') in [utkarsh006/Eazy-Android](https://github.com/utkarsh006/Eazy-Android)  
 `[09/26 14:36]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#28`](https://github.com//utkarsh006/Eazy-Android/pull/28 'removed un-necessary files') in [utkarsh006/Eazy-Android](https://github.com/utkarsh006/Eazy-Android)  
-`[09/26 14:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Eazy-Android](https://github.com/gurjeetsinghvirdee/Eazy-Android)  
 
 </details>
 <!--END_SECTION:activity-->

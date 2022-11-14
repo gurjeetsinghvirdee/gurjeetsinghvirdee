@@ -112,14 +112,20 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[11/14 13:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [gurjeetsinghvirdee/udemy](https://github.com/gurjeetsinghvirdee/udemy)  
+`[11/14 13:18]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `main` from [gurjeetsinghvirdee/udemy](https://github.com/gurjeetsinghvirdee/udemy)  
+`[11/14 13:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/udemy](https://github.com/gurjeetsinghvirdee/udemy)  
+`[11/14 13:12]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/udemy/tree/master) in [gurjeetsinghvirdee/udemy](https://github.com/gurjeetsinghvirdee/udemy)  
+`[11/14 13:04]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/udemy](https://github.com/gurjeetsinghvirdee/udemy)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[11/14 13:04]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/gurjeetsinghvirdee/udemy/tree/main) in [gurjeetsinghvirdee/udemy](https://github.com/gurjeetsinghvirdee/udemy)  
 `[11/10 14:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [khushbumaheshwarii/TinDog](https://github.com/khushbumaheshwarii/TinDog)  
 `[11/08 15:31]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//ishikagoyal02/My-Personal-Website/pull/1 'Fixed most of the things') in [ishikagoyal02/My-Personal-Website](https://github.com/ishikagoyal02/My-Personal-Website)  
 `[11/08 15:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/My-Personal-Website](https://github.com/gurjeetsinghvirdee/My-Personal-Website)  
 `[11/08 14:50]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ishikagoyal02/My-Personal-Website](https://github.com/ishikagoyal02/My-Personal-Website) to [gurjeetsinghvirdee/My-Personal-Website](https://github.com/gurjeetsinghvirdee/My-Personal-Website)  
 `[11/07 17:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[11/05 15:36]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//khushbumaheshwarii/TinDog/issues/1 'Fixed padding') in [khushbumaheshwarii/TinDog](https://github.com/khushbumaheshwarii/TinDog)  
 `[11/05 15:36]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//khushbumaheshwarii/TinDog/pull/1 'Fixed padding') in [khushbumaheshwarii/TinDog](https://github.com/khushbumaheshwarii/TinDog)  
 `[11/05 15:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/TinDog](https://github.com/gurjeetsinghvirdee/TinDog)  
@@ -310,15 +316,6 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 `[09/26 17:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/LeetCode-Grind](https://github.com/gurjeetsinghvirdee/LeetCode-Grind)  
 `[09/26 17:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[09/26 15:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Eazy-Android](https://github.com/gurjeetsinghvirdee/Eazy-Android)  
-`[09/26 15:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[09/26 15:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [utkarsh006/Eazy-Android](https://github.com/utkarsh006/Eazy-Android)  
-`[09/26 15:04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#30`](https://github.com//utkarsh006/Eazy-Android/pull/30 'updated links') in [utkarsh006/Eazy-Android](https://github.com/utkarsh006/Eazy-Android)  
-`[09/26 15:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Eazy-Android](https://github.com/gurjeetsinghvirdee/Eazy-Android)  
-`[09/26 15:02]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#30`](https://github.com//utkarsh006/Eazy-Android/pull/30 'updated links') in [utkarsh006/Eazy-Android](https://github.com/utkarsh006/Eazy-Android)  
-`[09/26 15:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/Eazy-Android](https://github.com/gurjeetsinghvirdee/Eazy-Android)  
-`[09/26 14:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [utkarsh006/Eazy-Android](https://github.com/utkarsh006/Eazy-Android)  
-`[09/26 14:51]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#29`](https://github.com//utkarsh006/Eazy-Android/pull/29 'guidelines and folder created') in [utkarsh006/Eazy-Android](https://github.com/utkarsh006/Eazy-Android)  
-`[09/26 14:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Eazy-Android](https://github.com/gurjeetsinghvirdee/Eazy-Android)  
 
 </details>
 <!--END_SECTION:activity-->

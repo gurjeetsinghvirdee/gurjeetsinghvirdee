@@ -50,13 +50,13 @@ I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BC
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 July 2021 - To: 20 November 2022
+From: 27 July 2021 - To: 22 November 2022
 
-Total Time: 194 hrs 19 mins
+Total Time: 194 hrs 20 mins
 
 JavaScript       54 hrs 36 mins  ███████░░░░░░░░░░░░░░░░░░   28.10 %
 Markdown         50 hrs 39 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.06 %
-HTML             37 hrs 8 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
+HTML             37 hrs 9 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.12 %
 CSS              26 hrs 49 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
 JSON             8 hrs 55 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
 TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %

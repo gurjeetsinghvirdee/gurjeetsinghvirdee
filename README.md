@@ -112,14 +112,15 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[12/06 10:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[11/24 20:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/angular](https://github.com/gurjeetsinghvirdee/angular)  
 `[11/24 20:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//gurjeetsinghvirdee/angular/pull/2 'Bump engine.io from 6.2.0 to 6.2.1') in [gurjeetsinghvirdee/angular](https://github.com/gurjeetsinghvirdee/angular)  
 `[11/24 19:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/angular](https://github.com/gurjeetsinghvirdee/angular)  
 `[11/24 19:59]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//gurjeetsinghvirdee/angular/pull/1 'Bump loader-utils from 2.0.2 to 2.0.4') in [gurjeetsinghvirdee/angular](https://github.com/gurjeetsinghvirdee/angular)  
-`[11/24 19:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/skillvalley-assesment](https://github.com/gurjeetsinghvirdee/skillvalley-assesment)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[11/24 19:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/skillvalley-assesment](https://github.com/gurjeetsinghvirdee/skillvalley-assesment)  
 `[11/24 19:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//gurjeetsinghvirdee/skillvalley-assesment/pull/2 'Bump loader-utils and react-scripts') in [gurjeetsinghvirdee/skillvalley-assesment](https://github.com/gurjeetsinghvirdee/skillvalley-assesment)  
 `[11/22 18:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [utkarsh006/Eazy-Android](https://github.com/utkarsh006/Eazy-Android)  
 `[11/22 18:22]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#65`](https://github.com//utkarsh006/Eazy-Android/pull/65 'Broken Link fixed') in [utkarsh006/Eazy-Android](https://github.com/utkarsh006/Eazy-Android)  
@@ -318,7 +319,6 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 `[09/30 15:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Eazy-Android](https://github.com/gurjeetsinghvirdee/Eazy-Android)  
 `[09/30 14:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [utkarsh006/Eazy-Android](https://github.com/utkarsh006/Eazy-Android)  
 `[09/30 14:05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#458`](https://github.com//pranjay-poddar/Dev-Geeks/issues/458 'Markdown Editor') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
-`[09/30 13:52]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#457`](https://github.com//pranjay-poddar/Dev-Geeks/issues/457 '2048 Game') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
 
 </details>
 <!--END_SECTION:activity-->

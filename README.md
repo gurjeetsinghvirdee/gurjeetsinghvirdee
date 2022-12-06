@@ -371,10 +371,3 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 <p align="center">
     <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/gitartwork.svg" />
 </p> 
-
-## 📈 Github Contribution Graph
-
-<p align="center">
-  <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=gurjeetsinghvirdee&theme=synthwave-84" />
-  <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/output/github-contribution-grid-snake.svg" /> 
-</p> 

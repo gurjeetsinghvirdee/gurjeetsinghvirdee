@@ -280,9 +280,7 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 `[10/02 20:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [utkarsh006/Eazy-Android](https://github.com/utkarsh006/Eazy-Android)  
 `[10/02 20:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#85`](https://github.com//ayu8/DSA-4-All/issues/85 'Count Sorted Vowel Strings') in [ayu8/DSA-4-All](https://github.com/ayu8/DSA-4-All)  
 `[10/02 15:44]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#71`](https://github.com//ayu8/DSA-4-All/issues/71 'Add two numbers') in [ayu8/DSA-4-All](https://github.com/ayu8/DSA-4-All)  
-`[10/02 15:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `74` commits in [gurjeetsinghvirdee/DSA-4-All](https://github.com/gurjeetsinghvirdee/DSA-4-All)  
-`[10/01 08:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6`](https://github.com//diwash007/PDF-Dark-Mode/issues/6 'Guidelines added') in [diwash007/PDF-Dark-Mode](https://github.com/diwash007/PDF-Dark-Mode)  
-`[10/01 08:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/PDF-Dark-Mode](https://github.com/gurjeetsinghvirdee/PDF-Dark-Mode)  
+`[10/02 15:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `41` commits in [gurjeetsinghvirdee/DSA-4-All](https://github.com/gurjeetsinghvirdee/DSA-4-All)  
 
 </details>
 <!--END_SECTION:activity-->

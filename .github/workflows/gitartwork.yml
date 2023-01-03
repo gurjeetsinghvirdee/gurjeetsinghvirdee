@@ -14,5 +14,5 @@ jobs:
       - uses: jasineri/gitartwork@v1
         with:
            user_name: gurjeetsinghvirdee
-           text: GURJEET
+           text: MERN DEV
       - uses: jasineri/simple-push-action@v1

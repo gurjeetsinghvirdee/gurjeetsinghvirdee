@@ -310,10 +310,6 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 `[10/05 04:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/first-contribution](https://github.com/gurjeetsinghvirdee/first-contribution)  
 `[10/05 04:03]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7`](https://github.com//gurjeetsinghvirdee/first-contribution/pull/7 'Update Contributors.md') in [gurjeetsinghvirdee/first-contribution](https://github.com/gurjeetsinghvirdee/first-contribution)  
 `[10/05 04:02]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#7`](https://github.com//gurjeetsinghvirdee/first-contribution/pull/7 'Update Contributors.md') in [gurjeetsinghvirdee/first-contribution](https://github.com/gurjeetsinghvirdee/first-contribution)  
-`[10/03 19:21]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#709`](https://github.com//Rayman-Sodhi/Clone-IT/pull/709 'bugs fix') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[10/03 19:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[10/03 19:21]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#709`](https://github.com//Rayman-Sodhi/Clone-IT/pull/709 'bugs fix') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[10/03 19:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

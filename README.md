@@ -69,10 +69,10 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 <p align="center">
     <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/gitartwork.svg" />
 </p> 
-        
-<details>
-   <summary> <h3> ⚛️ Frameworks, Languages & Other Tools </h3> </summary> <br>
-     <p align="center">
+
+## ⚛️ Frameworks, Languages & Other Tools        
+ 
+<div align="center">
         <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="adobe xd" /> 
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
@@ -99,8 +99,7 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
         <img src="https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="typescript" />
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" />
         <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=fff" alt="windows" />
-     </p>
-</details>
+</div>
         
 <!---------------------- OPEN SOUCRE CONTRIBUTIONS ---------------------->
         

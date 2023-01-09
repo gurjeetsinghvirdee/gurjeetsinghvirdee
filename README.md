@@ -64,12 +64,8 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka--> 
 
-<!----------------------------------GIT ARTWORK------------------------------------->        
+<!---------------------------------Frameworks, Languages & Other Tools ------------------------------------->        
         
-<p align="center">
-    <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/gitartwork.svg" />
-</p> 
-
 ## ⚛️ Frameworks, Languages & Other Tools        
  
 <div align="center">

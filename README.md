@@ -143,14 +143,21 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[01/10 09:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/LinkFree](https://github.com/gurjeetsinghvirdee/LinkFree)  
+`[01/10 09:10]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#3052`](https://github.com//EddieHubCommunity/LinkFree/pull/3052 'data: gurjeetsinghvirdee') in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)  
+`[01/10 09:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [gurjeetsinghvirdee/LinkFree](https://github.com/gurjeetsinghvirdee/LinkFree)  
+`[01/10 08:58]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3052`](https://github.com//EddieHubCommunity/LinkFree/pull/3052 'data: gurjeetsinghvirdee') in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)  
+`[01/10 08:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [gurjeetsinghvirdee/LinkFree](https://github.com/gurjeetsinghvirdee/LinkFree)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[01/10 08:44]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`patch-1`](https://github.com/gurjeetsinghvirdee/LinkFree/tree/patch-1) in [gurjeetsinghvirdee/LinkFree](https://github.com/gurjeetsinghvirdee/LinkFree)  
+`[01/10 08:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `72` commits in [gurjeetsinghvirdee/LinkFree](https://github.com/gurjeetsinghvirdee/LinkFree)  
 `[01/10 08:19]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2967`](https://github.com//EddieHubCommunity/LinkFree/issues/2967 'New Testimonial for Gurjeet Singh Virdee') in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)  
 `[01/10 08:18]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3026`](https://github.com//EddieHubCommunity/LinkFree/issues/3026 'data utkarsh006.json') in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)  
 `[01/10 07:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2967`](https://github.com//EddieHubCommunity/LinkFree/issues/2967 'New Testimonial for Gurjeet Singh Virdee') in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)  
 `[01/10 07:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2967`](https://github.com//EddieHubCommunity/LinkFree/issues/2967 'New Testimonial for Gurjeet Singh Virdee') in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)  
 `[01/10 06:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/angular](https://github.com/gurjeetsinghvirdee/angular)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[01/10 06:54]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//gurjeetsinghvirdee/angular/pull/3 'Bump json5 from 2.2.1 to 2.2.3') in [gurjeetsinghvirdee/angular](https://github.com/gurjeetsinghvirdee/angular)  
 `[01/10 05:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[01/10 05:54]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#9`](https://github.com//gurjeetsinghvirdee/gurjeetsinghvirdee/pull/9 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
@@ -311,12 +318,7 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 `[10/18 18:34]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#8`](https://github.com//gurjeetsinghvirdee/first-contribution/pull/8 'Added myself in Contributors.md') in [gurjeetsinghvirdee/first-contribution](https://github.com/gurjeetsinghvirdee/first-contribution)  
 `[10/18 18:33]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#8`](https://github.com//gurjeetsinghvirdee/first-contribution/pull/8 'Added myself in Contributors.md') in [gurjeetsinghvirdee/first-contribution](https://github.com/gurjeetsinghvirdee/first-contribution)  
 `[10/18 17:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Canvas-Art](https://github.com/gurjeetsinghvirdee/Canvas-Art)  
-`[10/17 13:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[10/16 19:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/Canvas-Art](https://github.com/gurjeetsinghvirdee/Canvas-Art)  
-`[10/16 16:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[10/16 15:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
-`[10/16 14:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `31` commits in [gurjeetsinghvirdee/Eazy-Android](https://github.com/gurjeetsinghvirdee/Eazy-Android)  
-`[10/16 14:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Canvas-Art](https://github.com/gurjeetsinghvirdee/Canvas-Art)  
+`[10/17 13:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 
 </details>
 <!--END_SECTION:activity-->

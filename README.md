@@ -44,6 +44,22 @@ I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BC
 <div align="center">
     <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31xcftnaufneyotbwgeuezrzheky&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31xcftnaufneyotbwgeuezrzheky&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true" /></a>
 </div>    
+        
+        
+<!--------------------------------------------TESTIMONIALS------------------------------------------------->
+        
+## ✨ Testimonials
+        
+<table>
+  <tr>
+    <th>Author</th>
+    <th>Message</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.linkedin.com/in/utkarsh06/">Utkarsh Saxena</a></td>
+    <td>I have worked with Gurjeet on a project and he has been very kind to me. Since I am from the Android domain he explained the web concepts to me in an easy way. He is also the collaborator of my Two Repos : Leetcode Grind and Eazy Android and is always kind to the new contributors and helps them to do their best. Looking forward to working with him more and enhancing this journey of Tech and Open Source.</td>
+  </tr>
+</table>
 
 ## 📊 Weekly Developement Breakdown
   

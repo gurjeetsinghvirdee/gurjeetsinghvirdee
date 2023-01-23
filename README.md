@@ -7,8 +7,6 @@
 I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BCA, Co-Founder at [Medictry](https://www.linkedin.com/company/89489745/admin/), Collabing with [Aviyel](https://aviyel.com/discussions) as Content Creator, Former Technical Team Member & Mentored 150+ Contributors on [GSSoC'22](https://gssoc.girlscript.tech/) and also A Technical Content Writer at [GeeksforGeeks](https://www.geeksforgeeks.org/)  
 
 <p align="center">
-    <a href="https://gurjeet.hashnode.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/@gurjeetsingh-5C87FE?style=for-the-badge&logo=hashnode&logoColor=white" width="130" height="22" alt="hashnode">
     <a href="https://twitter.com/__gurii__" target="_blank">   
     <img src="https://img.shields.io/badge/@__gurii__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="105" height="22" alt="twitter">
     <a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="_blank">

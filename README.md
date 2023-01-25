@@ -157,14 +157,19 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[01/25 09:06]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3950`](https://github.com//EddieHubCommunity/LinkFree/issues/3950 'Fix social media preview of LinkFree profile') in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)  
+`[01/25 09:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3950`](https://github.com//EddieHubCommunity/LinkFree/issues/3950 'Fix social media preview of LinkFree profile') in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)  
+`[01/25 08:56]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3950`](https://github.com//EddieHubCommunity/LinkFree/issues/3950 'Fix social media preview of LinkFree profile') in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)  
+`[01/25 08:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3950`](https://github.com//EddieHubCommunity/LinkFree/issues/3950 'Fix social media preview of LinkFree profile') in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)  
+`[01/25 08:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3934`](https://github.com//EddieHubCommunity/LinkFree/issues/3934 'New Testimonial for Madhu Saini') in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[01/24 07:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#12`](https://github.com//parnexcodes/cinehub-nextjs/issues/12 'Error: getServerSideProps') in [parnexcodes/cinehub-nextjs](https://github.com/parnexcodes/cinehub-nextjs)  
 `[01/24 06:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#12`](https://github.com//parnexcodes/cinehub-nextjs/issues/12 'Error: getServerSideProps') in [parnexcodes/cinehub-nextjs](https://github.com/parnexcodes/cinehub-nextjs)  
 `[01/24 04:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)  
 `[01/23 10:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[01/23 09:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[01/21 20:50]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [kubernetes/website](https://github.com/kubernetes/website) to [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[01/21 15:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [utkarsh006/LeetCode-Grind](https://github.com/utkarsh006/LeetCode-Grind)  
 `[01/17 19:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
@@ -317,11 +322,6 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 `[11/21 20:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/EduTech](https://github.com/gurjeetsinghvirdee/EduTech)  
 `[11/15 15:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [gurjeetsinghvirdee/udemy](https://github.com/gurjeetsinghvirdee/udemy)  
 `[11/14 13:18]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `main` from [gurjeetsinghvirdee/udemy](https://github.com/gurjeetsinghvirdee/udemy)  
-`[11/14 13:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/udemy](https://github.com/gurjeetsinghvirdee/udemy)  
-`[11/14 13:12]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/udemy/tree/master) in [gurjeetsinghvirdee/udemy](https://github.com/gurjeetsinghvirdee/udemy)  
-`[11/14 13:04]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/udemy](https://github.com/gurjeetsinghvirdee/udemy)  
-`[11/14 13:04]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/gurjeetsinghvirdee/udemy/tree/main) in [gurjeetsinghvirdee/udemy](https://github.com/gurjeetsinghvirdee/udemy)  
-`[11/10 14:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [khushbumaheshwarii/TinDog](https://github.com/khushbumaheshwarii/TinDog)  
 
 </details>
 <!--END_SECTION:activity-->

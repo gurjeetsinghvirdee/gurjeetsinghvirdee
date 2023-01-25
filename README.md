@@ -157,14 +157,15 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[01/25 09:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `550` commits in [gurjeetsinghvirdee/LinkFree](https://github.com/gurjeetsinghvirdee/LinkFree)  
 `[01/25 09:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3950`](https://github.com//EddieHubCommunity/LinkFree/issues/3950 'Fix social media preview of LinkFree profile') in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)  
 `[01/25 09:06]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3950`](https://github.com//EddieHubCommunity/LinkFree/issues/3950 'Fix social media preview of LinkFree profile') in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)  
 `[01/25 09:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3950`](https://github.com//EddieHubCommunity/LinkFree/issues/3950 'Fix social media preview of LinkFree profile') in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)  
 `[01/25 08:56]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3950`](https://github.com//EddieHubCommunity/LinkFree/issues/3950 'Fix social media preview of LinkFree profile') in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)  
-`[01/25 08:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3950`](https://github.com//EddieHubCommunity/LinkFree/issues/3950 'Fix social media preview of LinkFree profile') in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[01/25 08:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3950`](https://github.com//EddieHubCommunity/LinkFree/issues/3950 'Fix social media preview of LinkFree profile') in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)  
 `[01/25 08:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3934`](https://github.com//EddieHubCommunity/LinkFree/issues/3934 'New Testimonial for Madhu Saini') in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)  
 `[01/24 07:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#12`](https://github.com//parnexcodes/cinehub-nextjs/issues/12 'Error: getServerSideProps') in [parnexcodes/cinehub-nextjs](https://github.com/parnexcodes/cinehub-nextjs)  
 `[01/24 06:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#12`](https://github.com//parnexcodes/cinehub-nextjs/issues/12 'Error: getServerSideProps') in [parnexcodes/cinehub-nextjs](https://github.com/parnexcodes/cinehub-nextjs)  
@@ -321,7 +322,7 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 `[11/22 17:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#302`](https://github.com//WeMakeDevs/roadmaps/issues/302 'Replace the Hacker Club Hackerabad expired discord link with new link') in [WeMakeDevs/roadmaps](https://github.com/WeMakeDevs/roadmaps)  
 `[11/22 17:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `23` commits in [gurjeetsinghvirdee/roadmaps](https://github.com/gurjeetsinghvirdee/roadmaps)  
 `[11/21 20:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/EduTech](https://github.com/gurjeetsinghvirdee/EduTech)  
-`[11/15 15:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [gurjeetsinghvirdee/udemy](https://github.com/gurjeetsinghvirdee/udemy)  
+`[11/15 15:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [gurjeetsinghvirdee/udemy](https://github.com/gurjeetsinghvirdee/udemy)  
 
 </details>
 <!--END_SECTION:activity-->

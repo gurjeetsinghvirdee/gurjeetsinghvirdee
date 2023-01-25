@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2539" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2673" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text,.gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text,.gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.62m added, 284k removed
+                                    3.15m added, 304k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="380.5170384805193" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="380.5170384805193" y="0" width="34.421465636240335" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="414.93850411675965" y="0" width="29.330092636304435" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="444.2685967530641" y="0" width="9.673810188950583" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="453.94240694201466" y="0" width="4.504943852128992" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="458.4473507941437" y="0" width="0.5995739111003514" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.04692470524407" y="0" width="0.574147909109378" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.62107261435347" y="0" width="0.3789273856466082" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="380.5167739188499" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="380.5167739188499" y="0" width="34.42144170406518" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="414.93821562291504" y="0" width="29.33007224400268" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="444.2682878669177" y="0" width="9.673803463051046" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="453.9420913299688" y="0" width="4.505260543683607" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="458.4473518736524" y="0" width="0.5995734942352473" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.04692536788764" y="0" width="0.5741475099221828" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.6210728778098" y="0" width="0.378927122190175" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2385,6 +2385,288 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 887 commits in
+                                        <span class="repo">gurjeetsinghvirdee/LinkFree</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">patch-1</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c786799</div>
+                                        <div class="message">Merge release info
+
+Merge new release into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e6193c</div>
+                                        <div class="message">chore(release): v1.45.28 [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac78c5f</div>
+                                        <div class="message">Merge testimonial info
+
+Merge testimonial into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3191501</div>
+                                        <div class="message">Testimonial for 'loftwah' by 'krshkun'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a011adc</div>
+                                        <div class="message">Merge testimonial info
+
+Merge testimonial into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f52555b</div>
+                                        <div class="message">Testimonial for 'web3community' by 'krshkun'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2173cb4</div>
+                                        <div class="message">Merge testimonial info
+
+Merge testimonial into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dfa6ff4</div>
+                                        <div class="message">Testimonial for 'EddieHubCommunity' by 'krshkun'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dea2b20</div>
+                                        <div class="message">Merge formatting
+
+Merge formatting into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#13a545a</div>
+                                        <div class="message">style: format files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77ded89</div>
+                                        <div class="message">data: HarshDeep61034 (#2986)
+
+* Create HarshDeep61034.json
+
+* Update HarshDeep61034.json
+
+* Update HarshDeep61034.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b99202a</div>
+                                        <div class="message">data: amirahnasihah (#3008)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8057e15</div>
+                                        <div class="message">data: kelvinparmar (#3002)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cddc404</div>
+                                        <div class="message">data: Drex72 (#2990)
+
+Co-authored-by: David Leal &lt;halfpacho@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed239c3</div>
+                                        <div class="message">Merge formatting
+
+Merge formatting into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c73091c</div>
+                                        <div class="message">style: format files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#235faa1</div>
+                                        <div class="message">data: gurjeetsinghvirdee (#3052)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3ed7cf9</div>
+                                        <div class="message">data: nikhilbuts (#3053)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#600efb8</div>
+                                        <div class="message">Merge release info
+
+Merge new release into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#96ee556</div>
+                                        <div class="message">chore(release): v1.45.27 [skip ci]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1000 commits in
+                                        <span class="repo">gurjeetsinghvirdee/LinkFree</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">gurjeet</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d041a5f</div>
+                                        <div class="message">Merge release info
+
+Merge new release into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c4f30f1</div>
+                                        <div class="message">chore(release): v1.45.0 [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0639a9f</div>
+                                        <div class="message">feat: trending profiles (#2927)
+
+* feat: storing daily view on user profiles (#2691)
+
+* Add Schema and code for storing daily view on user profiles
+
+* simplified schema for storing daily views on profiles
+
+* Add segment for showing most popular profiles of last 28 days
+
+* feat: trending profiles
+
+* feat: trending profiles
+
+* fix: trending section heading
+
+* feat: refresh random profiles (#2888)
+
+* feat: Random users on click
+
+* Chores: remove extra variable
+
+* feat: Refresh Icon
+
+Co-authored-by: manish bisht &lt;manishbisth9711@gmail.com&gt;
+
+* feat: refresh random profiles
+
+* fix: removed unused file
+
+Co-authored-by: Shyam Patel &lt;72148710+shyam0705@users.noreply.github.com&gt;
+Co-authored-by: Manish Bisht &lt;89926834+ManishBisht777@users.noreply.github.com&gt;
+Co-authored-by: manish bisht &lt;manishbisth9711@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b99d974</div>
+                                        <div class="message">Merge release info
+
+Merge new release into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9706fa1</div>
+                                        <div class="message">chore(release): v1.44.18 [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#53ff9ff</div>
+                                        <div class="message">data: kalyan-vurugonda (#2936)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e7eefb8</div>
+                                        <div class="message">Merge release info
+
+Merge new release into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#28f43d7</div>
+                                        <div class="message">chore(release): v1.44.17 [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#71654cd</div>
+                                        <div class="message">data: tiyabansal (#2954)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e9df03</div>
+                                        <div class="message">Merge release info
+
+Merge new release into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#08eb5bf</div>
+                                        <div class="message">chore(release): v1.44.16 [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a0eef7</div>
+                                        <div class="message">Merge release info
+
+Merge new release into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#79fd515</div>
+                                        <div class="message">chore(release): v1.44.15 [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25f74b5</div>
+                                        <div class="message">Merge formatting
+
+Merge formatting into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1f39c0a</div>
+                                        <div class="message">style: format files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e9499c</div>
+                                        <div class="message">data: pratikkumar-mohite (#2956)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e4fbaf7</div>
+                                        <div class="message">fix: removed gh action path ignore (#2981)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6215e4b</div>
+                                        <div class="message">Merge release info
+
+Merge new release into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#948d060</div>
+                                        <div class="message">chore(release): v1.44.14 [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80f8df2</div>
+                                        <div class="message">data: Sativarsainath-26 (#2977)
+
+Updating Link-Free Profile</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 14 commits in
+                                        <span class="repo">gurjeetsinghvirdee/LinkFree</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b1b9c98</div>
+                                        <div class="message">Merge branch 'EddieHubCommunity:main' into main</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -2411,236 +2693,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">gurjeetsinghvirdee/LinkFree</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e7715b9</div>
-                                        <div class="message">Update gurjeetsinghvirdee.json</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 12 commits in
-                                        <span class="repo">gurjeetsinghvirdee/LinkFree</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#adb6152</div>
-                                        <div class="message">data: UthyCloud (#3749)
-
-* Create uthycloud.json
-
-* Update and rename uthycloud.json to Uthycloud.json
-
-* Update Uthycloud.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b2b5746</div>
-                                        <div class="message">data: KrishnaTheCoder756 (#3943)
-
-* Create KrishnaTheCoder756.json
-
-* Update KrishnaTheCoder756.json
-
-* Update KrishnaTheCoder756.json
-
-* Update KrishnaTheCoder756.json
-
-* Update KrishnaTheCoder756.json
-
-* Update KrishnaTheCoder756.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#04c9d98</div>
-                                        <div class="message">data: Saadat-B (#3944)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#916f333</div>
-                                        <div class="message">data: prakhartiwari0 (#3945)
-
-* Make some corrections and add tags &amp; socials
-
-* Syntax Correction</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#92188d3</div>
-                                        <div class="message">data: UVSali (#3949)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#22751a0</div>
-                                        <div class="message">data: J-Ankit2020 (#3957)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d41dc42</div>
-                                        <div class="message">data: pratyakshm (#3960)
-
-* data: pratyakshm
-
-* 🪲 fixes: fixed linkedin link and shortened bio.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#180c3be</div>
-                                        <div class="message">Merge release info
-
-Merge new release into main</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c3a94d</div>
-                                        <div class="message">chore(release): v1.63.0 [skip ci]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#171a16b</div>
-                                        <div class="message">feat: group links #2437 (#3961)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#458b701</div>
-                                        <div class="message">Merge release info
-
-Merge new release into main</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#093ba54</div>
-                                        <div class="message">chore(release): v1.62.2 [skip ci]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 550 commits in
-                                        <span class="repo">gurjeetsinghvirdee/LinkFree</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6c1393f</div>
-                                        <div class="message">style: format files</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cba54b8</div>
-                                        <div class="message">data: update bello-olalekan (#3315)
-
-* data: bello-olalekan.json
-
-* Update bello-olalekan.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9630031</div>
-                                        <div class="message">Merge release info
-
-Merge new release into main</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#89b969a</div>
-                                        <div class="message">chore(release): v1.46.47 [skip ci]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cc47766</div>
-                                        <div class="message">Merge release info
-
-Merge new release into main</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f9e1b93</div>
-                                        <div class="message">chore(release): v1.46.46 [skip ci]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#734a7ba</div>
-                                        <div class="message">fix: mobile navbar close on click #2464 (#2507)
-
-Co-authored-by: Eddie Jaoude &lt;eddie@jaoudestudios.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9efad10</div>
-                                        <div class="message">Merge release info
-
-Merge new release into main</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6625599</div>
-                                        <div class="message">chore(release): v1.46.45 [skip ci]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d9572a6</div>
-                                        <div class="message">Merge formatting
-
-Merge formatting into main</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#30b155b</div>
-                                        <div class="message">style: format files</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac0fe2a</div>
-                                        <div class="message">data: Kunaaal13 (#3336)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64ff6b4</div>
-                                        <div class="message">Merge release info
-
-Merge new release into main</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3090227</div>
-                                        <div class="message">chore(release): v1.46.44 [skip ci]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58a1a68</div>
-                                        <div class="message">Merge formatting
-
-Merge formatting into main</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#043ffba</div>
-                                        <div class="message">style: format files</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#45eb0a2</div>
-                                        <div class="message">data: saidurrahmanmisket (#3244)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0bddc9f</div>
-                                        <div class="message">Merge release info
-
-Merge new release into main</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#456e5dc</div>
-                                        <div class="message">chore(release): v1.46.43 [skip ci]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cea5bf3</div>
-                                        <div class="message">data: Panquesito7 (#3325)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2663,7 +2715,7 @@ Merge new release into main</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="540.5366666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="540.7433333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2685,10 +2737,10 @@ Merge new release into main</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">6231</div>
+                                        <div class="value">6233</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 6231 times</div>
+                                <div class="text">Repositories have been deployed 6233 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3407,7 +3459,7 @@ Merge new release into main</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jan 2023, 02:42:57 (timezone Asia/Calcutta) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 26 Jan 2023, 03:46:39 (timezone Asia/Calcutta) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

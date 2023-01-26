@@ -22,21 +22,28 @@ I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BC
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
-<img align="right" height="150" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" />
-  
-<ul align="left">
-  <li> 🏢 Co-Founder at <a href="https://www.linkedin.com/company/medictry/">Medictry</a>
-  <li> 🧑‍💻 <strong>8</strong> PRs Merged at Hactoberfest'22 </li>
-  <li> 💻 Contributor & Project Admin at HSOC'22 </li>
-  <li> 🎉 Secured <strong>10th</strong> Rank Globally in GSSoC'22 </li>
-  <li> 🏫 Currently learning DSA </li>
-  <li> 🤝 Collaborator at <a href="https://github.com/Rayman-Sodhi/Clone-IT"> Clone-IT </a> & <a href="https://github.com/utkarsh006/Eazy-Android"> Eazy-Android </a>
-  </li>
-  <li> 💬 Ask me about Anything </li>
-  <li> 📕 Read My Articles at 
-    <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">@GeeksforGeeks</a>
-  </li>
-</ul>  
+<table>
+<tr>
+    <td align="center">
+        <ul align="left">
+            <li> 🏢 Co-Founder at <a href="https://www.linkedin.com/company/medictry/">Medictry</a>
+            <li> 🧑‍💻 <strong>8</strong> PRs Merged at Hactoberfest'22 </li>
+            <li> 💻 Contributor & Project Admin at HSOC'22 </li>
+            <li> 🎉 Secured <strong>10th</strong> Rank Globally in GSSoC'22 </li>
+            <li> 🏫 Currently learning NEXT JS </li>
+            <li> 🤝 Collaborator at <a href="https://github.com/Rayman-Sodhi/Clone-IT"> Clone-IT </a> & <a href="https://github.com/utkarsh006/Eazy-Android"> Eazy-Android </a>
+            </li>
+            <li> 💬 Ask me about Anything </li>
+            <li> 📕 Read My Articles at 
+                <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">@GeeksforGeeks</a>
+            </li>
+        </ul>  
+    </td>
+    <td align="center">
+        <img align="right" height="250" width="600" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" />
+    </td>
+</tr>
+</table>
 
 <!------------------------------------------- Spotify Profile --------------------------------------------->
 

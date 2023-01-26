@@ -133,29 +133,22 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
     <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" /> 
   </td>  
   <td align="center"> 
-    <img width="400" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/metrics.plugin.isocalendar.svg" />
+    <img align="right" width="300" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/metrics.plugin.isocalendar.svg" />
   </td>  
 </tr>    
 <tr>
   <td align="center">
-    <img width="400" src="https://github-readme-activity-graph.cyclic.app/graph?username=gurjeetsinghvirdee&theme=synthwave-84&true&hide_border=true" />
-  </td>  
-  <td align="center">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" />
-  </td>
-</tr>
-<tr>
-  <td align="center">
-    <img width="400" src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&column=4&row=2&theme=radical" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" />
   </td>
   <td align="center">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=synthwave&langs_count=15" /> 
+    <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=synthwave&langs_count=15" /> 
   </td>
 </tr>
 </table>
 
-
-   
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gurjeetsinghvirdee&theme=synthwave-84&true&hide_border=true" />
+</div>
         
 ### ⚡ Recent Activity     
         
@@ -336,8 +329,13 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
        
 <details>
-    <summary> <b> 🏆 GitHub Metrics </b></summary>
-        <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-metrics.svg" />
+  <summary> <b> ❤️ Github Followers </b> </summary>
+    <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/metrics.plugin.people.followers.svg" />
 </details>   
+
+<details>
+  <summary> <b> 🦾 Github Achievements </b> </summary>
+    <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/metrics.plugin.achievements.svg" />
+</details>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />

@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: suvraneel/github-activity-readme@master
+      - uses: gurjeetsinghvirdee/github-activity-readme@main
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

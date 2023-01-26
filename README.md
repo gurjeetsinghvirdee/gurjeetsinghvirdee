@@ -21,6 +21,8 @@ I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BC
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
+<img align="right" height="150" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" />
   
 <ul align="left">
   <li> 🏢 Co-Founder at <a href="https://www.linkedin.com/company/medictry/">Medictry</a>

@@ -22,28 +22,19 @@ I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BC
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
   
-
-<table>
-<tr>
-  <td align="center">
-  
-  </td>
-  <td align="left">
-    <li> 🏢 Co-Founder at <a href="https://www.linkedin.com/company/medictry/">Medictry</a>
-    <li> 🧑‍💻 <strong>8</strong> PRs Merged at Hactoberfest'22 </li>
-    <li> 💻 Contributor & Project Admin at HSOC'22 </li>
-    <li> 🎉 Secured <strong>10th</strong> Rank Globally in GSSoC'22 </li>
-    <li> 🏫 Currently learning DSA </li>
-    <li> 🤝 Collaborator at <a href="https://github.com/Rayman-Sodhi/Clone-IT"> Clone-IT </a> & <a href="https://github.com/utkarsh006/Eazy-Android"> Eazy-Android </a>
-    </li>
-    <li> 💬 Ask me about Anything </li>
-    <li> 📕 Read My Articles at 
+<ul align="left">
+  <li> 🏢 Co-Founder at <a href="https://www.linkedin.com/company/medictry/">Medictry</a>
+  <li> 🧑‍💻 <strong>8</strong> PRs Merged at Hactoberfest'22 </li>
+  <li> 💻 Contributor & Project Admin at HSOC'22 </li>
+  <li> 🎉 Secured <strong>10th</strong> Rank Globally in GSSoC'22 </li>
+  <li> 🏫 Currently learning DSA </li>
+  <li> 🤝 Collaborator at <a href="https://github.com/Rayman-Sodhi/Clone-IT"> Clone-IT </a> & <a href="https://github.com/utkarsh006/Eazy-Android"> Eazy-Android </a>
+  </li>
+  <li> 💬 Ask me about Anything </li>
+  <li> 📕 Read My Articles at 
     <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">@GeeksforGeeks</a>
-    </li>
-  </td>
-</tr>
-</table>
- 
+  </li>
+</ul>  
 
 <!------------------------------------------- Spotify Profile --------------------------------------------->
 
@@ -136,31 +127,32 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
         
 ## 💫 Github Stats
         
-<div align="center">
- <a href="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" target="_blank">
-   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" /> &nbsp;
- </a>
-    
- <a href="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" target="_blank">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" />
- </a>
-</div>      
-  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+<table>
+<tr>
+  <td align="center">
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" /> 
+  </td>  
+  <td align="center"> 
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=synthwave&langs_count=15" /> 
+  </td>  
+</tr>    
+<tr>
+  <td align="center">
+    <img width="400" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/metrics.plugin.isocalendar.svg" />
+  </td>  
+  <td align="center">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" />
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&column=4&row=2&theme=radical" />
+  </td>
+</tr>
+</table>
 
-<div align="center">
-    <a href="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=radical" target="_blank">
-        <img src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&column=4&row=2&theme=radical" />
-    </a>
-</diV>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
-        
-<div align="center">
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=synthwave&langs_count=15" target="_blank">
-       <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=synthwave&langs_count=15" />  
-   </a> 
-</div>   
+   
         
 ### ⚡ Recent Activity     
         

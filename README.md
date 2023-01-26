@@ -138,7 +138,7 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 </tr>    
 <tr>
   <td align="center">
-    
+    <img width="400" src="https://github-readme-activity-graph.cyclic.app/graph?username=gurjeetsinghvirdee&theme=synthwave-84&true&hide_border=true" />
   </td>  
   <td align="center">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" />

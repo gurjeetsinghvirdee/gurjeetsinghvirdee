@@ -22,20 +22,28 @@ I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BC
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
   
-<ul align="left">
-    <img align="right" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/src/Assets/vector.gif" width="320" height="200" />
-  <li> 🏢 Co-Founder at <a href="https://www.linkedin.com/company/medictry/">Medictry</a>
-  <li> 🧑‍💻 <strong>8</strong> PRs Merged at Hactoberfest'22 </li>
-  <li> 💻 Contributor & Project Admin at HSOC'22 </li>
-  <li> 🎉 Secured <strong>10th</strong> Rank Globally in GSSoC'22 </li>
-  <li> 🏫 Currently learning DSA </li>
-  <li> 🤝 Collaborator at <a href="https://github.com/Rayman-Sodhi/Clone-IT"> Clone-IT </a> & <a href="https://github.com/utkarsh006/Eazy-Android"> Eazy-Android </a>
-  </li>
-  <li> 💬 Ask me about Anything </li>
-  <li> 📕 Read My Articles at 
+
+<table>
+<tr>
+  <td align="center">
+  
+  </td>
+  <td align="left">
+    <li> 🏢 Co-Founder at <a href="https://www.linkedin.com/company/medictry/">Medictry</a>
+    <li> 🧑‍💻 <strong>8</strong> PRs Merged at Hactoberfest'22 </li>
+    <li> 💻 Contributor & Project Admin at HSOC'22 </li>
+    <li> 🎉 Secured <strong>10th</strong> Rank Globally in GSSoC'22 </li>
+    <li> 🏫 Currently learning DSA </li>
+    <li> 🤝 Collaborator at <a href="https://github.com/Rayman-Sodhi/Clone-IT"> Clone-IT </a> & <a href="https://github.com/utkarsh006/Eazy-Android"> Eazy-Android </a>
+    </li>
+    <li> 💬 Ask me about Anything </li>
+    <li> 📕 Read My Articles at 
     <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">@GeeksforGeeks</a>
-  </li>
-</ul>  
+    </li>
+  </td>
+</tr>
+</table>
+ 
 
 <!------------------------------------------- Spotify Profile --------------------------------------------->
 

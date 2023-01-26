@@ -133,12 +133,12 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
     <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" /> 
   </td>  
   <td align="center"> 
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=synthwave&langs_count=15" /> 
+    <img width="400" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/metrics.plugin.isocalendar.svg" />
   </td>  
 </tr>    
 <tr>
   <td align="center">
-    <img width="400" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/metrics.plugin.isocalendar.svg" />
+    
   </td>  
   <td align="center">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" />
@@ -146,7 +146,10 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 </tr>
 <tr>
   <td align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&column=4&row=2&theme=radical" />
+    <img width="400" src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&column=4&row=2&theme=radical" />
+  </td>
+  <td align="center">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=synthwave&langs_count=15" /> 
   </td>
 </tr>
 </table>

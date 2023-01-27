@@ -28,4 +28,4 @@ jobs:
           base: ""
           config_timezone: Asia/Calcutta
           plugin_calendar: yes
-          plugin_calendar_limit: 2
+          plugin_calendar_limit: 3

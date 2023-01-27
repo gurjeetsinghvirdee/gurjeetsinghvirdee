@@ -52,7 +52,7 @@ I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BC
 </div>    
         
         
-<!--------------------------------------------TESTIMONIALS------------------------------------------------->
+<!------------------------------------------TESTIMONIALS----------------------------------------------->
         
 ## ✨ Testimonials
         

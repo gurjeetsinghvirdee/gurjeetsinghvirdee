@@ -40,7 +40,7 @@ I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BC
         </ul>  
     </td>
     <td align="center">
-        <img align="right" height="250" width="600" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" />
+        <img align="right" height="250" width="250" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" />
     </td>
 </tr>
 </table>

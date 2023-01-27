@@ -84,8 +84,6 @@ JSON             11 hrs          █▒░░░░░░░░░░░░░�
 TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
-<img src="https://wakatime.com/badge/user/ff7098eb-56b3-4619-bbbb-86aad0fce365.svg?style=for-the-badge" />
-
 <!--END_SECTION:waka--> 
 
 <!---------------------------------Frameworks, Languages & Other Tools ------------------------------------->        

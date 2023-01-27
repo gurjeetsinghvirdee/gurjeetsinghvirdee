@@ -344,4 +344,9 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
     <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/metrics.plugin.achievements.svg" />
 </details>
 
+<details>
+  <summary> <b> 📆 Github Contribution Calendar </b></summary>
+    <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-metrics.svg" />
+</details>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />

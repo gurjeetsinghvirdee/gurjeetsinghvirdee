@@ -26,7 +26,7 @@ I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BC
 <tr>
     <td align="center">
         <ul align="left">
-            <li> 🏢 Co-Founder at <a href="https://www.linkedin.com/company/medictry/">Medictry</a>
+            <li> 🏢 Co-Founder at <a href="https://www.linkedin.com/company/medictry/">MedicTry</a>
             <li> 🧑‍💻 <strong>8</strong> PRs Merged at Hactoberfest'22 </li>
             <li> 💻 Contributor & Project Admin at HSOC'22 </li>
             <li> 🎉 Secured <strong>10th</strong> Rank Globally in GSSoC'22 </li>
@@ -45,7 +45,7 @@ I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BC
 </tr>
 </table>
 
-<!------------------------------------------- Spotify Profile --------------------------------------------->
+<!--------------------------- Spotify Profile--------------------------------->
 
 <div align="center">
     <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31xcftnaufneyotbwgeuezrzheky&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31xcftnaufneyotbwgeuezrzheky&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true" /></a>
@@ -67,7 +67,7 @@ I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BC
   </tr>
 </table>
 
-## 📊 Weekly Developement Breakdown
+## 📊 Weekly Development Breakdown
   
 <!--START_SECTION:waka-->
 
@@ -119,7 +119,7 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
         <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=fff" alt="windows" />
 </div>
         
-<!---------------------- OPEN SOUCRE CONTRIBUTIONS ---------------------->
+<!---------------------- OPEN SOURCE CONTRIBUTIONS ---------------------->
         
 <details>
     <summary><h3> 👨‍💻 OPEN SOURCE CONTRIBUTIONS</h3></summary>  

@@ -333,7 +333,7 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 `[12/31 18:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gurjeetsinghvirdee/EduTech](https://github.com/gurjeetsinghvirdee/EduTech)  
 `[12/31 18:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gurjeetsinghvirdee/EduTech](https://github.com/gurjeetsinghvirdee/EduTech)  
 `[12/31 18:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[12/31 17:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `39` commits in [gurjeetsinghvirdee/EduTech](https://github.com/gurjeetsinghvirdee/EduTech)  
+`[12/31 17:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `37` commits in [gurjeetsinghvirdee/EduTech](https://github.com/gurjeetsinghvirdee/EduTech)  
 
 </details>
 <!--END_SECTION:activity-->

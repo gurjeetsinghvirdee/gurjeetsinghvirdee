@@ -162,14 +162,15 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[01/28 17:32]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//torco34/mi-portafolio/issues/1 'bug') in [torco34/mi-portafolio](https://github.com/torco34/mi-portafolio)  
 `[01/28 16:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/Eazy-Android](https://github.com/gurjeetsinghvirdee/Eazy-Android)  
 `[01/28 08:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#498`](https://github.com//TusharAMD/Runn/issues/498 'Whac a mole') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[01/28 08:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#499`](https://github.com//TusharAMD/Runn/issues/499 'Pacman game') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[01/28 08:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#501`](https://github.com//TusharAMD/Runn/issues/501 'Fidget ') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
-`[01/28 08:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#497`](https://github.com//TusharAMD/Runn/issues/497 'Memory Game ') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[01/28 08:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#497`](https://github.com//TusharAMD/Runn/issues/497 'Memory Game ') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[01/28 08:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#496`](https://github.com//TusharAMD/Runn/issues/496 'Frogger') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[01/28 08:16]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#495`](https://github.com//TusharAMD/Runn/issues/495 'Breakout Game') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  
 `[01/28 08:16]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#125`](https://github.com//TusharAMD/Runn/issues/125 'Rock Paper Scissors') in [TusharAMD/Runn](https://github.com/TusharAMD/Runn)  

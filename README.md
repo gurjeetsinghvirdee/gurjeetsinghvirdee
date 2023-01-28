@@ -72,19 +72,17 @@ I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BC
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 July 2021 - To: 26 January 2023
+From: 27 July 2021 - To: 27 January 2023
 
-Total Time: 211 hrs 46 mins
+Total Time: 213 hrs 24 mins
 
-JavaScript       60 hrs 6 mins   ███████░░░░░░░░░░░░░░░░░░   28.38 %
-Markdown         51 hrs 16 mins  ██████░░░░░░░░░░░░░░░░░░░   24.21 %
-HTML             41 hrs 28 mins  █████░░░░░░░░░░░░░░░░░░░░   19.59 %
-CSS              30 hrs 28 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
-JSON             11 hrs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+JavaScript       60 hrs 6 mins   ███████░░░░░░░░░░░░░░░░░░   28.17 %
+Markdown         52 hrs 25 mins  ██████░░░░░░░░░░░░░░░░░░░   24.56 %
+HTML             41 hrs 28 mins  █████░░░░░░░░░░░░░░░░░░░░   19.44 %
+CSS              30 hrs 28 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+JSON             11 hrs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
-
-<img src="https://wakatime.com/badge/user/ff7098eb-56b3-4619-bbbb-86aad0fce365.svg?style=for-the-badge" />
 
 <!--END_SECTION:waka--> 
 

@@ -59,11 +59,18 @@ I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BC
 <table>
   <tr>
     <th>Author</th>
-    <th>Message</th>
+    <th>Title</th>
+    <th>Description</th>
   </tr>
   <tr>
     <td><a target="_blank" href="https://www.linkedin.com/in/utkarsh06/">Utkarsh Saxena</a></td>
+    <td>Amazing Helper and teacher</td>
     <td>I have worked with Gurjeet on a project and he has been very kind to me. Since I am from the Android domain he explained the web concepts to me in an easy way. He is also the collaborator of my Two Repos : Leetcode Grind and Eazy Android and is always kind to the new contributors and helps them to do their best. Looking forward to working with him more and enhancing this journey of Tech and Open Source.</td>
+  </tr>
+  <tr>
+      <td><a target="_blank" href="https://www.linkedin.com/in/ishika-goyal-375112221/">Ishika Goyal</a></td>
+      <td>Good Mentor</td>
+      <td>Gurjeet Singh Virdee is inspiring , good mentor, adviser and understanding friend. He continuously helping me in learning the open source contribution. I     truly appreciate everything he have done for me so far and hope to continue learning from him.</td>
   </tr>
 </table>
 

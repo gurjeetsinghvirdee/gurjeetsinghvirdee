@@ -1,10 +1,11 @@
-## Hey Everyone👋
-
 [![@guri's Holopin board](https://holopin.io/api/user/board?user=guri)](https://holopin.io/@guri)
 
-<!-- About Me -->
+<!----------------------------------------------------------------ABOUT ME ----------------------------------------------------->
 
-I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BCA, Co-Founder at [Medictry](https://www.linkedin.com/company/89489745/admin/), Collabing with [Aviyel](https://aviyel.com/discussions) as Content Creator, Former Technical Team Member & Mentored 150+ Contributors on [GSSoC'22](https://gssoc.girlscript.tech/) and also A Technical Content Writer at [GeeksforGeeks](https://www.geeksforgeeks.org/)  
+## Hey Everyone👋
+
+I am a skilled MERN Stack Developer with a passion for innovative design and a strong drive to join a creative, problem-solving team. Possessing the ability to learn and implement new technologies quickly, I am always looking to expand my skillset. As an open-source enthusiast, I have helped over 200 students understand the importance of open-source and am currently in my 2nd year of **BCA** studies. <br>
+As a **Full Stack Intern at NullClass**, Co-Founder of [Medictry](https://www.linkedin.com/company/89489745), I am dedicated to exploring new technologies and sharing my knowledge with others, making me a valuable asset to any team.
 
 <p align="center">
     <a href="https://twitter.com/__gurii__" target="_blank">   

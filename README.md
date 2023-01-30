@@ -42,7 +42,7 @@ As a **Full Stack Intern at NullClass**, Co-Founder of [Medictry](https://www.li
 <!--------------------------- Spotify Profile--------------------------------->
 
 <div align="center">
-    <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31xcftnaufneyotbwgeuezrzheky&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31xcftnaufneyotbwgeuezrzheky&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true" /></a>
+    <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31xcftnaufneyotbwgeuezrzheky&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31xcftnaufneyotbwgeuezrzheky&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></a>
 </div>    
         
         

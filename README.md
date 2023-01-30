@@ -22,10 +22,8 @@ I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BC
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
-<table>
-<tr>
-    <td align="center">
-        <ul align="left">
+<div>
+       <ul align="left">
             <li> 🏢 Co-Founder at <a href="https://www.linkedin.com/company/medictry/">MedicTry</a>
             <li> 🧑‍💻 <strong>8</strong> PRs Merged at Hactoberfest'22 </li>
             <li> 💻 Contributor & Project Admin at HSOC'22 </li>
@@ -37,13 +35,8 @@ I'm a MERN Stack Developer and UI Designer, Currently in Second Year Studying BC
             <li> 📕 Read My Articles at 
                 <a href="https://auth.geeksforgeeks.org/user/gurjeetsinghvirdee/articles" target="_blank">@GeeksforGeeks</a>
             </li>
-        </ul>  
-    </td>
-    <td align="center">
-        <img align="right" height="250" width="250" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/devcard.svg" />
-    </td>
-</tr>
-</table>
+       </ul>  
+</div>
 
 <!--------------------------- Spotify Profile--------------------------------->
 

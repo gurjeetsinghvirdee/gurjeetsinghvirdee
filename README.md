@@ -4,7 +4,7 @@
 
 ## Hey Everyone👋
 
-I am a skilled MERN Stack Developer with a passion for innovative design and a strong drive to join a creative, problem-solving team. Possessing the ability to learn and implement new technologies quickly, I am always looking to expand my skillset. As an open-source enthusiast, I have helped over 200 students understand the importance of open-source and am currently in my 2nd year of **BCA** studies. <br>
+I am a skilled MERN Stack Developer with a passion for innovative design and a strong drive to join a creative, problem-solving team. Possessing the ability to learn and implement new technologies quickly, I am always looking to expand my skillset. As an open-source enthusiast, I have helped over 200 students understand the importance of open-source and am currently in my 2nd year of **BCA** studies. 
 As a **Full Stack Intern at NullClass**, Co-Founder of [Medictry](https://www.linkedin.com/company/89489745), I am dedicated to exploring new technologies and sharing my knowledge with others, making me a valuable asset to any team.
 
 <p align="center">

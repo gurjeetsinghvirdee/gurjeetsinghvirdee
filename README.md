@@ -26,7 +26,7 @@ As a **Full Stack Intern at NullClass**, Co-Founder of [Medictry](https://www.li
 
 <div>
 
-<img align="right" height="230" width="400" src="https://raw.githubusercontent.com/gurjeetsinghvirdee/gurjeetsinghvirdee/main/giphy.webp" />
+<img align="right" height="250" width="300" src="https://raw.githubusercontent.com/gurjeetsinghvirdee/gurjeetsinghvirdee/main/giphy.webp" />
        <ul align="left">
             <li> 🏢 Co-Founder at <a href="https://www.linkedin.com/company/medictry/">MedicTry</a>
             <li> 😎 Mentee at JWOC </li>

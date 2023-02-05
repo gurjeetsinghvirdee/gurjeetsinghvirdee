@@ -8,13 +8,7 @@ I am a skilled MERN Stack Developer with a passion for innovative design and a s
 As a **Full Stack Intern at NullClass**, Co-Founder of [Medictry](https://www.linkedin.com/company/89489745), I am dedicated to exploring new technologies and sharing my knowledge with others, making me a valuable asset to any team.
 
 <p align="center">
-    <a href="https://twitter.com/__gurii__" target="_blank">   
-    <img src="https://img.shields.io/badge/@__gurii__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="105" height="22" alt="twitter">
-    <a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="_blank">
-    <img src="https://img.shields.io/badge/Gurjeet%20Singh%20Virdee-1976D2?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="22" alt="linkedin">
-    <a href="https://discordapp.com/users/916597112882495510" target="_blank">
-    <img src="https://img.shields.io/badge/@Guri-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="80" height="22" alt="discord">
-    <a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Say, HII-D74E43?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="22"></a>
+    <a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gurjeetsinghvirdee@gmail.com-D74E43?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </p>
  
 <div align="center"> 

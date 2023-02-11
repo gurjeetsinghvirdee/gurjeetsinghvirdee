@@ -23,6 +23,7 @@ As a **Full Stack Intern at NullClass**, Co-Founder of [Medictry](https://www.li
 <img align="right" height="220" width="300" src="https://raw.githubusercontent.com/gurjeetsinghvirdee/gurjeetsinghvirdee/main/giphy.webp" />
        <ul align="left">
             <li> 🏢 Co-Founder at <a href="https://www.linkedin.com/company/medictry/">MedicTry</a>
+            <li> 💻 Managing Team at <a href="https://hyperedge.so/"> HyperEdge WOB'23 </a></li>
             <li> 😎 Mentee at JWOC </li>
             <li> 🧑‍💻 <strong>8</strong> PRs Merged at Hactoberfest'22 </li>
             <li> 💻 Contributor & Project Admin at HSOC'22 </li>

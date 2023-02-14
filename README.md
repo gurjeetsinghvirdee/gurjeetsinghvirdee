@@ -26,8 +26,8 @@ As a **Full Stack Intern at NullClass**, Co-Founder of [Medictry](https://www.li
             <li> 💻 Managing Team at <a href="https://hyperedge.so/"> HyperEdge WOB'23 </a></li>
             <li> 😎 Mentee at JWOC </li>
             <li> 🧑‍💻 <strong>8</strong> PRs Merged at Hactoberfest'22 </li>
-            <li> 💻 Contributor & Project Admin at HSOC'22 </li>
-            <li> 🎉 Secured <strong>10th</strong> Rank Globally in GSSoC'22 </li>
+            <li> 💻 Contributor & Project Admin at <strong>HSOC'22</strong> </li>
+            <li> 🎉 Secured <strong>10th</strong> Rank Globally in <strong>GSSoC'22</strong> </li>
             <li> 🏫 Currently learning NEXT JS </li>
             <li> 🤝 Collaborator at <a href="https://github.com/Rayman-Sodhi/Clone-IT"> Clone-IT </a> & <a href="https://github.com/utkarsh006/Eazy-Android"> Eazy-Android </a>
             </li>

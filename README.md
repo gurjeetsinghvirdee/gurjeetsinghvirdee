@@ -17,7 +17,6 @@ As a **Full Stack Intern at NullClass**, Co-Founder of [Medictry](https://www.li
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
-
 <div>
 
 <img align="right" height="200" width="300" src="https://raw.githubusercontent.com/gurjeetsinghvirdee/gurjeetsinghvirdee/main/giphy.webp" />
@@ -84,6 +83,22 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka--> 
 
+<!---------------------- OPEN SOURCE CONTRIBUTIONS ---------------------->
+        
+<details>
+    <summary><h3> 👨‍💻 OPEN SOURCE CONTRIBUTIONS</h3></summary>  
+    
+|S.No.|Open Source Program |Duration| Contribution |Role|Rewards|
+|---------|--------|-------|-------|----|-----|    
+| 1. | GirlScript Summer Of Code | 1st Mar - 31st May 2022 | [Click Here](https://docs.google.com/document/d/15t_iThcyiNgIuAUmTJ9Utjy1ccxwTGZXy_0n8VYsHLE/edit?usp=sharing) | Contributor | [Link](https://drive.google.com/drive/folders/1gYYFepBLm09uATAZ9_Nh34opop_0nfCi?usp=sharing) |    
+| 2. | GirlScript Summer Of Code | 1st Mar - 31st May 2022 | [Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend) & [WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart) | Mentor | [Link](https://drive.google.com/drive/folders/1d0gDnPh8gR8qU61g-fWLEhahhshR8PXh?usp=sharing) |
+| 3. | GirlScript Summer Of Code | 1st Mar - 31st July 2022 | Discord Moderator | Technical Team | T-Shirt [Link](https://drive.google.com/drive/folders/1B2jDXyXA-L-XXypvaNzrpXRTVY7GW-04?usp=sharing) |
+| 4. | Hack Club RAIT | 1st July - 30st September 2022 | [Click Here](https://docs.google.com/document/d/1_ZutQmDbGkuFsbypF2oX_jbmFMf7OV-X4kr8xVs5J0w) | Contributor | [Link](https://drive.google.com/file/d/1Km6kXQU3NWr8OkWnaHB7-vLfEjhffplE/view?usp=sharing) |
+| 5. | Hacktoberfest | 1st October - 31st October 2022 | [Click Here](https://docs.google.com/document/d/1mv27yGR7-SsIDOinqsYDnFutXHG49awhzvZYaEna3rM) | Contributor | T-Shirt & Stickers | 
+| 6. | HyperEdge WOB'23 | 1st Feb - Present | Discord Moderator, | Managing Team | - | 
+    
+</details>
+
 <!---------------------------------Frameworks, Languages & Other Tools ------------------------------------->        
         
 ## ⚛️ Frameworks, Languages & Other Tools        
@@ -116,21 +131,8 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" />
         <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=fff" alt="windows" />
 </div>
-        
-<!---------------------- OPEN SOURCE CONTRIBUTIONS ---------------------->
-        
-<details>
-    <summary><h3> 👨‍💻 OPEN SOURCE CONTRIBUTIONS</h3></summary>  
-    
-|S.No.|Open Source Program |Duration| Contribution |Role|Rewards|
-|---------|--------|-------|-------|----|-----|    
-| 1. | GirlScript Summer Of Code | 1st Mar - 31st May 2022 | [Click Here](https://docs.google.com/document/d/15t_iThcyiNgIuAUmTJ9Utjy1ccxwTGZXy_0n8VYsHLE/edit?usp=sharing) | Contributor | [Link](https://drive.google.com/drive/folders/1gYYFepBLm09uATAZ9_Nh34opop_0nfCi?usp=sharing) |    
-| 2. | GirlScript Summer Of Code | 1st Mar - 31st May 2022 | [Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend) & [WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart) | Mentor | [Link](https://drive.google.com/drive/folders/1d0gDnPh8gR8qU61g-fWLEhahhshR8PXh?usp=sharing) |
-| 3. | GirlScript Summer Of Code | 1st Mar - 31st July 2022 | Discord Moderator | Technical Team | T-Shirt [Link](https://drive.google.com/drive/folders/1B2jDXyXA-L-XXypvaNzrpXRTVY7GW-04?usp=sharing) |
-| 4. | Hack Club RAIT | 1st July - 30st September 2022 | [Click Here](https://docs.google.com/document/d/1_ZutQmDbGkuFsbypF2oX_jbmFMf7OV-X4kr8xVs5J0w) | Contributor | [Link](https://drive.google.com/file/d/1Km6kXQU3NWr8OkWnaHB7-vLfEjhffplE/view?usp=sharing) |
-| 5. | Hacktoberfest | 1st October - 31st October 2022 | [Click Here](https://docs.google.com/document/d/1mv27yGR7-SsIDOinqsYDnFutXHG49awhzvZYaEna3rM) | Contributor | T-Shirt & Stickers | 
-    
-</details>
+
+<!------------------------------------------------------------ GITHUB STATS ------------------------------------------------------------------------>
         
 ## 💫 Github Stats
         
@@ -160,15 +162,14 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[02/16 08:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[02/14 09:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/angular](https://github.com/gurjeetsinghvirdee/angular)  
 `[02/14 09:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5`](https://github.com//gurjeetsinghvirdee/angular/pull/5 'Bump http-cache-semantics from 4.1.0 to 4.1.1') in [gurjeetsinghvirdee/angular](https://github.com/gurjeetsinghvirdee/angular)  
 `[02/14 08:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[02/12 16:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `38` commits in [gurjeetsinghvirdee/Badges4-README.md-Profile](https://github.com/gurjeetsinghvirdee/Badges4-README.md-Profile)  
+`[02/12 16:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
-`[02/12 16:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[02/10 16:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `32` commits in [gurjeetsinghvirdee/portfolio](https://github.com/gurjeetsinghvirdee/portfolio)  
 `[02/05 18:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)  
 `[02/05 18:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
@@ -304,14 +305,18 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 `[01/09 22:44]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `output` from [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[01/09 22:44]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `master` from [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[01/09 22:43]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `imgbot` from [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[01/09 22:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
+`[01/09 22:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 
 </details>
 <!--END_SECTION:activity-->
 
+<!--------------------------------------------- 3D Contribution Graph -------------------------------------------->
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+       
+<!---------------------------------------------- Some More Stats ------------------------------------------------->       
        
 <details>
   <summary> <b> ❤️ Github Followers </b> </summary>
@@ -327,6 +332,8 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
   <summary> <b> 📆 Github Contribution Calendar </b></summary>
     <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-metrics.svg" />
 </details>
+
+<!----------------------------------------------- Buy Me A Coffee ------------------------------------------------>
         
 <div align="center">
     <a href="https://www.buymeacoffee.com/gurjeetsingh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee"             style="height: 60px !important;width: 217px !important;" >

@@ -24,7 +24,6 @@ As a **Full Stack Intern at NullClass**, Co-Founder of [Medictry](https://www.li
        <ul align="left">
             <li> 🏢 Co-Founder at <a href="https://www.linkedin.com/company/medictry/">MedicTry</a>
             <li> 💻 Managing Team at <a href="https://hyperedge.so/"> HyperEdge WOB'23 </a></li>
-            <li> 😎 Mentee at JWOC </li>
             <li> 🧑‍💻 <strong>8</strong> PRs Merged at Hactoberfest'22 </li>
             <li> 💻 Contributor & Project Admin at <strong>HSOC'22</strong> </li>
             <li> 🎉 Secured <strong>10th</strong> Rank Globally in <strong>GSSoC'22</strong> </li>

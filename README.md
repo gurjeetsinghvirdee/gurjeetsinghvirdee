@@ -162,14 +162,15 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[03/10 09:55]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ishikagoyal02/GFG-SOLUTIONS](https://github.com/ishikagoyal02/GFG-SOLUTIONS) to [gurjeetsinghvirdee/GFG-SOLUTIONS](https://github.com/gurjeetsinghvirdee/GFG-SOLUTIONS)  
 `[03/09 09:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/wob23-leaderboard](https://github.com/gurjeetsinghvirdee/wob23-leaderboard)  
 `[03/09 08:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/wob23-leaderboard/tree/master) in [gurjeetsinghvirdee/wob23-leaderboard](https://github.com/gurjeetsinghvirdee/wob23-leaderboard)  
 `[03/09 08:43]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/wob23-leaderboard](https://github.com/gurjeetsinghvirdee/wob23-leaderboard)  
 `[03/09 08:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
-`[02/16 08:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[02/16 08:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[02/14 09:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/angular](https://github.com/gurjeetsinghvirdee/angular)  
 `[02/14 09:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5`](https://github.com//gurjeetsinghvirdee/angular/pull/5 'Bump http-cache-semantics from 4.1.0 to 4.1.1') in [gurjeetsinghvirdee/angular](https://github.com/gurjeetsinghvirdee/angular)  
 `[02/14 08:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
@@ -309,7 +310,6 @@ TypeScript       3 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 `[01/09 22:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[01/09 22:44]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `output` from [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[01/09 22:44]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `master` from [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[01/09 22:43]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `imgbot` from [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 
 </details>
 <!--END_SECTION:activity-->

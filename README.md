@@ -162,7 +162,7 @@ TypeScript       3 hrs 8 mins    ▒░░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[03/16 18:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
+`[03/16 20:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
 `[03/16 16:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend/tree/master) in [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
 `[03/16 16:13]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
 `[03/12 13:25]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
@@ -308,10 +308,6 @@ TypeScript       3 hrs 8 mins    ▒░░░░░░░░░░░░░░�
 `[01/10 07:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2967`](https://github.com//EddieHubCommunity/LinkFree/issues/2967 'New Testimonial for Gurjeet Singh Virdee') in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)  
 `[01/10 06:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/angular](https://github.com/gurjeetsinghvirdee/angular)  
 `[01/10 06:54]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//gurjeetsinghvirdee/angular/pull/3 'Bump json5 from 2.2.1 to 2.2.3') in [gurjeetsinghvirdee/angular](https://github.com/gurjeetsinghvirdee/angular)  
-`[01/10 05:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[01/10 05:54]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#9`](https://github.com//gurjeetsinghvirdee/gurjeetsinghvirdee/pull/9 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[01/09 23:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `180` commits in [gurjeetsinghvirdee/LinkFree](https://github.com/gurjeetsinghvirdee/LinkFree)  
-`[01/09 23:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/stackoverflow-clone](https://github.com/gurjeetsinghvirdee/stackoverflow-clone)  
 
 </details>
 <!--END_SECTION:activity-->

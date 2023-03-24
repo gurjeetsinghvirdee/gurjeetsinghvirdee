@@ -162,14 +162,16 @@ TypeScript       3 hrs 8 mins    ▒░░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[03/24 14:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
+`[03/24 14:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
 `[03/24 13:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
 `[03/24 11:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
 `[03/24 11:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
-`[03/24 09:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
-`[03/23 19:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[03/24 09:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
+`[03/23 19:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
 `[03/23 17:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
 `[03/23 17:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
 `[03/23 16:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
@@ -302,7 +304,7 @@ TypeScript       3 hrs 8 mins    ▒░░░░░░░░░░░░░░�
 `[01/11 05:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `75` commits in [gurjeetsinghvirdee/LinkFree](https://github.com/gurjeetsinghvirdee/LinkFree)  
 `[01/10 22:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[01/10 22:07]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#10`](https://github.com//gurjeetsinghvirdee/gurjeetsinghvirdee/pull/10 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[01/10 22:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [gurjeetsinghvirdee/stackoverflow-clone](https://github.com/gurjeetsinghvirdee/stackoverflow-clone)  
+`[01/10 22:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [gurjeetsinghvirdee/stackoverflow-clone](https://github.com/gurjeetsinghvirdee/stackoverflow-clone)  
 
 </details>
 <!--END_SECTION:activity-->

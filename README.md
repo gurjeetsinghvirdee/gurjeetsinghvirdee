@@ -162,7 +162,7 @@ TypeScript       3 hrs 11 mins   ▒░░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[03/28 08:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
+`[03/28 12:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
 `[03/26 07:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[03/25 22:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
 `[03/25 22:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
@@ -300,10 +300,6 @@ TypeScript       3 hrs 11 mins   ▒░░░░░░░░░░░░░░�
 `[01/12 19:28]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#13`](https://github.com//gurjeetsinghvirdee/gurjeetsinghvirdee/pull/13 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[01/12 19:28]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#13`](https://github.com//gurjeetsinghvirdee/gurjeetsinghvirdee/pull/13 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[01/12 19:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `244` commits in [gurjeetsinghvirdee/LinkFree](https://github.com/gurjeetsinghvirdee/LinkFree)  
-`[01/12 10:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[01/12 10:20]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#12`](https://github.com//gurjeetsinghvirdee/gurjeetsinghvirdee/pull/12 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[01/12 09:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#712`](https://github.com//Rayman-Sodhi/Clone-IT/issues/712 'Restructuring the structure of Repo') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[01/11 21:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `65` commits in [gurjeetsinghvirdee/Eazy-Android](https://github.com/gurjeetsinghvirdee/Eazy-Android)  
 
 </details>
 <!--END_SECTION:activity-->

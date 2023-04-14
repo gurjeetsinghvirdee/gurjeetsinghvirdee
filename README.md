@@ -135,16 +135,12 @@ TypeScript       3 hrs 11 mins   ▒░░░░░░░░░░░░░░�
 <!------------------------------------------------------------ GITHUB STATS ------------------------------------------------------------------------>
         
 ## 💫 Github Stats
-        
-<table>
-<tr>
-  <td align="center">
+
+<div align="center">
     <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" /> 
-  </td>  
-  <td align="center"> 
-    <img align="right" width="300" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/metrics.plugin.isocalendar.svg" />
-  </td>  
-</tr>    
+</div>
+
+<table>    
 <tr>
   <td align="center">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" />

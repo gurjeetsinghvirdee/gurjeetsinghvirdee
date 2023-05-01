@@ -4,7 +4,7 @@
 
 ## Hey Everyone👋
 
-I am a skilled MERN Stack Developer with a passion for innovative design and a strong drive to join a creative, problem-solving team. Possessing the ability to learn and implement new technologies quickly, I am always looking to expand my skillset. As an open-source enthusiast, I have helped over 200 students understand the importance of open-source and am currently in my Last year of **BCA** studies. 
+I am a skilled MERN Stack Developer with a passion for innovative design and a strong drive to join a creative, problem-solving team. Possessing the ability to learn and implement new technologies quickly, I am always looking to expand my skillset. As an open-source enthusiast, I have helped over 250+ students understand the importance of open-source and am currently in my Last year of **BCA** studies. 
 As a **Full Stack Intern at NullClass**, Co-Founder of [Medictry](https://www.linkedin.com/company/89489745), I am dedicated to exploring new technologies and sharing my knowledge with others, making me a valuable asset to any team.
 
 <p align="center">
@@ -49,17 +49,14 @@ As a **Full Stack Intern at NullClass**, Co-Founder of [Medictry](https://www.li
 <table>
   <tr>
     <th>Author</th>
-    <th>Title</th>
     <th>Description</th>
   </tr>
   <tr>
     <td><a target="_blank" href="https://www.linkedin.com/in/utkarsh06/">Utkarsh Saxena</a></td>
-    <td>Amazing Helper and teacher</td>
     <td>I have worked with Gurjeet on a project and he has been very kind to me. Since I am from the Android domain he explained the web concepts to me in an easy way. He is also the collaborator of my Two Repos : Leetcode Grind and Eazy Android and is always kind to the new contributors and helps them to do their best. Looking forward to working with him more and enhancing this journey of Tech and Open Source.</td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://www.linkedin.com/in/ishika-goyal-375112221/">Ishika Goyal</a></td>
-      <td>Good Mentor</td>
       <td>Gurjeet Singh Virdee is inspiring , good mentor, adviser and understanding friend. He continuously helping me in learning the open source contribution. I     truly appreciate everything he have done for me so far and hope to continue learning from him.</td>
   </tr>
 </table>
@@ -103,34 +100,43 @@ TypeScript       5 hrs 6 mins    ▒░░░░░░░░░░░░░░�
         
 ## ⚛️ Frameworks, Languages & Other Tools        
  
-<div align="center">
-        <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="adobe xd" /> 
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-        <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=github&logoColor=white" alt="git" />
-        <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-        <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellij idea" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-        <img src="https://img.shields.io/badge/json-3A3A3A?style=for-the-badge&logo=json&logoColor=fff" alt="json" />
-        <img src="https://img.shields.io/badge/markdown-499bea?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
-        <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />  
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="my sql" />
-        <img src="https://img.shields.io/badge/netlify-30C8C9?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
-        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node" />
-        <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-        <img src="https://img.shields.io/badge/postman-E95723?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-        <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router" />
-        <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-        <img src="https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="typescript" />
-        <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" />
-        <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=fff" alt="windows" />
-</div>
+<p align="left"> 
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    </a> 
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+    </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    </a> 
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+    </a> 
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    </a> 
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    </a> 
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+    </a> 
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
+    </a> 
+</p>
 
 <!------------------------------------------------------------ GITHUB STATS ------------------------------------------------------------------------>
         

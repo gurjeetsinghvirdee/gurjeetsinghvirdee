@@ -250,9 +250,6 @@ TypeScript       5 hrs 6 mins    ▒░░░░░░░░░░░░░░�
 `[02/01 22:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[02/01 20:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `28` commits in [gurjeetsinghvirdee/Embellish](https://github.com/gurjeetsinghvirdee/Embellish)  
 `[02/01 20:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `112` commits in [gurjeetsinghvirdee/LinkFree](https://github.com/gurjeetsinghvirdee/LinkFree)  
-`[02/01 20:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [gurjeetsinghvirdee/LGMVIP-Web](https://github.com/gurjeetsinghvirdee/LGMVIP-Web)  
-`[02/01 16:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/LGMVIP-Web/tree/master) in [gurjeetsinghvirdee/LGMVIP-Web](https://github.com/gurjeetsinghvirdee/LGMVIP-Web)  
-`[02/01 16:47]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/LGMVIP-Web](https://github.com/gurjeetsinghvirdee/LGMVIP-Web)  
 
 </details>
 <!--END_SECTION:activity-->

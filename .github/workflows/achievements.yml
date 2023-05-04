@@ -1,4 +1,4 @@
-name: 💪 Achievements
+name: 💪 Github Achievements
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 19 * * *"}]

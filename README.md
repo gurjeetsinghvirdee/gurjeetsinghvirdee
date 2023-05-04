@@ -148,10 +148,14 @@ TypeScript       5 hrs 6 mins    ▒░░░░░░░░░░░░░░�
     <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" />
   </td>
   <td align="center">
-    <img height="190" width="400" src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=dracula&column=5" /> 
+    <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/metrics.plugin.isocalendar.svg" />
   </td>
 </tr>
 </table>
+
+<div align="center">
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=dracula&column=10" /> 
+</div>
 
 <table>    
 <tr>

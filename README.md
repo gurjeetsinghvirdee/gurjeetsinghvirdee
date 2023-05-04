@@ -154,7 +154,7 @@ TypeScript       5 hrs 6 mins    ▒░░░░░░░░░░░░░░�
 </table>
 
 <div align="center">
-    <img width="400" src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=dracula&column=5" /> 
+    <img width="600" src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=dracula&column=5" /> 
 </div>
 
 <table>    

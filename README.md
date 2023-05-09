@@ -92,7 +92,7 @@ JSON             17 hrs 32 mins  █▓░░░░░░░░░░░░░�
 | 4. | Hack Club RAIT | 1st July - 30st September 2022 | [Click Here](https://docs.google.com/document/d/1_ZutQmDbGkuFsbypF2oX_jbmFMf7OV-X4kr8xVs5J0w) | Contributor | [Link](https://drive.google.com/file/d/1Km6kXQU3NWr8OkWnaHB7-vLfEjhffplE/view?usp=sharing) |
 | 5. | Hacktoberfest | 1st October - 31st October 2022 | [Click Here](https://docs.google.com/document/d/1mv27yGR7-SsIDOinqsYDnFutXHG49awhzvZYaEna3rM) | Contributor | T-Shirt & Stickers | 
 | 6. | HyperEdge WOB'23 | 1st Feb - Present | Discord Moderator, Managing Leaderboard | Managing Team | - |
-| 7. | GirlScript Summer Of Code 2023 | 8th May - Present | Guiding Newbies | Community Expert | - |
+| 7. | GirlScript Summer Of Code 2023 | 8th May - Present | Guiding contributors on their first <br> open-source event through out the programs | Community Expert | - |
     
 </details>
 

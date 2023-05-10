@@ -144,7 +144,7 @@ JSON             17 hrs 32 mins  █▓░░░░░░░░░░░░░�
 
 <div align="center">
     <a href="https://twitter.com/__gurii__">
-        <img src="https://gtce.itsvg.in/api?username=__gurii__" width="500" />
+        <img src="https://gtce.itsvg.in/api?username=__gurii__&theme=synthwave&response=true&border=false&time=true&icon=code" width="500" />
     </a>
 </div>
 

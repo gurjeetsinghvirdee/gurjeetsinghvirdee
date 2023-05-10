@@ -175,7 +175,7 @@ JSON             17 hrs 32 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[05/10 17:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
+`[05/10 17:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
 `[05/10 16:44]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//gurjeetsinghvirdee/love-babbar-mern-notes/pull/1 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
 `[05/10 16:44]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1`](https://github.com//gurjeetsinghvirdee/love-babbar-mern-notes/pull/1 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
 `[05/09 17:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  

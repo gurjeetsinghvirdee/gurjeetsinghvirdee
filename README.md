@@ -317,7 +317,6 @@ JSON             17 hrs 32 mins  █▓░░░░░░░░░░░░░�
 `[03/09 08:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/wob23-leaderboard/tree/master) in [gurjeetsinghvirdee/wob23-leaderboard](https://github.com/gurjeetsinghvirdee/wob23-leaderboard)  
 `[03/09 08:43]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/wob23-leaderboard](https://github.com/gurjeetsinghvirdee/wob23-leaderboard)  
 `[03/09 08:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
-`[02/16 08:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 
 </details>
 <!--END_SECTION:activity-->

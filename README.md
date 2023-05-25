@@ -185,14 +185,15 @@ JSON             17 hrs 36 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[05/25 15:08]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#52`](https://github.com//J0SAL/Decentralized-Expense-Tracker/pull/52 'Added icons and urls to make the UI more attractive and user-friendly') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
 `[05/25 13:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TanishiNayak/MaaMatters](https://github.com/TanishiNayak/MaaMatters)  
 `[05/25 13:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#51`](https://github.com//J0SAL/Decentralized-Expense-Tracker/issues/51 'fixed the typo errors') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
 `[05/25 13:31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#39`](https://github.com//J0SAL/Decentralized-Expense-Tracker/issues/39 'scrollToTop') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
 `[05/25 13:30]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#39`](https://github.com//J0SAL/Decentralized-Expense-Tracker/pull/39 'scrollToTop') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
-`[05/25 12:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [marsian83/portfolio](https://github.com/marsian83/portfolio)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[05/25 12:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [marsian83/portfolio](https://github.com/marsian83/portfolio)  
 `[05/25 11:16]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#29`](https://github.com//J0SAL/Decentralized-Expense-Tracker/pull/29 'Add Sepolia Testnet Integration') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
 `[05/25 10:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`newbranch`](https://github.com/gurjeetsinghvirdee/first-contributions/tree/newbranch) in [gurjeetsinghvirdee/first-contributions](https://github.com/gurjeetsinghvirdee/first-contributions)  
 `[05/25 10:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/first-contributions](https://github.com/gurjeetsinghvirdee/first-contributions)  
@@ -345,8 +346,6 @@ JSON             17 hrs 36 mins  █▓░░░░░░░░░░░░░�
 `[03/21 19:49]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) to [gurjeetsinghvirdee/Web-Dev-For-Beginners](https://github.com/gurjeetsinghvirdee/Web-Dev-For-Beginners)  
 `[03/16 21:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
 `[03/16 16:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend/tree/master) in [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
-`[03/16 16:13]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
-`[03/12 13:25]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -185,14 +185,22 @@ JSON             17 hrs 36 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[05/28 16:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/GitHub-ReadMe](https://github.com/gurjeetsinghvirdee/GitHub-ReadMe)  
+`[05/28 16:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/GitHub-ReadMe](https://github.com/gurjeetsinghvirdee/GitHub-ReadMe)  
+`[05/28 16:29]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#25`](https://github.com//CatsInTech/GitHub-ReadMe/pull/25 'node-sass upgraded') in [CatsInTech/GitHub-ReadMe](https://github.com/CatsInTech/GitHub-ReadMe)  
+`[05/28 16:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`patch-2`](https://github.com/gurjeetsinghvirdee/GitHub-ReadMe/tree/patch-2) in [gurjeetsinghvirdee/GitHub-ReadMe](https://github.com/gurjeetsinghvirdee/GitHub-ReadMe)  
+`[05/28 16:25]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `patch-1` from [gurjeetsinghvirdee/GitHub-ReadMe](https://github.com/gurjeetsinghvirdee/GitHub-ReadMe)  
+`[05/28 16:25]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#23`](https://github.com//CatsInTech/GitHub-ReadMe/pull/23 'node-sass updated to 9') in [CatsInTech/GitHub-ReadMe](https://github.com/CatsInTech/GitHub-ReadMe)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[05/28 16:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#23`](https://github.com//CatsInTech/GitHub-ReadMe/issues/23 'node-sass updated to 9') in [CatsInTech/GitHub-ReadMe](https://github.com/CatsInTech/GitHub-ReadMe)  
+`[05/28 16:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/GitHub-ReadMe](https://github.com/gurjeetsinghvirdee/GitHub-ReadMe)  
+`[05/28 16:18]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#23`](https://github.com//CatsInTech/GitHub-ReadMe/issues/23 'node-sass updated to 9') in [CatsInTech/GitHub-ReadMe](https://github.com/CatsInTech/GitHub-ReadMe)  
+`[05/28 16:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/GitHub-ReadMe](https://github.com/gurjeetsinghvirdee/GitHub-ReadMe)  
 `[05/28 16:07]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#23`](https://github.com//CatsInTech/GitHub-ReadMe/pull/23 'node-sass updated to 9') in [CatsInTech/GitHub-ReadMe](https://github.com/CatsInTech/GitHub-ReadMe)  
 `[05/28 16:06]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`patch-1`](https://github.com/gurjeetsinghvirdee/GitHub-ReadMe/tree/patch-1) in [gurjeetsinghvirdee/GitHub-ReadMe](https://github.com/gurjeetsinghvirdee/GitHub-ReadMe)  
 `[05/28 16:04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#22`](https://github.com//CatsInTech/GitHub-ReadMe/issues/22 'Upgrade node-sass version') in [CatsInTech/GitHub-ReadMe](https://github.com/CatsInTech/GitHub-ReadMe)  
 `[05/28 15:53]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#71`](https://github.com//J0SAL/Decentralized-Expense-Tracker/pull/71 'Login Page UI changed') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[05/28 15:53]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#71`](https://github.com//J0SAL/Decentralized-Expense-Tracker/pull/71 'Login Page UI changed') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
 `[05/28 15:49]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#74`](https://github.com//J0SAL/Decentralized-Expense-Tracker/issues/74 'Want to logo in the Navbar') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
 `[05/28 15:47]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#64`](https://github.com//J0SAL/Decentralized-Expense-Tracker/issues/64 'Addition of Code of Conduct') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
@@ -355,8 +363,6 @@ JSON             17 hrs 36 mins  █▓░░░░░░░░░░░░░�
 `[03/24 14:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
 `[03/24 13:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
 `[03/24 11:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
-`[03/24 11:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
-`[03/24 09:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
 
 </details>
 <!--END_SECTION:activity-->

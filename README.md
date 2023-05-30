@@ -185,14 +185,16 @@ JSON             18 hrs 15 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[05/30 16:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#74`](https://github.com//J0SAL/Decentralized-Expense-Tracker/issues/74 'Want to logo in the Navbar') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
+`[05/30 16:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#50`](https://github.com//Yash-Parsana/CrazyCoderApp/issues/50 'Strong Password Check is added') in [Yash-Parsana/CrazyCoderApp](https://github.com/Yash-Parsana/CrazyCoderApp)  
 `[05/30 11:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)  
 `[05/28 20:10]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#35`](https://github.com//CatsInTech/GitHub-ReadMe/pull/35 'GSSoC points updated on Readme') in [CatsInTech/GitHub-ReadMe](https://github.com/CatsInTech/GitHub-ReadMe)  
 `[05/28 20:06]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`points_update`](https://github.com/gurjeetsinghvirdee/GitHub-ReadMe/tree/points_update) in [gurjeetsinghvirdee/GitHub-ReadMe](https://github.com/gurjeetsinghvirdee/GitHub-ReadMe)  
-`[05/28 20:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/GitHub-ReadMe](https://github.com/gurjeetsinghvirdee/GitHub-ReadMe)  
-`[05/28 19:58]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#25`](https://github.com//CatsInTech/GitHub-ReadMe/issues/25 'node-sass upgraded') in [CatsInTech/GitHub-ReadMe](https://github.com/CatsInTech/GitHub-ReadMe)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[05/28 20:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/GitHub-ReadMe](https://github.com/gurjeetsinghvirdee/GitHub-ReadMe)  
+`[05/28 19:58]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#25`](https://github.com//CatsInTech/GitHub-ReadMe/issues/25 'node-sass upgraded') in [CatsInTech/GitHub-ReadMe](https://github.com/CatsInTech/GitHub-ReadMe)  
 `[05/28 17:07]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#27`](https://github.com//CatsInTech/GitHub-ReadMe/issues/27 'Change the points in Readme') in [CatsInTech/GitHub-ReadMe](https://github.com/CatsInTech/GitHub-ReadMe)  
 `[05/28 16:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#25`](https://github.com//CatsInTech/GitHub-ReadMe/issues/25 'node-sass upgraded') in [CatsInTech/GitHub-ReadMe](https://github.com/CatsInTech/GitHub-ReadMe)  
 `[05/28 16:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/GitHub-ReadMe](https://github.com/gurjeetsinghvirdee/GitHub-ReadMe)  
@@ -368,7 +370,6 @@ JSON             18 hrs 15 mins  █▓░░░░░░░░░░░░░�
 `[03/24 20:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
 `[03/24 19:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
 `[03/24 14:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
-`[03/24 13:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -185,14 +185,15 @@ JSON             18 hrs 16 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[05/31 11:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#135`](https://github.com//GameSphere-MultiPlayer/GameSphere/issues/135 'scroll button added') in [GameSphere-MultiPlayer/GameSphere](https://github.com/GameSphere-MultiPlayer/GameSphere)  
 `[05/30 22:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#49`](https://github.com//CognitiveLab-tech/World-of-AI/issues/49 'ML predictor') in [CognitiveLab-tech/World-of-AI](https://github.com/CognitiveLab-tech/World-of-AI)  
 `[05/30 22:03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#434`](https://github.com//NageshMandal/Engineering-Notes-Website/issues/434 'Institute GMap link added') in [NageshMandal/Engineering-Notes-Website](https://github.com/NageshMandal/Engineering-Notes-Website)  
 `[05/30 21:50]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#27`](https://github.com//Gaurav-Verma07/sampark/issues/27 'Contributor graph updated') in [Gaurav-Verma07/sampark](https://github.com/Gaurav-Verma07/sampark)  
 `[05/30 16:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
-`[05/30 16:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#74`](https://github.com//J0SAL/Decentralized-Expense-Tracker/issues/74 'Want to logo in the Navbar') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[05/30 16:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#74`](https://github.com//J0SAL/Decentralized-Expense-Tracker/issues/74 'Want to logo in the Navbar') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
 `[05/30 16:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#50`](https://github.com//Yash-Parsana/CrazyCoderApp/issues/50 'Strong Password Check is added') in [Yash-Parsana/CrazyCoderApp](https://github.com/Yash-Parsana/CrazyCoderApp)  
 `[05/30 11:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)  
 `[05/28 20:10]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#35`](https://github.com//CatsInTech/GitHub-ReadMe/pull/35 'GSSoC points updated on Readme') in [CatsInTech/GitHub-ReadMe](https://github.com/CatsInTech/GitHub-ReadMe)  
@@ -372,7 +373,7 @@ JSON             18 hrs 16 mins  █▓░░░░░░░░░░░░░�
 `[03/25 08:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
 `[03/25 08:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
 `[03/24 20:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
-`[03/24 19:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
+`[03/24 19:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
 
 </details>
 <!--END_SECTION:activity-->

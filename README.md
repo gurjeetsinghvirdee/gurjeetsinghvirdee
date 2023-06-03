@@ -185,7 +185,7 @@ JSON             18 hrs 16 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[06/02 18:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/Animating-Buttons](https://github.com/gurjeetsinghvirdee/Animating-Buttons)  
+`[06/03 09:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/Animating-Buttons](https://github.com/gurjeetsinghvirdee/Animating-Buttons)  
 `[06/02 18:20]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons) to [gurjeetsinghvirdee/Animating-Buttons](https://github.com/gurjeetsinghvirdee/Animating-Buttons)  
 `[06/02 18:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `25` commits in [gurjeetsinghvirdee/Animating-Buttons](https://github.com/gurjeetsinghvirdee/Animating-Buttons)  
 `[06/02 11:55]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons) to [gurjeetsinghvirdee/Animating-Buttons](https://github.com/gurjeetsinghvirdee/Animating-Buttons)  
@@ -371,7 +371,6 @@ JSON             18 hrs 16 mins  █▓░░░░░░░░░░░░░�
 `[03/31 15:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`assets`](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard/tree/assets) in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
 `[03/29 23:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
 `[03/28 12:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
-`[03/28 12:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
 
 </details>
 <!--END_SECTION:activity-->

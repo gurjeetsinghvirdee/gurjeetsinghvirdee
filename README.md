@@ -185,14 +185,16 @@ JSON             18 hrs 16 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[06/04 06:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)  
+`[06/04 06:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Anmol-Baranwal/Awesome-Illustrations-4Projects](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects)  
 `[06/03 17:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ishikagoyal02/GFG-SOLUTIONS](https://github.com/ishikagoyal02/GFG-SOLUTIONS)  
 `[06/03 15:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `36` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[06/03 09:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/Animating-Buttons](https://github.com/gurjeetsinghvirdee/Animating-Buttons)  
-`[06/02 18:20]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons) to [gurjeetsinghvirdee/Animating-Buttons](https://github.com/gurjeetsinghvirdee/Animating-Buttons)  
-`[06/02 18:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `25` commits in [gurjeetsinghvirdee/Animating-Buttons](https://github.com/gurjeetsinghvirdee/Animating-Buttons)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[06/02 18:20]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons) to [gurjeetsinghvirdee/Animating-Buttons](https://github.com/gurjeetsinghvirdee/Animating-Buttons)  
+`[06/02 18:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `25` commits in [gurjeetsinghvirdee/Animating-Buttons](https://github.com/gurjeetsinghvirdee/Animating-Buttons)  
 `[06/02 11:55]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons) to [gurjeetsinghvirdee/Animating-Buttons](https://github.com/gurjeetsinghvirdee/Animating-Buttons)  
 `[06/02 06:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Csharp-Assignments](https://github.com/gurjeetsinghvirdee/Csharp-Assignments)  
 `[06/02 06:02]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//gurjeetsinghvirdee/Csharp-Assignments/pull/1 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/Csharp-Assignments](https://github.com/gurjeetsinghvirdee/Csharp-Assignments)  
@@ -371,7 +373,7 @@ JSON             18 hrs 16 mins  █▓░░░░░░░░░░░░░�
 `[04/01 11:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[03/31 15:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
 `[03/31 15:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`assets`](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard/tree/assets) in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
-`[03/29 23:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
+`[03/29 23:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
 
 </details>
 <!--END_SECTION:activity-->

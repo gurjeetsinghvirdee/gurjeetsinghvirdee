@@ -185,14 +185,18 @@ JSON             18 hrs 16 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[06/14 08:30]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1240`](https://github.com//Spyware007/Animating-Buttons/issues/1240 'Unexpected error resolved') in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)  
+`[06/14 08:29]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1240`](https://github.com//Spyware007/Animating-Buttons/pull/1240 'Unexpected error resolved') in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)  
+`[06/14 08:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`error`](https://github.com/gurjeetsinghvirdee/Animating-Buttons/tree/error) in [gurjeetsinghvirdee/Animating-Buttons](https://github.com/gurjeetsinghvirdee/Animating-Buttons)  
+`[06/14 08:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `286` commits in [gurjeetsinghvirdee/Animating-Buttons](https://github.com/gurjeetsinghvirdee/Animating-Buttons)  
 `[06/12 14:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[06/09 16:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [gurjeetsinghvirdee/UMatter](https://github.com/gurjeetsinghvirdee/UMatter)  
 `[06/09 15:00]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#729`](https://github.com//MonalikaPatnaik/UMatter/pull/729 'github profile updated') in [MonalikaPatnaik/UMatter](https://github.com/MonalikaPatnaik/UMatter)  
 `[06/09 14:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`profile-update`](https://github.com/gurjeetsinghvirdee/UMatter/tree/profile-update) in [gurjeetsinghvirdee/UMatter](https://github.com/gurjeetsinghvirdee/UMatter)  
 `[06/09 06:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#125`](https://github.com//Pranjal360Agarwal/ApnaBharat-Bus-Booking-Reservation-System/issues/125 '[GSSoC 23\'] Account Deletion Feature with User Feedback and Dark Theme Optimization') in [Pranjal360Agarwal/ApnaBharat-Bus-Booking-Reservation-System](https://github.com/Pranjal360Agarwal/ApnaBharat-Bus-Booking-Reservation-System)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[06/09 06:54]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#117`](https://github.com//Pranjal360Agarwal/ApnaBharat-Bus-Booking-Reservation-System/issues/117 '[GSSoC 23\'] Successfully Added Dark Theme Button & Bug Resolve') in [Pranjal360Agarwal/ApnaBharat-Bus-Booking-Reservation-System](https://github.com/Pranjal360Agarwal/ApnaBharat-Bus-Booking-Reservation-System)  
 `[06/09 06:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#137`](https://github.com//Pranjal360Agarwal/ApnaBharat-Bus-Booking-Reservation-System/issues/137 '[GSSoC 23\'] Buttons are properly aligned Now!') in [Pranjal360Agarwal/ApnaBharat-Bus-Booking-Reservation-System](https://github.com/Pranjal360Agarwal/ApnaBharat-Bus-Booking-Reservation-System)  
 `[06/08 19:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#7638`](https://github.com//EddieHubCommunity/support/issues/7638 'Please add me to the EddieHub API') in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)  
@@ -384,9 +388,6 @@ JSON             18 hrs 16 mins  █▓░░░░░░░░░░░░░�
 `[04/16 14:56]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [wbhoomika/16April23-MLSA-OS-Talk](https://github.com/wbhoomika/16April23-MLSA-OS-Talk) to [gurjeetsinghvirdee/16April23-MLSA-OS-Talk](https://github.com/gurjeetsinghvirdee/16April23-MLSA-OS-Talk)  
 `[04/15 17:13]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#113`](https://github.com//codinasion/.github/issues/113 'Please invite me to Codinasion') in [codinasion/.github](https://github.com/codinasion/.github)  
 `[04/14 11:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[04/05 19:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AtharvaNanavate/GfG-To-GitHub](https://github.com/AtharvaNanavate/GfG-To-GitHub)  
-`[04/04 10:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
-`[04/03 22:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/hyperedge-leaderboard](https://github.com/gurjeetsinghvirdee/hyperedge-leaderboard)  
 
 </details>
 <!--END_SECTION:activity-->

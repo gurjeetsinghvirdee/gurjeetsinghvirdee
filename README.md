@@ -179,7 +179,7 @@ JSON             18 hrs 16 mins  █▓░░░░░░░░░░░░░�
 </table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gurjeetsinghvirdee&theme=synthwave-84&true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gurjeetsinghvirdee&theme=synthwave-84&true&hide_border=true" />
 </div>
         
 ### ⚡ Recent Activity     

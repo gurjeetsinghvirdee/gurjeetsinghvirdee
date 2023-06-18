@@ -91,8 +91,9 @@ JSON             18 hrs 17 mins  █▓░░░░░░░░░░░░░�
 | 3. | GirlScript Summer Of Code 2022 | 1st Mar - 31st July 2022 | Discord Moderator, Managing participants <br> activity through out the program. | Technical Team | T-Shirt [Link](https://drive.google.com/drive/folders/1B2jDXyXA-L-XXypvaNzrpXRTVY7GW-04?usp=sharing) |
 | 4. | Hack Club RAIT | 1st July - 30st September 2022 | [Click Here](https://docs.google.com/document/d/1_ZutQmDbGkuFsbypF2oX_jbmFMf7OV-X4kr8xVs5J0w) | Contributor | [Link](https://drive.google.com/file/d/1Km6kXQU3NWr8OkWnaHB7-vLfEjhffplE/view?usp=sharing) |
 | 5. | Hacktoberfest | 1st October - 31st October 2022 | [Click Here](https://docs.google.com/document/d/1mv27yGR7-SsIDOinqsYDnFutXHG49awhzvZYaEna3rM) | Contributor | T-Shirt & Stickers | 
-| 6. | HyperEdge WOB'23 | 1st Feb - Present | Discord Moderator, Managing Leaderboard | Managing Team | - |
+| 6. | HyperEdge WOB'23 | 1st Feb - 1st May | Discord Moderator, Managing Leaderboard | Managing Team | - |
 | 7. | GirlScript Summer Of Code 2023 | 6th May - Present | Jarvis - Decentralised Expense Tracker | Mentor | - |
+| 8. | GirlScript Summer Of Code 2023 | 29 May  - Present | Managing the activity of PA, Mentors & Contributors throughout the program | Discord Mod | - |
     
 </details>
 

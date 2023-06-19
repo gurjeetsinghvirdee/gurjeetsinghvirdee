@@ -186,14 +186,15 @@ JSON             18 hrs 17 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[06/19 18:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/gssoc22-leaderboard-backend](https://github.com/gurjeetsinghvirdee/gssoc22-leaderboard-backend)  
 `[06/19 09:44]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//girlscript/gssoc22-leaderboard-backend/pull/1 'Points updated') in [girlscript/gssoc22-leaderboard-backend](https://github.com/girlscript/gssoc22-leaderboard-backend)  
 `[06/19 09:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`guri`](https://github.com/gurjeetsinghvirdee/gssoc22-leaderboard-backend/tree/guri) in [gurjeetsinghvirdee/gssoc22-leaderboard-backend](https://github.com/gurjeetsinghvirdee/gssoc22-leaderboard-backend)  
 `[06/19 09:39]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [girlscript/gssoc22-leaderboard-backend](https://github.com/girlscript/gssoc22-leaderboard-backend) to [gurjeetsinghvirdee/gssoc22-leaderboard-backend](https://github.com/gurjeetsinghvirdee/gssoc22-leaderboard-backend)  
 `[06/19 09:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/hyperedgesoc23-backend](https://github.com/gurjeetsinghvirdee/hyperedgesoc23-backend)  
-`[06/18 17:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[06/18 17:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[06/18 16:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `328` commits in [gurjeetsinghvirdee/Animating-Buttons](https://github.com/gurjeetsinghvirdee/Animating-Buttons)  
 `[06/17 19:33]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//gurjeetsinghvirdee/Animating-Buttons/pull/1 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/Animating-Buttons](https://github.com/gurjeetsinghvirdee/Animating-Buttons)  
 `[06/16 10:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#54`](https://github.com//bhattabhi013/Vritant/issues/54 'New Functionality : Added Embed video in Readme ') in [bhattabhi013/Vritant](https://github.com/bhattabhi013/Vritant)  

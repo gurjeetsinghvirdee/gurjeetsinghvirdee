@@ -186,14 +186,15 @@ JSON             18 hrs 17 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[06/20 16:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[06/20 07:26]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#65`](https://github.com//amanjaiman1/Product_3D/issues/65 'UI Improvement') in [amanjaiman1/Product_3D](https://github.com/amanjaiman1/Product_3D)  
 `[06/20 06:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/20 06:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[06/20 06:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[06/20 06:24]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#118`](https://github.com//girlscript/gssoc-website-new/pull/118 '[Leaderboard] Provisioning Leaderboard for 2023 🎉') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[06/20 06:24]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#118`](https://github.com//girlscript/gssoc-website-new/pull/118 '[Leaderboard] Provisioning Leaderboard for 2023 🎉') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/20 06:07]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#118`](https://github.com//girlscript/gssoc-website-new/pull/118 '[Leaderboard] Provisioning Leaderboard for 2023 🎉') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/19 18:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/gssoc22-leaderboard-backend](https://github.com/gurjeetsinghvirdee/gssoc22-leaderboard-backend)  
 `[06/19 09:44]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//girlscript/gssoc22-leaderboard-backend/pull/1 'Points updated') in [girlscript/gssoc22-leaderboard-backend](https://github.com/girlscript/gssoc22-leaderboard-backend)  
@@ -389,8 +390,6 @@ JSON             18 hrs 17 mins  █▓░░░░░░░░░░░░░�
 `[05/02 14:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1000` commits in [gurjeetsinghvirdee/LinkFree](https://github.com/gurjeetsinghvirdee/LinkFree)  
 `[05/02 14:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/02 14:27]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#715`](https://github.com//Rayman-Sodhi/Clone-IT/pull/715 'about section & faq page updated ✨') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[05/02 14:12]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1168`](https://github.com//google/season-of-docs/pull/1168 'Add my Info - Gurjeet Singh Virdee') in [google/season-of-docs](https://github.com/google/season-of-docs)  
-`[05/02 14:11]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`patch-1`](https://github.com/gurjeetsinghvirdee/season-of-docs/tree/patch-1) in [gurjeetsinghvirdee/season-of-docs](https://github.com/gurjeetsinghvirdee/season-of-docs)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -186,14 +186,15 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[06/23 19:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc22-leaderboard-backend](https://github.com/girlscript/gssoc22-leaderboard-backend)  
 `[06/22 18:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `28` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[06/22 18:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#70`](https://github.com//Yashpatel191001/Infostic-Solution-Official-Website/issues/70 'Adding Hover Effect to Cards in Plans and Pricing Section in Home Page') in [Yashpatel191001/Infostic-Solution-Official-Website](https://github.com/Yashpatel191001/Infostic-Solution-Official-Website)  
 `[06/22 17:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#64`](https://github.com//Yashpatel191001/Infostic-Solution-Official-Website/issues/64 'Above Footer content modification') in [Yashpatel191001/Infostic-Solution-Official-Website](https://github.com/Yashpatel191001/Infostic-Solution-Official-Website)  
 `[06/22 17:49]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#77`](https://github.com//Yashpatel191001/Infostic-Solution-Official-Website/issues/77 'Alignment of Login page') in [Yashpatel191001/Infostic-Solution-Official-Website](https://github.com/Yashpatel191001/Infostic-Solution-Official-Website)  
-`[06/22 17:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#80`](https://github.com//Yashpatel191001/Infostic-Solution-Official-Website/issues/80 'Fix alignment') in [Yashpatel191001/Infostic-Solution-Official-Website](https://github.com/Yashpatel191001/Infostic-Solution-Official-Website)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[06/22 17:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#80`](https://github.com//Yashpatel191001/Infostic-Solution-Official-Website/issues/80 'Fix alignment') in [Yashpatel191001/Infostic-Solution-Official-Website](https://github.com/Yashpatel191001/Infostic-Solution-Official-Website)  
 `[06/20 18:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/20 16:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[06/20 07:26]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#65`](https://github.com//amanjaiman1/Product_3D/issues/65 'UI Improvement') in [amanjaiman1/Product_3D](https://github.com/amanjaiman1/Product_3D)  
@@ -386,7 +387,6 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 `[05/03 16:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/03 16:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#717`](https://github.com//Rayman-Sodhi/Clone-IT/pull/717 'Update README.md') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
 `[05/03 16:48]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#717`](https://github.com//Rayman-Sodhi/Clone-IT/pull/717 'Update README.md') in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)  
-`[05/03 16:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
 
 </details>
 <!--END_SECTION:activity-->

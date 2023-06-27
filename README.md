@@ -186,14 +186,19 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[06/27 06:40]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2079`](https://github.com//kunjgit/GameZone/pull/2079 'Added Floating Particles in Background') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/27 06:30]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1800`](https://github.com//kunjgit/GameZone/issues/1800 '[Bug]: Convert Images to WebP Format for Improved GitHub Project Performance') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/27 06:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/27 06:30]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2064`](https://github.com//kunjgit/GameZone/pull/2064 'Converted images to WebP') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/27 06:30]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2064`](https://github.com//kunjgit/GameZone/pull/2064 'Converted images to WebP') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[06/27 06:19]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2009`](https://github.com//kunjgit/GameZone/pull/2009 'Add Save The Mouse Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 06:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `47` commits in [Sriparno08/GameZone](https://github.com/Sriparno08/GameZone)  
 `[06/27 05:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2068`](https://github.com//kunjgit/GameZone/issues/2068 '[Bug]: Heading bg is black even in light mode') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 05:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 05:48]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2069`](https://github.com//kunjgit/GameZone/pull/2069 'Fix light mode heading background not changing') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[06/27 05:47]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2069`](https://github.com//kunjgit/GameZone/pull/2069 'Fix light mode heading background not changing') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/26 20:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[06/26 08:38]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#315`](https://github.com//codervivek5/VigyBag/issues/315 'Building see more page') in [codervivek5/VigyBag](https://github.com/codervivek5/VigyBag)  
@@ -388,11 +393,7 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 `[05/11 09:04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#4`](https://github.com//ishikagoyal02/GFG-SOLUTIONS/pull/4 'Patch 1') in [ishikagoyal02/GFG-SOLUTIONS](https://github.com/ishikagoyal02/GFG-SOLUTIONS)  
 `[05/11 09:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `35` commits in [gurjeetsinghvirdee/GFG-SOLUTIONS](https://github.com/gurjeetsinghvirdee/GFG-SOLUTIONS)  
 `[05/10 21:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
-`[05/10 19:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[05/10 17:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
-`[05/10 16:44]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//gurjeetsinghvirdee/love-babbar-mern-notes/pull/1 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
-`[05/10 16:44]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1`](https://github.com//gurjeetsinghvirdee/love-babbar-mern-notes/pull/1 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
-`[05/09 17:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
+`[05/10 19:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -186,14 +186,19 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[06/27 10:32]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1834`](https://github.com//kunjgit/GameZone/pull/1834 'Added Escape Room game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/27 10:28]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1988`](https://github.com//kunjgit/GameZone/issues/1988 '[New game]: Wall Smash') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/27 10:27]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2021`](https://github.com//kunjgit/GameZone/pull/2021 'Added WallSmash game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/27 10:27]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2021`](https://github.com//kunjgit/GameZone/pull/2021 'Added WallSmash game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/27 10:18]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2009`](https://github.com//kunjgit/GameZone/pull/2009 'Add Save The Mouse Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[06/27 10:16]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2094`](https://github.com//kunjgit/GameZone/pull/2094 '[Enhancement]: Add features in Country Guesser Game ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 06:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 06:47]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2070`](https://github.com//kunjgit/GameZone/issues/2070 '[Enhancement]: Adding Animated Particles in the Background of the Website') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 06:47]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2079`](https://github.com//kunjgit/GameZone/pull/2079 'Added Floating Particles in Background') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 06:40]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2079`](https://github.com//kunjgit/GameZone/pull/2079 'Added Floating Particles in Background') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[06/27 06:30]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1800`](https://github.com//kunjgit/GameZone/issues/1800 '[Bug]: Convert Images to WebP Format for Improved GitHub Project Performance') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 06:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 06:30]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2064`](https://github.com//kunjgit/GameZone/pull/2064 'Converted images to WebP') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -384,13 +389,7 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 `[05/13 19:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
 `[05/13 13:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//gurjeetsinghvirdee/love-babbar-mern-notes/pull/3 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
 `[05/13 13:05]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#3`](https://github.com//gurjeetsinghvirdee/love-babbar-mern-notes/pull/3 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
-`[05/13 13:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
-`[05/13 11:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [gurjeetsinghvirdee/GFG-SOLUTIONS](https://github.com/gurjeetsinghvirdee/GFG-SOLUTIONS)  
-`[05/13 11:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
-`[05/11 20:06]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#6`](https://github.com//ishikagoyal02/GFG-SOLUTIONS/pull/6 'Update') in [ishikagoyal02/GFG-SOLUTIONS](https://github.com/ishikagoyal02/GFG-SOLUTIONS)  
-`[05/11 20:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/GFG-SOLUTIONS](https://github.com/gurjeetsinghvirdee/GFG-SOLUTIONS)  
-`[05/11 19:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[05/11 19:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/GFG-SOLUTIONS](https://github.com/gurjeetsinghvirdee/GFG-SOLUTIONS)  
+`[05/13 13:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
 
 </details>
 <!--END_SECTION:activity-->

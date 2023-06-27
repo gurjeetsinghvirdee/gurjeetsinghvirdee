@@ -186,14 +186,18 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[06/27 20:01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2121`](https://github.com//kunjgit/GameZone/pull/2121 'Added Crak_The_Code Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/27 19:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1993`](https://github.com//kunjgit/GameZone/issues/1993 'Make Raising_Fighting_Spirits game responsive[Bug]: ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/27 19:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/27 19:39]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2110`](https://github.com//kunjgit/GameZone/pull/2110 'raising fighting game made responsive') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 19:22]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2108`](https://github.com//kunjgit/GameZone/pull/2108 'added quiz_game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[06/27 19:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `416` commits in [Nikita06211/GameZone](https://github.com/Nikita06211/GameZone)  
 `[06/27 19:20]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2110`](https://github.com//kunjgit/GameZone/pull/2110 'raising fighting game made responsive') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 19:19]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2084`](https://github.com//kunjgit/GameZone/pull/2084 'Completed making Shadow_PokeGuess') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 19:18]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2084`](https://github.com//kunjgit/GameZone/pull/2084 'Completed making Shadow_PokeGuess') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[06/27 16:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2102`](https://github.com//kunjgit/GameZone/issues/2102 '[Enhancement]: Change the footer of drum kit game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 16:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 16:10]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2112`](https://github.com//kunjgit/GameZone/pull/2112 'Changed Footer') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -384,9 +388,6 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 `[05/24 06:42]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6`](https://github.com//gurjeetsinghvirdee/angular/pull/6 'Bump socket.io-parser and socket.io') in [gurjeetsinghvirdee/angular](https://github.com/gurjeetsinghvirdee/angular)  
 `[05/24 06:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/angular](https://github.com/gurjeetsinghvirdee/angular)  
 `[05/24 06:42]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#6`](https://github.com//gurjeetsinghvirdee/angular/pull/6 'Bump socket.io-parser and socket.io') in [gurjeetsinghvirdee/angular](https://github.com/gurjeetsinghvirdee/angular)  
-`[05/23 16:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
-`[05/23 15:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/Decentralized-Expense-Tracker](https://github.com/gurjeetsinghvirdee/Decentralized-Expense-Tracker)  
-`[05/22 17:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 
 </details>
 <!--END_SECTION:activity-->

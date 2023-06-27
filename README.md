@@ -186,14 +186,18 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[06/27 16:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2102`](https://github.com//kunjgit/GameZone/issues/2102 '[Enhancement]: Change the footer of drum kit game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/27 16:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/27 16:10]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2112`](https://github.com//kunjgit/GameZone/pull/2112 'Changed Footer') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/27 16:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Reopened issue [`#2065`](https://github.com//kunjgit/GameZone/issues/2065 '[New game]:  Adding Firedog Adventure Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 15:52]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Reopened PR [`#2111`](https://github.com//kunjgit/GameZone/pull/2111 'Added  Firedog Adventure Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[06/27 15:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2111`](https://github.com//kunjgit/GameZone/issues/2111 'Added  Firedog Adventure Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 15:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2065`](https://github.com//kunjgit/GameZone/issues/2065 '[New game]:  Adding Firedog Adventure Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 15:26]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2111`](https://github.com//kunjgit/GameZone/pull/2111 'Added  Firedog Adventure Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 15:25]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2111`](https://github.com//kunjgit/GameZone/pull/2111 'Added  Firedog Adventure Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[06/27 15:18]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2112`](https://github.com//kunjgit/GameZone/pull/2112 'Changed Footer') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 15:16]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2073`](https://github.com//kunjgit/GameZone/pull/2073 'Added Chicken cannon game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 14:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -386,9 +390,6 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 `[05/20 13:59]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#56`](https://github.com//DSC-JSS-NOIDA/blogzen/issues/56 'modified footer section to make it responsive') in [DSC-JSS-NOIDA/blogzen](https://github.com/DSC-JSS-NOIDA/blogzen)  
 `[05/18 19:06]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//ishikagoyal02/GFG-SOLUTIONS/issues/7 'README Update') in [ishikagoyal02/GFG-SOLUTIONS](https://github.com/ishikagoyal02/GFG-SOLUTIONS)  
 `[05/18 18:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/GFG-SOLUTIONS](https://github.com/gurjeetsinghvirdee/GFG-SOLUTIONS)  
-`[05/18 18:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
-`[05/18 18:34]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#7`](https://github.com//ishikagoyal02/GFG-SOLUTIONS/pull/7 'README Update') in [ishikagoyal02/GFG-SOLUTIONS](https://github.com/ishikagoyal02/GFG-SOLUTIONS)  
-`[05/18 18:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [gurjeetsinghvirdee/GFG-SOLUTIONS](https://github.com/gurjeetsinghvirdee/GFG-SOLUTIONS)  
 
 </details>
 <!--END_SECTION:activity-->

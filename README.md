@@ -186,14 +186,20 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[06/27 06:19]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2009`](https://github.com//kunjgit/GameZone/pull/2009 'Add Save The Mouse Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/27 06:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `47` commits in [Sriparno08/GameZone](https://github.com/Sriparno08/GameZone)  
+`[06/27 05:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2068`](https://github.com//kunjgit/GameZone/issues/2068 '[Bug]: Heading bg is black even in light mode') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/27 05:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/27 05:48]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2069`](https://github.com//kunjgit/GameZone/pull/2069 'Fix light mode heading background not changing') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[06/27 05:47]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2069`](https://github.com//kunjgit/GameZone/pull/2069 'Fix light mode heading background not changing') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/26 20:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[06/26 08:38]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#315`](https://github.com//codervivek5/VigyBag/issues/315 'Building see more page') in [codervivek5/VigyBag](https://github.com/codervivek5/VigyBag)  
 `[06/25 19:26]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#564`](https://github.com//narayan954/dummygram/issues/564 'Changed font style') in [narayan954/dummygram](https://github.com/narayan954/dummygram)  
 `[06/25 19:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)  
 `[06/25 18:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[06/24 19:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#368`](https://github.com//Anupkjha2601/food-recipes-website/issues/368 'Added the CodeQL workflow') in [Anupkjha2601/food-recipes-website](https://github.com/Anupkjha2601/food-recipes-website)  
 `[06/24 12:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/24 09:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#231`](https://github.com//Hackathon7/Pacify-final/issues/231 'Add Google Auth ') in [Hackathon7/Pacify-final](https://github.com/Hackathon7/Pacify-final)  
@@ -386,13 +392,7 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 `[05/10 17:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
 `[05/10 16:44]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//gurjeetsinghvirdee/love-babbar-mern-notes/pull/1 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
 `[05/10 16:44]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1`](https://github.com//gurjeetsinghvirdee/love-babbar-mern-notes/pull/1 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
-`[05/09 17:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[05/08 17:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
-`[05/08 17:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[05/08 17:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
-`[05/08 16:56]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`patch-1`](https://github.com/gurjeetsinghvirdee/Clone-IT/tree/patch-1) in [gurjeetsinghvirdee/Clone-IT](https://github.com/gurjeetsinghvirdee/Clone-IT)  
-`[05/08 11:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
-`[05/07 15:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/love-babbar-mern-notes](https://github.com/gurjeetsinghvirdee/love-babbar-mern-notes)  
+`[05/09 17:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 
 </details>
 <!--END_SECTION:activity-->

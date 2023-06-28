@@ -186,14 +186,18 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[06/28 22:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2027`](https://github.com//kunjgit/GameZone/issues/2027 '[New game]: Crack-The-Code') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/28 22:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/28 22:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2121`](https://github.com//kunjgit/GameZone/pull/2121 'Added Crak_The_Code Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/28 22:55]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2129`](https://github.com//kunjgit/GameZone/pull/2129 'Skeleathon') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/28 16:29]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2094`](https://github.com//kunjgit/GameZone/pull/2094 '[Enhancement]: Add features in Country Guesser Game ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[06/27 21:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1879`](https://github.com//kunjgit/GameZone/issues/1879 '[Enhancement]: Improving GUI of Tic Tac Toe game ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 21:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 21:51]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2098`](https://github.com//kunjgit/GameZone/pull/2098 'Improving GUI of Tic Tac Toe game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 21:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2080`](https://github.com//kunjgit/GameZone/issues/2080 '[Documentation Bug]: Brick breaker image not loading') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[06/27 21:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 21:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2085`](https://github.com//kunjgit/GameZone/pull/2085 'Update README.md brick breaker') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 21:25]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2085`](https://github.com//kunjgit/GameZone/pull/2085 'Update README.md brick breaker') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -379,12 +383,6 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 `[05/25 15:08]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#52`](https://github.com//J0SAL/Decentralized-Expense-Tracker/pull/52 'Added icons and urls to make the UI more attractive and user-friendly') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
 `[05/25 13:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TanishiNayak/MaaMatters](https://github.com/TanishiNayak/MaaMatters)  
 `[05/25 13:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#51`](https://github.com//J0SAL/Decentralized-Expense-Tracker/issues/51 'fixed the typo errors') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
-`[05/25 13:31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#39`](https://github.com//J0SAL/Decentralized-Expense-Tracker/issues/39 'scrollToTop') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
-`[05/25 13:30]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#39`](https://github.com//J0SAL/Decentralized-Expense-Tracker/pull/39 'scrollToTop') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
-`[05/25 12:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [marsian83/portfolio](https://github.com/marsian83/portfolio)  
-`[05/25 11:16]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#29`](https://github.com//J0SAL/Decentralized-Expense-Tracker/pull/29 'Add Sepolia Testnet Integration') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
-`[05/25 10:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`newbranch`](https://github.com/gurjeetsinghvirdee/first-contributions/tree/newbranch) in [gurjeetsinghvirdee/first-contributions](https://github.com/gurjeetsinghvirdee/first-contributions)  
-`[05/25 10:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/first-contributions](https://github.com/gurjeetsinghvirdee/first-contributions)  
 
 </details>
 <!--END_SECTION:activity-->

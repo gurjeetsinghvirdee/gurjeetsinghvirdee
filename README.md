@@ -186,14 +186,18 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[06/29 09:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/29 08:58]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2103`](https://github.com//kunjgit/GameZone/issues/2103 '[New game]: Skeleathon') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/29 08:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/29 08:58]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2129`](https://github.com//kunjgit/GameZone/pull/2129 'Skeleathon') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/29 08:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[06/29 08:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Durgesh4993/GameZone](https://github.com/Durgesh4993/GameZone)  
 `[06/29 08:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/29 08:29]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2106`](https://github.com//kunjgit/GameZone/pull/2106 'Little_Red_Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/29 08:28]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2106`](https://github.com//kunjgit/GameZone/pull/2106 'Little_Red_Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[06/29 06:46]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2106`](https://github.com//kunjgit/GameZone/issues/2106 'Little_Red_Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/28 22:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2027`](https://github.com//kunjgit/GameZone/issues/2027 '[New game]: Crack-The-Code') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/28 22:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -378,10 +382,6 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 `[05/28 15:45]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#73`](https://github.com//J0SAL/Decentralized-Expense-Tracker/pull/73 'added code of conduct #64') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
 `[05/28 13:42]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Deveimer/vovoca-frontend](https://github.com/Deveimer/vovoca-frontend) to [gurjeetsinghvirdee/vovoca-frontend](https://github.com/gurjeetsinghvirdee/vovoca-frontend)  
 `[05/28 13:11]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [CatsInTech/GitHub-ReadMe](https://github.com/CatsInTech/GitHub-ReadMe) to [gurjeetsinghvirdee/GitHub-ReadMe](https://github.com/gurjeetsinghvirdee/GitHub-ReadMe)  
-`[05/27 14:16]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [kisshan13/Linksaver](https://github.com/kisshan13/Linksaver) to [gurjeetsinghvirdee/Linksaver](https://github.com/gurjeetsinghvirdee/Linksaver)  
-`[05/27 12:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/Decentralized-Expense-Tracker](https://github.com/gurjeetsinghvirdee/Decentralized-Expense-Tracker)  
-`[05/26 16:12]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#57`](https://github.com//J0SAL/Decentralized-Expense-Tracker/pull/57 'Optimize Smart Contract to reduce gas fees ') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
-`[05/26 16:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#57`](https://github.com//J0SAL/Decentralized-Expense-Tracker/issues/57 'Optimize Smart Contract to reduce gas fees ') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -186,14 +186,20 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[06/29 16:38]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2097`](https://github.com//kunjgit/GameZone/issues/2097 'Added Astray') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/29 16:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2142`](https://github.com//kunjgit/GameZone/issues/2142 '[Enhancement]: Escape Room game not found in GameData.json file') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/29 16:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/29 16:15]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2101`](https://github.com//kunjgit/GameZone/issues/2101 'IMPORTANT ANNOUNCEMENT') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[06/29 16:14]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2093`](https://github.com//kunjgit/GameZone/issues/2093 'Riding Hood game added 👍') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[06/29 16:14]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2093`](https://github.com//kunjgit/GameZone/pull/2093 'Riding Hood game added 👍') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/29 09:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/29 08:58]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2103`](https://github.com//kunjgit/GameZone/issues/2103 '[New game]: Skeleathon') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/29 08:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/29 08:58]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2129`](https://github.com//kunjgit/GameZone/pull/2129 'Skeleathon') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/29 08:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[06/29 08:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Durgesh4993/GameZone](https://github.com/Durgesh4993/GameZone)  
 `[06/29 08:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/29 08:29]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2106`](https://github.com//kunjgit/GameZone/pull/2106 'Little_Red_Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -376,12 +382,6 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 `[05/28 16:06]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`patch-1`](https://github.com/gurjeetsinghvirdee/GitHub-ReadMe/tree/patch-1) in [gurjeetsinghvirdee/GitHub-ReadMe](https://github.com/gurjeetsinghvirdee/GitHub-ReadMe)  
 `[05/28 16:04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#22`](https://github.com//CatsInTech/GitHub-ReadMe/issues/22 'Upgrade node-sass version') in [CatsInTech/GitHub-ReadMe](https://github.com/CatsInTech/GitHub-ReadMe)  
 `[05/28 15:53]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#71`](https://github.com//J0SAL/Decentralized-Expense-Tracker/pull/71 'Login Page UI changed') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
-`[05/28 15:53]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#71`](https://github.com//J0SAL/Decentralized-Expense-Tracker/pull/71 'Login Page UI changed') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
-`[05/28 15:49]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#74`](https://github.com//J0SAL/Decentralized-Expense-Tracker/issues/74 'Want to logo in the Navbar') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
-`[05/28 15:47]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#64`](https://github.com//J0SAL/Decentralized-Expense-Tracker/issues/64 'Addition of Code of Conduct') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
-`[05/28 15:45]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#73`](https://github.com//J0SAL/Decentralized-Expense-Tracker/pull/73 'added code of conduct #64') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
-`[05/28 13:42]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Deveimer/vovoca-frontend](https://github.com/Deveimer/vovoca-frontend) to [gurjeetsinghvirdee/vovoca-frontend](https://github.com/gurjeetsinghvirdee/vovoca-frontend)  
-`[05/28 13:11]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [CatsInTech/GitHub-ReadMe](https://github.com/CatsInTech/GitHub-ReadMe) to [gurjeetsinghvirdee/GitHub-ReadMe](https://github.com/gurjeetsinghvirdee/GitHub-ReadMe)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -186,14 +186,15 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[06/29 06:46]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2106`](https://github.com//kunjgit/GameZone/issues/2106 'Little_Red_Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/28 22:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2027`](https://github.com//kunjgit/GameZone/issues/2027 '[New game]: Crack-The-Code') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/28 22:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/28 22:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2121`](https://github.com//kunjgit/GameZone/pull/2121 'Added Crak_The_Code Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/28 22:55]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2129`](https://github.com//kunjgit/GameZone/pull/2129 'Skeleathon') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[06/28 16:29]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2094`](https://github.com//kunjgit/GameZone/pull/2094 '[Enhancement]: Add features in Country Guesser Game ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[06/28 16:29]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2094`](https://github.com//kunjgit/GameZone/pull/2094 '[Enhancement]: Add features in Country Guesser Game ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 21:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1879`](https://github.com//kunjgit/GameZone/issues/1879 '[Enhancement]: Improving GUI of Tic Tac Toe game ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 21:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 21:51]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2098`](https://github.com//kunjgit/GameZone/pull/2098 'Improving GUI of Tic Tac Toe game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -382,7 +383,6 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 `[05/25 18:49]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#29`](https://github.com//J0SAL/Decentralized-Expense-Tracker/issues/29 'Add Sepolia Testnet Integration') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
 `[05/25 15:08]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#52`](https://github.com//J0SAL/Decentralized-Expense-Tracker/pull/52 'Added icons and urls to make the UI more attractive and user-friendly') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
 `[05/25 13:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TanishiNayak/MaaMatters](https://github.com/TanishiNayak/MaaMatters)  
-`[05/25 13:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#51`](https://github.com//J0SAL/Decentralized-Expense-Tracker/issues/51 'fixed the typo errors') in [J0SAL/Decentralized-Expense-Tracker](https://github.com/J0SAL/Decentralized-Expense-Tracker)  
 
 </details>
 <!--END_SECTION:activity-->

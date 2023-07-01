@@ -186,14 +186,15 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/01 05:29]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2153`](https://github.com//kunjgit/GameZone/pull/2153 'Added Trio_Match game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 01:14]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#58`](https://github.com//tusharzalte/tusharesume/issues/58 'Update README.md') in [tusharzalte/tusharesume](https://github.com/tusharzalte/tusharesume)  
 `[07/01 01:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 01:08]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1944`](https://github.com//kunjgit/GameZone/issues/1944 '[New game]: Number Sliding Puzzle Game [GSSoC\'23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 01:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/01 01:08]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2072`](https://github.com//kunjgit/GameZone/pull/2072 '[GSSoC\'23] Number Sliding Game Completed') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[07/01 01:08]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2072`](https://github.com//kunjgit/GameZone/pull/2072 '[GSSoC\'23] Number Sliding Game Completed') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 01:07]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2072`](https://github.com//kunjgit/GameZone/pull/2072 '[GSSoC\'23] Number Sliding Game Completed') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 01:05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2077`](https://github.com//kunjgit/GameZone/issues/2077 '[New game]: Shadow PokeGuess') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 01:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -375,7 +376,6 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 `[06/01 17:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/Cs-Tasks/tree/master) in [gurjeetsinghvirdee/Cs-Tasks](https://github.com/gurjeetsinghvirdee/Cs-Tasks)  
 `[06/01 16:54]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/Cs-Tasks](https://github.com/gurjeetsinghvirdee/Cs-Tasks)  
 `[05/31 11:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#135`](https://github.com//GameSphere-MultiPlayer/GameSphere/issues/135 'scroll button added') in [GameSphere-MultiPlayer/GameSphere](https://github.com/GameSphere-MultiPlayer/GameSphere)  
-`[05/30 22:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#49`](https://github.com//CognitiveLab-tech/World-of-AI/issues/49 'ML predictor') in [CognitiveLab-tech/World-of-AI](https://github.com/CognitiveLab-tech/World-of-AI)  
 
 </details>
 <!--END_SECTION:activity-->

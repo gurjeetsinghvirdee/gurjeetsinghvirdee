@@ -186,14 +186,18 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/01 21:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[07/01 21:40]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#124`](https://github.com//girlscript/gssoc-website-new/issues/124 'Add video \'How to run GSSoC website locally for making contributions\' in README.md') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[07/01 21:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#125`](https://github.com//girlscript/gssoc-website-new/pull/125 'feat: added video link to run locally') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[07/01 21:39]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#125`](https://github.com//girlscript/gssoc-website-new/pull/125 'feat: added video link to run locally') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/01 21:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `22` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[07/01 21:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2028`](https://github.com//kunjgit/GameZone/issues/2028 '[New game]: MCQ type quiz game for HTML, CSS, JS ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 21:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 21:29]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2108`](https://github.com//kunjgit/GameZone/pull/2108 'added quiz_game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 21:25]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2071`](https://github.com//kunjgit/GameZone/issues/2071 '[New game]: Chicken cannon') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/01 21:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 21:25]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2073`](https://github.com//kunjgit/GameZone/pull/2073 'Added Chicken cannon game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 21:23]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2073`](https://github.com//kunjgit/GameZone/pull/2073 'Added Chicken cannon game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -376,10 +380,6 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 `[06/23 19:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/23 19:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc22-leaderboard-backend](https://github.com/girlscript/gssoc22-leaderboard-backend)  
 `[06/22 18:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `28` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
-`[06/22 18:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#70`](https://github.com//Yashpatel191001/Infostic-Solution-Official-Website/issues/70 'Adding Hover Effect to Cards in Plans and Pricing Section in Home Page') in [Yashpatel191001/Infostic-Solution-Official-Website](https://github.com/Yashpatel191001/Infostic-Solution-Official-Website)  
-`[06/22 17:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#64`](https://github.com//Yashpatel191001/Infostic-Solution-Official-Website/issues/64 'Above Footer content modification') in [Yashpatel191001/Infostic-Solution-Official-Website](https://github.com/Yashpatel191001/Infostic-Solution-Official-Website)  
-`[06/22 17:49]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#77`](https://github.com//Yashpatel191001/Infostic-Solution-Official-Website/issues/77 'Alignment of Login page') in [Yashpatel191001/Infostic-Solution-Official-Website](https://github.com/Yashpatel191001/Infostic-Solution-Official-Website)  
-`[06/22 17:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#80`](https://github.com//Yashpatel191001/Infostic-Solution-Official-Website/issues/80 'Fix alignment') in [Yashpatel191001/Infostic-Solution-Official-Website](https://github.com/Yashpatel191001/Infostic-Solution-Official-Website)  
 
 </details>
 <!--END_SECTION:activity-->

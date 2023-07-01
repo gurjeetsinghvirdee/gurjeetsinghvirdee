@@ -380,7 +380,6 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 `[06/16 10:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#54`](https://github.com//bhattabhi013/Vritant/issues/54 'New Functionality : Added Embed video in Readme ') in [bhattabhi013/Vritant](https://github.com/bhattabhi013/Vritant)  
 `[06/15 14:57]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `error` from [gurjeetsinghvirdee/Animating-Buttons](https://github.com/gurjeetsinghvirdee/Animating-Buttons)  
 `[06/15 14:57]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1240`](https://github.com//Spyware007/Animating-Buttons/pull/1240 'Unexpected error resolved') in [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)  
-`[06/15 14:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `258` commits in [gurjeetsinghvirdee/Animating-Buttons](https://github.com/gurjeetsinghvirdee/Animating-Buttons)  
 
 </details>
 <!--END_SECTION:activity-->

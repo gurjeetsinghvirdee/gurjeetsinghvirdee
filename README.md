@@ -186,14 +186,21 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/01 07:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2195`](https://github.com//kunjgit/GameZone/issues/2195 '[New game]:Brain Color Mastermind Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/01 07:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/01 07:29]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2197`](https://github.com//kunjgit/GameZone/pull/2197 'added brain color mastermind game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/01 07:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [SimranLahrani842/GameZone](https://github.com/SimranLahrani842/GameZone)  
+`[07/01 07:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[07/01 07:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2150`](https://github.com//kunjgit/GameZone/issues/2150 '[New game]: Lizard Spock Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/01 07:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2196`](https://github.com//kunjgit/GameZone/pull/2196 'Lizard Spock Game ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 07:12]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2188`](https://github.com//kunjgit/GameZone/issues/2188 '[New game]: Love Percentage Calculator') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 07:12]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2190`](https://github.com//kunjgit/GameZone/pull/2190 'Love Percentage Calculator') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 07:12]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2190`](https://github.com//kunjgit/GameZone/pull/2190 'Love Percentage Calculator') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 07:09]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2191`](https://github.com//kunjgit/GameZone/pull/2191 'enhancement of simons game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 07:05]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2197`](https://github.com//kunjgit/GameZone/pull/2197 'added brain color mastermind game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/01 07:04]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2197`](https://github.com//kunjgit/GameZone/pull/2197 'added brain color mastermind game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 07:02]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2194`](https://github.com//kunjgit/GameZone/pull/2194 'Completed making Poke-Guess Blitz Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 07:00]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2196`](https://github.com//kunjgit/GameZone/pull/2196 'Lizard Spock Game ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -375,11 +382,7 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 `[06/03 15:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `36` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[06/03 09:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/Animating-Buttons](https://github.com/gurjeetsinghvirdee/Animating-Buttons)  
 `[06/02 18:20]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons) to [gurjeetsinghvirdee/Animating-Buttons](https://github.com/gurjeetsinghvirdee/Animating-Buttons)  
-`[06/02 18:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `25` commits in [gurjeetsinghvirdee/Animating-Buttons](https://github.com/gurjeetsinghvirdee/Animating-Buttons)  
-`[06/02 11:55]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons) to [gurjeetsinghvirdee/Animating-Buttons](https://github.com/gurjeetsinghvirdee/Animating-Buttons)  
-`[06/02 06:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Csharp-Assignments](https://github.com/gurjeetsinghvirdee/Csharp-Assignments)  
-`[06/02 06:02]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//gurjeetsinghvirdee/Csharp-Assignments/pull/1 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/Csharp-Assignments](https://github.com/gurjeetsinghvirdee/Csharp-Assignments)  
-`[06/02 06:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [gurjeetsinghvirdee/Csharp-Assignments](https://github.com/gurjeetsinghvirdee/Csharp-Assignments)  
+`[06/02 18:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [gurjeetsinghvirdee/Animating-Buttons](https://github.com/gurjeetsinghvirdee/Animating-Buttons)  
 
 </details>
 <!--END_SECTION:activity-->

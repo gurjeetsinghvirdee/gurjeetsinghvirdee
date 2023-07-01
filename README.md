@@ -186,14 +186,22 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/01 07:12]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2188`](https://github.com//kunjgit/GameZone/issues/2188 '[New game]: Love Percentage Calculator') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/01 07:12]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2190`](https://github.com//kunjgit/GameZone/pull/2190 'Love Percentage Calculator') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/01 07:12]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2190`](https://github.com//kunjgit/GameZone/pull/2190 'Love Percentage Calculator') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/01 07:09]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2191`](https://github.com//kunjgit/GameZone/pull/2191 'enhancement of simons game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/01 07:05]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2197`](https://github.com//kunjgit/GameZone/pull/2197 'added brain color mastermind game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[07/01 07:04]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2197`](https://github.com//kunjgit/GameZone/pull/2197 'added brain color mastermind game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/01 07:02]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2194`](https://github.com//kunjgit/GameZone/pull/2194 'Completed making Poke-Guess Blitz Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/01 07:00]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2196`](https://github.com//kunjgit/GameZone/pull/2196 'Lizard Spock Game ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 05:29]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2153`](https://github.com//kunjgit/GameZone/pull/2153 'Added Trio_Match game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 01:14]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#58`](https://github.com//tusharzalte/tusharesume/issues/58 'Update README.md') in [tusharzalte/tusharesume](https://github.com/tusharzalte/tusharesume)  
 `[07/01 01:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 01:08]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1944`](https://github.com//kunjgit/GameZone/issues/1944 '[New game]: Number Sliding Puzzle Game [GSSoC\'23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 01:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/01 01:08]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2072`](https://github.com//kunjgit/GameZone/pull/2072 '[GSSoC\'23] Number Sliding Game Completed') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 01:07]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2072`](https://github.com//kunjgit/GameZone/pull/2072 '[GSSoC\'23] Number Sliding Game Completed') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 01:05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2077`](https://github.com//kunjgit/GameZone/issues/2077 '[New game]: Shadow PokeGuess') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -372,10 +380,6 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 `[06/02 06:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Csharp-Assignments](https://github.com/gurjeetsinghvirdee/Csharp-Assignments)  
 `[06/02 06:02]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//gurjeetsinghvirdee/Csharp-Assignments/pull/1 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/Csharp-Assignments](https://github.com/gurjeetsinghvirdee/Csharp-Assignments)  
 `[06/02 06:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [gurjeetsinghvirdee/Csharp-Assignments](https://github.com/gurjeetsinghvirdee/Csharp-Assignments)  
-`[06/01 19:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [gurjeetsinghvirdee/Cs-Tasks](https://github.com/gurjeetsinghvirdee/Cs-Tasks)  
-`[06/01 17:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/Cs-Tasks/tree/master) in [gurjeetsinghvirdee/Cs-Tasks](https://github.com/gurjeetsinghvirdee/Cs-Tasks)  
-`[06/01 16:54]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/Cs-Tasks](https://github.com/gurjeetsinghvirdee/Cs-Tasks)  
-`[05/31 11:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#135`](https://github.com//GameSphere-MultiPlayer/GameSphere/issues/135 'scroll button added') in [GameSphere-MultiPlayer/GameSphere](https://github.com/GameSphere-MultiPlayer/GameSphere)  
 
 </details>
 <!--END_SECTION:activity-->

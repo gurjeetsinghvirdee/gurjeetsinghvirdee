@@ -186,14 +186,15 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/01 15:14]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2205`](https://github.com//kunjgit/GameZone/pull/2205 'Added "Back to top" button in README.md') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 08:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `322` commits in [Dimple-01/GameZone](https://github.com/Dimple-01/GameZone)  
 `[07/01 08:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 08:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2115`](https://github.com//kunjgit/GameZone/issues/2115 '[Bug]: Game image of number guessing game not visible') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 08:02]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2166`](https://github.com//kunjgit/GameZone/pull/2166 'Image issue solved') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/01 08:01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2166`](https://github.com//kunjgit/GameZone/pull/2166 'Image issue solved') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[07/01 08:01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2166`](https://github.com//kunjgit/GameZone/pull/2166 'Image issue solved') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 08:01]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2200`](https://github.com//kunjgit/GameZone/pull/2200 'added %20') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 07:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2189`](https://github.com//kunjgit/GameZone/issues/2189 '[Enhancement]: Simon Game challenge enhancement') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 07:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  

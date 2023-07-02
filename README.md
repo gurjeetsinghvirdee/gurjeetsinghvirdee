@@ -186,14 +186,18 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/02 08:57]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#57`](https://github.com//sazamansari/node.js-_microservices/issues/57 'Readme changes') in [sazamansari/node.js-_microservices](https://github.com/sazamansari/node.js-_microservices)  
+`[07/02 08:52]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2220`](https://github.com//kunjgit/GameZone/pull/2220 'fixed and added game data') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/02 08:50]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2223`](https://github.com//kunjgit/GameZone/pull/2223 'fFxed the position of Theme') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/02 08:49]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#76`](https://github.com//sahil-sagwekar2652/GitHub-Automation-scripts/issues/76 'Create Issue by Python') in [sahil-sagwekar2652/GitHub-Automation-scripts](https://github.com/sahil-sagwekar2652/GitHub-Automation-scripts)  
 `[07/01 21:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[07/01 21:40]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#124`](https://github.com//girlscript/gssoc-website-new/issues/124 'Add video \'How to run GSSoC website locally for making contributions\' in README.md') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/01 21:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#125`](https://github.com//girlscript/gssoc-website-new/pull/125 'feat: added video link to run locally') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/01 21:39]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#125`](https://github.com//girlscript/gssoc-website-new/pull/125 'feat: added video link to run locally') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/01 21:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `22` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/01 21:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2028`](https://github.com//kunjgit/GameZone/issues/2028 '[New game]: MCQ type quiz game for HTML, CSS, JS ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 21:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 21:29]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2108`](https://github.com//kunjgit/GameZone/pull/2108 'added quiz_game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -374,12 +378,6 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 `[06/24 07:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[06/23 21:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[06/23 21:53]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2`](https://github.com//girlscript/gssoc22-leaderboard-backend/issues/2 'Hardcode official website') in [girlscript/gssoc22-leaderboard-backend](https://github.com/girlscript/gssoc22-leaderboard-backend)  
-`[06/23 21:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//girlscript/gssoc22-leaderboard-backend/issues/2 'Hardcode official website') in [girlscript/gssoc22-leaderboard-backend](https://github.com/girlscript/gssoc22-leaderboard-backend)  
-`[06/23 21:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/gssoc22-leaderboard-backend](https://github.com/gurjeetsinghvirdee/gssoc22-leaderboard-backend)  
-`[06/23 20:53]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#451`](https://github.com//WebXDAO/start-here/issues/451 'Please invite me to the community') in [WebXDAO/start-here](https://github.com/WebXDAO/start-here)  
-`[06/23 19:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[06/23 19:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc22-leaderboard-backend](https://github.com/girlscript/gssoc22-leaderboard-backend)  
-`[06/22 18:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `28` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->

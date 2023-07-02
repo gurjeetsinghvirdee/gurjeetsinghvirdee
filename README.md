@@ -186,14 +186,15 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/02 10:46]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2580`](https://github.com//pranjay-poddar/Dev-Geeks/issues/2580 'Added Spider Man Game') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
 `[07/02 10:23]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2580`](https://github.com//pranjay-poddar/Dev-Geeks/issues/2580 'Added Spider Man Game') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
 `[07/02 10:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2580`](https://github.com//pranjay-poddar/Dev-Geeks/issues/2580 'Added Spider Man Game') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
 `[07/02 09:19]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2209`](https://github.com//kunjgit/GameZone/issues/2209 '[Bug]: Dark Mode Button') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/02 09:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/02 09:19]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2223`](https://github.com//kunjgit/GameZone/pull/2223 'fFxed the position of Theme') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[07/02 09:19]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2223`](https://github.com//kunjgit/GameZone/pull/2223 'fFxed the position of Theme') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/02 09:18]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2220`](https://github.com//kunjgit/GameZone/pull/2220 'fixed and added game data') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/02 08:57]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#57`](https://github.com//sazamansari/node.js-_microservices/issues/57 'Readme changes') in [sazamansari/node.js-_microservices](https://github.com/sazamansari/node.js-_microservices)  
 `[07/02 08:52]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2220`](https://github.com//kunjgit/GameZone/pull/2220 'fixed and added game data') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -378,7 +379,6 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 `[06/25 19:26]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#564`](https://github.com//narayan954/dummygram/issues/564 'Changed font style') in [narayan954/dummygram](https://github.com/narayan954/dummygram)  
 `[06/25 19:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)  
 `[06/25 18:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[06/24 19:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#368`](https://github.com//Anupkjha2601/food-recipes-website/issues/368 'Added the CodeQL workflow') in [Anupkjha2601/food-recipes-website](https://github.com/Anupkjha2601/food-recipes-website)  
 
 </details>
 <!--END_SECTION:activity-->

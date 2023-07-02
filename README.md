@@ -186,14 +186,20 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/02 19:05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2065`](https://github.com//kunjgit/GameZone/issues/2065 '[New game]:  Adding Firedog Adventure Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/02 19:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/02 19:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2111`](https://github.com//kunjgit/GameZone/pull/2111 'Added  Firedog Adventure Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/02 19:04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//Nishitbaria/GameZone/pull/2 'Sync') in [Nishitbaria/GameZone](https://github.com/Nishitbaria/GameZone)  
+`[07/02 19:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `130` commits in [Nishitbaria/GameZone](https://github.com/Nishitbaria/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[07/02 19:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2242`](https://github.com//kunjgit/GameZone/issues/2242 'Addition of home icon to games') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/02 16:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2049`](https://github.com//kunjgit/GameZone/issues/2049 '[New game]: T-rex Run') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/02 16:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/02 16:09]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2104`](https://github.com//kunjgit/GameZone/pull/2104 'Trex_Run Added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/02 15:41]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2104`](https://github.com//kunjgit/GameZone/pull/2104 'Trex_Run Added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/02 15:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `124` commits in [akankshachanana1/GameZone](https://github.com/akankshachanana1/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/02 15:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2142`](https://github.com//kunjgit/GameZone/issues/2142 '[Enhancement]: Escape Room game not found in GameData.json file') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/02 15:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/02 15:39]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2220`](https://github.com//kunjgit/GameZone/pull/2220 'fixed and added game data') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -373,13 +379,6 @@ JSON             18 hrs 18 mins  █▓░░░░░░░░░░░░░�
 `[06/27 10:27]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2021`](https://github.com//kunjgit/GameZone/pull/2021 'Added WallSmash game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 10:18]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2009`](https://github.com//kunjgit/GameZone/pull/2009 'Add Save The Mouse Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 10:16]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2094`](https://github.com//kunjgit/GameZone/pull/2094 '[Enhancement]: Add features in Country Guesser Game ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[06/27 06:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[06/27 06:47]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2070`](https://github.com//kunjgit/GameZone/issues/2070 '[Enhancement]: Adding Animated Particles in the Background of the Website') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[06/27 06:47]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2079`](https://github.com//kunjgit/GameZone/pull/2079 'Added Floating Particles in Background') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[06/27 06:40]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2079`](https://github.com//kunjgit/GameZone/pull/2079 'Added Floating Particles in Background') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[06/27 06:30]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1800`](https://github.com//kunjgit/GameZone/issues/1800 '[Bug]: Convert Images to WebP Format for Improved GitHub Project Performance') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[06/27 06:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[06/27 06:30]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2064`](https://github.com//kunjgit/GameZone/pull/2064 'Converted images to WebP') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

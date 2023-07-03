@@ -379,8 +379,6 @@ JSON             18 hrs 25 mins  █▓░░░░░░░░░░░░░�
 `[06/27 11:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `73` commits in [Avdhesh-Varshney/GameZone](https://github.com/Avdhesh-Varshney/GameZone)  
 `[06/27 11:08]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2000`](https://github.com//kunjgit/GameZone/issues/2000 '[New game]: Save The Mouse') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 11:07]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2009`](https://github.com//kunjgit/GameZone/pull/2009 'Add Save The Mouse Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[06/27 11:07]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2009`](https://github.com//kunjgit/GameZone/pull/2009 'Add Save The Mouse Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[06/27 10:53]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1762`](https://github.com//kunjgit/GameZone/pull/1762 'Added Bulls eye game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

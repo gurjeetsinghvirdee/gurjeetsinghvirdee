@@ -186,14 +186,20 @@ JSON             18 hrs 25 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/03 07:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2042`](https://github.com//kunjgit/GameZone/issues/2042 '[ADDED]: Space Drifter') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/03 07:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2042`](https://github.com//kunjgit/GameZone/issues/2042 '[ADDED]: Space Drifter') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/03 07:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2149`](https://github.com//kunjgit/GameZone/issues/2149 '[New game]: Trio Match') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/03 07:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/03 07:11]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2153`](https://github.com//kunjgit/GameZone/pull/2153 'Added Trio_Match game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[07/03 07:10]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2153`](https://github.com//kunjgit/GameZone/pull/2153 'Added Trio_Match game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/02 19:05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2065`](https://github.com//kunjgit/GameZone/issues/2065 '[New game]:  Adding Firedog Adventure Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/02 19:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/02 19:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2111`](https://github.com//kunjgit/GameZone/pull/2111 'Added  Firedog Adventure Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/02 19:04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//Nishitbaria/GameZone/pull/2 'Sync') in [Nishitbaria/GameZone](https://github.com/Nishitbaria/GameZone)  
 `[07/02 19:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `130` commits in [Nishitbaria/GameZone](https://github.com/Nishitbaria/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/02 19:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2242`](https://github.com//kunjgit/GameZone/issues/2242 'Addition of home icon to games') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/02 16:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2049`](https://github.com//kunjgit/GameZone/issues/2049 '[New game]: T-rex Run') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/02 16:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -374,11 +380,6 @@ JSON             18 hrs 25 mins  █▓░░░░░░░░░░░░░�
 `[06/27 11:07]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2009`](https://github.com//kunjgit/GameZone/pull/2009 'Add Save The Mouse Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 10:53]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1762`](https://github.com//kunjgit/GameZone/pull/1762 'Added Bulls eye game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 10:32]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1834`](https://github.com//kunjgit/GameZone/pull/1834 'Added Escape Room game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[06/27 10:28]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1988`](https://github.com//kunjgit/GameZone/issues/1988 '[New game]: Wall Smash') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[06/27 10:27]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2021`](https://github.com//kunjgit/GameZone/pull/2021 'Added WallSmash game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[06/27 10:27]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2021`](https://github.com//kunjgit/GameZone/pull/2021 'Added WallSmash game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[06/27 10:18]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2009`](https://github.com//kunjgit/GameZone/pull/2009 'Add Save The Mouse Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[06/27 10:16]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2094`](https://github.com//kunjgit/GameZone/pull/2094 '[Enhancement]: Add features in Country Guesser Game ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

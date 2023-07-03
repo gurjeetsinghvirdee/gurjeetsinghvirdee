@@ -186,14 +186,16 @@ JSON             18 hrs 25 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/03 17:23]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#992`](https://github.com//kunjgit/GameZone/issues/992 'Added Slider Puzzle Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/03 17:22]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#992`](https://github.com//kunjgit/GameZone/issues/992 'Added Slider Puzzle Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/03 10:42]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1620`](https://github.com//kunjgit/GameZone/issues/1620 '[Enhancement]: Addition of home icon to the games page') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/03 10:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/03 10:42]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2242`](https://github.com//kunjgit/GameZone/pull/2242 'Addition of home icon to games') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/03 10:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/03 10:42]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2157`](https://github.com//kunjgit/GameZone/pull/2157 'Color_Crush_Game Added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[07/03 10:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/03 10:42]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2157`](https://github.com//kunjgit/GameZone/pull/2157 'Color_Crush_Game Added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/03 10:42]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2157`](https://github.com//kunjgit/GameZone/pull/2157 'Color_Crush_Game Added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/03 10:09]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2242`](https://github.com//kunjgit/GameZone/pull/2242 'Addition of home icon to games') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/03 07:18]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2242`](https://github.com//kunjgit/GameZone/issues/2242 'Addition of home icon to games') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  

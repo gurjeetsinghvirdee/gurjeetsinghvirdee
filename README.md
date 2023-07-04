@@ -93,7 +93,7 @@ JSON             18 hrs 28 mins  █▓░░░░░░░░░░░░░�
 | 5. | Hacktoberfest | 1st October - 31st October 2022 | [Click Here](https://docs.google.com/document/d/1mv27yGR7-SsIDOinqsYDnFutXHG49awhzvZYaEna3rM) | Contributor | T-Shirt & Stickers | 
 | 6. | HyperEdge WOB'23 | 1st Feb - 1st May | Discord Moderator, Managing Leaderboard | Managing Team | - |
 | 7. | GirlScript Summer Of Code 2023 | 6th May - Present | Jarvis - Decentralised Expense Tracker | Mentor | - |
-| 8. | GirlScript Summer Of Code 2023 | 29 May  - Present | Managing the activity of PA, Mentors & Contributors throughout the program | Discord Mod | - |
+| 8. | GirlScript Summer Of Code 2023 | 29 May  - 03 July | Managing the activity of PA, Mentors & Contributors throughout the program | Discord Mod | - |
     
 </details>
 
@@ -138,16 +138,6 @@ JSON             18 hrs 28 mins  █▓░░░░░░░░░░░░░�
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
     </a> 
 </p>
-
-<!------------------------------------------------------------- Twitter Stats ---------------------------------------------------------------------->
-
-## 🐦 Tweets
-
-<div align="center">
-    <a href="https://twitter.com/__gurii__">
-        <img src="https://gtce.itsvg.in/api?username=__gurii__&theme=synthwave&response=true&border=false&time=true&icon=code" width="500" />
-    </a>
-</div>
 
 <!------------------------------------------------------------ GITHUB STATS ------------------------------------------------------------------------>
         

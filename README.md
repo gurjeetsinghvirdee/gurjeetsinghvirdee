@@ -400,10 +400,4 @@ JSON             18 hrs 28 mins  █▓░░░░░░░░░░░░░�
     <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-metrics.svg" />
 </details>
 
-<!----------------------------------------------- Buy Me A Coffee ------------------------------------------------>
-        
-<div align="center">
-    <a href="https://www.buymeacoffee.com/gurjeetsingh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee"             style="height: 60px !important;width: 217px !important;" >
-    </a>
-</div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />

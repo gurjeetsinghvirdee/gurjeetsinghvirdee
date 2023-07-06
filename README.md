@@ -41,7 +41,8 @@ As a **Full Stack Intern at NullClass**, Co-Founder of [Medictry](https://www.li
 <div align="center">        
     <a href="https://discord.com/users/916597112882495510"><img src="https://lanyard.cnrad.dev/api/916597112882495510" /></a>
 </div>
-        
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />        
 <!------------------------------------------TESTIMONIALS----------------------------------------------->
         
 ## ✨ Testimonials
@@ -61,6 +62,10 @@ As a **Full Stack Intern at NullClass**, Co-Founder of [Medictry](https://www.li
   </tr>
 </table>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
+<!-------------------------------------------------WAKA TIME---------------------------------------------------->
+
 ## 📊 Weekly Development Breakdown
   
 <!--START_SECTION:waka-->
@@ -78,24 +83,6 @@ JSON             18 hrs 28 mins  █▓░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka--> 
-
-<!---------------------- OPEN SOURCE CONTRIBUTIONS ---------------------->
-        
-<details>
-    <summary><h3> 👨‍💻 OPEN SOURCE CONTRIBUTIONS</h3></summary>  
-    
-|S.No.|Open Source Program |Duration| Contribution |Role|Rewards|
-|---------|--------|-------|-------|----|-----|    
-| 1. | GirlScript Summer Of Code 2022 | 1st Mar - 31st May 2022 | [Click Here](https://docs.google.com/document/d/15t_iThcyiNgIuAUmTJ9Utjy1ccxwTGZXy_0n8VYsHLE/edit?usp=sharing) | Contributor | [Link](https://drive.google.com/drive/folders/1gYYFepBLm09uATAZ9_Nh34opop_0nfCi?usp=sharing) |    
-| 2. | GirlScript Summer Of Code 2022 | 1st Mar - 31st May 2022 | [Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend) & [WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart) | Mentor | [Link](https://drive.google.com/drive/folders/1d0gDnPh8gR8qU61g-fWLEhahhshR8PXh?usp=sharing) |
-| 3. | GirlScript Summer Of Code 2022 | 1st Mar - 31st July 2022 | Discord Moderator, Managing participants <br> activity through out the program. | Technical Team | T-Shirt [Link](https://drive.google.com/drive/folders/1B2jDXyXA-L-XXypvaNzrpXRTVY7GW-04?usp=sharing) |
-| 4. | Hack Club RAIT | 1st July - 30st September 2022 | [Click Here](https://docs.google.com/document/d/1_ZutQmDbGkuFsbypF2oX_jbmFMf7OV-X4kr8xVs5J0w) | Contributor | [Link](https://drive.google.com/file/d/1Km6kXQU3NWr8OkWnaHB7-vLfEjhffplE/view?usp=sharing) |
-| 5. | Hacktoberfest | 1st October - 31st October 2022 | [Click Here](https://docs.google.com/document/d/1mv27yGR7-SsIDOinqsYDnFutXHG49awhzvZYaEna3rM) | Contributor | T-Shirt & Stickers | 
-| 6. | HyperEdge WOB'23 | 1st Feb - 1st May | Discord Moderator, Managing Leaderboard | Managing Team | - |
-| 7. | GirlScript Summer Of Code 2023 | 6th May - 03 July | Jarvis - Decentralised Expense Tracker, GameZone | Mentor | - |
-| 8. | GirlScript Summer Of Code 2023 | 29 May  - 03 July | Managing the activity of PA, Mentors & Contributors throughout the program | Discord Mod | - |
-    
-</details>
 
 <!---------------------------------Frameworks, Languages & Other Tools ------------------------------------->        
         
@@ -138,6 +125,24 @@ JSON             18 hrs 28 mins  █▓░░░░░░░░░░░░░�
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
     </a> 
 </p>
+
+<!---------------------- OPEN SOURCE CONTRIBUTIONS ---------------------->
+        
+<details>
+    <summary><h3> 👨‍💻 OPEN SOURCE CONTRIBUTIONS</h3></summary>  
+    
+|S.No.|Open Source Program |Duration| Contribution |Role|Rewards|
+|---------|--------|-------|-------|----|-----|    
+| 1. | GirlScript Summer Of Code 2022 | 1st Mar - 31st May 2022 | [Click Here](https://docs.google.com/document/d/15t_iThcyiNgIuAUmTJ9Utjy1ccxwTGZXy_0n8VYsHLE/edit?usp=sharing) | Contributor | [Link](https://drive.google.com/drive/folders/1gYYFepBLm09uATAZ9_Nh34opop_0nfCi?usp=sharing) |    
+| 2. | GirlScript Summer Of Code 2022 | 1st Mar - 31st May 2022 | [Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend) & [WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart) | Mentor | [Link](https://drive.google.com/drive/folders/1d0gDnPh8gR8qU61g-fWLEhahhshR8PXh?usp=sharing) |
+| 3. | GirlScript Summer Of Code 2022 | 1st Mar - 31st July 2022 | Discord Moderator, Managing participants <br> activity through out the program. | Technical Team | T-Shirt [Link](https://drive.google.com/drive/folders/1B2jDXyXA-L-XXypvaNzrpXRTVY7GW-04?usp=sharing) |
+| 4. | Hack Club RAIT | 1st July - 30st September 2022 | [Click Here](https://docs.google.com/document/d/1_ZutQmDbGkuFsbypF2oX_jbmFMf7OV-X4kr8xVs5J0w) | Contributor | [Link](https://drive.google.com/file/d/1Km6kXQU3NWr8OkWnaHB7-vLfEjhffplE/view?usp=sharing) |
+| 5. | Hacktoberfest | 1st October - 31st October 2022 | [Click Here](https://docs.google.com/document/d/1mv27yGR7-SsIDOinqsYDnFutXHG49awhzvZYaEna3rM) | Contributor | T-Shirt & Stickers | 
+| 6. | HyperEdge WOB'23 | 1st Feb - 1st May | Discord Moderator, Managing Leaderboard | Managing Team | - |
+| 7. | GirlScript Summer Of Code 2023 | 6th May - 03 July | Jarvis - Decentralised Expense Tracker, GameZone | Mentor | - |
+| 8. | GirlScript Summer Of Code 2023 | 29 May  - 03 July | Managing the activity of PA, Mentors & Contributors throughout the program | Discord Mod | - |
+    
+</details>
 
 <!------------------------------------------------------------ GITHUB STATS ------------------------------------------------------------------------>
         

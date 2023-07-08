@@ -140,7 +140,7 @@ JSON             18 hrs 28 mins  █▓░░░░░░░░░░░░░�
 | 5. | Hacktoberfest | 1st October - 31st October 2022 | [Click Here](https://docs.google.com/document/d/1mv27yGR7-SsIDOinqsYDnFutXHG49awhzvZYaEna3rM) | Contributor | T-Shirt & Stickers | 
 | 6. | HyperEdge WOB'23 | 1st Feb - 1st May | Discord Moderator, Managing Leaderboard | Managing Team | - |
 | 7. | GirlScript Summer Of Code 2023 | 6th May - 03 July | Jarvis - Decentralised Expense Tracker, GameZone | Mentor | - |
-| 8. | GirlScript Summer Of Code 2023 | 29 May  - 03 July | Managing the activity of PA, Mentors & Contributors throughout the program | Discord Mod | - |
+| 8. | GirlScript Summer Of Code 2023 | 29 May  - Present | Managing the activity of PA, Mentors & Contributors throughout the program | Discord Mod | - |
     
 </details>
 

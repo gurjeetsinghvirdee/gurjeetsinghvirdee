@@ -181,14 +181,15 @@ JSON             18 hrs 28 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/12 09:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[07/12 08:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/12 08:53]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#141`](https://github.com//girlscript/gssoc-website-new/pull/141 'socials updated') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/12 08:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[07/12 08:49]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#141`](https://github.com//girlscript/gssoc-website-new/pull/141 'socials updated') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[07/12 08:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[07/12 08:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[07/12 07:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/10 04:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9596` commits in [gurjeetsinghvirdee/layer5](https://github.com/gurjeetsinghvirdee/layer5)  
 `[07/08 19:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
@@ -376,8 +377,6 @@ JSON             18 hrs 28 mins  █▓░░░░░░░░░░░░░�
 `[06/27 19:22]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2108`](https://github.com//kunjgit/GameZone/pull/2108 'added quiz_game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 19:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `416` commits in [Nikita06211/GameZone](https://github.com/Nikita06211/GameZone)  
 `[06/27 19:20]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2110`](https://github.com//kunjgit/GameZone/pull/2110 'raising fighting game made responsive') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[06/27 19:19]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2084`](https://github.com//kunjgit/GameZone/pull/2084 'Completed making Shadow_PokeGuess') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[06/27 19:18]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2084`](https://github.com//kunjgit/GameZone/pull/2084 'Completed making Shadow_PokeGuess') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

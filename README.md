@@ -181,14 +181,16 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/15 13:54]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2442`](https://github.com//kunjgit/GameZone/pull/2442 'Dinoffline') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/15 13:47]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2313`](https://github.com//kunjgit/GameZone/pull/2313 'Completed PiggyGame') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/15 13:35]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2446`](https://github.com//kunjgit/GameZone/pull/2446 'Flashlight Pointer Game Added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/15 13:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2409`](https://github.com//kunjgit/GameZone/issues/2409 '[New_Game] : Haunting_Game Added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/15 13:01]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2279`](https://github.com//kunjgit/GameZone/issues/2279 '[New game]: Connection Defender') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/15 13:01]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2289`](https://github.com//kunjgit/GameZone/pull/2289 'Connection defender') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/15 13:00]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2289`](https://github.com//kunjgit/GameZone/pull/2289 'Connection defender') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[07/15 13:01]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2289`](https://github.com//kunjgit/GameZone/pull/2289 'Connection defender') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/15 13:00]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2289`](https://github.com//kunjgit/GameZone/pull/2289 'Connection defender') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/15 12:24]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2409`](https://github.com//kunjgit/GameZone/pull/2409 '[New_Game] : Haunting_Game Added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/12 16:18]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `imgbot` from [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[07/12 16:18]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1`](https://github.com//gurjeetsinghvirdee/gssoc-website-new/pull/1 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
@@ -375,8 +377,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[06/27 21:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2085`](https://github.com//kunjgit/GameZone/pull/2085 'Update README.md brick breaker') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 21:25]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2085`](https://github.com//kunjgit/GameZone/pull/2085 'Update README.md brick breaker') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[06/27 21:21]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2098`](https://github.com//kunjgit/GameZone/pull/2098 'Improving GUI of Tic Tac Toe game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[06/27 21:17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#529`](https://github.com//agamjotsingh18/codesetgo/issues/529 'Resistration page UI issue were resolved') in [agamjotsingh18/codesetgo](https://github.com/agamjotsingh18/codesetgo)  
-`[06/27 20:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#57`](https://github.com//qascade/dcr/issues/57 'doc: added contributors graph ') in [qascade/dcr](https://github.com/qascade/dcr)  
 
 </details>
 <!--END_SECTION:activity-->

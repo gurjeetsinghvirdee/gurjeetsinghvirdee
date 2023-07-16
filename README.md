@@ -181,14 +181,18 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/16 09:21]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2395`](https://github.com//kunjgit/GameZone/issues/2395 '[New game]: haunting game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/16 09:21]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2450`](https://github.com//kunjgit/GameZone/pull/2450 'Haunting_Game Added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/16 09:20]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2450`](https://github.com//kunjgit/GameZone/pull/2450 'Haunting_Game Added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/16 09:14]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2452`](https://github.com//kunjgit/GameZone/pull/2452 'README.md file Enhanced') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/15 16:43]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2313`](https://github.com//kunjgit/GameZone/pull/2313 'Completed PiggyGame') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[07/15 16:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#531`](https://github.com//OSCode-Community/OSCodeCommunitySite/issues/531 'added slider to accomplishments') in [OSCode-Community/OSCodeCommunitySite](https://github.com/OSCode-Community/OSCodeCommunitySite)  
 `[07/15 16:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#47`](https://github.com//tusharzalte/tusharesume/issues/47 'Create LICENSE') in [tusharzalte/tusharesume](https://github.com/tusharzalte/tusharesume)  
 `[07/15 16:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#203`](https://github.com//codervivek5/VigyBag/issues/203 'Adding favicon for this website') in [codervivek5/VigyBag](https://github.com/codervivek5/VigyBag)  
 `[07/15 16:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#40`](https://github.com//UBA-GCOEN/StichHub/issues/40 'Update README.md') in [UBA-GCOEN/StichHub](https://github.com/UBA-GCOEN/StichHub)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/15 16:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#165`](https://github.com//Clueless-Community/Spectrum-UI/issues/165 'Updated Icon in pricing cards') in [Clueless-Community/Spectrum-UI](https://github.com/Clueless-Community/Spectrum-UI)  
 `[07/15 14:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/15 14:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2445`](https://github.com//kunjgit/GameZone/issues/2445 '[New game]: Flashlight Pointer Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -361,11 +365,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/01 01:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2084`](https://github.com//kunjgit/GameZone/pull/2084 'Completed making Shadow_PokeGuess') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 01:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2073`](https://github.com//kunjgit/GameZone/issues/2073 'Added Chicken cannon game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 01:03]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2181`](https://github.com//kunjgit/GameZone/issues/2181 '[Enhancement]: Rock Paper Scissor') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/01 01:02]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2182`](https://github.com//kunjgit/GameZone/pull/2182 'enhancement of rock-paper-scissor') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/01 01:01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2182`](https://github.com//kunjgit/GameZone/pull/2182 'enhancement of rock-paper-scissor') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/01 00:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2081`](https://github.com//kunjgit/GameZone/issues/2081 '[New game]: Astray') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/01 00:57]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2097`](https://github.com//kunjgit/GameZone/pull/2097 'Added Astray') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/01 00:56]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2097`](https://github.com//kunjgit/GameZone/pull/2097 'Added Astray') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -366,7 +366,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/01 00:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2081`](https://github.com//kunjgit/GameZone/issues/2081 '[New game]: Astray') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 00:57]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2097`](https://github.com//kunjgit/GameZone/pull/2097 'Added Astray') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 00:56]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2097`](https://github.com//kunjgit/GameZone/pull/2097 'Added Astray') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/01 00:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `30` commits in [linga66/GameZone](https://github.com/linga66/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

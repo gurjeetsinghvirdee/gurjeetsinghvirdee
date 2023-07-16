@@ -181,14 +181,20 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/16 16:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2321`](https://github.com//kunjgit/GameZone/issues/2321 '[Enhancement]: Enchance snake game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/16 16:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/16 16:38]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2349`](https://github.com//kunjgit/GameZone/pull/2349 'Enhanced the snake game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/16 16:37]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2349`](https://github.com//kunjgit/GameZone/pull/2349 'Enhanced the snake game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/16 16:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[07/16 16:33]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2335`](https://github.com//kunjgit/GameZone/pull/2335 '\'Whack a Mole\' Game Boxes Design Enhancement') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/16 16:09]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2335`](https://github.com//kunjgit/GameZone/pull/2335 '\'Whack a Mole\' Game Boxes Design Enhancement') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/16 16:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2358`](https://github.com//kunjgit/GameZone/issues/2358 'which_color new game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/16 15:53]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2375`](https://github.com//kunjgit/GameZone/pull/2375 'Road fighter game is added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/16 15:45]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2358`](https://github.com//kunjgit/GameZone/pull/2358 'which_color new game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/16 15:37]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2281`](https://github.com//kunjgit/GameZone/issues/2281 '[New game]: Stickman Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/16 15:36]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2355`](https://github.com//kunjgit/GameZone/pull/2355 'Added Stickman Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/16 15:35]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2355`](https://github.com//kunjgit/GameZone/pull/2355 'Added Stickman Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/16 15:31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2399`](https://github.com//kunjgit/GameZone/issues/2399 'Added the cursor property ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -344,12 +350,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/01 21:17]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2086`](https://github.com//kunjgit/GameZone/pull/2086 'Added Foosball Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 21:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/01 21:15]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2202`](https://github.com//kunjgit/GameZone/issues/2202 '[Enhancement]: Enhance whack a mole game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/01 21:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2204`](https://github.com//kunjgit/GameZone/pull/2204 'enhanced mole game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/01 21:15]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2204`](https://github.com//kunjgit/GameZone/pull/2204 'enhanced mole game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/01 21:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Nikita06211/GameZone](https://github.com/Nikita06211/GameZone)  
-`[07/01 21:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/01 21:13]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2160`](https://github.com//kunjgit/GameZone/pull/2160 'Added Spiderman Go Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/01 21:12]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2160`](https://github.com//kunjgit/GameZone/pull/2160 'Added Spiderman Go Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

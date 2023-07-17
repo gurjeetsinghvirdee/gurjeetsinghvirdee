@@ -181,14 +181,22 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/17 14:49]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#138`](https://github.com//girlscript/gssoc-website-new/issues/138 'Cross button is overlapping') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[07/17 14:47]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2414`](https://github.com//kunjgit/GameZone/pull/2414 'added chess_game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/17 14:46]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2412`](https://github.com//kunjgit/GameZone/issues/2412 '[Enhancement]: Adding Reset Button and Score Feature to 3D Box Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/17 14:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/17 14:46]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2421`](https://github.com//kunjgit/GameZone/pull/2421 'Added Reset Button and Score Feature') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[07/17 14:45]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2421`](https://github.com//kunjgit/GameZone/pull/2421 'Added Reset Button and Score Feature') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/17 14:43]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2389`](https://github.com//kunjgit/GameZone/pull/2389 'Quizz app') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/17 14:41]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2476`](https://github.com//kunjgit/GameZone/pull/2476 'updated color of game names') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/17 14:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2476`](https://github.com//kunjgit/GameZone/issues/2476 'updated color of game names') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/17 11:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2474`](https://github.com//kunjgit/GameZone/issues/2474 '[New game]: Math Sprint Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/17 11:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/17 11:34]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2475`](https://github.com//kunjgit/GameZone/pull/2475 'Math Sprint Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/17 11:33]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2475`](https://github.com//kunjgit/GameZone/pull/2475 'Math Sprint Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/17 11:33]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2308`](https://github.com//kunjgit/GameZone/pull/2308 'ADDED CLASSIC GAME SNAKE') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/17 11:31]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2475`](https://github.com//kunjgit/GameZone/pull/2475 'Math Sprint Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/17 11:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2415`](https://github.com//kunjgit/GameZone/issues/2415 '[New game]: Etch-a-Sketch Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -338,10 +346,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/03 10:42]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2157`](https://github.com//kunjgit/GameZone/pull/2157 'Color_Crush_Game Added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/03 10:42]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2157`](https://github.com//kunjgit/GameZone/pull/2157 'Color_Crush_Game Added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/03 10:09]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2242`](https://github.com//kunjgit/GameZone/pull/2242 'Addition of home icon to games') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/03 07:18]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2242`](https://github.com//kunjgit/GameZone/issues/2242 'Addition of home icon to games') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/03 07:16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2042`](https://github.com//kunjgit/GameZone/issues/2042 '[ADDED]: Space Drifter') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/03 07:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2042`](https://github.com//kunjgit/GameZone/issues/2042 '[ADDED]: Space Drifter') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/03 07:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2042`](https://github.com//kunjgit/GameZone/issues/2042 '[ADDED]: Space Drifter') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

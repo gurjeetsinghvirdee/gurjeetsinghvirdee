@@ -181,14 +181,22 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/17 15:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/17 15:16]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2462`](https://github.com//kunjgit/GameZone/issues/2462 '[New game]: Which color') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/17 15:16]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2463`](https://github.com//kunjgit/GameZone/pull/2463 'Which Color') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/17 15:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `22` commits in [whiteknight16/GameZone](https://github.com/whiteknight16/GameZone)  
+`[07/17 15:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[07/17 15:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2345`](https://github.com//kunjgit/GameZone/issues/2345 '[New game]: QuizzApp') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/17 15:11]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2389`](https://github.com//kunjgit/GameZone/pull/2389 'Quizz app') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/17 15:10]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2463`](https://github.com//kunjgit/GameZone/pull/2463 'Which Color') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/17 15:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Sehaj-kahlon/GameZone-1](https://github.com/Sehaj-kahlon/GameZone-1)  
 `[07/17 15:04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2389`](https://github.com//kunjgit/GameZone/issues/2389 'Quizz app') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/17 15:01]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2414`](https://github.com//kunjgit/GameZone/pull/2414 'added chess_game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/17 15:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/17 15:01]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2379`](https://github.com//kunjgit/GameZone/issues/2379 '[New game]: Chess Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/17 14:55]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2389`](https://github.com//kunjgit/GameZone/pull/2389 'Quizz app') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/17 14:54]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2447`](https://github.com//kunjgit/GameZone/issues/2447 '[Bug]: Game name and play and have fun is not visible') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/17 14:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -339,13 +347,7 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/12 08:49]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#141`](https://github.com//girlscript/gssoc-website-new/pull/141 'socials updated') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/12 08:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[07/12 07:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[07/10 04:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9596` commits in [gurjeetsinghvirdee/layer5](https://github.com/gurjeetsinghvirdee/layer5)  
-`[07/08 19:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[07/05 21:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
-`[07/05 18:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[07/05 08:15]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2091`](https://github.com//kunjgit/GameZone/issues/2091 'Add Triangle Back to Home Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/04 17:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
-`[07/04 17:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
+`[07/10 04:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4798` commits in [gurjeetsinghvirdee/layer5](https://github.com/gurjeetsinghvirdee/layer5)  
 
 </details>
 <!--END_SECTION:activity-->

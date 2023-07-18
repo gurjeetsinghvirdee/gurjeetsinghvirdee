@@ -342,7 +342,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/15 14:47]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2407`](https://github.com//kunjgit/GameZone/issues/2407 '[Enhancement]: Adding scoring system to bullseye game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/15 14:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/15 14:47]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2411`](https://github.com//kunjgit/GameZone/pull/2411 'Added score in bullseye game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/15 14:46]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2411`](https://github.com//kunjgit/GameZone/pull/2411 'Added score in bullseye game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

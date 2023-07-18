@@ -181,14 +181,19 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/18 14:51]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2410`](https://github.com//kunjgit/GameZone/pull/2410 'Game Added : Advanced Stone Paper Scissor') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/18 14:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2486`](https://github.com//kunjgit/GameZone/issues/2486 '[Enhancement]: Games Title and Description Styling Enhancement') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/18 14:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/18 14:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2487`](https://github.com//kunjgit/GameZone/pull/2487 '[Enhancement]: Games Title and Description Styling Enhancement') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/18 14:48]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2487`](https://github.com//kunjgit/GameZone/pull/2487 '[Enhancement]: Games Title and Description Styling Enhancement') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[07/18 10:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#138`](https://github.com//girlscript/gssoc-website-new/issues/138 'Cross button is overlapping') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/18 10:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/18 10:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#142`](https://github.com//girlscript/gssoc-website-new/pull/142 'overlapping fixed') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/18 10:25]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2410`](https://github.com//kunjgit/GameZone/pull/2410 'Game Added : Advanced Stone Paper Scissor') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/18 10:20]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#142`](https://github.com//girlscript/gssoc-website-new/pull/142 'overlapping fixed') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/18 07:28]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2391`](https://github.com//kunjgit/GameZone/issues/2391 '[Bug]: Scrolling Behavior is Not Smooth and Up to The Mark in Main Page') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/18 07:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/18 07:28]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2397`](https://github.com//kunjgit/GameZone/pull/2397 'fix: Changes added in Scrolling Behavior with Respective Different Browsers') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -338,11 +343,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/15 14:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/15 14:47]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2411`](https://github.com//kunjgit/GameZone/pull/2411 'Added score in bullseye game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/15 14:46]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2411`](https://github.com//kunjgit/GameZone/pull/2411 'Added score in bullseye game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/15 14:36]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2403`](https://github.com//kunjgit/GameZone/pull/2403 'Added a licenses section and a MIT licenses badge ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/15 14:33]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2315`](https://github.com//kunjgit/GameZone/issues/2315 '[Enhancement]: Make play & have fun text clearly visible ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/15 14:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/15 14:33]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2316`](https://github.com//kunjgit/GameZone/pull/2316 'Add background to paragraph') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/15 14:32]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2316`](https://github.com//kunjgit/GameZone/pull/2316 'Add background to paragraph') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

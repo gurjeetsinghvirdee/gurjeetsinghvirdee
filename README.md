@@ -181,14 +181,19 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/18 16:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
+`[07/18 16:07]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2481`](https://github.com//kunjgit/GameZone/issues/2481 '[Enhancement]: Improve the country guesser game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/18 16:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/18 16:07]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2488`](https://github.com//kunjgit/GameZone/pull/2488 'Enhancement of Country Guesser Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/18 16:06]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2488`](https://github.com//kunjgit/GameZone/pull/2488 'Enhancement of Country Guesser Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[07/18 16:03]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2467`](https://github.com//kunjgit/GameZone/pull/2467 'Added Tennis Showdown') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/18 16:01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2483`](https://github.com//kunjgit/GameZone/pull/2483 'Added Star Trek Trivia Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/18 15:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `23` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/18 15:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2386`](https://github.com//kunjgit/GameZone/issues/2386 '[New game]:  Advanced Stone Paper Scissor') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/18 15:51]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2410`](https://github.com//kunjgit/GameZone/pull/2410 'Game Added : Advanced Stone Paper Scissor') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/18 15:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/18 15:50]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2490`](https://github.com//kunjgit/GameZone/issues/2490 '[Enhancement]: \'Chrome Dinosaur Game\' Styling') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/18 15:50]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2491`](https://github.com//kunjgit/GameZone/pull/2491 'Chrome Dinosaur Game Updated Styling') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -337,8 +342,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/16 09:21]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2395`](https://github.com//kunjgit/GameZone/issues/2395 '[New game]: haunting game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/16 09:21]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2450`](https://github.com//kunjgit/GameZone/pull/2450 'Haunting_Game Added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/16 09:20]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2450`](https://github.com//kunjgit/GameZone/pull/2450 'Haunting_Game Added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/16 09:14]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2452`](https://github.com//kunjgit/GameZone/pull/2452 'README.md file Enhanced') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/15 16:43]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2313`](https://github.com//kunjgit/GameZone/pull/2313 'Completed PiggyGame') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -181,14 +181,18 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/19 18:45]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2510`](https://github.com//kunjgit/GameZone/pull/2510 'Slime Attack[GSSOC\'23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/19 18:45]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2509`](https://github.com//kunjgit/GameZone/issues/2509 '[New game]: Slime attack [GSSOC\'23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/19 18:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/19 18:44]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2510`](https://github.com//kunjgit/GameZone/pull/2510 'Slime Attack[GSSOC\'23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/19 17:54]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1958`](https://github.com//kunjgit/GameZone/issues/1958 'Adventure Game added 👍') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[07/19 17:51]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1844`](https://github.com//kunjgit/GameZone/pull/1844 'Riddle Room game added 👍') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/19 17:50]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1863`](https://github.com//kunjgit/GameZone/pull/1863 'Arcade Game added 👍') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/19 17:46]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1928`](https://github.com//kunjgit/GameZone/pull/1928 'CareTaker Game added 👍') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/19 17:34]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1958`](https://github.com//kunjgit/GameZone/pull/1958 'Adventure Game added 👍') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/19 17:29]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2037`](https://github.com//kunjgit/GameZone/pull/2037 'Bit Maze - Platformer Maze game added 👍') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/19 17:22]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2401`](https://github.com//kunjgit/GameZone/pull/2401 'added Asteroids 3D Game 🌠') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/19 17:19]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2342`](https://github.com//kunjgit/GameZone/pull/2342 'added Save Princess game 👍') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -344,9 +348,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/16 15:28]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2343`](https://github.com//kunjgit/GameZone/pull/2343 'Completed Lamb Lane game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/16 15:21]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2335`](https://github.com//kunjgit/GameZone/issues/2335 '\'Whack a Mole\' Game Boxes Design Enhancement') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/16 15:21]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2335`](https://github.com//kunjgit/GameZone/issues/2335 '\'Whack a Mole\' Game Boxes Design Enhancement') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/16 15:19]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2335`](https://github.com//kunjgit/GameZone/pull/2335 '\'Whack a Mole\' Game Boxes Design Enhancement') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/16 15:18]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2331`](https://github.com//kunjgit/GameZone/pull/2331 'added off the line game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/16 15:18]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2282`](https://github.com//kunjgit/GameZone/issues/2282 '[New game]: Adding a OFF THE LINE game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

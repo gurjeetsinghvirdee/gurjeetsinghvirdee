@@ -181,14 +181,21 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/19 16:59]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2502`](https://github.com//kunjgit/GameZone/issues/2502 '[Bug]: Images not loading and some missing games not visible on website') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/19 16:58]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2508`](https://github.com//kunjgit/GameZone/pull/2508 'added Planet Savior game 👍') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/19 16:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2387`](https://github.com//kunjgit/GameZone/issues/2387 '[New game]:  Pokemon card Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/19 16:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/19 16:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2503`](https://github.com//kunjgit/GameZone/pull/2503 '[New Game] Pokemon Card Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[07/19 16:49]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2503`](https://github.com//kunjgit/GameZone/pull/2503 '[New Game] Pokemon Card Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/19 16:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2503`](https://github.com//kunjgit/GameZone/issues/2503 '[New Game] Pokemon Card Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/19 16:06]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2503`](https://github.com//kunjgit/GameZone/pull/2503 '[New Game] Pokemon Card Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/19 16:05]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2503`](https://github.com//kunjgit/GameZone/pull/2503 '[New Game] Pokemon Card Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/19 16:01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2501`](https://github.com//kunjgit/GameZone/pull/2501 '[GSSoC\'23] Cat Trap Game Completed') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/19 16:01]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2479`](https://github.com//kunjgit/GameZone/issues/2479 '[Enhancement]: Games are not updates in JSON file') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/19 16:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/19 16:01]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2507`](https://github.com//kunjgit/GameZone/pull/2507 'Json file updated') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/19 16:00]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2507`](https://github.com//kunjgit/GameZone/pull/2507 'Json file updated') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/19 15:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -346,7 +353,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/16 12:19]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2402`](https://github.com//kunjgit/GameZone/issues/2402 '[Documentation Bug]: Adding a small Licenses section to the readme and a MIT Licenses badge ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/16 12:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/16 12:19]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2403`](https://github.com//kunjgit/GameZone/pull/2403 'Added a licenses section and a MIT licenses badge ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/16 10:01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2399`](https://github.com//kunjgit/GameZone/pull/2399 'Added the cursor property ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

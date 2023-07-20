@@ -181,14 +181,16 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/20 15:41]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2516`](https://github.com//kunjgit/GameZone/pull/2516 'addedcountrygussergameimage') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/20 15:28]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Reopened issue [`#2539`](https://github.com//kunjgit/GameZone/issues/2539 'Attention Here') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 15:05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2539`](https://github.com//kunjgit/GameZone/issues/2539 'Attention Here') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 14:54]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2533`](https://github.com//kunjgit/GameZone/pull/2533 'Racing') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 14:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/20 14:50]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2500`](https://github.com//kunjgit/GameZone/issues/2500 '[Enhancement]: tower of hanoi') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/20 14:50]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2517`](https://github.com//kunjgit/GameZone/pull/2517 'tower_of_hanoi improved') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[07/20 14:50]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2500`](https://github.com//kunjgit/GameZone/issues/2500 '[Enhancement]: tower of hanoi') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/20 14:50]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2517`](https://github.com//kunjgit/GameZone/pull/2517 'tower_of_hanoi improved') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 14:50]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2517`](https://github.com//kunjgit/GameZone/pull/2517 'tower_of_hanoi improved') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 14:48]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2489`](https://github.com//kunjgit/GameZone/pull/2489 'Floor Thirteen ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 14:41]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2531`](https://github.com//kunjgit/GameZone/pull/2531 'Tower of blocks Game added #2521') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -341,8 +343,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/17 05:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/17 05:53]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2442`](https://github.com//kunjgit/GameZone/pull/2442 'Dinoffline') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/17 05:52]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2442`](https://github.com//kunjgit/GameZone/pull/2442 'Dinoffline') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/17 05:52]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2470`](https://github.com//kunjgit/GameZone/issues/2470 '[Enhancement]: Fix The Website') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/17 05:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

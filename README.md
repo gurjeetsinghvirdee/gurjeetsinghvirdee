@@ -181,14 +181,18 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/20 14:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2524`](https://github.com//kunjgit/GameZone/issues/2524 '[Bug]: Snake and ladder is added two times [gssoc23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/20 14:09]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2537`](https://github.com//kunjgit/GameZone/pull/2537 '[Bug]: Snake and ladder is added two times [gssoc23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/20 14:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/20 14:09]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2537`](https://github.com//kunjgit/GameZone/pull/2537 '[Bug]: Snake and ladder is added two times [gssoc23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 11:59]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2449`](https://github.com//kunjgit/GameZone/issues/2449 '[New game]: Tennis Showdown') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[07/20 11:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 11:59]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2467`](https://github.com//kunjgit/GameZone/pull/2467 'Added Tennis Showdown') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 11:59]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2467`](https://github.com//kunjgit/GameZone/pull/2467 'Added Tennis Showdown') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 11:56]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2361`](https://github.com//kunjgit/GameZone/issues/2361 'Added Progress Bar to Scroll To Top & Minor Changes') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/20 11:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/20 11:47]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#144`](https://github.com//girlscript/gssoc-website-new/pull/144 'More sponsors listed') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/20 11:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
@@ -341,10 +345,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/16 19:37]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2466`](https://github.com//kunjgit/GameZone/pull/2466 '\'Snake Game\' Design Enhancement') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/16 18:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/16 18:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [KanchanBora/GameZone](https://github.com/KanchanBora/GameZone)  
-`[07/16 18:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2400`](https://github.com//kunjgit/GameZone/issues/2400 '[New game]:  Asteroids 3D') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/16 18:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/16 18:48]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2401`](https://github.com//kunjgit/GameZone/pull/2401 'added Asteroids 3D Game 🌠') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/16 18:41]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2401`](https://github.com//kunjgit/GameZone/pull/2401 'added Asteroids 3D Game 🌠') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

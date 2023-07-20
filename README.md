@@ -181,14 +181,15 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/20 11:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[07/20 09:03]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2518`](https://github.com//kunjgit/GameZone/issues/2518 '[Documentation Bug]: Duplicate Entries in README.md') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 09:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 09:03]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2519`](https://github.com//kunjgit/GameZone/pull/2519 '[Documentation Bug]: Duplicate Entries in README.md') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 09:03]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2519`](https://github.com//kunjgit/GameZone/pull/2519 '[Documentation Bug]: Duplicate Entries in README.md') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/20 07:03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1958`](https://github.com//kunjgit/GameZone/issues/1958 'Adventure Game added 👍') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[07/20 07:03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1958`](https://github.com//kunjgit/GameZone/issues/1958 'Adventure Game added 👍') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 05:32]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2483`](https://github.com//kunjgit/GameZone/issues/2483 'Added Star Trek Trivia Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/19 18:45]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2510`](https://github.com//kunjgit/GameZone/pull/2510 'Slime Attack[GSSOC\'23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/19 18:45]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2509`](https://github.com//kunjgit/GameZone/issues/2509 '[New game]: Slime attack [GSSOC\'23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  

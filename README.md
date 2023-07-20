@@ -345,7 +345,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/16 18:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/16 18:48]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2401`](https://github.com//kunjgit/GameZone/pull/2401 'added Asteroids 3D Game 🌠') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/16 18:41]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2401`](https://github.com//kunjgit/GameZone/pull/2401 'added Asteroids 3D Game 🌠') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/16 18:40]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2313`](https://github.com//kunjgit/GameZone/pull/2313 'Completed PiggyGame') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

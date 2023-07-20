@@ -181,14 +181,18 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/20 09:03]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2518`](https://github.com//kunjgit/GameZone/issues/2518 '[Documentation Bug]: Duplicate Entries in README.md') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/20 09:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/20 09:03]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2519`](https://github.com//kunjgit/GameZone/pull/2519 '[Documentation Bug]: Duplicate Entries in README.md') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/20 09:03]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2519`](https://github.com//kunjgit/GameZone/pull/2519 '[Documentation Bug]: Duplicate Entries in README.md') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 07:03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1958`](https://github.com//kunjgit/GameZone/issues/1958 'Adventure Game added 👍') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[07/20 05:32]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2483`](https://github.com//kunjgit/GameZone/issues/2483 'Added Star Trek Trivia Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/19 18:45]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2510`](https://github.com//kunjgit/GameZone/pull/2510 'Slime Attack[GSSOC\'23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/19 18:45]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2509`](https://github.com//kunjgit/GameZone/issues/2509 '[New game]: Slime attack [GSSOC\'23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/19 18:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/19 18:44]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2510`](https://github.com//kunjgit/GameZone/pull/2510 'Slime Attack[GSSOC\'23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/19 17:54]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1958`](https://github.com//kunjgit/GameZone/issues/1958 'Adventure Game added 👍') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/19 17:51]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1844`](https://github.com//kunjgit/GameZone/pull/1844 'Riddle Room game added 👍') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -342,11 +346,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/16 15:36]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2355`](https://github.com//kunjgit/GameZone/pull/2355 'Added Stickman Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/16 15:35]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2355`](https://github.com//kunjgit/GameZone/pull/2355 'Added Stickman Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/16 15:31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2399`](https://github.com//kunjgit/GameZone/issues/2399 'Added the cursor property ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/16 15:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/16 15:30]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2399`](https://github.com//kunjgit/GameZone/pull/2399 'Added the cursor property ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/16 15:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2341`](https://github.com//kunjgit/GameZone/issues/2341 '[New game]: Lamb_Lane') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/16 15:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/16 15:29]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2343`](https://github.com//kunjgit/GameZone/pull/2343 'Completed Lamb Lane game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

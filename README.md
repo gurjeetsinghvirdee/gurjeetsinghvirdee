@@ -181,14 +181,22 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/21 15:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2539`](https://github.com//kunjgit/GameZone/issues/2539 'Attention Here') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/21 15:05]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2511`](https://github.com//kunjgit/GameZone/pull/2511 'fixed game data and image links') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/21 14:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2427`](https://github.com//kunjgit/GameZone/issues/2427 '[New game]: Match the color game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/21 14:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/21 14:48]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2540`](https://github.com//kunjgit/GameZone/pull/2540 '[Fixes: #2427] Added Match color game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[07/21 14:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2439`](https://github.com//kunjgit/GameZone/issues/2439 '[New game]: Quiz game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/21 14:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/21 14:48]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2530`](https://github.com//kunjgit/GameZone/pull/2530 'Quiz game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/21 14:23]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2530`](https://github.com//kunjgit/GameZone/pull/2530 'Quiz game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/21 14:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `343` commits in [ritik48/GameZone](https://github.com/ritik48/GameZone)  
 `[07/21 14:16]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2540`](https://github.com//kunjgit/GameZone/pull/2540 '[Fixes: #2427] Added Match color game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/21 14:10]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2530`](https://github.com//kunjgit/GameZone/pull/2530 'Quiz game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/21 14:02]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2513`](https://github.com//kunjgit/GameZone/pull/2513 '[GSSoC\'23] Illusion Game Completed') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/21 14:01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2511`](https://github.com//kunjgit/GameZone/pull/2511 'fixed game data and image links') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/21 13:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/21 13:59]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2494`](https://github.com//kunjgit/GameZone/issues/2494 '[New game]: Digit Dilemma ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -331,12 +339,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/17 14:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/17 14:49]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#138`](https://github.com//girlscript/gssoc-website-new/issues/138 'Cross button is overlapping') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[07/17 14:47]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2414`](https://github.com//kunjgit/GameZone/pull/2414 'added chess_game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/17 14:46]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2412`](https://github.com//kunjgit/GameZone/issues/2412 '[Enhancement]: Adding Reset Button and Score Feature to 3D Box Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/17 14:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/17 14:46]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2421`](https://github.com//kunjgit/GameZone/pull/2421 'Added Reset Button and Score Feature') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/17 14:45]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2421`](https://github.com//kunjgit/GameZone/pull/2421 'Added Reset Button and Score Feature') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/17 14:43]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2389`](https://github.com//kunjgit/GameZone/pull/2389 'Quizz app') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/17 14:41]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2476`](https://github.com//kunjgit/GameZone/pull/2476 'updated color of game names') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

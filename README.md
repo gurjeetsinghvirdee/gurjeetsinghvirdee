@@ -181,14 +181,17 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/22 18:07]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [PiyushKalyanpy/GyanaGuru](https://github.com/PiyushKalyanpy/GyanaGuru) to [gurjeetsinghvirdee/GyanaGuru](https://github.com/gurjeetsinghvirdee/GyanaGuru)  
+`[07/22 17:57]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2515`](https://github.com//kunjgit/GameZone/issues/2515 '[Bug]: no image for country_Guesser_Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/22 17:53]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [khugitshii/khugitshii](https://github.com/khugitshii/khugitshii) to [gurjeetsinghvirdee/khugitshii](https://github.com/gurjeetsinghvirdee/khugitshii)  
 `[07/22 08:44]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2520`](https://github.com//kunjgit/GameZone/issues/2520 '[Documentation Bug]: Readme update for Pokedex game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/22 08:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/22 08:44]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2560`](https://github.com//kunjgit/GameZone/pull/2560 'Update README.md file for Pokedex Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/22 08:44]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2555`](https://github.com//kunjgit/GameZone/pull/2555 'Added doremon puzzle Issue: #2554') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/22 08:44]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2554`](https://github.com//kunjgit/GameZone/issues/2554 '[New game]: Doremon Puzzle') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[07/22 08:44]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2560`](https://github.com//kunjgit/GameZone/pull/2560 'Update README.md file for Pokedex Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/22 08:44]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2555`](https://github.com//kunjgit/GameZone/pull/2555 'Added doremon puzzle Issue: #2554') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/22 08:44]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2554`](https://github.com//kunjgit/GameZone/issues/2554 '[New game]: Doremon Puzzle') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/22 08:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/22 08:44]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2544`](https://github.com//kunjgit/GameZone/issues/2544 '[Enhancement]: \'Catch me game\' Design Enhancement') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/22 08:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -340,7 +343,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/18 14:51]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2410`](https://github.com//kunjgit/GameZone/pull/2410 'Game Added : Advanced Stone Paper Scissor') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/18 14:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2486`](https://github.com//kunjgit/GameZone/issues/2486 '[Enhancement]: Games Title and Description Styling Enhancement') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/18 14:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/18 14:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2487`](https://github.com//kunjgit/GameZone/pull/2487 '[Enhancement]: Games Title and Description Styling Enhancement') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

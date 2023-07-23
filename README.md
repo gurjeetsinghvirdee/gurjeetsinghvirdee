@@ -342,7 +342,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/18 15:47]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2491`](https://github.com//kunjgit/GameZone/pull/2491 'Chrome Dinosaur Game Updated Styling') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/18 14:51]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2410`](https://github.com//kunjgit/GameZone/pull/2410 'Game Added : Advanced Stone Paper Scissor') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/18 14:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2486`](https://github.com//kunjgit/GameZone/issues/2486 '[Enhancement]: Games Title and Description Styling Enhancement') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/18 14:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

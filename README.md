@@ -181,14 +181,16 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/25 16:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2572`](https://github.com//kunjgit/GameZone/issues/2572 'Added Keyboard Hero') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/25 16:04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2565`](https://github.com//kunjgit/GameZone/issues/2565 'Elemental riddles') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/25 15:20]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2565`](https://github.com//kunjgit/GameZone/pull/2565 'Elemental riddles') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/25 15:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Nikita06211/GameZone](https://github.com/Nikita06211/GameZone)  
 `[07/25 15:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/25 15:19]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2569`](https://github.com//kunjgit/GameZone/issues/2569 '[New game]: Keyboard Hero') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/25 15:19]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2572`](https://github.com//kunjgit/GameZone/pull/2572 'Added Keyboard Hero') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[07/25 15:19]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2569`](https://github.com//kunjgit/GameZone/issues/2569 '[New game]: Keyboard Hero') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/25 15:19]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2572`](https://github.com//kunjgit/GameZone/pull/2572 'Added Keyboard Hero') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/25 15:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [Deepanshu0703/GameZone](https://github.com/Deepanshu0703/GameZone)  
 `[07/25 15:17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2571`](https://github.com//kunjgit/GameZone/issues/2571 'Guess the celebrity using two pictures') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/25 15:16]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2571`](https://github.com//kunjgit/GameZone/pull/2571 'Guess the celebrity using two pictures') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -337,7 +339,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/19 17:10]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2426`](https://github.com//kunjgit/GameZone/pull/2426 'Bejeweled') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/19 17:09]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2426`](https://github.com//kunjgit/GameZone/pull/2426 'Bejeweled') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/19 16:59]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2502`](https://github.com//kunjgit/GameZone/issues/2502 '[Bug]: Images not loading and some missing games not visible on website') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/19 16:58]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2508`](https://github.com//kunjgit/GameZone/pull/2508 'added Planet Savior game 👍') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

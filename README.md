@@ -181,14 +181,23 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/25 18:54]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2574`](https://github.com//kunjgit/GameZone/issues/2574 '[New game]: Falling Ball Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/25 18:54]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2574`](https://github.com//kunjgit/GameZone/issues/2574 '[New game]: Falling Ball Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/25 18:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/25 18:53]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2577`](https://github.com//kunjgit/GameZone/pull/2577 'Falling Ball') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/25 18:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/GameZone](https://github.com/gurjeetsinghvirdee/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[07/25 18:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2577`](https://github.com//kunjgit/GameZone/issues/2577 'Falling Ball') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/25 18:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/25 18:49]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2577`](https://github.com//kunjgit/GameZone/pull/2577 'Falling Ball') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/25 18:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [gurjeetsinghvirdee/GameZone](https://github.com/gurjeetsinghvirdee/GameZone)  
 `[07/25 18:40]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [kunjgit/GameZone](https://github.com/kunjgit/GameZone) to [gurjeetsinghvirdee/GameZone](https://github.com/gurjeetsinghvirdee/GameZone)  
 `[07/25 18:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `42` commits in [khushimarothi/GameZone](https://github.com/khushimarothi/GameZone)  
 `[07/25 18:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/25 18:38]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2591`](https://github.com//kunjgit/GameZone/pull/2591 'Opensource') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/25 18:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/25 18:37]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2559`](https://github.com//kunjgit/GameZone/issues/2559 '[Enhancement]: Adding Home Icons to More Games And Fixing the link to Home') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/25 18:37]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2588`](https://github.com//kunjgit/GameZone/pull/2588 'Fixed Link To Home & Added Home to More Games') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/25 18:37]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2585`](https://github.com//kunjgit/GameZone/pull/2585 '[GSSoC\'23] Enlisting all the contributors') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -328,9 +337,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/20 14:09]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2537`](https://github.com//kunjgit/GameZone/pull/2537 '[Bug]: Snake and ladder is added two times [gssoc23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 14:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 14:09]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2537`](https://github.com//kunjgit/GameZone/pull/2537 '[Bug]: Snake and ladder is added two times [gssoc23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/20 11:59]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2449`](https://github.com//kunjgit/GameZone/issues/2449 '[New game]: Tennis Showdown') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/20 11:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/20 11:59]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2467`](https://github.com//kunjgit/GameZone/pull/2467 'Added Tennis Showdown') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

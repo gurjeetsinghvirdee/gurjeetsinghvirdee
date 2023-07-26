@@ -181,14 +181,22 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/26 09:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2579`](https://github.com//kunjgit/GameZone/pull/2579 'Archery game added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/26 09:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/26 09:00]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2535`](https://github.com//kunjgit/GameZone/issues/2535 '[New game]: Archery Challenge') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/26 08:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [abhinav-m22/GameZone](https://github.com/abhinav-m22/GameZone)  
+`[07/26 08:58]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2601`](https://github.com//kunjgit/GameZone/issues/2601 '[New game]: Click the Circle') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[07/26 08:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/26 08:58]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2602`](https://github.com//kunjgit/GameZone/pull/2602 'added Click the circle') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/26 08:57]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2602`](https://github.com//kunjgit/GameZone/pull/2602 'added Click the circle') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/26 05:38]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2602`](https://github.com//kunjgit/GameZone/pull/2602 'added Click the circle') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/26 05:36]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2579`](https://github.com//kunjgit/GameZone/issues/2579 'Archery game added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/26 05:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/26 05:36]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2484`](https://github.com//kunjgit/GameZone/issues/2484 '[New game]: Target Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/26 05:36]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2578`](https://github.com//kunjgit/GameZone/pull/2578 'hit the target game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/26 05:35]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2578`](https://github.com//kunjgit/GameZone/pull/2578 'hit the target game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/25 18:54]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2574`](https://github.com//kunjgit/GameZone/issues/2574 '[New game]: Falling Ball Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/25 18:54]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2574`](https://github.com//kunjgit/GameZone/issues/2574 '[New game]: Falling Ball Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -334,11 +342,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/20 14:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 14:50]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2500`](https://github.com//kunjgit/GameZone/issues/2500 '[Enhancement]: tower of hanoi') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 14:50]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2517`](https://github.com//kunjgit/GameZone/pull/2517 'tower_of_hanoi improved') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/20 14:50]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2517`](https://github.com//kunjgit/GameZone/pull/2517 'tower_of_hanoi improved') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/20 14:48]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2489`](https://github.com//kunjgit/GameZone/pull/2489 'Floor Thirteen ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/20 14:41]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2531`](https://github.com//kunjgit/GameZone/pull/2531 'Tower of blocks Game added #2521') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/20 14:41]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2531`](https://github.com//kunjgit/GameZone/pull/2531 'Tower of blocks Game added #2521') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/20 14:30]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2531`](https://github.com//kunjgit/GameZone/pull/2531 'Tower of blocks Game added #2521') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

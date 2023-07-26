@@ -181,14 +181,16 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/26 10:21]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//khugitshii/khugitshii/pull/3 'Update README.md') in [khugitshii/khugitshii](https://github.com/khugitshii/khugitshii)  
+`[07/26 10:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/khugitshii](https://github.com/gurjeetsinghvirdee/khugitshii)  
 `[07/26 09:59]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#95`](https://github.com//m0hit-kumar/Bring-The-Menu/issues/95 'Update README.md') in [m0hit-kumar/Bring-The-Menu](https://github.com/m0hit-kumar/Bring-The-Menu)  
 `[07/26 09:56]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tapaswenipathak/Open-Source-Programs](https://github.com/tapaswenipathak/Open-Source-Programs) to [gurjeetsinghvirdee/Open-Source-Programs](https://github.com/gurjeetsinghvirdee/Open-Source-Programs)  
 `[07/26 09:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2579`](https://github.com//kunjgit/GameZone/pull/2579 'Archery game added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/26 09:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/26 09:00]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2535`](https://github.com//kunjgit/GameZone/issues/2535 '[New game]: Archery Challenge') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[07/26 09:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/26 09:00]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2535`](https://github.com//kunjgit/GameZone/issues/2535 '[New game]: Archery Challenge') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/26 08:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [abhinav-m22/GameZone](https://github.com/abhinav-m22/GameZone)  
 `[07/26 08:58]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2601`](https://github.com//kunjgit/GameZone/issues/2601 '[New game]: Click the Circle') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/26 08:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -341,7 +343,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/20 15:28]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Reopened issue [`#2539`](https://github.com//kunjgit/GameZone/issues/2539 'Attention Here') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 15:05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2539`](https://github.com//kunjgit/GameZone/issues/2539 'Attention Here') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 14:54]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2533`](https://github.com//kunjgit/GameZone/pull/2533 'Racing') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/20 14:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

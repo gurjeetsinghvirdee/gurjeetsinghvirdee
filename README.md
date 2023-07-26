@@ -181,14 +181,18 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/26 05:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/26 05:36]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2484`](https://github.com//kunjgit/GameZone/issues/2484 '[New game]: Target Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/26 05:36]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2578`](https://github.com//kunjgit/GameZone/pull/2578 'hit the target game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/26 05:35]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2578`](https://github.com//kunjgit/GameZone/pull/2578 'hit the target game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/25 18:54]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2574`](https://github.com//kunjgit/GameZone/issues/2574 '[New game]: Falling Ball Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[07/25 18:54]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2574`](https://github.com//kunjgit/GameZone/issues/2574 '[New game]: Falling Ball Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/25 18:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/25 18:53]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2577`](https://github.com//kunjgit/GameZone/pull/2577 'Falling Ball') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/25 18:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/GameZone](https://github.com/gurjeetsinghvirdee/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/25 18:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2577`](https://github.com//kunjgit/GameZone/issues/2577 'Falling Ball') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/25 18:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/25 18:49]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2577`](https://github.com//kunjgit/GameZone/pull/2577 'Falling Ball') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -336,7 +340,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/20 14:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2524`](https://github.com//kunjgit/GameZone/issues/2524 '[Bug]: Snake and ladder is added two times [gssoc23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 14:09]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2537`](https://github.com//kunjgit/GameZone/pull/2537 '[Bug]: Snake and ladder is added two times [gssoc23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/20 14:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/20 14:09]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2537`](https://github.com//kunjgit/GameZone/pull/2537 '[Bug]: Snake and ladder is added two times [gssoc23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

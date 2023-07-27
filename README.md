@@ -181,14 +181,18 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/27 17:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/27 17:43]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2612`](https://github.com//kunjgit/GameZone/issues/2612 '[Enhancement]: Animal Match Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/27 17:43]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2627`](https://github.com//kunjgit/GameZone/pull/2627 '[GSSoC\'23] Animal Match Game Enhacement completed') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[07/27 17:43]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2627`](https://github.com//kunjgit/GameZone/pull/2627 '[GSSoC\'23] Animal Match Game Enhacement completed') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/26 16:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[07/26 16:29]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#685`](https://github.com//kunjgit/GameZone/pull/685 'Added a new game Red Light Green Light') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/26 16:17]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#680`](https://github.com//kunjgit/GameZone/pull/680 '[New Game]: Tower blocks') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/26 16:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/26 16:13]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2605`](https://github.com//kunjgit/GameZone/issues/2605 '[Enhancement]: Fixing The Scroll To Top Button not being displayed & Fixing Overlapping Contributor Cards') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[07/26 16:13]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2611`](https://github.com//kunjgit/GameZone/pull/2611 'Fixed Scroll To Top Button & Reduced Overlap between Contributor Cards/Pictures') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/26 16:12]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2611`](https://github.com//kunjgit/GameZone/pull/2611 'Fixed Scroll To Top Button & Reduced Overlap between Contributor Cards/Pictures') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/26 10:21]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//khugitshii/khugitshii/pull/3 'Update README.md') in [khugitshii/khugitshii](https://github.com/khugitshii/khugitshii)  
@@ -336,11 +340,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/21 14:10]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2530`](https://github.com//kunjgit/GameZone/pull/2530 'Quiz game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/21 14:02]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2513`](https://github.com//kunjgit/GameZone/pull/2513 '[GSSoC\'23] Illusion Game Completed') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/21 14:01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2511`](https://github.com//kunjgit/GameZone/pull/2511 'fixed game data and image links') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/21 13:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/21 13:59]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2494`](https://github.com//kunjgit/GameZone/issues/2494 '[New game]: Digit Dilemma ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/21 13:59]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2495`](https://github.com//kunjgit/GameZone/pull/2495 'Digit Dilemma game added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/21 13:59]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2495`](https://github.com//kunjgit/GameZone/pull/2495 'Digit Dilemma game added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/21 13:59]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2501`](https://github.com//kunjgit/GameZone/pull/2501 '[GSSoC\'23] Cat Trap Game Completed') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

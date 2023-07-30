@@ -181,14 +181,15 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[07/30 18:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[07/29 17:12]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2603`](https://github.com//kunjgit/GameZone/issues/2603 '[Enhancement]: Update styling and other stuff of hit the target game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/29 17:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/29 17:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2662`](https://github.com//kunjgit/GameZone/pull/2662 'Updateed the game styling so now it looks better also imporved functionality') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/29 17:11]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2662`](https://github.com//kunjgit/GameZone/pull/2662 'Updateed the game styling so now it looks better also imporved functionality') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/29 17:10]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2624`](https://github.com//kunjgit/GameZone/pull/2624 'Country-Guesser Game changed') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[07/29 17:10]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2624`](https://github.com//kunjgit/GameZone/pull/2624 'Country-Guesser Game changed') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/29 16:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/29 16:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2657`](https://github.com//kunjgit/GameZone/issues/2657 '[Bug]: Correcting name convention of many games in the Repo and also updating the README.md [gssoc23] ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/29 16:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2658`](https://github.com//kunjgit/GameZone/pull/2658 '[Bug]: Correcting name convention of many games in the Repo and also updating the README.md [gssoc23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  

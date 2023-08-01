@@ -181,14 +181,18 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[08/01 09:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/01 09:23]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2696`](https://github.com//kunjgit/GameZone/issues/2696 '[Bug]: Correcting name convention of many games in the Repo and also updating the README.md [gssoc23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/01 09:23]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2698`](https://github.com//kunjgit/GameZone/pull/2698 '[Bug]: Correcting name convention of many games in the Repo and also updating the README.md [gssoc23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/01 09:23]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2698`](https://github.com//kunjgit/GameZone/pull/2698 '[Bug]: Correcting name convention of many games in the Repo and also updating the README.md [gssoc23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/01 06:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[08/01 06:17]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2672`](https://github.com//kunjgit/GameZone/pull/2672 '[Bug]: Three games have been named Color Matcher, Correcting there names. [gssoc23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/01 06:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2663`](https://github.com//kunjgit/GameZone/issues/2663 '[Bug]: Three games have been named Color Matcher, Correcting there names. [gssoc23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/01 06:17]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2672`](https://github.com//kunjgit/GameZone/pull/2672 '[Bug]: Three games have been named Color Matcher, Correcting there names. [gssoc23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/01 06:16]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2668`](https://github.com//kunjgit/GameZone/issues/2668 '[New game]: Quizify') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[08/01 06:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/01 06:16]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2669`](https://github.com//kunjgit/GameZone/pull/2669 'Quizify') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/01 06:16]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2669`](https://github.com//kunjgit/GameZone/pull/2669 'Quizify') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -329,13 +333,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/25 15:20]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2565`](https://github.com//kunjgit/GameZone/pull/2565 'Elemental riddles') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/25 15:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Nikita06211/GameZone](https://github.com/Nikita06211/GameZone)  
 `[07/25 15:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/25 15:19]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2569`](https://github.com//kunjgit/GameZone/issues/2569 '[New game]: Keyboard Hero') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/25 15:19]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2572`](https://github.com//kunjgit/GameZone/pull/2572 'Added Keyboard Hero') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/25 15:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [Deepanshu0703/GameZone](https://github.com/Deepanshu0703/GameZone)  
-`[07/25 15:17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2571`](https://github.com//kunjgit/GameZone/issues/2571 'Guess the celebrity using two pictures') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/25 15:16]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2571`](https://github.com//kunjgit/GameZone/pull/2571 'Guess the celebrity using two pictures') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/25 15:16]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2568`](https://github.com//kunjgit/GameZone/issues/2568 '[New game]: guess the movie star using two pictures') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/25 15:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

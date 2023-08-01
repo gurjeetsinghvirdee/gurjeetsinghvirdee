@@ -181,14 +181,18 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[08/01 11:41]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2683`](https://github.com//kunjgit/GameZone/issues/2683 '[New game]: A amazing game to roll and freeze the selcted dice to make all dice same in minimum time and to beat our best score') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/01 11:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/01 11:41]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2688`](https://github.com//kunjgit/GameZone/pull/2688 'Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/01 11:41]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2688`](https://github.com//kunjgit/GameZone/pull/2688 'Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/01 11:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2699`](https://github.com//kunjgit/GameZone/issues/2699 '[Bug]: Correcting name convention of many games in the Repo and also updating the README.md [gssoc23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[08/01 11:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/01 11:17]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2701`](https://github.com//kunjgit/GameZone/pull/2701 '[Bug]: Correcting name convention of many games in the Repo and also updating the README.md [gssoc23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/01 11:17]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2701`](https://github.com//kunjgit/GameZone/pull/2701 '[Bug]: Correcting name convention of many games in the Repo and also updating the README.md [gssoc23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/01 10:43]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2597`](https://github.com//kunjgit/GameZone/issues/2597 '[Documentation Bug]: update dependabot workflow and remove node_modules from codebase') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[08/01 10:33]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2688`](https://github.com//kunjgit/GameZone/pull/2688 'Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/01 10:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/01 10:32]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2690`](https://github.com//kunjgit/GameZone/issues/2690 '[New game]: Word Blitz') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -331,7 +335,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/25 18:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2592`](https://github.com//kunjgit/GameZone/issues/2592 '[New game]: Survivor ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/25 18:29]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2596`](https://github.com//kunjgit/GameZone/pull/2596 'New Game Survivor Added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/25 18:28]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2596`](https://github.com//kunjgit/GameZone/pull/2596 'New Game Survivor Added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/25 18:24]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2591`](https://github.com//kunjgit/GameZone/pull/2591 'Opensource') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

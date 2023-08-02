@@ -181,14 +181,16 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[08/02 20:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2703`](https://github.com//kunjgit/GameZone/issues/2703 '[Enhancement]: Black Jack new game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/02 20:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2702`](https://github.com//kunjgit/GameZone/issues/2702 'chore: update workflow to add label and pre-commit message & remove node_modules directory') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/02 19:46]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2725`](https://github.com//kunjgit/GameZone/issues/2725 '[New game]: Code Cracker Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/02 19:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/02 19:46]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2727`](https://github.com//kunjgit/GameZone/pull/2727 '[GSSoC\'23] Code Cracker Game Ready') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/02 19:45]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2722`](https://github.com//kunjgit/GameZone/issues/2722 '[Bug]: Squared lines ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/02 19:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[08/02 19:45]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2722`](https://github.com//kunjgit/GameZone/issues/2722 '[Bug]: Squared lines ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/02 19:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/02 19:45]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2723`](https://github.com//kunjgit/GameZone/pull/2723 'Fix bug causing Squared Lines to not open') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/02 19:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `26` commits in [Avdhesh-Varshney/GameZone](https://github.com/Avdhesh-Varshney/GameZone)  
 `[08/02 19:43]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2727`](https://github.com//kunjgit/GameZone/pull/2727 '[GSSoC\'23] Code Cracker Game Ready') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -322,8 +324,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/29 08:44]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2619`](https://github.com//kunjgit/GameZone/pull/2619 'fix: Improved Footer UI in Main Page') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/29 08:43]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2610`](https://github.com//kunjgit/GameZone/pull/2610 'New Game: Simon Says') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/29 08:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/29 08:42]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2614`](https://github.com//kunjgit/GameZone/issues/2614 '[Documentation Bug]: Update main README.md') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/29 08:42]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2636`](https://github.com//kunjgit/GameZone/pull/2636 'Updated main README.md') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

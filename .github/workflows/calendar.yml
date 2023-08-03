@@ -13,6 +13,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.yearly_calendar.svg
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)

@@ -181,14 +181,20 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[08/03 21:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
+`[08/03 20:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/khugitshii](https://github.com/gurjeetsinghvirdee/khugitshii)  
+`[08/03 20:51]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5`](https://github.com//khugitshii/khugitshii/pull/5 '3D Contribution Graph added in the Readme File') in [khugitshii/khugitshii](https://github.com/khugitshii/khugitshii)  
+`[08/03 20:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/khugitshii](https://github.com/gurjeetsinghvirdee/khugitshii)  
+`[08/03 20:41]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#4`](https://github.com//khugitshii/khugitshii/pull/4 'Workflow added ') in [khugitshii/khugitshii](https://github.com/khugitshii/khugitshii)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[08/03 20:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/khugitshii](https://github.com/gurjeetsinghvirdee/khugitshii)  
 `[08/03 20:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2745`](https://github.com//kunjgit/GameZone/issues/2745 '[New game]: Connect Four multiplayer game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/03 20:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/03 20:31]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2746`](https://github.com//kunjgit/GameZone/pull/2746 'Connect four new game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/03 20:31]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2746`](https://github.com//kunjgit/GameZone/pull/2746 'Connect four new game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/03 20:29]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2744`](https://github.com//kunjgit/GameZone/pull/2744 '[GSSoC\'23] : Memorization cards') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[08/03 20:29]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2744`](https://github.com//kunjgit/GameZone/pull/2744 '[GSSoC\'23] : Memorization cards') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/03 20:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2741`](https://github.com//kunjgit/GameZone/issues/2741 '[Enhancement]: Hunt Your Card Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/03 20:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -319,11 +325,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/31 18:37]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2671`](https://github.com//kunjgit/GameZone/pull/2671 '[GSSoC\'23] Avoider Game Enhancement completed') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/31 18:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sequelize/sequelize](https://github.com/sequelize/sequelize)  
 `[07/30 18:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[07/29 17:12]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2603`](https://github.com//kunjgit/GameZone/issues/2603 '[Enhancement]: Update styling and other stuff of hit the target game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/29 17:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/29 17:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2662`](https://github.com//kunjgit/GameZone/pull/2662 'Updateed the game styling so now it looks better also imporved functionality') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/29 17:11]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2662`](https://github.com//kunjgit/GameZone/pull/2662 'Updateed the game styling so now it looks better also imporved functionality') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/29 17:10]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2624`](https://github.com//kunjgit/GameZone/pull/2624 'Country-Guesser Game changed') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

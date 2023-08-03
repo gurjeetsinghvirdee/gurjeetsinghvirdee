@@ -330,7 +330,7 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 
 <!--------------------------------------------- 3D Contribution Graph -------------------------------------------->
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
        

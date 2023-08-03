@@ -1,4 +1,4 @@
-- name: GitHub Skyline
+- name: 🌃 GitHub Skyline
   uses: lowlighter/metrics@latest
   with:
     filename: metrics.plugin.skyline.svg

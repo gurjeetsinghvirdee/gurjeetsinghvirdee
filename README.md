@@ -181,7 +181,7 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[08/03 21:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
+`[08/03 21:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[08/03 20:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/khugitshii](https://github.com/gurjeetsinghvirdee/khugitshii)  
 `[08/03 20:51]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5`](https://github.com//khugitshii/khugitshii/pull/5 '3D Contribution Graph added in the Readme File') in [khugitshii/khugitshii](https://github.com/khugitshii/khugitshii)  
 `[08/03 20:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/khugitshii](https://github.com/gurjeetsinghvirdee/khugitshii)  
@@ -322,9 +322,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/31 18:42]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2670`](https://github.com//kunjgit/GameZone/issues/2670 '[Enhancement]: Avoider Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/31 18:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/31 18:42]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2671`](https://github.com//kunjgit/GameZone/pull/2671 '[GSSoC\'23] Avoider Game Enhancement completed') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/31 18:37]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2671`](https://github.com//kunjgit/GameZone/pull/2671 '[GSSoC\'23] Avoider Game Enhancement completed') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/31 18:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sequelize/sequelize](https://github.com/sequelize/sequelize)  
-`[07/30 18:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 
 </details>
 <!--END_SECTION:activity-->

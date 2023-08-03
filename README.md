@@ -151,7 +151,7 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 <table>    
 <tr>
   <td align="center">
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=synthwave" />
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=shades-of-purple&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D" />
   </td>
   <td align="center">
     <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/metrics.plugin.isocalendar.svg" />
@@ -160,16 +160,16 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 </table>
 
 <div align="center">
-    <img width="600" src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=dracula&column=5" /> 
+    <img width="600" src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=shades-of-purple&column=5" /> 
 </div>
 
 <table>    
 <tr>
   <td align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=synthwave&include_all_commits=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=shades-of-purple&include_all_commits=true" />
   </td>
   <td align="center">
-    <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=synthwave&langs_count=15" /> 
+    <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=shades-of-purple&langs_count=15" /> 
   </td>
 </tr>
 </table>

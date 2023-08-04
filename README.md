@@ -181,14 +181,18 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[08/04 15:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/04 15:58]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2743`](https://github.com//kunjgit/GameZone/issues/2743 '[New game]: Memorization cards') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/04 15:58]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2744`](https://github.com//kunjgit/GameZone/pull/2744 '[GSSoC\'23] : Memorization cards') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/04 15:58]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2744`](https://github.com//kunjgit/GameZone/pull/2744 '[GSSoC\'23] : Memorization cards') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/03 22:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[08/03 20:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/khugitshii](https://github.com/gurjeetsinghvirdee/khugitshii)  
 `[08/03 20:51]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5`](https://github.com//khugitshii/khugitshii/pull/5 '3D Contribution Graph added in the Readme File') in [khugitshii/khugitshii](https://github.com/khugitshii/khugitshii)  
 `[08/03 20:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/khugitshii](https://github.com/gurjeetsinghvirdee/khugitshii)  
 `[08/03 20:41]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#4`](https://github.com//khugitshii/khugitshii/pull/4 'Workflow added ') in [khugitshii/khugitshii](https://github.com/khugitshii/khugitshii)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[08/03 20:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/khugitshii](https://github.com/gurjeetsinghvirdee/khugitshii)  
 `[08/03 20:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2745`](https://github.com//kunjgit/GameZone/issues/2745 '[New game]: Connect Four multiplayer game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/03 20:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -315,9 +319,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/31 21:47]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2665`](https://github.com//kunjgit/GameZone/pull/2665 'Added Bash mole game [Gssoc\'23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/31 21:46]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2665`](https://github.com//kunjgit/GameZone/pull/2665 'Added Bash mole game [Gssoc\'23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/31 21:44]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2669`](https://github.com//kunjgit/GameZone/pull/2669 'Quizify') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/31 19:01]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2684`](https://github.com//kunjgit/GameZone/issues/2684 '[New game]: Puzzle Game (Avengers)') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/31 19:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/31 19:01]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2687`](https://github.com//kunjgit/GameZone/pull/2687 'Avengers Puzzle Game added!') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

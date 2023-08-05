@@ -181,14 +181,22 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[08/05 14:25]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2762`](https://github.com//kunjgit/GameZone/issues/2762 '[Bug]: I want make some changes to the footer section as I feel it does not go with theme. ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/05 14:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/05 14:25]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2764`](https://github.com//kunjgit/GameZone/pull/2764 'Added some functionality to footer section') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/05 14:24]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2764`](https://github.com//kunjgit/GameZone/pull/2764 'Added some functionality to footer section') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/05 14:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[08/05 14:23]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2581`](https://github.com//kunjgit/GameZone/issues/2581 '[New game]: 3D Car Racing Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/05 14:23]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2613`](https://github.com//kunjgit/GameZone/pull/2613 'Added 3D Car Racing Game Project') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/05 14:22]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2613`](https://github.com//kunjgit/GameZone/pull/2613 'Added 3D Car Racing Game Project') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/04 15:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/04 15:58]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2743`](https://github.com//kunjgit/GameZone/issues/2743 '[New game]: Memorization cards') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/04 15:58]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2744`](https://github.com//kunjgit/GameZone/pull/2744 '[GSSoC\'23] : Memorization cards') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/04 15:58]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2744`](https://github.com//kunjgit/GameZone/pull/2744 '[GSSoC\'23] : Memorization cards') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/03 22:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[08/03 20:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/khugitshii](https://github.com/gurjeetsinghvirdee/khugitshii)  
 `[08/03 20:51]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5`](https://github.com//khugitshii/khugitshii/pull/5 '3D Contribution Graph added in the Readme File') in [khugitshii/khugitshii](https://github.com/khugitshii/khugitshii)  
 `[08/03 20:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/khugitshii](https://github.com/gurjeetsinghvirdee/khugitshii)  
@@ -313,12 +321,6 @@ JSON             18 hrs 29 mins  █▓░░░░░░░░░░░░░�
 `[07/31 21:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2689`](https://github.com//kunjgit/GameZone/issues/2689 '[Bug]: ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/31 21:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[07/31 21:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2695`](https://github.com//kunjgit/GameZone/pull/2695 'Search container focus') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/31 21:48]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2695`](https://github.com//kunjgit/GameZone/pull/2695 'Search container focus') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/31 21:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/31 21:47]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2660`](https://github.com//kunjgit/GameZone/issues/2660 '[New game]: Bash a mole game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/31 21:47]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2665`](https://github.com//kunjgit/GameZone/pull/2665 'Added Bash mole game [Gssoc\'23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/31 21:46]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2665`](https://github.com//kunjgit/GameZone/pull/2665 'Added Bash mole game [Gssoc\'23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[07/31 21:44]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2669`](https://github.com//kunjgit/GameZone/pull/2669 'Quizify') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

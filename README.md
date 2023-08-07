@@ -181,14 +181,17 @@ JSON             18 hrs 30 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[08/07 06:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4968`](https://github.com//pranjay-poddar/Dev-Geeks/issues/4968 'Removed the Floating Heart Project ') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
+`[08/07 06:10]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#4968`](https://github.com//pranjay-poddar/Dev-Geeks/pull/4968 'Removed the Floating Heart Project ') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
+`[08/07 06:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1711` commits in [gurjeetsinghvirdee/Dev-Geeks](https://github.com/gurjeetsinghvirdee/Dev-Geeks)  
 `[08/06 17:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2784`](https://github.com//kunjgit/GameZone/issues/2784 'added chopsticks') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/06 17:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/06 17:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2697`](https://github.com//kunjgit/GameZone/issues/2697 '[New game]: Chopsticks') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/06 17:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2784`](https://github.com//kunjgit/GameZone/pull/2784 'added chopsticks') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/06 17:25]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2784`](https://github.com//kunjgit/GameZone/pull/2784 'added chopsticks') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[08/06 17:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2697`](https://github.com//kunjgit/GameZone/issues/2697 '[New game]: Chopsticks') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/06 17:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2784`](https://github.com//kunjgit/GameZone/pull/2784 'added chopsticks') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/06 17:25]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2784`](https://github.com//kunjgit/GameZone/pull/2784 'added chopsticks') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/06 17:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [DyuthiVivek/GameZone](https://github.com/DyuthiVivek/GameZone)  
 `[08/06 17:22]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2767`](https://github.com//kunjgit/GameZone/issues/2767 '[New game]: Anime Clicker') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/06 17:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -318,10 +321,6 @@ JSON             18 hrs 30 mins  █▓░░░░░░░░░░░░░�
 `[08/02 18:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/02 18:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2674`](https://github.com//kunjgit/GameZone/issues/2674 '[Bug]: back to top button animates on hover') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/02 18:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2682`](https://github.com//kunjgit/GameZone/pull/2682 'animated scrolltBug') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/02 18:56]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2682`](https://github.com//kunjgit/GameZone/pull/2682 'animated scrolltBug') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/02 18:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/02 18:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2680`](https://github.com//kunjgit/GameZone/issues/2680 '[New game]: Othello Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/02 18:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2681`](https://github.com//kunjgit/GameZone/pull/2681 'Added Othello Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

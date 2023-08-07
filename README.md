@@ -181,7 +181,7 @@ JSON             18 hrs 30 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[08/07 10:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/apple-vision-pro-clone](https://github.com/gurjeetsinghvirdee/apple-vision-pro-clone)  
+`[08/07 11:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/apple-vision-pro-clone](https://github.com/gurjeetsinghvirdee/apple-vision-pro-clone)  
 `[08/07 10:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/apple-vision-clone](https://github.com/gurjeetsinghvirdee/apple-vision-clone)  
 `[08/07 08:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/Dev-Geeks](https://github.com/gurjeetsinghvirdee/Dev-Geeks)  
 `[08/07 07:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/apple-vision-clone](https://github.com/gurjeetsinghvirdee/apple-vision-clone)  
@@ -326,7 +326,6 @@ JSON             18 hrs 30 mins  █▓░░░░░░░░░░░░░�
 `[08/02 19:04]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2705`](https://github.com//kunjgit/GameZone/pull/2705 '2703 made the game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/02 18:59]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2597`](https://github.com//kunjgit/GameZone/issues/2597 '[Documentation Bug]: update dependabot workflow and remove node_modules from codebase') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/02 18:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/02 18:59]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2702`](https://github.com//kunjgit/GameZone/pull/2702 'chore: update workflow to add label and pre-commit message & remove node_modules directory') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

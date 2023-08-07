@@ -181,14 +181,23 @@ JSON             18 hrs 30 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[08/07 19:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/07 19:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2798`](https://github.com//kunjgit/GameZone/issues/2798 '[New game]: Find Extra Cube Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/07 19:02]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2800`](https://github.com//kunjgit/GameZone/pull/2800 '[GSSoC\'23] Find Extra Cube Game ✔️') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/07 19:02]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2800`](https://github.com//kunjgit/GameZone/pull/2800 '[GSSoC\'23] Find Extra Cube Game ✔️') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/07 19:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Avdhesh-Varshney/GameZone](https://github.com/Avdhesh-Varshney/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[08/07 19:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/07 19:01]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2790`](https://github.com//kunjgit/GameZone/pull/2790 'Pathplex game added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/07 19:01]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2789`](https://github.com//kunjgit/GameZone/issues/2789 '[New game]: PathPlex') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/07 19:00]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2790`](https://github.com//kunjgit/GameZone/pull/2790 'Pathplex game added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/07 17:38]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2787`](https://github.com//kunjgit/GameZone/pull/2787 'Added 3d Snake Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/07 17:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/07 17:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2786`](https://github.com//kunjgit/GameZone/issues/2786 '[New game]: 3D Snake') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/07 17:37]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2787`](https://github.com//kunjgit/GameZone/pull/2787 'Added 3d Snake Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/07 17:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [sujanrupu/GameZone](https://github.com/sujanrupu/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[08/07 17:34]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2803`](https://github.com//kunjgit/GameZone/pull/2803 'Changes in Typing Speed Test Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/07 17:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/07 17:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2801`](https://github.com//kunjgit/GameZone/issues/2801 '[Enhancement]: Typing Speed Test') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -319,15 +328,6 @@ JSON             18 hrs 30 mins  █▓░░░░░░░░░░░░░�
 `[08/02 19:45]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2722`](https://github.com//kunjgit/GameZone/issues/2722 '[Bug]: Squared lines ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/02 19:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/02 19:45]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2723`](https://github.com//kunjgit/GameZone/pull/2723 'Fix bug causing Squared Lines to not open') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/02 19:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `26` commits in [Avdhesh-Varshney/GameZone](https://github.com/Avdhesh-Varshney/GameZone)  
-`[08/02 19:43]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2727`](https://github.com//kunjgit/GameZone/pull/2727 '[GSSoC\'23] Code Cracker Game Ready') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/02 19:41]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2726`](https://github.com//kunjgit/GameZone/pull/2726 'Enhanced chrome dino game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/02 19:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/02 19:41]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2706`](https://github.com//kunjgit/GameZone/issues/2706 '[Enhancement]: Chrome_Dinosaur_Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/02 19:40]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2726`](https://github.com//kunjgit/GameZone/pull/2726 'Enhanced chrome dino game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/02 19:38]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2724`](https://github.com//kunjgit/GameZone/pull/2724 'New game added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/02 19:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2286`](https://github.com//kunjgit/GameZone/issues/2286 '[New game]: Know Your Country') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/02 19:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

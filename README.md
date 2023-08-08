@@ -181,14 +181,21 @@ JSON             18 hrs 30 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[08/08 17:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2823`](https://github.com//kunjgit/GameZone/pull/2823 'Add New Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/08 17:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/08 17:52]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2819`](https://github.com//kunjgit/GameZone/issues/2819 '[New game]: CSS Select') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/08 17:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [Sriparno08/GameZone](https://github.com/Sriparno08/GameZone)  
+`[08/08 17:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[08/08 17:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2679`](https://github.com//kunjgit/GameZone/issues/2679 '[New game]: Squid game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/08 17:51]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2827`](https://github.com//kunjgit/GameZone/pull/2827 'New Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 17:14]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2805`](https://github.com//kunjgit/GameZone/pull/2805 'Added Self-Checkers-Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 17:14]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2805`](https://github.com//kunjgit/GameZone/pull/2805 'Added Self-Checkers-Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 17:07]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2805`](https://github.com//kunjgit/GameZone/pull/2805 'Added Self-Checkers-Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 17:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [sujanrupu/GameZone](https://github.com/sujanrupu/GameZone)  
 `[08/08 17:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2721`](https://github.com//kunjgit/GameZone/issues/2721 '[New game]: Rocket Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[08/08 17:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 17:04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2796`](https://github.com//kunjgit/GameZone/pull/2796 'Kunjgit/#2721') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 17:04]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2796`](https://github.com//kunjgit/GameZone/pull/2796 'Kunjgit/#2721') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -320,13 +327,6 @@ JSON             18 hrs 30 mins  █▓░░░░░░░░░░░░░�
 `[08/03 20:21]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2637`](https://github.com//kunjgit/GameZone/issues/2637 '[New game]: Sky Dodge') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/03 20:21]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2661`](https://github.com//kunjgit/GameZone/pull/2661 'Added Sky Dodge') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/03 20:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/03 20:21]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2732`](https://github.com//kunjgit/GameZone/issues/2732 '[Documentation Bug]: workflow to add labels by analyzing titles of PR/Issues') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/03 20:21]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2733`](https://github.com//kunjgit/GameZone/pull/2733 'Hack analyse title') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/03 20:20]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2733`](https://github.com//kunjgit/GameZone/pull/2733 'Hack analyse title') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/03 20:16]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2661`](https://github.com//kunjgit/GameZone/pull/2661 'Added Sky Dodge') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/03 06:45]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2653`](https://github.com//kunjgit/GameZone/issues/2653 '[New game]: Musical floor game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/03 06:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/03 06:45]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2654`](https://github.com//kunjgit/GameZone/pull/2654 '# 2653 Musical Floor Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

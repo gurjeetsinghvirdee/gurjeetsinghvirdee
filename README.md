@@ -181,14 +181,15 @@ JSON             18 hrs 30 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[08/09 15:41]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2856`](https://github.com//kunjgit/GameZone/issues/2856 'Game Addition') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 15:24]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2856`](https://github.com//kunjgit/GameZone/pull/2856 'Game Addition') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 15:23]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2856`](https://github.com//kunjgit/GameZone/pull/2856 'Game Addition') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 14:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[08/09 13:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/09 13:17]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2833`](https://github.com//kunjgit/GameZone/pull/2833 'Added a new game called Crossy Road') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[08/09 13:17]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2833`](https://github.com//kunjgit/GameZone/pull/2833 'Added a new game called Crossy Road') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 13:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2824`](https://github.com//kunjgit/GameZone/issues/2824 '[New game]: Crossy Road') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 11:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2842`](https://github.com//kunjgit/GameZone/issues/2842 '[New game]: Test your brain') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 11:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -343,7 +344,6 @@ JSON             18 hrs 30 mins  █▓░░░░░░░░░░░░░�
 `[08/06 17:08]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2775`](https://github.com//kunjgit/GameZone/pull/2775 'fix: Updated alt and Meta Tags in Some Files') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/06 17:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/06 17:06]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2772`](https://github.com//kunjgit/GameZone/issues/2772 '[Enhancement]: Stick Dark Theme Switch To The Top Left & Add Hover Effect To Contributors') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/06 17:06]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2774`](https://github.com//kunjgit/GameZone/pull/2774 'Stuck Dark Theme Switch To The Top Left & Added Hover Effect To Contributor Cards') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -181,14 +181,18 @@ JSON             18 hrs 30 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[08/09 11:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2842`](https://github.com//kunjgit/GameZone/issues/2842 '[New game]: Test your brain') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/09 11:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/09 11:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2843`](https://github.com//kunjgit/GameZone/pull/2843 'TEST YOUR BRAIN GAME IS ADDED') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
+`[08/09 11:25]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2843`](https://github.com//kunjgit/GameZone/pull/2843 'TEST YOUR BRAIN GAME IS ADDED') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 11:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[08/09 10:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2838`](https://github.com//kunjgit/GameZone/issues/2838 '[Enhancement]: MENJA game is not playable ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 10:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 10:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2841`](https://github.com//kunjgit/GameZone/pull/2841 'Resolved issue related to MENJA game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 10:56]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2841`](https://github.com//kunjgit/GameZone/pull/2841 'Resolved issue related to MENJA game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[08/09 10:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2830`](https://github.com//kunjgit/GameZone/issues/2830 '[New game]: Candy Match Saga') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 10:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 10:55]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2846`](https://github.com//kunjgit/GameZone/pull/2846 'Added Candy match saga game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -335,9 +339,6 @@ JSON             18 hrs 30 mins  █▓░░░░░░░░░░░░░�
 `[08/06 17:06]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2772`](https://github.com//kunjgit/GameZone/issues/2772 '[Enhancement]: Stick Dark Theme Switch To The Top Left & Add Hover Effect To Contributors') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/06 17:06]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2774`](https://github.com//kunjgit/GameZone/pull/2774 'Stuck Dark Theme Switch To The Top Left & Added Hover Effect To Contributor Cards') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/06 17:06]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2774`](https://github.com//kunjgit/GameZone/pull/2774 'Stuck Dark Theme Switch To The Top Left & Added Hover Effect To Contributor Cards') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/06 17:05]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2768`](https://github.com//kunjgit/GameZone/pull/2768 'Added Anime Clicker ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/06 17:02]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2765`](https://github.com//kunjgit/GameZone/pull/2765 '[ new game ] : Smashingblocks') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/06 16:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2755`](https://github.com//kunjgit/GameZone/issues/2755 '[Bug]: Correcting name convention of many games in the Repo and also updating the README.md [gssoc23]') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

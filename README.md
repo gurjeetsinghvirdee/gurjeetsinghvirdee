@@ -181,14 +181,15 @@ JSON             18 hrs 30 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[08/09 07:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2507`](https://github.com//pranjay-poddar/Dev-Geeks/issues/2507 'Improve the UI of the deployed website') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
 `[08/09 07:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2507`](https://github.com//pranjay-poddar/Dev-Geeks/issues/2507 'Improve the UI of the deployed website') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
 `[08/09 06:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 06:11]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2832`](https://github.com//kunjgit/GameZone/pull/2832 'Resolving hover effect on gihub') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 06:11]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2832`](https://github.com//kunjgit/GameZone/pull/2832 'Resolving hover effect on gihub') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/09 06:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[08/09 06:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 06:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2834`](https://github.com//kunjgit/GameZone/issues/2834 '[New game]: Numeral Whiz') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 06:10]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2835`](https://github.com//kunjgit/GameZone/pull/2835 'added Numeral-Whiz') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 06:09]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2835`](https://github.com//kunjgit/GameZone/pull/2835 'added Numeral-Whiz') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  

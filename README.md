@@ -181,14 +181,15 @@ JSON             18 hrs 30 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[08/09 14:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[08/09 13:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 13:17]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2833`](https://github.com//kunjgit/GameZone/pull/2833 'Added a new game called Crossy Road') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 13:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2824`](https://github.com//kunjgit/GameZone/issues/2824 '[New game]: Crossy Road') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 11:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2842`](https://github.com//kunjgit/GameZone/issues/2842 '[New game]: Test your brain') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/09 11:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[08/09 11:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 11:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2843`](https://github.com//kunjgit/GameZone/pull/2843 'TEST YOUR BRAIN GAME IS ADDED') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 11:25]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2843`](https://github.com//kunjgit/GameZone/pull/2843 'TEST YOUR BRAIN GAME IS ADDED') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 11:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  

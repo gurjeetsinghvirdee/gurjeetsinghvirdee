@@ -181,14 +181,22 @@ JSON             18 hrs 31 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[08/11 07:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
+`[08/11 07:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[08/11 07:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#146`](https://github.com//girlscript/gssoc-website-new/pull/146 'Fetching PRs from json file ') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[08/11 07:52]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#146`](https://github.com//girlscript/gssoc-website-new/pull/146 'Fetching PRs from json file ') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[08/11 07:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[08/11 07:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`api`](https://github.com/gurjeetsinghvirdee/gssoc-website-new/tree/api) in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
+`[08/11 07:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
+`[08/11 07:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[08/09 15:59]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2852`](https://github.com//kunjgit/GameZone/issues/2852 '[New game]: card Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 15:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2856`](https://github.com//kunjgit/GameZone/issues/2856 'Game Addition') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 15:52]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2854`](https://github.com//kunjgit/GameZone/issues/2854 '[New game]: mine-sweeper game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 15:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2855`](https://github.com//kunjgit/GameZone/pull/2855 'my mine sweeper game is added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 15:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[08/09 15:46]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2855`](https://github.com//kunjgit/GameZone/pull/2855 'my mine sweeper game is added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 15:41]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2856`](https://github.com//kunjgit/GameZone/issues/2856 'Game Addition') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 15:24]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2856`](https://github.com//kunjgit/GameZone/pull/2856 'Game Addition') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
@@ -342,9 +350,6 @@ JSON             18 hrs 31 mins  █▓░░░░░░░░░░░░░�
 `[08/06 17:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2758`](https://github.com//kunjgit/GameZone/issues/2758 '[New game]: Truth and Dare game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/06 17:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/06 17:10]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2780`](https://github.com//kunjgit/GameZone/pull/2780 'Truth and Dare') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/06 17:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [whiteknight16/GameZone](https://github.com/whiteknight16/GameZone)  
-`[08/06 17:09]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2780`](https://github.com//kunjgit/GameZone/pull/2780 'Truth and Dare') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/06 17:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2771`](https://github.com//kunjgit/GameZone/issues/2771 '[Bug]: ⚠Some Game related Files & Folders doesn\'t have Proper DOCTYPE, META Tags and alt Text to Image Elements') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

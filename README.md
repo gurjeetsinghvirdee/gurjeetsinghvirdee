@@ -151,7 +151,7 @@ JSON             18 hrs 34 mins  █▓░░░░░░░░░░░░░�
 <table>    
 <tr>
   <td align="center">
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsinghvirdee&theme=shades-of-purple&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D" />
+    <img width="400" src="https://streak-stats.demolab.com/?user=gurjeetsinghvirdee&theme=shades-of-purple&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" />
   </td>
   <td align="center">
     <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/metrics.plugin.isocalendar.svg" />

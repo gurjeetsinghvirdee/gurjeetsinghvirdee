@@ -160,16 +160,16 @@ JSON             18 hrs 34 mins  █▓░░░░░░░░░░░░░�
 </table>
 
 <div align="center">
-    <img width="600" src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=shades-of-purple&column=5" /> 
+    <img width="600" src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=discord&column=5&hide_border=true" /> 
 </div>
 
 <table>    
 <tr>
   <td align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=shades-of-purple&include_all_commits=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=shades-of-purple&include_all_commits=true&hide_border=true" />
   </td>
   <td align="center">
-    <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=shades-of-purple&langs_count=15" /> 
+    <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=shades-of-purple&langs_count=15&hide_border=true" /> 
   </td>
 </tr>
 </table>

@@ -181,14 +181,15 @@ JSON             18 hrs 34 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[08/21 23:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/apple-vision-pro-clone](https://github.com/gurjeetsinghvirdee/apple-vision-pro-clone)  
 `[08/18 22:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[08/18 22:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [gurjeetsinghvirdee/apple-vision-pro-clone](https://github.com/gurjeetsinghvirdee/apple-vision-pro-clone)  
 `[08/15 19:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[08/15 18:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[08/15 16:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2850`](https://github.com//kunjgit/GameZone/issues/2850 '[GSSoC\'23] HueHero Game added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[08/15 16:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2850`](https://github.com//kunjgit/GameZone/issues/2850 '[GSSoC\'23] HueHero Game added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/15 13:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[08/12 14:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[08/12 14:29]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#147`](https://github.com//girlscript/gssoc-website-new/pull/147 '[2023] Final Leaderboard') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -345,7 +346,6 @@ JSON             18 hrs 34 mins  █▓░░░░░░░░░░░░░�
 `[08/06 17:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2697`](https://github.com//kunjgit/GameZone/issues/2697 '[New game]: Chopsticks') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/06 17:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2784`](https://github.com//kunjgit/GameZone/pull/2784 'added chopsticks') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/06 17:25]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2784`](https://github.com//kunjgit/GameZone/pull/2784 'added chopsticks') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/06 17:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [DyuthiVivek/GameZone](https://github.com/DyuthiVivek/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

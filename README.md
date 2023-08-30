@@ -181,14 +181,18 @@ JSON             18 hrs 38 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[08/30 13:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
+`[08/30 15:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
+`[08/30 14:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[08/30 14:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#155`](https://github.com//girlscript/gssoc-website-new/pull/155 'top contributors emails added') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[08/30 14:57]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#155`](https://github.com//girlscript/gssoc-website-new/pull/155 'top contributors emails added') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[08/30 14:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[08/30 12:02]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#154`](https://github.com//girlscript/gssoc-website-new/pull/154 'data has been merged from other json file') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[08/30 12:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[08/30 12:02]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#154`](https://github.com//girlscript/gssoc-website-new/pull/154 'data has been merged from other json file') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[08/30 12:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[08/30 11:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[08/30 11:47]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#152`](https://github.com//girlscript/gssoc-website-new/pull/152 'Added Contributers 200-300 json') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[08/30 11:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -347,9 +351,6 @@ JSON             18 hrs 38 mins  █▓░░░░░░░░░░░░░�
 `[08/07 17:32]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2782`](https://github.com//kunjgit/GameZone/issues/2782 '[New game]: Rocket Showdown') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/07 17:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/07 17:31]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2785`](https://github.com//kunjgit/GameZone/pull/2785 'Added a new game called Rocket Showdown') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/07 17:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2797`](https://github.com//kunjgit/GameZone/issues/2797 '[New game]: Road car game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/07 17:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/07 17:25]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2799`](https://github.com//kunjgit/GameZone/pull/2799 'game added road car') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

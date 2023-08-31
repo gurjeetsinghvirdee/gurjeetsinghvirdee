@@ -181,14 +181,19 @@ JSON             21 hrs 45 mins  █▓░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[08/31 19:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
+`[08/31 18:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[08/31 18:46]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#156`](https://github.com//girlscript/gssoc-website-new/pull/156 'lower Case Email issue fixed') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[08/31 18:44]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#156`](https://github.com//girlscript/gssoc-website-new/pull/156 'lower Case Email issue fixed') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[08/31 18:44]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`Admins-data`](https://github.com/gurjeetsinghvirdee/gssoc-website-new/tree/Admins-data) in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[08/31 16:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[08/30 14:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[08/30 14:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#155`](https://github.com//girlscript/gssoc-website-new/pull/155 'top contributors emails added') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[08/30 14:57]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#155`](https://github.com//girlscript/gssoc-website-new/pull/155 'top contributors emails added') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[08/30 14:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[08/30 12:02]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#154`](https://github.com//girlscript/gssoc-website-new/pull/154 'data has been merged from other json file') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[08/30 12:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[08/30 12:02]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#154`](https://github.com//girlscript/gssoc-website-new/pull/154 'data has been merged from other json file') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -348,9 +353,6 @@ JSON             21 hrs 45 mins  █▓░░░░░░░░░░░░░�
 `[08/07 17:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2801`](https://github.com//kunjgit/GameZone/issues/2801 '[Enhancement]: Typing Speed Test') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/07 17:33]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2803`](https://github.com//kunjgit/GameZone/pull/2803 'Changes in Typing Speed Test Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/07 17:32]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2785`](https://github.com//kunjgit/GameZone/pull/2785 'Added a new game called Rocket Showdown') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/07 17:32]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2782`](https://github.com//kunjgit/GameZone/issues/2782 '[New game]: Rocket Showdown') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/07 17:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/07 17:31]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2785`](https://github.com//kunjgit/GameZone/pull/2785 'Added a new game called Rocket Showdown') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

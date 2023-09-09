@@ -181,14 +181,16 @@ JSON             26 hrs 37 mins  ██░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[09/09 20:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
+`[09/09 21:19]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `imgbot` from [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
+`[09/09 21:19]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1`](https://github.com//gurjeetsinghvirdee/learning-threeJS/pull/1 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
+`[09/09 21:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
 `[09/09 17:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/learning-threeJS/tree/master) in [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
 `[09/09 17:36]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
-`[09/09 17:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/starting-with-threejs](https://github.com/gurjeetsinghvirdee/starting-with-threejs)  
-`[09/09 17:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/starting-with-threejs/tree/master) in [gurjeetsinghvirdee/starting-with-threejs](https://github.com/gurjeetsinghvirdee/starting-with-threejs)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[09/09 17:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/starting-with-threejs](https://github.com/gurjeetsinghvirdee/starting-with-threejs)  
+`[09/09 17:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/starting-with-threejs/tree/master) in [gurjeetsinghvirdee/starting-with-threejs](https://github.com/gurjeetsinghvirdee/starting-with-threejs)  
 `[09/09 17:17]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/starting-with-threejs](https://github.com/gurjeetsinghvirdee/starting-with-threejs)  
 `[09/09 17:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui)  
 `[09/07 19:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `40` commits in [gurjeetsinghvirdee/khugitshii](https://github.com/gurjeetsinghvirdee/khugitshii)  
@@ -358,8 +360,6 @@ JSON             26 hrs 37 mins  ██░░░░░░░░░░░░░�
 `[08/08 17:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2679`](https://github.com//kunjgit/GameZone/issues/2679 '[New game]: Squid game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 17:51]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2827`](https://github.com//kunjgit/GameZone/pull/2827 'New Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 17:14]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2805`](https://github.com//kunjgit/GameZone/pull/2805 'Added Self-Checkers-Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 17:14]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2805`](https://github.com//kunjgit/GameZone/pull/2805 'Added Self-Checkers-Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 17:07]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2805`](https://github.com//kunjgit/GameZone/pull/2805 'Added Self-Checkers-Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

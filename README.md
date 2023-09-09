@@ -181,7 +181,7 @@ JSON             26 hrs 37 mins  ██░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[09/09 19:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
+`[09/09 19:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
 `[09/09 17:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/learning-threeJS/tree/master) in [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
 `[09/09 17:36]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
 `[09/09 17:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/starting-with-threejs](https://github.com/gurjeetsinghvirdee/starting-with-threejs)  
@@ -362,7 +362,6 @@ JSON             26 hrs 37 mins  ██░░░░░░░░░░░░░�
 `[08/08 17:07]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2805`](https://github.com//kunjgit/GameZone/pull/2805 'Added Self-Checkers-Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 17:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [sujanrupu/GameZone](https://github.com/sujanrupu/GameZone)  
 `[08/08 17:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2721`](https://github.com//kunjgit/GameZone/issues/2721 '[New game]: Rocket Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 17:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

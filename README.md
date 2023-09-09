@@ -181,14 +181,18 @@ JSON             26 hrs 37 mins  ██░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[09/09 17:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/starting-with-threejs](https://github.com/gurjeetsinghvirdee/starting-with-threejs)  
+`[09/09 17:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/starting-with-threejs/tree/master) in [gurjeetsinghvirdee/starting-with-threejs](https://github.com/gurjeetsinghvirdee/starting-with-threejs)  
+`[09/09 17:17]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/starting-with-threejs](https://github.com/gurjeetsinghvirdee/starting-with-threejs)  
+`[09/09 17:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui)  
 `[09/07 19:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `40` commits in [gurjeetsinghvirdee/khugitshii](https://github.com/gurjeetsinghvirdee/khugitshii)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[09/07 13:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[09/07 08:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[09/06 09:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[09/06 09:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[09/06 07:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[09/05 13:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[09/05 13:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -359,8 +363,6 @@ JSON             26 hrs 37 mins  ██░░░░░░░░░░░░░�
 `[08/08 17:04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2796`](https://github.com//kunjgit/GameZone/pull/2796 'Kunjgit/#2721') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 17:04]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2796`](https://github.com//kunjgit/GameZone/pull/2796 'Kunjgit/#2721') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/07 19:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/07 19:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2798`](https://github.com//kunjgit/GameZone/issues/2798 '[New game]: Find Extra Cube Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/07 19:02]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2800`](https://github.com//kunjgit/GameZone/pull/2800 '[GSSoC\'23] Find Extra Cube Game ✔️') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

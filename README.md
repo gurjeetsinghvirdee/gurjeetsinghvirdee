@@ -181,14 +181,15 @@ JSON             26 hrs 37 mins  ██░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[09/10 19:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nodejs/node](https://github.com/nodejs/node)  
 `[09/10 05:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
 `[09/10 05:32]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//gurjeetsinghvirdee/learning-threeJS/pull/2 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
 `[09/09 21:19]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `imgbot` from [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
 `[09/09 21:19]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1`](https://github.com//gurjeetsinghvirdee/learning-threeJS/pull/1 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
-`[09/09 21:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[09/09 21:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
 `[09/09 17:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/learning-threeJS/tree/master) in [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
 `[09/09 17:36]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
 `[09/09 17:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/starting-with-threejs](https://github.com/gurjeetsinghvirdee/starting-with-threejs)  

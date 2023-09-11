@@ -181,14 +181,18 @@ JSON             26 hrs 37 mins  ██░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[09/11 17:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[09/11 17:25]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#160`](https://github.com//girlscript/gssoc-website-new/pull/160 'Update email') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[09/11 17:25]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#160`](https://github.com//girlscript/gssoc-website-new/pull/160 'Update email') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[09/11 17:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[09/11 16:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[09/10 20:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vasanthk/react-bits](https://github.com/vasanthk/react-bits)  
 `[09/10 19:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nodejs/node](https://github.com/nodejs/node)  
 `[09/10 05:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
 `[09/10 05:32]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//gurjeetsinghvirdee/learning-threeJS/pull/2 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[09/09 21:19]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `imgbot` from [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
 `[09/09 21:19]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1`](https://github.com//gurjeetsinghvirdee/learning-threeJS/pull/1 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
 `[09/09 21:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [gurjeetsinghvirdee/learning-threeJS](https://github.com/gurjeetsinghvirdee/learning-threeJS)  
@@ -361,9 +365,6 @@ JSON             26 hrs 37 mins  ██░░░░░░░░░░░░░�
 `[08/08 17:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 17:52]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2819`](https://github.com//kunjgit/GameZone/issues/2819 '[New game]: CSS Select') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 17:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [Sriparno08/GameZone](https://github.com/Sriparno08/GameZone)  
-`[08/08 17:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 17:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2679`](https://github.com//kunjgit/GameZone/issues/2679 '[New game]: Squid game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 17:51]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2827`](https://github.com//kunjgit/GameZone/pull/2827 'New Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

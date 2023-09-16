@@ -181,14 +181,15 @@ JSON             26 hrs 38 mins  ██░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[09/16 20:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[09/16 18:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[09/16 17:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[09/11 17:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[09/11 17:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[09/11 17:25]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#160`](https://github.com//girlscript/gssoc-website-new/pull/160 'Update email') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[09/11 17:25]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#160`](https://github.com//girlscript/gssoc-website-new/pull/160 'Update email') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[09/11 17:25]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#160`](https://github.com//girlscript/gssoc-website-new/pull/160 'Update email') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[09/11 17:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[09/11 16:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -366,7 +367,6 @@ JSON             26 hrs 38 mins  ██░░░░░░░░░░░░░�
 `[08/08 18:43]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2829`](https://github.com//kunjgit/GameZone/issues/2829 '[GSSoC\'23] Picture Puzzle Game ✔️') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 17:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2823`](https://github.com//kunjgit/GameZone/pull/2823 'Add New Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 17:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 17:52]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2819`](https://github.com//kunjgit/GameZone/issues/2819 '[New game]: CSS Select') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

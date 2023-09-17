@@ -365,8 +365,6 @@ JSON             26 hrs 38 mins  ██░░░░░░░░░░░░░�
 `[08/08 18:52]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2809`](https://github.com//kunjgit/GameZone/pull/2809 'Fixed the Footer') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 18:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2809`](https://github.com//kunjgit/GameZone/issues/2809 'Fixed the Footer') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 18:43]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2829`](https://github.com//kunjgit/GameZone/issues/2829 '[GSSoC\'23] Picture Puzzle Game ✔️') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 17:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2823`](https://github.com//kunjgit/GameZone/pull/2823 'Add New Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 17:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

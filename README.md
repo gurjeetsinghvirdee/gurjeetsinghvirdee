@@ -181,14 +181,17 @@ JSON             26 hrs 38 mins  ██░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[09/17 17:32]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/crowdfunding-platform](https://github.com/gurjeetsinghvirdee/crowdfunding-platform)  
+`[09/17 17:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/gurjeetsinghvirdee/crowdfunding-platform/tree/main) in [gurjeetsinghvirdee/crowdfunding-platform](https://github.com/gurjeetsinghvirdee/crowdfunding-platform)  
+`[09/17 17:30]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/crowdfunding-platform](https://github.com/gurjeetsinghvirdee/crowdfunding-platform)  
 `[09/17 11:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[09/17 11:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[09/16 18:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
-`[09/16 17:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[09/11 17:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[09/16 18:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
+`[09/16 17:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
+`[09/11 17:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[09/11 17:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[09/11 17:25]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#160`](https://github.com//girlscript/gssoc-website-new/pull/160 'Update email') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[09/11 17:25]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#160`](https://github.com//girlscript/gssoc-website-new/pull/160 'Update email') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -362,9 +365,6 @@ JSON             26 hrs 38 mins  ██░░░░░░░░░░░░░�
 `[08/08 18:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 18:54]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2802`](https://github.com//kunjgit/GameZone/issues/2802 '[New game]: Flip the coin') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 18:53]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2808`](https://github.com//kunjgit/GameZone/pull/2808 'Flip Coin') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 18:53]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2788`](https://github.com//kunjgit/GameZone/issues/2788 '[Bug]: Fixing the footer') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 18:52]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2809`](https://github.com//kunjgit/GameZone/pull/2809 'Fixed the Footer') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 18:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2809`](https://github.com//kunjgit/GameZone/issues/2809 'Fixed the Footer') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

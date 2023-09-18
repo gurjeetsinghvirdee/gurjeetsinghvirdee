@@ -181,7 +181,7 @@ JSON             26 hrs 38 mins  ██░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[09/18 18:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/web3-crowdfunding](https://github.com/gurjeetsinghvirdee/web3-crowdfunding)  
+`[09/18 20:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/web3-crowdfunding](https://github.com/gurjeetsinghvirdee/web3-crowdfunding)  
 `[09/17 18:59]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) to [gurjeetsinghvirdee/awesome-interview-questions](https://github.com/gurjeetsinghvirdee/awesome-interview-questions)  
 `[09/17 18:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)  
 `[09/17 18:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)  
@@ -367,7 +367,6 @@ JSON             26 hrs 38 mins  ██░░░░░░░░░░░░░�
 `[08/08 19:12]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2810`](https://github.com//kunjgit/GameZone/pull/2810 'New game CSS Crossword added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 19:01]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2806`](https://github.com//kunjgit/GameZone/issues/2806 '[New game]: Start Reactor game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 19:01]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2807`](https://github.com//kunjgit/GameZone/pull/2807 'Added Start Reactor game #2806') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 19:00]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2807`](https://github.com//kunjgit/GameZone/pull/2807 'Added Start Reactor game #2806') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -181,7 +181,7 @@ JSON             26 hrs 38 mins  ██░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[09/19 21:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [gurjeetsinghvirdee/web3-crowdfunding](https://github.com/gurjeetsinghvirdee/web3-crowdfunding)  
+`[09/19 22:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [gurjeetsinghvirdee/web3-crowdfunding](https://github.com/gurjeetsinghvirdee/web3-crowdfunding)  
 `[09/17 18:59]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) to [gurjeetsinghvirdee/awesome-interview-questions](https://github.com/gurjeetsinghvirdee/awesome-interview-questions)  
 `[09/17 18:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)  
 `[09/17 18:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)  
@@ -360,7 +360,6 @@ JSON             26 hrs 38 mins  ██░░░░░░░░░░░░░�
 `[08/08 19:22]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2812`](https://github.com//kunjgit/GameZone/issues/2812 '[Enhancement]: Enhancing Sciara of Colors Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 19:22]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2815`](https://github.com//kunjgit/GameZone/pull/2815 'Changes in SCIARA OF COLORS Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 19:19]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2815`](https://github.com//kunjgit/GameZone/pull/2815 'Changes in SCIARA OF COLORS Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 19:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

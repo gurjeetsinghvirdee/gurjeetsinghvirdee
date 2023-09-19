@@ -181,14 +181,16 @@ JSON             26 hrs 38 mins  ██░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[09/19 22:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
+`[09/19 22:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[09/19 22:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [gurjeetsinghvirdee/web3-crowdfunding](https://github.com/gurjeetsinghvirdee/web3-crowdfunding)  
 `[09/17 18:59]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) to [gurjeetsinghvirdee/awesome-interview-questions](https://github.com/gurjeetsinghvirdee/awesome-interview-questions)  
 `[09/17 18:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)  
-`[09/17 18:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)  
-`[09/17 18:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/web3-crowdfunding/tree/master) in [gurjeetsinghvirdee/web3-crowdfunding](https://github.com/gurjeetsinghvirdee/web3-crowdfunding)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[09/17 18:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)  
+`[09/17 18:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/web3-crowdfunding/tree/master) in [gurjeetsinghvirdee/web3-crowdfunding](https://github.com/gurjeetsinghvirdee/web3-crowdfunding)  
 `[09/17 18:27]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/web3-crowdfunding](https://github.com/gurjeetsinghvirdee/web3-crowdfunding)  
 `[09/17 18:18]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/web3-crowdfunding-platform](https://github.com/gurjeetsinghvirdee/web3-crowdfunding-platform)  
 `[09/17 18:12]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/crowdfunding-platform/tree/master) in [gurjeetsinghvirdee/crowdfunding-platform](https://github.com/gurjeetsinghvirdee/crowdfunding-platform)  
@@ -359,7 +361,6 @@ JSON             26 hrs 38 mins  ██░░░░░░░░░░░░░�
 `[08/08 19:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 19:22]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2812`](https://github.com//kunjgit/GameZone/issues/2812 '[Enhancement]: Enhancing Sciara of Colors Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 19:22]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2815`](https://github.com//kunjgit/GameZone/pull/2815 'Changes in SCIARA OF COLORS Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 19:19]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2815`](https://github.com//kunjgit/GameZone/pull/2815 'Changes in SCIARA OF COLORS Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

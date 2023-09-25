@@ -181,7 +181,7 @@ JSON             27 hrs 7 mins   ██░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[09/24 21:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/web3-crowdfunding](https://github.com/gurjeetsinghvirdee/web3-crowdfunding)  
+`[09/24 23:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/web3-crowdfunding](https://github.com/gurjeetsinghvirdee/web3-crowdfunding)  
 `[09/23 18:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [utkarsh006/WeTweets](https://github.com/utkarsh006/WeTweets)  
 `[09/22 21:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/web3-crowdfunding](https://github.com/gurjeetsinghvirdee/web3-crowdfunding)  
 `[09/22 17:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -361,7 +361,6 @@ JSON             27 hrs 7 mins   ██░░░░░░░░░░░░░�
 `[08/08 19:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 19:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2817`](https://github.com//kunjgit/GameZone/issues/2817 '[New game]: Word Quest ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 19:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2818`](https://github.com//kunjgit/GameZone/pull/2818 'witty_word_quest') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 19:25]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2818`](https://github.com//kunjgit/GameZone/pull/2818 'witty_word_quest') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

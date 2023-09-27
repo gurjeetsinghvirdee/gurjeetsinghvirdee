@@ -71,15 +71,15 @@ As a **Full Stack Intern at NullClass**, Co-Founder of [Medictry](https://www.li
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 July 2021 - To: 24 September 2023
+From: 27 July 2021 - To: 26 September 2023
 
-Total Time: 322 hrs 12 mins
+Total Time: 326 hrs 17 mins
 
-JavaScript       116 hrs 43 mins █████████░░░░░░░░░░░░░░░░   36.23 %
-Markdown         61 hrs 58 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.23 %
-HTML             50 hrs 26 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
-CSS              40 hrs 6 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
-JSON             27 hrs 7 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+JavaScript       120 hrs 37 mins █████████▒░░░░░░░░░░░░░░░   36.97 %
+Markdown         61 hrs 58 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
+HTML             50 hrs 26 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.46 %
+CSS              40 hrs 6 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
+JSON             27 hrs 7 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
 ```
 
 <!--END_SECTION:waka--> 

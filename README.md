@@ -181,14 +181,16 @@ JSON             27 hrs 7 mins   ██░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[09/28 23:19]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//gurjeetsinghvirdee/eth-fund/issues/2 'double check that the address and chainId are correct.') in [gurjeetsinghvirdee/eth-fund](https://github.com/gurjeetsinghvirdee/eth-fund)  
+`[09/28 23:15]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//gurjeetsinghvirdee/eth-fund/issues/1 'function createCampaign ') in [gurjeetsinghvirdee/eth-fund](https://github.com/gurjeetsinghvirdee/eth-fund)  
 `[09/28 23:12]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//gurjeetsinghvirdee/eth-fund/issues/1 'function createCampaign ') in [gurjeetsinghvirdee/eth-fund](https://github.com/gurjeetsinghvirdee/eth-fund)  
 `[09/28 23:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/eth-fund](https://github.com/gurjeetsinghvirdee/eth-fund)  
 `[09/28 08:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)  
-`[09/28 08:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript)  
-`[09/26 18:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/web3-crowdfunding](https://github.com/gurjeetsinghvirdee/web3-crowdfunding)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[09/28 08:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript)  
+`[09/26 18:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/web3-crowdfunding](https://github.com/gurjeetsinghvirdee/web3-crowdfunding)  
 `[09/23 18:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [utkarsh006/WeTweets](https://github.com/utkarsh006/WeTweets)  
 `[09/22 21:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/web3-crowdfunding](https://github.com/gurjeetsinghvirdee/web3-crowdfunding)  
 `[09/22 17:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
@@ -358,9 +360,6 @@ JSON             27 hrs 7 mins   ██░░░░░░░░░░░░░�
 `[08/08 19:37]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2829`](https://github.com//kunjgit/GameZone/pull/2829 '[GSSoC\'23] Picture Puzzle Game ✔️') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 19:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 19:33]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2822`](https://github.com//kunjgit/GameZone/pull/2822 'Added Typing game Issue #2820') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 19:30]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2822`](https://github.com//kunjgit/GameZone/pull/2822 'Added Typing game Issue #2820') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 19:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `28` commits in [Ishan-77/GameZone](https://github.com/Ishan-77/GameZone)  
-`[08/08 19:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2822`](https://github.com//kunjgit/GameZone/issues/2822 'Added Typing game Issue #2820') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

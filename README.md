@@ -71,7 +71,7 @@ As a **Full Stack Intern at NullClass**, Co-Founder of [Medictry](https://www.li
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 July 2021 - To: 27 September 2023
+From: 27 July 2021 - To: 28 September 2023
 
 Total Time: 328 hrs 58 mins
 

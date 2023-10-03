@@ -181,14 +181,18 @@ JSON             27 hrs 22 mins  ██░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[10/03 05:51]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#13`](https://github.com//pooranjoyb/React-Aura/pull/13 'Sidebar Component created') in [pooranjoyb/React-Aura](https://github.com/pooranjoyb/React-Aura)  
+`[10/03 05:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/React-Aura](https://github.com/gurjeetsinghvirdee/React-Aura)  
+`[10/03 05:49]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#13`](https://github.com//pooranjoyb/React-Aura/pull/13 'Sidebar Component created') in [pooranjoyb/React-Aura](https://github.com/pooranjoyb/React-Aura)  
+`[10/03 05:45]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#13`](https://github.com//pooranjoyb/React-Aura/pull/13 'Sidebar Component created') in [pooranjoyb/React-Aura](https://github.com/pooranjoyb/React-Aura)  
 `[10/03 05:32]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#13`](https://github.com//pooranjoyb/React-Aura/pull/13 'Sidebar Component created') in [pooranjoyb/React-Aura](https://github.com/pooranjoyb/React-Aura)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[10/03 05:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/React-Aura](https://github.com/gurjeetsinghvirdee/React-Aura)  
 `[10/02 22:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#12`](https://github.com//pooranjoyb/React-Aura/issues/12 'Want to create a Cards Component Page') in [pooranjoyb/React-Aura](https://github.com/pooranjoyb/React-Aura)  
 `[10/02 22:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`gurjeetsinghvirdee`](https://github.com/gurjeetsinghvirdee/React-Aura/tree/gurjeetsinghvirdee) in [gurjeetsinghvirdee/React-Aura](https://github.com/gurjeetsinghvirdee/React-Aura)  
 `[10/02 18:51]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#12`](https://github.com//pooranjoyb/React-Aura/issues/12 'Want to create a Cards Component Page') in [pooranjoyb/React-Aura](https://github.com/pooranjoyb/React-Aura)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/02 18:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/React-Aura](https://github.com/gurjeetsinghvirdee/React-Aura)  
 `[10/02 18:44]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#12`](https://github.com//pooranjoyb/React-Aura/issues/12 'Want to create a Cards Component Page') in [pooranjoyb/React-Aura](https://github.com/pooranjoyb/React-Aura)  
 `[10/02 17:39]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [pooranjoyb/React-Aura](https://github.com/pooranjoyb/React-Aura) to [gurjeetsinghvirdee/React-Aura](https://github.com/gurjeetsinghvirdee/React-Aura)  
@@ -361,11 +365,6 @@ JSON             27 hrs 22 mins  ██░░░░░░░░░░░░░�
 `[08/08 19:41]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2271`](https://github.com//kunjgit/GameZone/issues/2271 '[New game]: Space Invaders') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 19:40]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2820`](https://github.com//kunjgit/GameZone/issues/2820 '[New game]: Typing Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/08 19:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2820`](https://github.com//kunjgit/GameZone/issues/2820 '[New game]: Typing Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 19:40]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2813`](https://github.com//kunjgit/GameZone/issues/2813 '[New game]: Picture Puzzle Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 19:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2804`](https://github.com//kunjgit/GameZone/issues/2804 '[New game]: Self Checker Game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 19:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2707`](https://github.com//kunjgit/GameZone/issues/2707 '[New game]: Claw Crane') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 19:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 19:39]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2750`](https://github.com//kunjgit/GameZone/pull/2750 'New game Claw Crane added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

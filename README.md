@@ -166,7 +166,7 @@ JSON             27 hrs 22 mins  ██░░░░░░░░░░░░░�
 <table>    
 <tr>
   <td align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&theme=shades-of-purple&include_all_commits=true&hide_border=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&rank_icon=percentile&show_icons=true&theme=shades-of-purple&show=reviews&border_radius=5&include_all_commits=true&hide_border=true" />
   </td>
   <td align="center">
     <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=shades-of-purple&langs_count=15&hide_border=true" /> 

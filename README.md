@@ -181,14 +181,15 @@ JSON             27 hrs 22 mins  ██░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[10/03 08:51]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#13`](https://github.com//pooranjoyb/React-Aura/issues/13 'Sidebar Component created') in [pooranjoyb/React-Aura](https://github.com/pooranjoyb/React-Aura)  
 `[10/03 07:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#13`](https://github.com//pooranjoyb/React-Aura/issues/13 'Sidebar Component created') in [pooranjoyb/React-Aura](https://github.com/pooranjoyb/React-Aura)  
 `[10/03 07:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/React-Aura](https://github.com/gurjeetsinghvirdee/React-Aura)  
 `[10/03 07:47]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#13`](https://github.com//pooranjoyb/React-Aura/pull/13 'Sidebar Component created') in [pooranjoyb/React-Aura](https://github.com/pooranjoyb/React-Aura)  
 `[10/03 07:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/React-Aura](https://github.com/gurjeetsinghvirdee/React-Aura)  
-`[10/03 05:51]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#13`](https://github.com//pooranjoyb/React-Aura/pull/13 'Sidebar Component created') in [pooranjoyb/React-Aura](https://github.com/pooranjoyb/React-Aura)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[10/03 05:51]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#13`](https://github.com//pooranjoyb/React-Aura/pull/13 'Sidebar Component created') in [pooranjoyb/React-Aura](https://github.com/pooranjoyb/React-Aura)  
 `[10/03 05:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/React-Aura](https://github.com/gurjeetsinghvirdee/React-Aura)  
 `[10/03 05:49]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#13`](https://github.com//pooranjoyb/React-Aura/pull/13 'Sidebar Component created') in [pooranjoyb/React-Aura](https://github.com/pooranjoyb/React-Aura)  
 `[10/03 05:45]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#13`](https://github.com//pooranjoyb/React-Aura/pull/13 'Sidebar Component created') in [pooranjoyb/React-Aura](https://github.com/pooranjoyb/React-Aura)  
@@ -363,7 +364,6 @@ JSON             27 hrs 22 mins  ██░░░░░░░░░░░░░�
 `[08/09 06:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 06:09]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2809`](https://github.com//kunjgit/GameZone/pull/2809 'Fixed the Footer') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 06:08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Reopened PR [`#2809`](https://github.com//kunjgit/GameZone/pull/2809 'Fixed the Footer') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/08 19:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->

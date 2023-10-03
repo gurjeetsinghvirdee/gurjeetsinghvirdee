@@ -151,7 +151,7 @@ JSON             27 hrs 22 mins  ██░░░░░░░░░░░░░�
 <table>    
 <tr>
   <td align="center">
-    <img width="400" src="https://streak-stats.demolab.com/?user=gurjeetsinghvirdee&theme=shades-of-purple&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" />
+    <img width="400" src="https://streak-stats.demolab.com/?user=gurjeetsinghvirdee&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" />
   </td>
   <td align="center">
     <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/metrics.plugin.isocalendar.svg" />
@@ -166,10 +166,10 @@ JSON             27 hrs 22 mins  ██░░░░░░░░░░░░░�
 <table>    
 <tr>
   <td align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&rank_icon=percentile&show_icons=true&theme=shades-of-purple&show=reviews&border_radius=5&include_all_commits=true&hide_border=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&rank_icon=percentile&show_icons=true&show=reviews&border_radius=5&include_all_commits=true&hide_border=true" />
   </td>
   <td align="center">
-    <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&theme=shades-of-purple&langs_count=15&hide_border=true" /> 
+    <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&langs_count=15&hide_border=true" /> 
   </td>
 </tr>
 </table>

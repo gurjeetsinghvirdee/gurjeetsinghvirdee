@@ -181,7 +181,7 @@ JSON             27 hrs 22 mins  ██░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[10/07 21:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/crypto-tracker](https://github.com/gurjeetsinghvirdee/crypto-tracker)  
+`[10/07 21:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/crypto-tracker](https://github.com/gurjeetsinghvirdee/crypto-tracker)  
 `[10/07 20:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/crypto-tracker/tree/master) in [gurjeetsinghvirdee/crypto-tracker](https://github.com/gurjeetsinghvirdee/crypto-tracker)  
 `[10/07 20:43]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/cryptocurrency-tracker](https://github.com/gurjeetsinghvirdee/cryptocurrency-tracker)  
 `[10/06 17:27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#51`](https://github.com//adrianhajdin/project_crowdfunding/issues/51 '[BugFix - getDonators and donateToCampaign give errors #40]') in [adrianhajdin/project_crowdfunding](https://github.com/adrianhajdin/project_crowdfunding)  
@@ -369,7 +369,6 @@ JSON             27 hrs 22 mins  ██░░░░░░░░░░░░░�
 `[08/09 10:54]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2846`](https://github.com//kunjgit/GameZone/pull/2846 'Added Candy match saga game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 09:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[08/09 07:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2507`](https://github.com//pranjay-poddar/Dev-Geeks/issues/2507 'Improve the UI of the deployed website') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
-`[08/09 07:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2507`](https://github.com//pranjay-poddar/Dev-Geeks/issues/2507 'Improve the UI of the deployed website') in [pranjay-poddar/Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)  
 
 </details>
 <!--END_SECTION:activity-->

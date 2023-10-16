@@ -181,14 +181,15 @@ JSON             27 hrs 38 mins  ██░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[10/15 23:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/awesome-chrome-extensions](https://github.com/gurjeetsinghvirdee/awesome-chrome-extensions)  
 `[10/15 23:35]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`wa_bulk_msg`](https://github.com/gurjeetsinghvirdee/awesome-chrome-extensions/tree/wa_bulk_msg) in [gurjeetsinghvirdee/awesome-chrome-extensions](https://github.com/gurjeetsinghvirdee/awesome-chrome-extensions)  
 `[10/15 23:25]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Miniato-Office/awesome-chrome-extensions](https://github.com/Miniato-Office/awesome-chrome-extensions) to [gurjeetsinghvirdee/awesome-chrome-extensions](https://github.com/gurjeetsinghvirdee/awesome-chrome-extensions)  
 `[10/15 23:24]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#16`](https://github.com//Miniato-Office/awesome-chrome-extensions/issues/16 'Add Number System Converter') in [Miniato-Office/awesome-chrome-extensions](https://github.com/Miniato-Office/awesome-chrome-extensions)  
 `[10/14 23:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/eth-fund](https://github.com/gurjeetsinghvirdee/eth-fund)  
-`[10/08 09:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/crypto-tracker](https://github.com/gurjeetsinghvirdee/crypto-tracker)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[10/08 09:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/crypto-tracker](https://github.com/gurjeetsinghvirdee/crypto-tracker)  
 `[10/08 08:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/eth-fund](https://github.com/gurjeetsinghvirdee/eth-fund)  
 `[10/08 08:39]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//gurjeetsinghvirdee/eth-fund/pull/3 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/eth-fund](https://github.com/gurjeetsinghvirdee/eth-fund)  
 `[10/07 21:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/crypto-tracker](https://github.com/gurjeetsinghvirdee/crypto-tracker)  
@@ -369,7 +370,6 @@ JSON             27 hrs 38 mins  ██░░░░░░░░░░░░░�
 `[08/09 10:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2838`](https://github.com//kunjgit/GameZone/issues/2838 '[Enhancement]: MENJA game is not playable ') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 10:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 10:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2841`](https://github.com//kunjgit/GameZone/pull/2841 'Resolved issue related to MENJA game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/09 10:56]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2841`](https://github.com//kunjgit/GameZone/pull/2841 'Resolved issue related to MENJA game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

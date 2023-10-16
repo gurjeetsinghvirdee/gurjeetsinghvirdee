@@ -160,7 +160,7 @@ JSON             27 hrs 38 mins  ██░░░░░░░░░░░░░�
 </table>
 
 <div align="center">
-    <img width="600" src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=discord&column=5&hide_border=true" /> 
+    <img width="600" src="https://github-profile-trophy.vercel.app/?username=gurjeetsinghvirdee&theme=discord&column=3&hide_border=true" /> 
 </div>
 
 <table>    

@@ -181,14 +181,15 @@ JSON             27 hrs 38 mins  ██░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[10/16 08:00]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#17`](https://github.com//Miniato-Office/awesome-chrome-extensions/pull/17 'Add - WA Bulk Messaage Sender') in [Miniato-Office/awesome-chrome-extensions](https://github.com/Miniato-Office/awesome-chrome-extensions)  
 `[10/15 23:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/awesome-chrome-extensions](https://github.com/gurjeetsinghvirdee/awesome-chrome-extensions)  
 `[10/15 23:35]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`wa_bulk_msg`](https://github.com/gurjeetsinghvirdee/awesome-chrome-extensions/tree/wa_bulk_msg) in [gurjeetsinghvirdee/awesome-chrome-extensions](https://github.com/gurjeetsinghvirdee/awesome-chrome-extensions)  
 `[10/15 23:25]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Miniato-Office/awesome-chrome-extensions](https://github.com/Miniato-Office/awesome-chrome-extensions) to [gurjeetsinghvirdee/awesome-chrome-extensions](https://github.com/gurjeetsinghvirdee/awesome-chrome-extensions)  
 `[10/15 23:24]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#16`](https://github.com//Miniato-Office/awesome-chrome-extensions/issues/16 'Add Number System Converter') in [Miniato-Office/awesome-chrome-extensions](https://github.com/Miniato-Office/awesome-chrome-extensions)  
-`[10/14 23:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/eth-fund](https://github.com/gurjeetsinghvirdee/eth-fund)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[10/14 23:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/eth-fund](https://github.com/gurjeetsinghvirdee/eth-fund)  
 `[10/08 09:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/crypto-tracker](https://github.com/gurjeetsinghvirdee/crypto-tracker)  
 `[10/08 08:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/eth-fund](https://github.com/gurjeetsinghvirdee/eth-fund)  
 `[10/08 08:39]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//gurjeetsinghvirdee/eth-fund/pull/3 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/eth-fund](https://github.com/gurjeetsinghvirdee/eth-fund)  

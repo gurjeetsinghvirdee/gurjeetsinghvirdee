@@ -1,4 +1,4 @@
-[![@guri's Holopin board](https://holopin.io/api/user/board?user=guri)](https://holopin.io/@guri)
+[![An image of @guri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/guri)](https://holopin.io/@guri)
 
 <!----------------------------------------------------------------ABOUT ME ----------------------------------------------------->
 

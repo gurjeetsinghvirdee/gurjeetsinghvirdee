@@ -181,14 +181,19 @@ JSON             27 hrs 38 mins  ██░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[10/21 19:32]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//EthPledge/eth-fund/pull/1 'Create _redirects') in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
+`[10/21 19:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
+`[10/21 19:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`test`](https://github.com/EthPledge/eth-fund/tree/test) in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
+`[10/21 19:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/portfolio](https://github.com/gurjeetsinghvirdee/portfolio)  
+`[10/21 19:18]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//gurjeetsinghvirdee/portfolio/pull/1 'Bump @babel/traverse from 7.20.13 to 7.23.2 in /backend_sanity') in [gurjeetsinghvirdee/portfolio](https://github.com/gurjeetsinghvirdee/portfolio)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[10/21 17:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [chhavi48/threejs_Drei](https://github.com/chhavi48/threejs_Drei)  
 `[10/17 19:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[10/16 20:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/awesome-chrome-extensions](https://github.com/gurjeetsinghvirdee/awesome-chrome-extensions)  
 `[10/16 20:12]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#19`](https://github.com//Miniato-Office/awesome-chrome-extensions/pull/19 'Add - MetaMask ') in [Miniato-Office/awesome-chrome-extensions](https://github.com/Miniato-Office/awesome-chrome-extensions)  
 `[10/16 20:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/awesome-chrome-extensions](https://github.com/gurjeetsinghvirdee/awesome-chrome-extensions)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/16 20:06]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`metamask`](https://github.com/gurjeetsinghvirdee/awesome-chrome-extensions/tree/metamask) in [gurjeetsinghvirdee/awesome-chrome-extensions](https://github.com/gurjeetsinghvirdee/awesome-chrome-extensions)  
 `[10/16 20:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/awesome-chrome-extensions](https://github.com/gurjeetsinghvirdee/awesome-chrome-extensions)  
 `[10/16 20:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#18`](https://github.com//Miniato-Office/awesome-chrome-extensions/issues/18 'Add - MetaMask') in [Miniato-Office/awesome-chrome-extensions](https://github.com/Miniato-Office/awesome-chrome-extensions)  
@@ -370,10 +375,6 @@ JSON             27 hrs 38 mins  ██░░░░░░░░░░░░░�
 `[08/09 15:24]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2856`](https://github.com//kunjgit/GameZone/pull/2856 'Game Addition') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 15:23]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2856`](https://github.com//kunjgit/GameZone/pull/2856 'Game Addition') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 14:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
-`[08/09 13:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/09 13:17]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2833`](https://github.com//kunjgit/GameZone/pull/2833 'Added a new game called Crossy Road') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/09 13:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2824`](https://github.com//kunjgit/GameZone/issues/2824 '[New game]: Crossy Road') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/09 11:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2842`](https://github.com//kunjgit/GameZone/issues/2842 '[New game]: Test your brain') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

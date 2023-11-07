@@ -177,14 +177,16 @@ JSON             27 hrs 38 mins  ██░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[11/07 08:35]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/CaptureHub/tree/master) in [gurjeetsinghvirdee/CaptureHub](https://github.com/gurjeetsinghvirdee/CaptureHub)  
+`[11/07 08:28]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/CaptureHub](https://github.com/gurjeetsinghvirdee/CaptureHub)  
 `[10/28 23:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)  
 `[10/28 23:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2725` commits in [gurjeetsinghvirdee/LinkFree](https://github.com/gurjeetsinghvirdee/LinkFree)  
 `[10/25 21:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[10/25 20:55]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//EthPledge/eth-fund/pull/2 'Update Readme.md') in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
-`[10/25 20:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[10/25 20:55]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//EthPledge/eth-fund/pull/2 'Update Readme.md') in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
+`[10/25 20:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
 `[10/25 20:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`readme`](https://github.com/EthPledge/eth-fund/tree/readme) in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
 `[10/23 19:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[10/23 19:31]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//gurjeetsinghvirdee/gssoc-website-new/pull/3 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
@@ -375,7 +377,6 @@ JSON             27 hrs 38 mins  ██░░░░░░░░░░░░░�
 `[08/09 15:52]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2854`](https://github.com//kunjgit/GameZone/issues/2854 '[New game]: mine-sweeper game') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 15:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2855`](https://github.com//kunjgit/GameZone/pull/2855 'my mine sweeper game is added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 `[08/09 15:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
-`[08/09 15:46]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2855`](https://github.com//kunjgit/GameZone/pull/2855 'my mine sweeper game is added') in [kunjgit/GameZone](https://github.com/kunjgit/GameZone)  
 
 </details>
 <!--END_SECTION:activity-->

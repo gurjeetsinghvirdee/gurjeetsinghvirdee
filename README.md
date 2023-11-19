@@ -356,8 +356,6 @@ JSON             27 hrs 39 mins  ██░░░░░░░░░░░░░�
 `[08/29 16:41]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#150`](https://github.com//girlscript/gssoc-website-new/pull/150 'typo error fixed & added some data') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[08/29 16:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[08/21 23:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/apple-vision-pro-clone](https://github.com/gurjeetsinghvirdee/apple-vision-pro-clone)  
-`[08/18 22:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[08/18 22:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [gurjeetsinghvirdee/apple-vision-pro-clone](https://github.com/gurjeetsinghvirdee/apple-vision-pro-clone)  
 
 </details>
 <!--END_SECTION:activity-->

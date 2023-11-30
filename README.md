@@ -355,7 +355,7 @@ JSON             27 hrs 42 mins  ██░░░░░░░░░░░░░�
 `[08/29 16:42]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#150`](https://github.com//girlscript/gssoc-website-new/pull/150 'typo error fixed & added some data') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[08/29 16:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[08/29 16:41]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#150`](https://github.com//girlscript/gssoc-website-new/pull/150 'typo error fixed & added some data') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[08/29 16:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
+`[08/29 16:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->

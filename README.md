@@ -183,14 +183,16 @@ JSON             27 hrs 42 mins  ██░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[12/03 14:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
+`[12/03 14:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/CaptureHub](https://github.com/gurjeetsinghvirdee/CaptureHub)  
 `[12/03 06:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)  
 `[11/24 16:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [appwrite/appwrite](https://github.com/appwrite/appwrite)  
 `[11/10 15:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [gurjeetsinghvirdee/CaptureHub](https://github.com/gurjeetsinghvirdee/CaptureHub)  
-`[11/07 08:35]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/CaptureHub/tree/master) in [gurjeetsinghvirdee/CaptureHub](https://github.com/gurjeetsinghvirdee/CaptureHub)  
-`[11/07 08:28]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/CaptureHub](https://github.com/gurjeetsinghvirdee/CaptureHub)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[11/07 08:35]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/CaptureHub/tree/master) in [gurjeetsinghvirdee/CaptureHub](https://github.com/gurjeetsinghvirdee/CaptureHub)  
+`[11/07 08:28]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/CaptureHub](https://github.com/gurjeetsinghvirdee/CaptureHub)  
 `[10/28 23:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)  
 `[10/28 23:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2725` commits in [gurjeetsinghvirdee/LinkFree](https://github.com/gurjeetsinghvirdee/LinkFree)  
 `[10/25 21:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  

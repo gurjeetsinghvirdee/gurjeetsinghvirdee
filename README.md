@@ -142,14 +142,24 @@ JSON             27 hrs 42 mins  ██░░░░░░░░░░░░░�
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[12/08 19:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
+`[12/08 19:35]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6`](https://github.com//EthPledge/eth-fund/pull/6 'Bump vite from 4.1.1 to 4.5.1 in /client/vite') in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
+`[12/08 19:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
+`[12/08 19:29]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5`](https://github.com//EthPledge/eth-fund/pull/5 'Bump @babel/traverse from 7.22.20 to 7.23.5 in /client') in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
+`[12/08 19:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[12/08 19:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//EthPledge/eth-fund/pull/3 'Bump browserify-sign from 4.2.1 to 4.2.2 in /client') in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
+`[12/08 19:26]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#3`](https://github.com//EthPledge/eth-fund/pull/3 'Bump browserify-sign from 4.2.1 to 4.2.2 in /client') in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
+`[12/08 19:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
+`[12/08 19:16]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//EthPledge/eth-fund/pull/4 'Bump crypto-js, @thirdweb-dev/react and @thirdweb-dev/sdk in /client') in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
+`[12/08 19:16]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#4`](https://github.com//EthPledge/eth-fund/pull/4 'Bump crypto-js, @thirdweb-dev/react and @thirdweb-dev/sdk in /client') in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
 `[12/07 11:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lusaxweb/vuesax-next](https://github.com/lusaxweb/vuesax-next)  
 `[12/03 17:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[12/03 14:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/CaptureHub](https://github.com/gurjeetsinghvirdee/CaptureHub)  
 `[12/03 06:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)  
 `[11/24 16:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [appwrite/appwrite](https://github.com/appwrite/appwrite)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[11/10 15:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [gurjeetsinghvirdee/CaptureHub](https://github.com/gurjeetsinghvirdee/CaptureHub)  
 `[11/07 08:35]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/CaptureHub/tree/master) in [gurjeetsinghvirdee/CaptureHub](https://github.com/gurjeetsinghvirdee/CaptureHub)  
 `[11/07 08:28]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/CaptureHub](https://github.com/gurjeetsinghvirdee/CaptureHub)  

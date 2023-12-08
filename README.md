@@ -269,7 +269,6 @@ JSON             27 hrs 42 mins  ██░░░░░░░░░░░░░�
 `[09/09 17:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/starting-with-threejs/tree/master) in [gurjeetsinghvirdee/starting-with-threejs](https://github.com/gurjeetsinghvirdee/starting-with-threejs)  
 `[09/09 17:17]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/starting-with-threejs](https://github.com/gurjeetsinghvirdee/starting-with-threejs)  
 `[09/09 17:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui)  
-`[09/07 19:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `40` commits in [gurjeetsinghvirdee/khugitshii](https://github.com/gurjeetsinghvirdee/khugitshii)  
 
 </details>
 <!--END_SECTION:activity-->

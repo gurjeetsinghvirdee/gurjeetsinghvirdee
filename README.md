@@ -1,11 +1,7 @@
-[![An image of @guri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/guri)](https://holopin.io/@guri)
-
 <!----------------------------------------------------------------ABOUT ME ----------------------------------------------------->
 
-## Hey Everyone👋
+![Banner](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/assets/73753957/dc3338a4-a0ee-413b-86e1-25a976f9b2ed)
 
-I am a skilled MERN Stack Developer with a passion for innovative design and a strong drive to join a creative, problem-solving team. Possessing the ability to learn and implement new technologies quickly, I am always looking to expand my skillset. As an open-source enthusiast, I have helped over 300+ students understand the importance of open-source and am currently in my Last year of **BCA** studies. 
-As a **Full Stack Intern at NullClass**, Co-Founder of [Medictry](https://www.linkedin.com/company/89489745), I am dedicated to exploring new technologies and sharing my knowledge with others, making me a valuable asset to any team.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

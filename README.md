@@ -256,8 +256,6 @@ JSON             27 hrs 42 mins  ██░░░░░░░░░░░░░�
 `[09/17 17:32]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/crowdfunding-platform](https://github.com/gurjeetsinghvirdee/crowdfunding-platform)  
 `[09/17 17:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/gurjeetsinghvirdee/crowdfunding-platform/tree/main) in [gurjeetsinghvirdee/crowdfunding-platform](https://github.com/gurjeetsinghvirdee/crowdfunding-platform)  
 `[09/17 17:30]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/crowdfunding-platform](https://github.com/gurjeetsinghvirdee/crowdfunding-platform)  
-`[09/17 11:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
-`[09/17 11:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->

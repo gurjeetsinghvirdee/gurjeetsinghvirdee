@@ -239,8 +239,7 @@ JSON             27 hrs 42 mins  ██░░░░░░░░░░░░░�
 `[09/28 23:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/eth-fund](https://github.com/gurjeetsinghvirdee/eth-fund)  
 `[09/28 08:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)  
 `[09/28 08:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript)  
-`[09/26 18:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/web3-crowdfunding](https://github.com/gurjeetsinghvirdee/web3-crowdfunding)  
-`[09/23 18:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [utkarsh006/WeTweets](https://github.com/utkarsh006/WeTweets)  
+`[09/26 18:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/web3-crowdfunding](https://github.com/gurjeetsinghvirdee/web3-crowdfunding)  
 
 </details>
 <!--END_SECTION:activity-->

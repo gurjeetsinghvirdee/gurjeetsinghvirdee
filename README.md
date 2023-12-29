@@ -232,7 +232,6 @@ JSON             27 hrs 42 mins  ██░░░░░░░░░░░░░�
 `[10/02 18:44]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#12`](https://github.com//pooranjoyb/React-Aura/issues/12 'Want to create a Cards Component Page') in [pooranjoyb/React-Aura](https://github.com/pooranjoyb/React-Aura)  
 `[10/02 17:39]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [pooranjoyb/React-Aura](https://github.com/pooranjoyb/React-Aura) to [gurjeetsinghvirdee/React-Aura](https://github.com/gurjeetsinghvirdee/React-Aura)  
 `[10/02 17:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#11`](https://github.com//pooranjoyb/React-Aura/issues/11 'Want to add custom Flip Card ') in [pooranjoyb/React-Aura](https://github.com/pooranjoyb/React-Aura)  
-`[09/29 00:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/eth-fund](https://github.com/gurjeetsinghvirdee/eth-fund)  
 
 </details>
 <!--END_SECTION:activity-->

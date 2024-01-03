@@ -228,8 +228,6 @@ JSON             27 hrs 42 mins  ██░░░░░░░░░░░░░�
 `[10/03 05:45]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#13`](https://github.com//pooranjoyb/React-Aura/pull/13 'Sidebar Component created') in [pooranjoyb/React-Aura](https://github.com/pooranjoyb/React-Aura)  
 `[10/03 05:32]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#13`](https://github.com//pooranjoyb/React-Aura/pull/13 'Sidebar Component created') in [pooranjoyb/React-Aura](https://github.com/pooranjoyb/React-Aura)  
 `[10/03 05:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/React-Aura](https://github.com/gurjeetsinghvirdee/React-Aura)  
-`[10/02 22:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#12`](https://github.com//pooranjoyb/React-Aura/issues/12 'Want to create a Cards Component Page') in [pooranjoyb/React-Aura](https://github.com/pooranjoyb/React-Aura)  
-`[10/02 22:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`gurjeetsinghvirdee`](https://github.com/gurjeetsinghvirdee/React-Aura/tree/gurjeetsinghvirdee) in [gurjeetsinghvirdee/React-Aura](https://github.com/gurjeetsinghvirdee/React-Aura)  
 
 </details>
 <!--END_SECTION:activity-->

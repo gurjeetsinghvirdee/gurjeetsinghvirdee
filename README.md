@@ -208,7 +208,6 @@ JSON             27 hrs 42 mins  ██░░░░░░░░░░░░░�
 `[10/06 17:06]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#51`](https://github.com//adrianhajdin/project_crowdfunding/issues/51 '[BugFix - getDonators and donateToCampaign give errors #40]') in [adrianhajdin/project_crowdfunding](https://github.com/adrianhajdin/project_crowdfunding)  
 `[10/06 16:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/eth-fund](https://github.com/gurjeetsinghvirdee/eth-fund)  
 `[10/06 16:04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#51`](https://github.com//adrianhajdin/project_crowdfunding/issues/51 '[BugFix - getDonators and donateToCampaign give errors #40]') in [adrianhajdin/project_crowdfunding](https://github.com/adrianhajdin/project_crowdfunding)  
-`[10/05 23:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/eth-fund](https://github.com/gurjeetsinghvirdee/eth-fund)  
 
 </details>
 <!--END_SECTION:activity-->

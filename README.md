@@ -204,8 +204,6 @@ JSON             27 hrs 42 mins  ██░░░░░░░░░░░░░�
 `[10/07 21:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/crypto-tracker](https://github.com/gurjeetsinghvirdee/crypto-tracker)  
 `[10/07 20:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/crypto-tracker/tree/master) in [gurjeetsinghvirdee/crypto-tracker](https://github.com/gurjeetsinghvirdee/crypto-tracker)  
 `[10/07 20:43]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/cryptocurrency-tracker](https://github.com/gurjeetsinghvirdee/cryptocurrency-tracker)  
-`[10/06 17:27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#51`](https://github.com//adrianhajdin/project_crowdfunding/issues/51 '[BugFix - getDonators and donateToCampaign give errors #40]') in [adrianhajdin/project_crowdfunding](https://github.com/adrianhajdin/project_crowdfunding)  
-`[10/06 17:06]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#51`](https://github.com//adrianhajdin/project_crowdfunding/issues/51 '[BugFix - getDonators and donateToCampaign give errors #40]') in [adrianhajdin/project_crowdfunding](https://github.com/adrianhajdin/project_crowdfunding)  
 
 </details>
 <!--END_SECTION:activity-->

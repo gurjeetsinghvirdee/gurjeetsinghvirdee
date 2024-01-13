@@ -2,14 +2,14 @@
 
 ![Banner](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/assets/73753957/dc3338a4-a0ee-413b-86e1-25a976f9b2ed)
 
+<div align="center">
+ <h3>Connect with me:</h3>
+ <a href="https://twitter.com/__gurii__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__gurii__" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurjeet-singh-virdee-25a476199/" height="30" width="40" /></a>
+ <a href="https://instagram.com/__.guri._._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.guri._._" height="30" width="40" /></a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/__gurii__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__gurii__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurjeet-singh-virdee-25a476199/" height="30" width="40" /></a>
-<a href="https://instagram.com/__.guri._._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.guri._._" height="30" width="40" /></a>
-<a href="https://hashnode.com/@gurjeetsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@gurjeetsingh" height="30" width="40" /></a>
-</p>
+<br>
  
 <div align="center">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgurjeetsinghvirdee%2Fgurjeetsinghvirdee&label=VISITORS&labelColor=%23d9e3f0&countColor=%232ccce4"  width="150" />
@@ -20,9 +20,8 @@
 <div>
        <ul align="left">
             <li> 🎉 Secured <strong>10th</strong> Rank Globally in <strong>GSSoC'22</strong> </li>
-            <li> 🏢 Co-Founder at <a href="https://www.linkedin.com/company/medictry/">MedicTry</a>
-            <li> 🔭 I’m currently working on <a href="https://github.com/gurjeetsinghvirdee/CaptureHub">CaptureHub</a></li>
-            <li> 🌱 I’m currently learning <strong>Next JS, System Design</strong> </li>
+            <li> 🏢 Building <a href="https://www.linkedin.com/company/medictry/">MedicTry</a>
+            <li> 🌱 I’m currently learning <strong>TypeScript</strong> </li>
             <li> 💬 Ask me about <strong>OpenSource</strong> </li>
             <li> 📫 How to reach me <strong><a href="mailto:gurjeetsinghvirdee@gmail.com?subject=Hello&body=Say%20Hi">gurjeetsinghvirdee@gmail.com</a></strong> </li> 
             <li> 📄 Know about my experiences <a href="https://drive.google.com/drive/u/0/folders/1wJQ3wMICqepBz3HoFzZcac2d7LlFdrrG">Resume</a></li> 

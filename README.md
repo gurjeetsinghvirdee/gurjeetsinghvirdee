@@ -17,16 +17,16 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
-<div>
-       <ul align="left">
-            <li> 🎉 Secured <strong>10th</strong> Rank Globally in <strong>GSSoC'22</strong> </li>
-            <li> 🏢 Building <a href="https://www.linkedin.com/company/medictry/">MedicTry</a>
-            <li> 🌱 I’m currently learning <strong>TypeScript</strong> </li>
-            <li> 💬 Ask me about <strong>OpenSource</strong> </li>
-            <li> 📫 How to reach me <strong><a href="mailto:gurjeetsinghvirdee@gmail.com?subject=Hello&body=Say%20Hi">gurjeetsinghvirdee@gmail.com</a></strong> </li> 
-            <li> 📄 Know about my experiences <a href="https://drive.google.com/drive/u/0/folders/1wJQ3wMICqepBz3HoFzZcac2d7LlFdrrG">Resume</a></li> 
-       </ul>  
-</div>
+
+- 🏆 Secured 10th Rank Globally in GSSoC'22
+- 🏢 Building MedicTry
+- 🌱 Currently learning TypeScript
+- 💬 Ask me about OpenSource
+- 🗣️ Spoke on Open Source Contribution
+- 🤝 Mentor in GSSoC twice, contributing to 4-5 projects
+- 🤝 Mentored almost 400+ participants
+- 📫 Reach me at gurjeetsinghvirdee@gmail.com
+- 📄 Explore my experiences in my [Resume](https://drive.google.com/file/d/14_RQ8vjp0dYJIzQ5mvKUfq_rKeSfS9MM/view?usp=sharing)
 
 <!--------------------------- Lanyard Profile--------------------------------->
 

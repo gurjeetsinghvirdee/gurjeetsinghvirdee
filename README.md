@@ -63,15 +63,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 July 2021 - To: 15 January 2024
+From: 27 July 2021 - To: 16 January 2024
 
-Total Time: 370 hrs 52 mins
+Total Time: 373 hrs 21 mins
 
-JavaScript       143 hrs 10 mins █████████▓░░░░░░░░░░░░░░░   38.60 %
-Markdown         71 hrs 6 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.17 %
-HTML             51 hrs 23 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
-CSS              44 hrs 13 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
-JSON             27 hrs 42 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+JavaScript       143 hrs 39 mins █████████▓░░░░░░░░░░░░░░░   38.48 %
+Markdown         72 hrs 56 mins  █████░░░░░░░░░░░░░░░░░░░░   19.54 %
+HTML             51 hrs 24 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
+CSS              44 hrs 20 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+JSON             27 hrs 42 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
 ```
 
 <!--END_SECTION:waka--> 

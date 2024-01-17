@@ -212,7 +212,6 @@ JSON             27 hrs 42 mins  ██░░░░░░░░░░░░░�
 `[10/16 20:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#18`](https://github.com//Miniato-Office/awesome-chrome-extensions/issues/18 'Add - MetaMask') in [Miniato-Office/awesome-chrome-extensions](https://github.com/Miniato-Office/awesome-chrome-extensions)  
 `[10/16 19:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#17`](https://github.com//Miniato-Office/awesome-chrome-extensions/issues/17 'Add - WA Bulk Messaage Sender') in [Miniato-Office/awesome-chrome-extensions](https://github.com/Miniato-Office/awesome-chrome-extensions)  
 `[10/16 19:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/awesome-chrome-extensions](https://github.com/gurjeetsinghvirdee/awesome-chrome-extensions)  
-`[10/16 08:00]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#17`](https://github.com//Miniato-Office/awesome-chrome-extensions/pull/17 'Add - WA Bulk Messaage Sender') in [Miniato-Office/awesome-chrome-extensions](https://github.com/Miniato-Office/awesome-chrome-extensions)  
 
 </details>
 <!--END_SECTION:activity-->

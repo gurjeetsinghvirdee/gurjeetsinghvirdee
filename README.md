@@ -186,11 +186,6 @@
 `[10/23 19:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[10/23 19:31]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//gurjeetsinghvirdee/gssoc-website-new/pull/3 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[10/23 19:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
-`[10/21 19:32]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//EthPledge/eth-fund/pull/1 'Create _redirects') in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
-`[10/21 19:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
-`[10/21 19:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`test`](https://github.com/EthPledge/eth-fund/tree/test) in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
-`[10/21 19:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/portfolio](https://github.com/gurjeetsinghvirdee/portfolio)  
-`[10/21 19:18]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//gurjeetsinghvirdee/portfolio/pull/1 'Bump @babel/traverse from 7.20.13 to 7.23.2 in /backend_sanity') in [gurjeetsinghvirdee/portfolio](https://github.com/gurjeetsinghvirdee/portfolio)  
 
 </details>
 <!--END_SECTION:activity-->

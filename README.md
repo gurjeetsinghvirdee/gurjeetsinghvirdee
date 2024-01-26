@@ -182,10 +182,6 @@
 `[11/07 08:28]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/CaptureHub](https://github.com/gurjeetsinghvirdee/CaptureHub)  
 `[10/28 23:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)  
 `[10/28 23:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2725` commits in [gurjeetsinghvirdee/LinkFree](https://github.com/gurjeetsinghvirdee/LinkFree)  
-`[10/25 21:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[10/25 20:55]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//EthPledge/eth-fund/pull/2 'Update Readme.md') in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
-`[10/25 20:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
-`[10/25 20:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`readme`](https://github.com/EthPledge/eth-fund/tree/readme) in [EthPledge/eth-fund](https://github.com/EthPledge/eth-fund)  
 
 </details>
 <!--END_SECTION:activity-->

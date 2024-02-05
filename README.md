@@ -121,7 +121,7 @@
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
-`[02/05 18:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises](https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises)  
+`[02/05 19:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises](https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises)  
 `[02/05 18:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mdx-js/mdx](https://github.com/mdx-js/mdx)  
 `[02/05 12:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises](https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises)  
 `[01/31 20:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gurjeetsinghvirdee/eth-fund](https://github.com/gurjeetsinghvirdee/eth-fund)  

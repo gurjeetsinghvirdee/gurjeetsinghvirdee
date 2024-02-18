@@ -199,10 +199,14 @@
 <table>    
 <tr>
   <td align="center">
-    <img width="400" src="https://stats.quine.sh/gurjeetsinghvirdee/languages-over-time?theme=dark">
+    <a href="https://quine.sh/user/gurjeetsinghvirdee">
+     <img width="400" src="https://stats.quine.sh/gurjeetsinghvirdee/languages-over-time?theme=dark">
+    </a>
   </td>
   <td align="center">
+   <a href="https://quine.sh/user/gurjeetsinghvirdee">
     <img width="400" src="https://stats.quine.sh/gurjeetsinghvirdee/topics-over-time?theme=dark" />
+   </a>
 </tr>
 </table>
 

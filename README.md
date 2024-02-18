@@ -192,6 +192,20 @@
 </details>
 <!--END_SECTION:activity-->
 
+<!-------------------------------- QUINE Stats ------------------------------------->
+
+### 📊 Quine Stats
+
+<table>    
+<tr>
+  <td align="center">
+    <img width="400" src="https://stats.quine.sh/gurjeetsinghvirdee/languages-over-time?theme=dark">
+  </td>
+  <td align="center">
+    <img width="400" src="https://stats.quine.sh/gurjeetsinghvirdee/topics-over-time?theme=dark" />
+</tr>
+</table>
+
 <!--------------------------------------------- 3D Contribution Graph -------------------------------------------->
 
 ![](./profile-3d-contrib/profile-gitblock.svg)

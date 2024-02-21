@@ -22,7 +22,7 @@
 - 🏢 Building MedicTry
 - 🌱 Currently learning TypeScript
 - 💬 Ask me about OpenSource
-- 🗣️ Spoke on Open Source Contribution
+- 🎙️ Spoke on Open Source Event about Git, GitHub, Version Control etc.
 - 🤝 Mentor in GSSoC twice, contributing to 4-5 projects
 - 🤝 Mentored almost 400+ participants
 - 📫 Reach me at gurjeetsinghvirdee@gmail.com

@@ -19,7 +19,7 @@
 
 <!---------------------------------------------------- ABOUT ME ---------------------------------------------------------------->
 
-🚀I'm Passionate about crafting immersive digital experiences and contributing to cutting-edge projects across various domains.
+### 🚀I'm Passionate about crafting immersive digital experiences and contributing to cutting-edge projects across various domains.
 
 💼 **Professional Experience**:
 - **MERN Stack Expertise**: Proficient in building robust web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack, leveraging the power of JavaScript throughout the development lifecycle.
@@ -34,13 +34,13 @@
 
 🎖️ **Achievements**:
 - **Secured 10th Rank Globally in GSSoC'22**: Achieved the remarkable milestone of securing the 10th rank globally in the Global Summer of Code (GSSoC) 2022 competition, showcasing dedication and proficiency in open source contributions.
-- 🎙️ **Spoke on Open Source Event about Git, GitHub, Version Control etc.**: Shared insights and expertise on topics such as Git, GitHub, and version control systems in an open source event, contributing to the dissemination of knowledge within the community.
-- 🤝 **Mentor in GSSoC twice, contributing to 4-5 projects**: Acted as a mentor in the Global Summer of Code (GSSoC) program on two occasions, providing guidance and support to participants across multiple projects, fostering learning and collaboration.
-- 🤝 **Mentored almost 400+ participants**: Demonstrated commitment to mentorship by guiding and mentoring a large cohort of over 400 participants, empowering them to thrive in their open source journey and make meaningful contributions to projects.
+- **Spoke on Open Source Event about Git, GitHub, Version Control etc.**: Shared insights and expertise on topics such as Git, GitHub, and version control systems in an open source event, contributing to the dissemination of knowledge within the community.
+- **Mentor in GSSoC twice, contributing to 4-5 projects**: Acted as a mentor in the Global Summer of Code (GSSoC) program on two occasions, providing guidance and support to participants across multiple projects, fostering learning and collaboration.
+- **Mentored almost 400+ participants**: Demonstrated commitment to mentorship by guiding and mentoring a large cohort of over 400 participants, empowering them to thrive in their open source journey and make meaningful contributions to projects.
 
-📫 **Contact**: Reach me at gurjeetsinghvirdee@gmail.com
+- 📧 **Contact**: Reach me at gurjeetsinghvirdee@gmail.com
   
-📄 **Resume**: Explore my experiences in my [Resume](https://drive.google.com/file/d/14_RQ8vjp0dYJIzQ5mvKUfq_rKeSfS9MM/view?usp=sharing)
+- 🗒️ **Resume**: Explore my experiences in my [Resume](https://drive.google.com/file/d/14_RQ8vjp0dYJIzQ5mvKUfq_rKeSfS9MM/view?usp=sharing)
 
 <!--------------------------- Lanyard Profile--------------------------------->
 

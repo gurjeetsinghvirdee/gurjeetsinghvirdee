@@ -17,16 +17,30 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
+<!---------------------------------------------------- ABOUT ME ---------------------------------------------------------------->
 
-- 🏆 Secured 10th Rank Globally in GSSoC'22
-- 🏢 Building MedicTry
-- 🌱 Currently learning TypeScript
-- 💬 Ask me about OpenSource
-- 🎙️ Spoke on Open Source Event about Git, GitHub, Version Control etc.
-- 🤝 Mentor in GSSoC twice, contributing to 4-5 projects
-- 🤝 Mentored almost 400+ participants
-- 📫 Reach me at gurjeetsinghvirdee@gmail.com
-- 📄 Explore my experiences in my [Resume](https://drive.google.com/file/d/14_RQ8vjp0dYJIzQ5mvKUfq_rKeSfS9MM/view?usp=sharing)
+🚀I'm Passionate about crafting immersive digital experiences and contributing to cutting-edge projects across various domains.
+
+💼 **Professional Experience**:
+- **MERN Stack Expertise**: Proficient in building robust web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack, leveraging the power of JavaScript throughout the development lifecycle.
+- **Technical Content Writer**: Experienced in translating complex technical concepts into comprehensive and engaging content. Authored articles, tutorials, and documentation on web development, software architecture, and emerging technologies.
+- **Creator & UI Designer**: Skilled in conceptualizing, designing, and implementing intuitive user interfaces that prioritize usability and aesthetics. Capable of managing multiple tasks simultaneously, from wireframing to front-end development.
+- **Open Source Advocate**: Passionate about open source initiatives and eager to share knowledge and experiences. Available to discuss anything related to open source, including contribution strategies, project management, and community engagement.
+
+🔍 **Current Focus**:
+- **Continuous Learning**: Committed to deepening understanding and proficiency in web development technologies. Actively exploring the inner workings of frameworks and libraries to gain insights into their mechanics, Expanding skillset by delving into TypeScript, a statically typed superset of JavaScript, to enhance proficiency and versatility in web development projects.
+- **Exploring Web3**: Delving into the realm of Web3 development, experimenting with decentralized applications (dApps), blockchain technology, and smart contracts to stay at the forefront of the digital revolution.
+- **Diverse Frameworks**: Versatile in working with various frameworks and tools, including TypeScript, Next.js, Vite, and Angular, to adapt to project requirements and deliver innovative solutions.
+
+🎖️ **Achievements**:
+- **Secured 10th Rank Globally in GSSoC'22**: Achieved the remarkable milestone of securing the 10th rank globally in the Global Summer of Code (GSSoC) 2022 competition, showcasing dedication and proficiency in open source contributions.
+- 🎙️ **Spoke on Open Source Event about Git, GitHub, Version Control etc.**: Shared insights and expertise on topics such as Git, GitHub, and version control systems in an open source event, contributing to the dissemination of knowledge within the community.
+- 🤝 **Mentor in GSSoC twice, contributing to 4-5 projects**: Acted as a mentor in the Global Summer of Code (GSSoC) program on two occasions, providing guidance and support to participants across multiple projects, fostering learning and collaboration.
+- 🤝 **Mentored almost 400+ participants**: Demonstrated commitment to mentorship by guiding and mentoring a large cohort of over 400 participants, empowering them to thrive in their open source journey and make meaningful contributions to projects.
+
+📫 **Contact**: Reach me at gurjeetsinghvirdee@gmail.com
+  
+📄 **Resume**: Explore my experiences in my [Resume](https://drive.google.com/file/d/14_RQ8vjp0dYJIzQ5mvKUfq_rKeSfS9MM/view?usp=sharing)
 
 <!--------------------------- Lanyard Profile--------------------------------->
 

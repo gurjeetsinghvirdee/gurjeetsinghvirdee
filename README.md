@@ -211,7 +211,6 @@
 `[12/03 17:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[12/03 14:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/CaptureHub](https://github.com/gurjeetsinghvirdee/CaptureHub)  
 `[12/03 06:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)  
-`[11/24 16:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [appwrite/appwrite](https://github.com/appwrite/appwrite)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -135,14 +135,15 @@
 ### ⚡ Recent Activity     
         
 <!--START_SECTION:activity-->  
+`[02/27 20:38]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `json_issue` from [gurjeetsinghvirdee/fork-commit-merge](https://github.com/gurjeetsinghvirdee/fork-commit-merge)  
 `[02/27 19:30]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [meshery/meshery.io](https://github.com/meshery/meshery.io) to [gurjeetsinghvirdee/meshery.io](https://github.com/gurjeetsinghvirdee/meshery.io)  
 `[02/27 19:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [meshery/meshery.io](https://github.com/meshery/meshery.io)  
 `[02/27 19:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge)  
 `[02/27 19:16]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2151`](https://github.com//fork-commit-merge/fork-commit-merge/pull/2151 'Add JSON data file with user details') in [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge)  
-`[02/27 19:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`json_issue`](https://github.com/gurjeetsinghvirdee/fork-commit-merge/tree/json_issue) in [gurjeetsinghvirdee/fork-commit-merge](https://github.com/gurjeetsinghvirdee/fork-commit-merge)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[02/27 19:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`json_issue`](https://github.com/gurjeetsinghvirdee/fork-commit-merge/tree/json_issue) in [gurjeetsinghvirdee/fork-commit-merge](https://github.com/gurjeetsinghvirdee/fork-commit-merge)  
 `[02/27 19:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `22` commits in [gurjeetsinghvirdee/fork-commit-merge](https://github.com/gurjeetsinghvirdee/fork-commit-merge)  
 `[02/27 19:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/studynotion](https://github.com/gurjeetsinghvirdee/studynotion)  
 `[02/27 14:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `easy-issue` from [gurjeetsinghvirdee/fork-commit-merge](https://github.com/gurjeetsinghvirdee/fork-commit-merge)  

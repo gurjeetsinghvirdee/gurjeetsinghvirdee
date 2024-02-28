@@ -49,7 +49,9 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />        
 <!------------------------------------------TESTIMONIALS----------------------------------------------->
         
-## ✨ Testimonials
+<h2>
+ <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/star%202.gif" width="35" height="30" /> Testimonials
+</h2>  
         
 <table>
   <tr>
@@ -98,7 +100,9 @@
 
 <!------------------------------------------------------------ GITHUB STATS ------------------------------------------------------------------------>
         
-## 💫 Github Stats
+<h2>
+ <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/star%203.gif" width="30" height="30" />  Github Stats
+</h2>
 
 <table>    
 <tr>

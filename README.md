@@ -49,7 +49,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />        
 <!------------------------------------------TESTIMONIALS----------------------------------------------->
         
-## <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/star%202.gif" width="35" height="30" /> Testimonials
+## Testimonials <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/star%202.gif" width="35" height="30" />
 
         
 <table>
@@ -75,7 +75,7 @@
 
 <!---------------------------------Frameworks, Languages & Other Tools ------------------------------------->        
         
-## ⚛️ Frameworks, Languages & Other Tools        
+## Skills <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/skills.gif" width="35" height="30" />
 
 | Category        | Skills        |
 |-----------------|---------------|
@@ -91,7 +91,7 @@
  
 <!------------------------------------------------------------ GITHUB STATS ------------------------------------------------------------------------>
         
-## <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/star%203.gif" width="30" height="30" /> Github Stats
+## Github Stats <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/star%203.gif" width="30" height="30" /> 
 
 
 <table>    
@@ -242,7 +242,7 @@
 
 <!-------------------------------- QUINE Stats ------------------------------------->
 
-### 📊 Quine Stats
+## Quine Stats 
 
 <table>    
 <tr>

@@ -51,7 +51,6 @@
         
 ## Testimonials <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/star%202.gif" width="35" height="30" />
 
-        
 <table>
   <tr>
     <th>Author</th>
@@ -92,7 +91,6 @@
 <!------------------------------------------------------------ GITHUB STATS ------------------------------------------------------------------------>
         
 ## Github Stats <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/star%203.gif" width="30" height="30" /> 
-
 
 <table>    
 <tr>
@@ -242,7 +240,7 @@
 
 <!-------------------------------- QUINE Stats ------------------------------------->
 
-## Quine Stats 
+## Quine Stats <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/stats.gif" width="30" height="35" /> 
 
 <table>    
 <tr>

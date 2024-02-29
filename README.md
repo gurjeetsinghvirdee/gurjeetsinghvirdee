@@ -117,6 +117,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gurjeetsinghvirdee&theme=synthwave-84&true&hide_border=true" />
 </div>
 
+<br>
         
 <!--START_SECTION:activity-->  
 `[02/28 22:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  

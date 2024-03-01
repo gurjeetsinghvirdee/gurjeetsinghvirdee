@@ -45,7 +45,7 @@
 
 <!---------------------------------Frameworks, Languages & Other Tools ------------------------------------->        
         
-## Competencies <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/skills.gif" width="35" height="30" />
+## <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/skills.gif" width="35" height="30" /> Competencies
 
 | Category        | Skills        |
 |-----------------|---------------|

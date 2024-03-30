@@ -34,7 +34,7 @@
 - **Diverse Frameworks**: Versatile in working with various frameworks and tools, including TypeScript, Next.js, Vite, and Angular, to adapt to project requirements and deliver innovative solutions.
 
 🎖️ **Achievements**:
-- **Secured 10th Rank Globally in GSSoC'22**: Achieved the remarkable milestone of securing the 10th rank globally in the Global Summer of Code (GSSoC) 2022 competition, showcasing dedication and proficiency in open source contributions.
+- **Secured 10th Rank Globally in GSSoC'22**: Achieved the remarkable milestone of securing the 10th rank globally in the GirlScript Summer of Code (GSSoC) 2022 competition, showcasing dedication and proficiency in open source contributions.
 - **Spoke on Open Source Event about Git, GitHub, Version Control etc.**: Shared insights and expertise on topics such as Git, GitHub, and version control systems in an open source event, contributing to the dissemination of knowledge within the community.
 - **Mentor in GSSoC twice, contributing to 4-5 projects**: Acted as a mentor in the GirlScript Summer of Code (GSSoC) program on two occasions, providing guidance and support to participants across multiple projects, fostering learning and collaboration.
 - **Mentored Hundered of Participants**: Demonstrated commitment to mentorship by guiding and mentoring a large cohort of over 400 participants, empowering them to thrive in their open source journey and make meaningful contributions to projects.

@@ -60,6 +60,10 @@
     <a href="https://discord.com/users/916597112882495510"><img src="https://lanyard.cnrad.dev/api/916597112882495510" /></a>
 </div>
 
+<div align="center">
+  <a href="https://wakatime.com/@gurjeetsinghvirdee"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=gurjeetsinghvirdee&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats" /></a>
+</div>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />        
 <!------------------------------------------TESTIMONIALS----------------------------------------------->
         

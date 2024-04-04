@@ -57,7 +57,7 @@
 <!--------------------------- Lanyard Profile--------------------------------->
 
 <div align="center">        
-    <a href="https://discord.com/users/916597112882495510"><img src="https://lanyard.cnrad.dev/api/916597112882495510" /></a>
+    <a href="https://discord.com/users/916597112882495510"><img src="https://lanyard.cnrad.dev/api/916597112882495510" width="500" /></a>
 </div>
 
 <div align="center">

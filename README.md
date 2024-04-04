@@ -1,6 +1,6 @@
 <!------------------------------------------------- HEADER BANNER ---------------------------------------------------->
 
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+![github banner](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/assets/73753957/5cd112f1-fee3-4079-a01c-b80f329a962a)
 
 <div align="center">
  <h3>Connect with me:</h3>

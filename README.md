@@ -1,6 +1,6 @@
 <!------------------------------------------------- HEADER BANNER ---------------------------------------------------->
 
-![github banner](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/assets/73753957/5cd112f1-fee3-4079-a01c-b80f329a962a)
+![github_banner](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/assets/73753957/a3dd3e5b-c28a-4854-be54-fbf27b764be5)
 
 <div align="center">
  <h3>Connect with me:</h3>

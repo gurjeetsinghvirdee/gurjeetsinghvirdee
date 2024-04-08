@@ -125,14 +125,16 @@
 <br>
         
 <!--START_SECTION:activity-->  
+`[04/08 19:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [material-components/material-web](https://github.com/material-components/material-web)  
+`[04/08 19:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/studynotion](https://github.com/gurjeetsinghvirdee/studynotion)  
 `[04/08 18:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[04/08 17:42]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [mui/mui-toolpad](https://github.com/mui/mui-toolpad) to [gurjeetsinghvirdee/mui-toolpad](https://github.com/gurjeetsinghvirdee/mui-toolpad)  
 `[04/08 17:42]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#3371`](https://github.com//mui/mui-toolpad/issues/3371 'Update Header UI to show GitHub stars') in [mui/mui-toolpad](https://github.com/mui/mui-toolpad)  
-`[04/08 17:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mui/mui-toolpad](https://github.com/mui/mui-toolpad)  
-`[04/08 17:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [directus/directus](https://github.com/directus/directus)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[04/08 17:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mui/mui-toolpad](https://github.com/mui/mui-toolpad)  
+`[04/08 17:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [directus/directus](https://github.com/directus/directus)  
 `[04/07 20:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/studynotion](https://github.com/gurjeetsinghvirdee/studynotion)  
 `[04/06 15:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)  
 `[04/06 07:00]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#165`](https://github.com//appwrite/pink/issues/165 '🚀 Enhancement: Update Footer Year to Reflect Current Year') in [appwrite/pink](https://github.com/appwrite/pink)  
@@ -260,7 +262,7 @@
 `[01/12 22:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nocodb/nocodb](https://github.com/nocodb/nocodb)  
 `[01/12 20:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises](https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises)  
 `[01/12 17:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [singodiyashubham87/ScrapeIt](https://github.com/singodiyashubham87/ScrapeIt)  
-`[01/12 11:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises](https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises)  
+`[01/12 11:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises](https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises)  
 
 </details>
 <!--END_SECTION:activity-->

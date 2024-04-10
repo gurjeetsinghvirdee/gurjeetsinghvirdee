@@ -125,14 +125,15 @@
 <br>
         
 <!--START_SECTION:activity-->  
+`[04/10 14:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/studynotion](https://github.com/gurjeetsinghvirdee/studynotion)  
 `[04/10 07:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `19` commits in [gurjeetsinghvirdee/Badges4-README.md-Profile](https://github.com/gurjeetsinghvirdee/Badges4-README.md-Profile)  
 `[04/09 17:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/pink](https://github.com/gurjeetsinghvirdee/pink)  
 `[04/09 15:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/mui-toolpad](https://github.com/gurjeetsinghvirdee/mui-toolpad)  
 `[04/09 14:58]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3371`](https://github.com//mui/mui-toolpad/issues/3371 'Update Header UI to show GitHub stars') in [mui/mui-toolpad](https://github.com/mui/mui-toolpad)  
-`[04/09 08:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/pink](https://github.com/gurjeetsinghvirdee/pink)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[04/09 08:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/pink](https://github.com/gurjeetsinghvirdee/pink)  
 `[04/09 07:54]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3371`](https://github.com//mui/mui-toolpad/issues/3371 'Update Header UI to show GitHub stars') in [mui/mui-toolpad](https://github.com/mui/mui-toolpad)  
 `[04/08 21:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/portfolio](https://github.com/gurjeetsinghvirdee/portfolio)  
 `[04/08 21:22]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//gurjeetsinghvirdee/portfolio/pull/2 'Bump webpack-dev-middleware from 5.3.3 to 5.3.4 in /frontend_react') in [gurjeetsinghvirdee/portfolio](https://github.com/gurjeetsinghvirdee/portfolio)  
@@ -265,7 +266,7 @@
 `[01/13 18:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [devicons/devicon](https://github.com/devicons/devicon)  
 `[01/13 18:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[01/13 18:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/CaptureHub](https://github.com/gurjeetsinghvirdee/CaptureHub)  
-`[01/13 18:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `19` commits in [gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises](https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises)  
+`[01/13 18:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises](https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises)  
 
 </details>
 <!--END_SECTION:activity-->

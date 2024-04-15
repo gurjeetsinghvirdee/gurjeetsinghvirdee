@@ -125,7 +125,7 @@
 <br>
         
 <!--START_SECTION:activity-->  
-`[04/15 12:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/study-notion](https://github.com/gurjeetsinghvirdee/study-notion)  
+`[04/15 12:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/study-notion](https://github.com/gurjeetsinghvirdee/study-notion)  
 `[04/15 10:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/study-notion/tree/master) in [gurjeetsinghvirdee/study-notion](https://github.com/gurjeetsinghvirdee/study-notion)  
 `[04/15 10:56]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/study-notion](https://github.com/gurjeetsinghvirdee/study-notion)  
 `[04/14 18:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/studynotion](https://github.com/gurjeetsinghvirdee/studynotion)  

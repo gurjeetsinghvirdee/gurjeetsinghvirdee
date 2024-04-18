@@ -272,7 +272,6 @@
 `[01/23 09:57]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/resturant-menu-application](https://github.com/gurjeetsinghvirdee/resturant-menu-application)  
 `[01/19 09:03]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [supabase/supabase](https://github.com/supabase/supabase) to [gurjeetsinghvirdee/supabase](https://github.com/gurjeetsinghvirdee/supabase)  
 `[01/19 09:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [supabase/supabase](https://github.com/supabase/supabase)  
-`[01/17 20:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -125,14 +125,17 @@
 <br>
         
 <!--START_SECTION:activity-->  
+`[04/25 17:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//deborahsv/About-Me/issues/1 'Contact Details') in [deborahsv/About-Me](https://github.com/deborahsv/About-Me)  
+`[04/25 17:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//deborahsv/About-Me/issues/1 'Contact Details') in [deborahsv/About-Me](https://github.com/deborahsv/About-Me)  
+`[04/25 17:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//deborahsv/About-Me/issues/1 'Contact Details') in [deborahsv/About-Me](https://github.com/deborahsv/About-Me)  
 `[04/24 11:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/event-hub](https://github.com/gurjeetsinghvirdee/event-hub)  
 `[04/23 22:40]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub) to [gurjeetsinghvirdee/LinksHub](https://github.com/gurjeetsinghvirdee/LinksHub)  
-`[04/23 22:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Anmol-Baranwal/Designlyfe](https://github.com/Anmol-Baranwal/Designlyfe)  
-`[04/23 20:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/event-hub](https://github.com/gurjeetsinghvirdee/event-hub)  
-`[04/23 17:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[04/23 22:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Anmol-Baranwal/Designlyfe](https://github.com/Anmol-Baranwal/Designlyfe)  
+`[04/23 20:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/event-hub](https://github.com/gurjeetsinghvirdee/event-hub)  
+`[04/23 17:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[04/23 17:04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//gurjeetsinghvirdee/gssoc-website-new/pull/4 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[04/23 12:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[04/23 12:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [gurjeetsinghvirdee/event-hub](https://github.com/gurjeetsinghvirdee/event-hub)  
@@ -284,9 +287,6 @@
 `[02/05 12:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises](https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises)  
 `[01/31 20:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gurjeetsinghvirdee/eth-fund](https://github.com/gurjeetsinghvirdee/eth-fund)  
 `[01/31 20:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gurjeetsinghvirdee/Badges4-README.md-Profile](https://github.com/gurjeetsinghvirdee/Badges4-README.md-Profile)  
-`[01/31 20:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/CareerAdda](https://github.com/gurjeetsinghvirdee/CareerAdda)  
-`[01/31 20:06]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ishikagoyal02/CareerAdda](https://github.com/ishikagoyal02/CareerAdda) to [gurjeetsinghvirdee/CareerAdda](https://github.com/gurjeetsinghvirdee/CareerAdda)  
-`[01/31 19:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [gurjeetsinghvirdee/Badges4-README.md-Profile](https://github.com/gurjeetsinghvirdee/Badges4-README.md-Profile)  
 
 </details>
 <!--END_SECTION:activity-->

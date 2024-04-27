@@ -125,14 +125,15 @@
 <br>
         
 <!--START_SECTION:activity-->  
+`[04/27 10:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/event-hub](https://github.com/gurjeetsinghvirdee/event-hub)  
 `[04/26 00:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Olshansk/interview](https://github.com/Olshansk/interview)  
 `[04/25 23:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [radix-ui/primitives](https://github.com/radix-ui/primitives)  
 `[04/25 23:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [una-ui/una-ui](https://github.com/una-ui/una-ui)  
 `[04/25 18:36]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//deborahsv/About-Me/issues/1 'Contact Details') in [deborahsv/About-Me](https://github.com/deborahsv/About-Me)  
-`[04/25 17:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//deborahsv/About-Me/issues/1 'Contact Details') in [deborahsv/About-Me](https://github.com/deborahsv/About-Me)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[04/25 17:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//deborahsv/About-Me/issues/1 'Contact Details') in [deborahsv/About-Me](https://github.com/deborahsv/About-Me)  
 `[04/25 17:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//deborahsv/About-Me/issues/1 'Contact Details') in [deborahsv/About-Me](https://github.com/deborahsv/About-Me)  
 `[04/25 17:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//deborahsv/About-Me/issues/1 'Contact Details') in [deborahsv/About-Me](https://github.com/deborahsv/About-Me)  
 `[04/24 11:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/event-hub](https://github.com/gurjeetsinghvirdee/event-hub)  
@@ -288,7 +289,7 @@
 `[02/17 15:25]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/studynotion](https://github.com/gurjeetsinghvirdee/studynotion)  
 `[02/07 18:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises](https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises)  
 `[02/05 18:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mdx-js/mdx](https://github.com/mdx-js/mdx)  
-`[02/05 12:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises](https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises)  
+`[02/05 12:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises](https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises)  
 
 </details>
 <!--END_SECTION:activity-->

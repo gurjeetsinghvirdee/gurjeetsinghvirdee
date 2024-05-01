@@ -31,7 +31,7 @@
 🔍 **Current Focus**:
 - **Continuous Learning**: Committed to deepening understanding and proficiency in web development technologies. Actively exploring the inner workings of frameworks and libraries to gain insights into their mechanics, Expanding skillset by delving into TypeScript, a statically typed superset of JavaScript, to enhance proficiency and versatility in web development projects.
 - **Exploring Web3**: Delving into the realm of Web3 development, experimenting with decentralized applications (dApps), blockchain technology, and smart contracts to stay at the forefront of the digital revolution.
-- **Diverse Frameworks**: Versatile in working with various frameworks and tools, including TypeScript, Next.js, Vite, and Angular, to adapt to project requirements and deliver innovative solutions.
+- **Diverse Frameworks**: Versatile in working with various frameworks and tools, including TypeScript, Next.js, and Angular, to adapt to project requirements and deliver innovative solutions.
 
 🎖️ **Achievements**:
 - **Secured 10th Rank Globally in GSSoC'22**: Achieved the remarkable milestone of securing the 10th rank globally in the GirlScript Summer of Code (GSSoC) 2022 competition, showcasing dedication and proficiency in open source contributions.

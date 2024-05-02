@@ -119,14 +119,16 @@
 <br>
         
 <!--START_SECTION:activity-->  
+`[05/02 07:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
+`[05/02 07:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[05/01 19:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[05/01 08:34]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [education/Series-Intro-to-GitHub-Flow](https://github.com/education/Series-Intro-to-GitHub-Flow) to [gurjeetsinghvirdee/Series-Intro-to-GitHub-Flow](https://github.com/gurjeetsinghvirdee/Series-Intro-to-GitHub-Flow)  
 `[05/01 06:52]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [appwrite/appwrite](https://github.com/appwrite/appwrite) to [gurjeetsinghvirdee/appwrite](https://github.com/gurjeetsinghvirdee/appwrite)  
-`[04/30 07:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [balmjs/balm-ui](https://github.com/balmjs/balm-ui)  
-`[04/29 21:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[04/30 07:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [balmjs/balm-ui](https://github.com/balmjs/balm-ui)  
+`[04/29 21:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[04/29 20:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/first-contribution](https://github.com/gurjeetsinghvirdee/first-contribution)  
 `[04/29 20:36]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#10`](https://github.com//gurjeetsinghvirdee/first-contribution/pull/10 'added myself') in [gurjeetsinghvirdee/first-contribution](https://github.com/gurjeetsinghvirdee/first-contribution)  
 `[04/29 20:36]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#10`](https://github.com//gurjeetsinghvirdee/first-contribution/pull/10 'added myself') in [gurjeetsinghvirdee/first-contribution](https://github.com/gurjeetsinghvirdee/first-contribution)  
@@ -292,7 +294,7 @@
 `[02/17 22:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/studynotion](https://github.com/gurjeetsinghvirdee/studynotion)  
 `[02/17 15:26]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/studynotion/tree/master) in [gurjeetsinghvirdee/studynotion](https://github.com/gurjeetsinghvirdee/studynotion)  
 `[02/17 15:25]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/studynotion](https://github.com/gurjeetsinghvirdee/studynotion)  
-`[02/07 18:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises](https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises)  
+`[02/07 18:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises](https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises)  
 
 </details>
 <!--END_SECTION:activity-->

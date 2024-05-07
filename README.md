@@ -119,14 +119,15 @@
 <br>
         
 <!--START_SECTION:activity-->  
+`[05/07 06:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#136`](https://github.com//girlscript/gssoc-website-new/issues/136 '[Enhancement] : Fixing FAQ section') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[05/02 17:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [radix-ui/themes](https://github.com/radix-ui/themes)  
 `[05/02 12:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [angular/components](https://github.com/angular/components)  
 `[05/02 07:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[05/02 07:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[05/01 19:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[05/01 19:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[05/01 08:34]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [education/Series-Intro-to-GitHub-Flow](https://github.com/education/Series-Intro-to-GitHub-Flow) to [gurjeetsinghvirdee/Series-Intro-to-GitHub-Flow](https://github.com/gurjeetsinghvirdee/Series-Intro-to-GitHub-Flow)  
 `[05/01 06:52]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [appwrite/appwrite](https://github.com/appwrite/appwrite) to [gurjeetsinghvirdee/appwrite](https://github.com/gurjeetsinghvirdee/appwrite)  
 `[04/30 07:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [balmjs/balm-ui](https://github.com/balmjs/balm-ui)  

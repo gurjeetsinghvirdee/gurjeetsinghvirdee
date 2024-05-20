@@ -119,7 +119,7 @@
 <br>
         
 <!--START_SECTION:activity-->  
-`[05/20 13:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
+`[05/20 18:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
 `[05/20 12:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [gurjeetsinghvirdee/txt-to-bookmark](https://github.com/gurjeetsinghvirdee/txt-to-bookmark)  
 `[05/20 07:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/txt-to-bookmark/tree/master) in [gurjeetsinghvirdee/txt-to-bookmark](https://github.com/gurjeetsinghvirdee/txt-to-bookmark)  
 `[05/20 07:46]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/txt-to-bookmark](https://github.com/gurjeetsinghvirdee/txt-to-bookmark)  
@@ -299,7 +299,6 @@
 `[02/26 20:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Canvas-Art-Generator-in-JavaScript](https://github.com/gurjeetsinghvirdee/Canvas-Art-Generator-in-JavaScript)  
 `[02/26 20:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [gurjeetsinghvirdee/studynotion](https://github.com/gurjeetsinghvirdee/studynotion)  
 `[02/22 17:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cschroeter/park-ui](https://github.com/cschroeter/park-ui)  
-`[02/22 17:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 
 </details>
 <!--END_SECTION:activity-->

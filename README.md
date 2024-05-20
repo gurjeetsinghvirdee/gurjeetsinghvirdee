@@ -119,14 +119,15 @@
 <br>
         
 <!--START_SECTION:activity-->  
+`[05/20 09:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/txt-to-bookmark](https://github.com/gurjeetsinghvirdee/txt-to-bookmark)  
 `[05/20 07:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/txt-to-bookmark/tree/master) in [gurjeetsinghvirdee/txt-to-bookmark](https://github.com/gurjeetsinghvirdee/txt-to-bookmark)  
 `[05/20 07:46]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/txt-to-bookmark](https://github.com/gurjeetsinghvirdee/txt-to-bookmark)  
 `[05/18 09:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[05/15 17:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `34` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
-`[05/07 14:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#149`](https://github.com//girlscript/gssoc-website-new/issues/149 '[Bug] :Missing Redirect Links for  Social Icons') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[05/07 14:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#149`](https://github.com//girlscript/gssoc-website-new/issues/149 '[Bug] :Missing Redirect Links for  Social Icons') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[05/07 14:32]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#114`](https://github.com//girlscript/gssoc-website-new/issues/114 'Social Flow icon not visible when scrolled to bottom of page in dark mode') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[05/07 14:32]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#114`](https://github.com//girlscript/gssoc-website-new/issues/114 'Social Flow icon not visible when scrolled to bottom of page in dark mode') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[05/07 14:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [gurjeetsinghvirdee/appwrite](https://github.com/gurjeetsinghvirdee/appwrite)  

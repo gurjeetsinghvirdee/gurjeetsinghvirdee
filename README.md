@@ -119,14 +119,15 @@
 <br>
         
 <!--START_SECTION:activity-->  
+`[05/21 18:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/appwrite-data-manager](https://github.com/gurjeetsinghvirdee/appwrite-data-manager)  
 `[05/21 17:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//gurjeetsinghvirdee/appwrite-data-manager/issues/1 'Project Task Tracker') in [gurjeetsinghvirdee/appwrite-data-manager](https://github.com/gurjeetsinghvirdee/appwrite-data-manager)  
 `[05/21 13:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [gurjeetsinghvirdee/appwrite-data-manager](https://github.com/gurjeetsinghvirdee/appwrite-data-manager)  
 `[05/20 21:54]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/appwrite-data-manager](https://github.com/gurjeetsinghvirdee/appwrite-data-manager)  
 `[05/20 21:54]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/appwrite-data-manager/tree/master) in [gurjeetsinghvirdee/appwrite-data-manager](https://github.com/gurjeetsinghvirdee/appwrite-data-manager)  
-`[05/20 21:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[05/20 21:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
 `[05/20 20:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
 `[05/20 20:16]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//gurjeetsinghvirdee/text-to-bookmark/pull/3 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
 `[05/20 20:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
@@ -290,7 +291,6 @@
 `[02/28 14:22]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`react-todo`](https://github.com/gurjeetsinghvirdee/fork-commit-merge/tree/react-todo) in [gurjeetsinghvirdee/fork-commit-merge](https://github.com/gurjeetsinghvirdee/fork-commit-merge)  
 `[02/28 13:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/fork-commit-merge](https://github.com/gurjeetsinghvirdee/fork-commit-merge)  
 `[02/28 13:59]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `css_easy` from [gurjeetsinghvirdee/fork-commit-merge](https://github.com/gurjeetsinghvirdee/fork-commit-merge)  
-`[02/28 13:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/studynotion](https://github.com/gurjeetsinghvirdee/studynotion)  
 
 </details>
 <!--END_SECTION:activity-->

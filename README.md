@@ -119,7 +119,7 @@
 <br>
         
 <!--START_SECTION:activity-->  
-`[05/21 10:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/appwrite-data-manager](https://github.com/gurjeetsinghvirdee/appwrite-data-manager)  
+`[05/21 12:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/appwrite-data-manager](https://github.com/gurjeetsinghvirdee/appwrite-data-manager)  
 `[05/20 21:54]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/appwrite-data-manager](https://github.com/gurjeetsinghvirdee/appwrite-data-manager)  
 `[05/20 21:54]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/appwrite-data-manager/tree/master) in [gurjeetsinghvirdee/appwrite-data-manager](https://github.com/gurjeetsinghvirdee/appwrite-data-manager)  
 `[05/20 21:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
@@ -295,10 +295,6 @@
 `[02/28 13:12]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`css_easy`](https://github.com/gurjeetsinghvirdee/fork-commit-merge/tree/css_easy) in [gurjeetsinghvirdee/fork-commit-merge](https://github.com/gurjeetsinghvirdee/fork-commit-merge)  
 `[02/28 13:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [gurjeetsinghvirdee/fork-commit-merge](https://github.com/gurjeetsinghvirdee/fork-commit-merge)  
 `[02/28 13:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/studynotion](https://github.com/gurjeetsinghvirdee/studynotion)  
-`[02/27 22:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/fork-commit-merge](https://github.com/gurjeetsinghvirdee/fork-commit-merge)  
-`[02/27 22:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/studynotion](https://github.com/gurjeetsinghvirdee/studynotion)  
-`[02/27 20:38]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `json_issue` from [gurjeetsinghvirdee/fork-commit-merge](https://github.com/gurjeetsinghvirdee/fork-commit-merge)  
-`[02/27 19:30]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [meshery/meshery.io](https://github.com/meshery/meshery.io) to [gurjeetsinghvirdee/meshery.io](https://github.com/gurjeetsinghvirdee/meshery.io)  
 
 </details>
 <!--END_SECTION:activity-->

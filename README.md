@@ -119,19 +119,14 @@
 <br>
         
 <!--START_SECTION:activity-->  
-`[05/21 18:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/appwrite-data-manager](https://github.com/gurjeetsinghvirdee/appwrite-data-manager)  
-`[05/21 17:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//gurjeetsinghvirdee/appwrite-data-manager/issues/1 'Project Task Tracker') in [gurjeetsinghvirdee/appwrite-data-manager](https://github.com/gurjeetsinghvirdee/appwrite-data-manager)  
-`[05/21 13:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [gurjeetsinghvirdee/appwrite-data-manager](https://github.com/gurjeetsinghvirdee/appwrite-data-manager)  
-`[05/20 21:54]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/appwrite-data-manager](https://github.com/gurjeetsinghvirdee/appwrite-data-manager)  
-`[05/20 21:54]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/appwrite-data-manager/tree/master) in [gurjeetsinghvirdee/appwrite-data-manager](https://github.com/gurjeetsinghvirdee/appwrite-data-manager)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[05/20 21:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
 `[05/20 20:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
 `[05/20 20:16]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//gurjeetsinghvirdee/text-to-bookmark/pull/3 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
 `[05/20 20:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
 `[05/20 20:06]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//gurjeetsinghvirdee/text-to-bookmark/pull/2 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[05/20 20:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
 `[05/20 19:38]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//gurjeetsinghvirdee/text-to-bookmark/pull/1 'Customization Feature Usage') in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
 `[05/20 19:38]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//gurjeetsinghvirdee/text-to-bookmark/pull/1 'Customization Feature Usage') in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  

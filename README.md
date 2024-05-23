@@ -119,14 +119,15 @@
 <br>
         
 <!--START_SECTION:activity-->  
+`[05/23 13:08]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v0.0.7`](https://github.com/gurjeetsinghvirdee/text-to-bookmark/releases/tag/v0.0.7) in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
 `[05/22 15:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/appwrite-data-manager](https://github.com/gurjeetsinghvirdee/appwrite-data-manager)  
 `[05/20 21:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
 `[05/20 20:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
 `[05/20 20:16]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//gurjeetsinghvirdee/text-to-bookmark/pull/3 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
-`[05/20 20:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[05/20 20:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
 `[05/20 20:06]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//gurjeetsinghvirdee/text-to-bookmark/pull/2 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
 `[05/20 20:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
 `[05/20 19:38]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//gurjeetsinghvirdee/text-to-bookmark/pull/1 'Customization Feature Usage') in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
@@ -284,8 +285,6 @@
 `[02/28 18:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/fork-commit-merge](https://github.com/gurjeetsinghvirdee/fork-commit-merge)  
 `[02/28 18:11]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `react-todo` from [gurjeetsinghvirdee/fork-commit-merge](https://github.com/gurjeetsinghvirdee/fork-commit-merge)  
 `[02/28 14:23]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2156`](https://github.com//fork-commit-merge/fork-commit-merge/pull/2156 'Implement Simple Card Component with LoremFlickr API Integration') in [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge)  
-`[02/28 14:22]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`react-todo`](https://github.com/gurjeetsinghvirdee/fork-commit-merge/tree/react-todo) in [gurjeetsinghvirdee/fork-commit-merge](https://github.com/gurjeetsinghvirdee/fork-commit-merge)  
-`[02/28 13:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/fork-commit-merge](https://github.com/gurjeetsinghvirdee/fork-commit-merge)  
 
 </details>
 <!--END_SECTION:activity-->

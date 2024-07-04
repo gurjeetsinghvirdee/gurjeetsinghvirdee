@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurjeet-singh-virdee-25a476199/" height="30" width="40" /></a>
 <a href="https://instagram.com/__.guri._._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.guri._._" height="30" width="40" /></a>
 <a href="https://hashnode.com/@gurjeetsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@gurjeetsingh" height="30" width="40" /></a>
-<a href="https://discord.gg/Guri#6145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Guri#6145" height="30" width="40" /></a>
+<a href="https://discord.gg/916597112882495510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Guri#6145" height="30" width="40" /></a>
 </p>
 </div>
 

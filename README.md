@@ -251,7 +251,6 @@
 `[04/05 21:21]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [appwrite/website](https://github.com/appwrite/website) to [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[04/05 21:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [appwrite/website](https://github.com/appwrite/website)  
 `[04/05 20:09]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [appwrite/pink](https://github.com/appwrite/pink) to [gurjeetsinghvirdee/pink](https://github.com/gurjeetsinghvirdee/pink)  
-`[04/04 20:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/studynotion](https://github.com/gurjeetsinghvirdee/studynotion)  
 
 </details>
 <!--END_SECTION:activity-->

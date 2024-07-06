@@ -250,7 +250,6 @@
 `[04/05 22:13]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#859`](https://github.com//appwrite/website/issues/859 '🚀 Enhancement: View Event Button not disabling when event date has passed') in [appwrite/website](https://github.com/appwrite/website)  
 `[04/05 21:21]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [appwrite/website](https://github.com/appwrite/website) to [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[04/05 21:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [appwrite/website](https://github.com/appwrite/website)  
-`[04/05 20:09]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [appwrite/pink](https://github.com/appwrite/pink) to [gurjeetsinghvirdee/pink](https://github.com/gurjeetsinghvirdee/pink)  
 
 </details>
 <!--END_SECTION:activity-->

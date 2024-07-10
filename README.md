@@ -231,7 +231,6 @@
 `[04/09 17:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/pink](https://github.com/gurjeetsinghvirdee/pink)  
 `[04/09 15:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/mui-toolpad](https://github.com/gurjeetsinghvirdee/mui-toolpad)  
 `[04/09 14:58]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3371`](https://github.com//mui/mui-toolpad/issues/3371 'Update Header UI to show GitHub stars') in [mui/mui-toolpad](https://github.com/mui/mui-toolpad)  
-`[04/09 08:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/pink](https://github.com/gurjeetsinghvirdee/pink)  
 
 </details>
 <!--END_SECTION:activity-->

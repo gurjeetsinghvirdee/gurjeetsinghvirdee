@@ -223,8 +223,6 @@
 `[04/11 10:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#165`](https://github.com//appwrite/pink/issues/165 '🚀 Enhancement: Update Footer Year to Reflect Current Year') in [appwrite/pink](https://github.com/appwrite/pink)  
 `[04/11 10:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#165`](https://github.com//appwrite/pink/issues/165 '🚀 Enhancement: Update Footer Year to Reflect Current Year') in [appwrite/pink](https://github.com/appwrite/pink)  
 `[04/11 09:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/pink](https://github.com/gurjeetsinghvirdee/pink)  
-`[04/10 20:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/studynotion](https://github.com/gurjeetsinghvirdee/studynotion)  
-`[04/10 19:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/mui-toolpad](https://github.com/gurjeetsinghvirdee/mui-toolpad)  
 
 </details>
 <!--END_SECTION:activity-->

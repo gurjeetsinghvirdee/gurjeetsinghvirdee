@@ -4,11 +4,11 @@
 
 <div align="center">
  <h3>Connect with me:</h3>
-<a href="https://twitter.com/__gurii__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__gurii__" height="30" width="40" /></a>
+<a href="https://twitter.com/__gurii__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__gurii__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurjeet-singh-virdee-25a476199/" height="30" width="40" /></a>
-<a href="https://instagram.com/__.guri._._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.guri._._" height="30" width="40" /></a>
-<a href="https://hashnode.com/@gurjeetsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@gurjeetsingh" height="30" width="40" /></a>
-<a href="https://discord.gg/916597112882495510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Guri#6145" height="30" width="40" /></a>
+<a href="https://instagram.com/__.guri._._" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.guri._._" height="30" width="40" /></a>
+<a href="https://hashnode.com/@gurjeetsingh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@gurjeetsingh" height="30" width="40" /></a>
+<a href="mailto:gurjeetsinghvirdee@gmail.com" target="_blank"><img align="center" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/gmail.svg" alt="gurjeetsinghvirdee@gmail.com" height="30" width="40" /></a>
 </p>
 </div>
 
@@ -17,6 +17,7 @@
 <div align="center">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgurjeetsinghvirdee%2Fgurjeetsinghvirdee&label=VISITORS&labelColor=%23FFD700&countColor=%238A2BE2"  width="160" height="33" />
     <img src="https://wakatime.com/badge/user/ff7098eb-56b3-4619-bbbb-86aad0fce365.svg?style=for-the-badge" height="33" />
+    <a href=""><img src="https://img.shields.io/badge/%F0%9F%93%9C%20Resume-000000?style=for-the-badge&logo=resume&logoColor=000000"/></a>
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />

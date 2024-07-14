@@ -41,8 +41,7 @@
 - **Spoke on Open Source Event about Git, GitHub, Version Control etc.**: Shared insights and expertise on topics such as Git, GitHub, and version control systems in an open source event, contributing to the dissemination of knowledge within the community.
 - **Mentor in GSSoC twice, contributing to 4-5 projects**: Acted as a mentor in the GirlScript Summer of Code (GSSoC) program on two occasions, providing guidance and support to participants across multiple projects, fostering learning and collaboration.
 - **Mentored Hundered of Participants**: Demonstrated commitment to mentorship by guiding and mentoring a large cohort of over 400 participants, empowering them to thrive in their open source journey and make meaningful contributions to projects.
-- 📧 **Contact**: Reach me at gurjeetsinghvirdee@gmail.com
-- 🗒️ **Resume**: Explore my experiences in my [Resume](https://drive.google.com/file/d/14_RQ8vjp0dYJIzQ5mvKUfq_rKeSfS9MM/view?usp=sharing)
+- **Recognized as GitHub Discussions Role Model for the Month ⭐**: I have been recognized in GitHub discussions as a role model for encouraging better question-asking practices. By prompting users to provide details about what they have already tried, which version they are using, and including screenshots, I have helped increase the likelihood of getting helpful responses. This recognition highlights my commitment to fostering a collaborative and efficient open-source community.
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 

@@ -122,14 +122,15 @@
 <br>
         
 <!--START_SECTION:activity-->  
+`[07/16 14:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pieces-app/documentation](https://github.com/pieces-app/documentation)  
 `[07/14 17:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[06/22 14:42]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/newjs/tree/master) in [gurjeetsinghvirdee/newjs](https://github.com/gurjeetsinghvirdee/newjs)  
 `[06/22 14:40]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/newjs](https://github.com/gurjeetsinghvirdee/newjs)  
 `[06/08 05:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [framer/motion](https://github.com/framer/motion)  
-`[06/03 17:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `137` commits in [gurjeetsinghvirdee/pink](https://github.com/gurjeetsinghvirdee/pink)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[06/03 17:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `137` commits in [gurjeetsinghvirdee/pink](https://github.com/gurjeetsinghvirdee/pink)  
 `[05/28 13:06]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#193`](https://github.com//girlscript/gssoc-website-new/issues/193 '[Urgent] Update to the Leaderboard page for GSSoC\'24') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[05/28 13:04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#193`](https://github.com//girlscript/gssoc-website-new/issues/193 '[Urgent] Update to the Leaderboard page for GSSoC\'24') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[05/28 12:57]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#193`](https://github.com//girlscript/gssoc-website-new/issues/193 '[Urgent] Update to the Leaderboard page for GSSoC\'24') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  

@@ -214,7 +214,7 @@
 `[04/17 11:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sveltejs/svelte](https://github.com/sveltejs/svelte)  
 `[04/17 11:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/event-hub](https://github.com/gurjeetsinghvirdee/event-hub)  
 `[04/16 16:37]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//gurjeetsinghvirdee/event-hub/pull/1 '[ImgBot] Optimize images') in [gurjeetsinghvirdee/event-hub](https://github.com/gurjeetsinghvirdee/event-hub)  
-`[04/16 16:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/event-hub](https://github.com/gurjeetsinghvirdee/event-hub)  
+`[04/16 16:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/event-hub](https://github.com/gurjeetsinghvirdee/event-hub)  
 
 </details>
 <!--END_SECTION:activity-->

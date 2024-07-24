@@ -192,7 +192,6 @@
 `[04/24 11:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/event-hub](https://github.com/gurjeetsinghvirdee/event-hub)  
 `[04/23 22:40]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub) to [gurjeetsinghvirdee/LinksHub](https://github.com/gurjeetsinghvirdee/LinksHub)  
 `[04/23 22:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Anmol-Baranwal/Designlyfe](https://github.com/Anmol-Baranwal/Designlyfe)  
-`[04/23 20:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/event-hub](https://github.com/gurjeetsinghvirdee/event-hub)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -25,14 +25,21 @@
 <!---------------------------------------------------- ABOUT ME ---------------------------------------------------------------->
 
 ```js
-const gurjeet = {
-  name: "Gurjeet Singh",
+const guri = {
+  name: "Gurjeet Singh Virdee",
   education: {
     degree: "BCA",
     institution: "Amity University Noida",
     cgpa: 8.81
   },
   experience: [
+    {
+      role: "Open Source Contributor",
+      duration: "July 2021 - Present",
+      contributions: [
+        "Collaborated with various projects and organizations to drive innovation and support the community."
+      ]
+    },
     {
       role: "Full Stack Developer Intern",
       company: "NullClass",

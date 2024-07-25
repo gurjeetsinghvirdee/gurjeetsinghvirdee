@@ -221,7 +221,6 @@ const guri = {
 `[04/25 17:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//deborahsv/About-Me/issues/1 'Contact Details') in [deborahsv/About-Me](https://github.com/deborahsv/About-Me)  
 `[04/25 17:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//deborahsv/About-Me/issues/1 'Contact Details') in [deborahsv/About-Me](https://github.com/deborahsv/About-Me)  
 `[04/25 17:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//deborahsv/About-Me/issues/1 'Contact Details') in [deborahsv/About-Me](https://github.com/deborahsv/About-Me)  
-`[04/24 11:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/event-hub](https://github.com/gurjeetsinghvirdee/event-hub)  
 
 </details>
 <!--END_SECTION:activity-->

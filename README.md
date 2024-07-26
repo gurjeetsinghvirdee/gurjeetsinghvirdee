@@ -219,8 +219,6 @@ const guri = {
 `[04/25 23:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [una-ui/una-ui](https://github.com/una-ui/una-ui)  
 `[04/25 18:36]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//deborahsv/About-Me/issues/1 'Contact Details') in [deborahsv/About-Me](https://github.com/deborahsv/About-Me)  
 `[04/25 17:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//deborahsv/About-Me/issues/1 'Contact Details') in [deborahsv/About-Me](https://github.com/deborahsv/About-Me)  
-`[04/25 17:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//deborahsv/About-Me/issues/1 'Contact Details') in [deborahsv/About-Me](https://github.com/deborahsv/About-Me)  
-`[04/25 17:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//deborahsv/About-Me/issues/1 'Contact Details') in [deborahsv/About-Me](https://github.com/deborahsv/About-Me)  
 
 </details>
 <!--END_SECTION:activity-->

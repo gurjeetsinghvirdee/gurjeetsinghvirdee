@@ -206,10 +206,6 @@ const guri = {
 `[05/01 08:34]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [education/Series-Intro-to-GitHub-Flow](https://github.com/education/Series-Intro-to-GitHub-Flow) to [gurjeetsinghvirdee/Series-Intro-to-GitHub-Flow](https://github.com/gurjeetsinghvirdee/Series-Intro-to-GitHub-Flow)  
 `[05/01 06:52]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [appwrite/appwrite](https://github.com/appwrite/appwrite) to [gurjeetsinghvirdee/appwrite](https://github.com/gurjeetsinghvirdee/appwrite)  
 `[04/30 07:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [balmjs/balm-ui](https://github.com/balmjs/balm-ui)  
-`[04/29 21:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[04/29 20:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/first-contribution](https://github.com/gurjeetsinghvirdee/first-contribution)  
-`[04/29 20:36]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#10`](https://github.com//gurjeetsinghvirdee/first-contribution/pull/10 'added myself') in [gurjeetsinghvirdee/first-contribution](https://github.com/gurjeetsinghvirdee/first-contribution)  
-`[04/29 20:36]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#10`](https://github.com//gurjeetsinghvirdee/first-contribution/pull/10 'added myself') in [gurjeetsinghvirdee/first-contribution](https://github.com/gurjeetsinghvirdee/first-contribution)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -153,7 +153,7 @@ const guri = {
 <br>
         
 <!--START_SECTION:activity-->  
-`[07/30 22:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/chat-app](https://github.com/gurjeetsinghvirdee/chat-app)  
+`[07/31 19:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/chat-app](https://github.com/gurjeetsinghvirdee/chat-app)  
 `[07/30 20:40]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/chat-app/tree/master) in [gurjeetsinghvirdee/chat-app](https://github.com/gurjeetsinghvirdee/chat-app)  
 `[07/30 20:39]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/chat-app](https://github.com/gurjeetsinghvirdee/chat-app)  
 `[07/30 09:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `115` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  

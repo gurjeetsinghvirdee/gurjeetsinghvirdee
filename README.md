@@ -207,7 +207,6 @@ const guri = {
 `[05/02 07:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[05/02 07:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[05/01 19:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[05/01 08:34]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [education/Series-Intro-to-GitHub-Flow](https://github.com/education/Series-Intro-to-GitHub-Flow) to [gurjeetsinghvirdee/Series-Intro-to-GitHub-Flow](https://github.com/gurjeetsinghvirdee/Series-Intro-to-GitHub-Flow)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -202,7 +202,6 @@ const guri = {
 `[05/07 13:45]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#136`](https://github.com//girlscript/gssoc-website-new/issues/136 '[Enhancement] : Fixing FAQ section') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[05/07 06:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/gssoc-website-new](https://github.com/gurjeetsinghvirdee/gssoc-website-new)  
 `[05/07 06:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#136`](https://github.com//girlscript/gssoc-website-new/issues/136 '[Enhancement] : Fixing FAQ section') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[05/02 17:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [radix-ui/themes](https://github.com/radix-ui/themes)  
 
 </details>
 <!--END_SECTION:activity-->

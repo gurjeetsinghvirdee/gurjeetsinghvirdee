@@ -24,56 +24,42 @@
 
 <!---------------------------------------------------- ABOUT ME ---------------------------------------------------------------->
 
-```js
+```ts
 const guri = {
   name: "Gurjeet Singh Virdee",
-  education: {
-    degree: "BCA",
-    institution: "Amity University Noida",
-    cgpa: 8.81
-  },
+  education: "BCA, Amity University Noida, CGPA: 8.81",
   experience: [
-    {
-      role: "Open Source Contributor",
-      duration: "July 2021 - Present",
-      contributions: [
-        "Collaborated with various projects and organizations to drive innovation and support the community."
-      ]
-    },
     {
       role: "Full Stack Developer Intern",
       company: "NullClass",
-      contributions: [
-        "Integrated a chatbot with OTP authentication for enhanced user engagement and security."
-      ]
+      duration: "Jan 2023 - Apr 2023",
+      description: "Enhanced user engagement and security by integrating a chatbot with OTP authentication. Developed a full-stack application using React and MySQL."
     },
     {
-      role: "Part-Time Content Creator",
+      role: "Content Creator",
       company: "Aviyel",
-      contributions: [
-        "Authored articles for Chatwoot.",
-        "Contributed to Docz."
-      ]
+      duration: "Feb 2022 - Jan 2023",
+      description: "Authored and optimized technical articles for Chatwoot, and contributed to Docz documentation to improve user experience."
     },
     {
       role: "Technical Content Writer Intern",
       company: "GeeksforGeeks",
-      contributions: [
-        "Published 15 articles on Babel, Ember, Bootstrap, CSS, Materialize, JavaScript."
-      ]
+      duration: "Oct 2021 - Apr 2022",
+      description: "Produced and published 15 articles on programming topics such as Babel, Ember, and JavaScript. Collaborated with the editorial team to ensure content quality."
     }
   ],
+  openSource: {
+    role: "Open Source Contributor",
+    duration: "July 2021 - Present",
+    description: "Contributed to various open-source projects, driving innovation and supporting the community. Mentored new contributors and facilitated collaborative development."
+  },
   achievements: [
-    "Top 10 in GirlScript Summer of Code (GSSoC) 2022",
-    "Mentor & Moderator for GSSoC 2022 & 2023",
-    "GitHub Discussions Role Model for the Month: Recognized for promoting better question-asking practices and fostering a collaborative open-source community."
+    "Ranked Top 10 in GirlScript Summer of Code (GSSoC) 2022",
+    "Served as Mentor & Moderator for GSSoC 2022 & 2023",
+    "Recognized as GitHub Discussions Role Model for fostering a collaborative community"
   ],
-  currentFocus: "Expanding skills in full-stack development and technical writing.",
-  connectWithMe: [
-    "Discuss projects",
-    "Collaborate on tech-related topics",
-    "Engage in open-source initiatives"
-  ]
+  currentFocus: "Advancing skills in full-stack development and technical writing, with a commitment to continuous learning and innovation.",
+  connectWithMe: ["Discuss projects", "Collaborate on technology", "Engage in open-source initiatives"]
 };
 ```
 

@@ -179,8 +179,6 @@ const guri = {
 `[05/20 18:51]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`examples`](https://github.com/gurjeetsinghvirdee/text-to-bookmark/tree/examples) in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
 `[05/20 18:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
 `[05/20 12:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [gurjeetsinghvirdee/txt-to-bookmark](https://github.com/gurjeetsinghvirdee/txt-to-bookmark)  
-`[05/20 07:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/txt-to-bookmark/tree/master) in [gurjeetsinghvirdee/txt-to-bookmark](https://github.com/gurjeetsinghvirdee/txt-to-bookmark)  
-`[05/20 07:46]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/txt-to-bookmark](https://github.com/gurjeetsinghvirdee/txt-to-bookmark)  
 
 </details>
 <!--END_SECTION:activity-->

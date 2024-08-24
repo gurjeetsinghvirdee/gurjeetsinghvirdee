@@ -164,8 +164,6 @@ const guri = {
 `[05/27 14:41]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#193`](https://github.com//girlscript/gssoc-website-new/issues/193 '[Urgent] Update to the Leaderboard page for GSSoC\'24') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[05/27 09:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#193`](https://github.com//girlscript/gssoc-website-new/issues/193 '[Urgent] Update to the Leaderboard page for GSSoC\'24') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[05/26 14:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `81` commits in [gurjeetsinghvirdee/appwrite](https://github.com/gurjeetsinghvirdee/appwrite)  
-`[05/23 13:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
-`[05/23 13:08]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v0.0.7`](https://github.com/gurjeetsinghvirdee/text-to-bookmark/releases/tag/v0.0.7) in [gurjeetsinghvirdee/text-to-bookmark](https://github.com/gurjeetsinghvirdee/text-to-bookmark)  
 
 </details>
 <!--END_SECTION:activity-->

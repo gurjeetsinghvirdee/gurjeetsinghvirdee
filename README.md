@@ -162,7 +162,6 @@ const guri = {
 `[05/28 12:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#193`](https://github.com//girlscript/gssoc-website-new/issues/193 '[Urgent] Update to the Leaderboard page for GSSoC\'24') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[05/27 15:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 `[05/27 14:41]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#193`](https://github.com//girlscript/gssoc-website-new/issues/193 '[Urgent] Update to the Leaderboard page for GSSoC\'24') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[05/27 09:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#193`](https://github.com//girlscript/gssoc-website-new/issues/193 '[Urgent] Update to the Leaderboard page for GSSoC\'24') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -156,7 +156,6 @@ const guri = {
 `[07/14 17:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[06/22 14:42]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/newjs/tree/master) in [gurjeetsinghvirdee/newjs](https://github.com/gurjeetsinghvirdee/newjs)  
 `[06/22 14:40]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/newjs](https://github.com/gurjeetsinghvirdee/newjs)  
-`[06/08 05:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [framer/motion](https://github.com/framer/motion)  
 
 </details>
 <!--END_SECTION:activity-->

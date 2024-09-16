@@ -128,8 +128,14 @@ const guri = {
     <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&langs_count=15&hide_border=true" /> 
   </td>
 </tr>
+
+<tr>
+  <td colspan=2 align="center">
+    <a href="https://gitroll.io/profile/uHd7PWxfGZfhtTRRQgByd4RHQclu2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uHd7PWxfGZfhtTRRQgByd4RHQclu2" width="600" height="300" alt="GitRoll Profile Badge" /></a>
+  </td>
+</tr>
 </table>
-        
+
 ## <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/recent.gif" width="30" height="35" /> Recent Activity
 
 <div align="center">

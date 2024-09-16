@@ -74,17 +74,6 @@ const guri = {
 | **Tools & Project Management** | <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white" /> <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" /> <img src="https://img.shields.io/badge/JetBrains-000?logo=jetbrains&logoColor=fff&style=for-the-badge" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" /> <img src="https://img.shields.io/badge/appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" /> <img src="https://img.shields.io/badge/rapid-0055DA?style=for-the-badge&logo=rapid&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" /> <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" /> |
 | **Miscellaneous** | <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff&style=for-the-badge" /> <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> |
 
-<!--------------------------- Lanyard Profile--------------------------------->
-
-<div align="center">        
-    <a href="https://discord.com/users/916597112882495510"><img src="https://lanyard.cnrad.dev/api/916597112882495510" width="500" /></a>
-</div>
-
-<div align="center">
-  <a href="https://wakatime.com/@gurjeetsinghvirdee"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=gurjeetsinghvirdee&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats" /></a>
-</div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />        
 <!------------------------------------------TESTIMONIALS----------------------------------------------->
         
 ## <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/star%202.gif" width="35" height="30" /> Testimonials 

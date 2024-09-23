@@ -105,16 +105,20 @@ const guri = {
     <img width="400" src="https://streak-stats.demolab.com/?user=gurjeetsinghvirdee&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" />
   </td>
   <td align="center">
-    <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/metrics.plugin.isocalendar.svg" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&border_radius=5&include_all_commits=true&hide_border=true" />
   </td>
 </tr>
 
 <tr>
   <td align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&border_radius=5&include_all_commits=true&hide_border=true" />
+   <a href="https://gitroll.io/profile/uHd7PWxfGZfhtTRRQgByd4RHQclu2">
+    <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/languages.png" alt="lang-stack" />
+   </a>
   </td>
   <td align="center">
-    <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&layout=compact&langs_count=15&hide_border=true" /> 
+   <a href="https://gitroll.io/profile/uHd7PWxfGZfhtTRRQgByd4RHQclu2">
+    <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/tech.png" alt="tech-stack" />
+   </a>
   </td>
 </tr>
 

@@ -102,29 +102,23 @@ const guri = {
 <table>    
 <tr>
   <td align="center">
-    <img width="400" src="https://streak-stats.demolab.com/?user=gurjeetsinghvirdee&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" />
+    <img width="500" src="https://streak-stats.demolab.com/?user=gurjeetsinghvirdee&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" />
   </td>
   <td align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&border_radius=5&include_all_commits=true&hide_border=true" />
+    <img width="500" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&border_radius=5&include_all_commits=true&hide_border=true" />
   </td>
 </tr>
 
 <tr>
   <td align="center">
    <a href="https://gitroll.io/profile/uHd7PWxfGZfhtTRRQgByd4RHQclu2">
-    <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/languages.png" alt="lang-stack" />
+    <img width="500" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/languages.png" alt="lang-stack" />
    </a>
   </td>
   <td align="center">
    <a href="https://gitroll.io/profile/uHd7PWxfGZfhtTRRQgByd4RHQclu2">
-    <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/tech.png" alt="tech-stack" />
+    <img width="500" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/tech.png" alt="tech-stack" />
    </a>
-  </td>
-</tr>
-
-<tr>
-  <td colspan=2 align="center">
-    <a href="https://gitroll.io/profile/uHd7PWxfGZfhtTRRQgByd4RHQclu2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uHd7PWxfGZfhtTRRQgByd4RHQclu2" width="600" height="300" alt="GitRoll Profile Badge" /></a>
   </td>
 </tr>
 </table>

@@ -132,7 +132,7 @@ const guri = {
 <br>
         
 <!--START_SECTION:activity-->  
-`[10/01 18:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/project-management-tool](https://github.com/gurjeetsinghvirdee/project-management-tool)  
+`[10/01 18:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/project-management-tool](https://github.com/gurjeetsinghvirdee/project-management-tool)  
 `[10/01 18:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/project-management-tool/tree/master) in [gurjeetsinghvirdee/project-management-tool](https://github.com/gurjeetsinghvirdee/project-management-tool)  
 `[10/01 18:35]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/project-management-tool](https://github.com/gurjeetsinghvirdee/project-management-tool)  
 `[10/01 17:44]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/client/tree/master) in [gurjeetsinghvirdee/client](https://github.com/gurjeetsinghvirdee/client)  

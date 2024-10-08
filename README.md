@@ -24,11 +24,17 @@
 
 <!---------------------------------------------------- ABOUT ME ---------------------------------------------------------------->
 
-```ts
+```js
 const guri = {
   name: "Gurjeet Singh Virdee",
   education: "BCA, Amity University Noida, CGPA: 8.81",
   experience: [
+    {
+      role: "Volunteer Quality Tester",
+      company: "Appwrite",
+     duration: "Oct 2024 - Present",
+     description: "Volunteer tester for Appwrite, providing feedback and identifying bugs to enhance new feature releases and improve platform quality."
+    },
     {
       role: "Full Stack Developer Intern",
       company: "NullClass",

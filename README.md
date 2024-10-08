@@ -61,7 +61,7 @@ const guri = {
   },
   achievements: [
     "Ranked Top 10 in GirlScript Summer of Code (GSSoC) 2022",
-    "Served as Mentor & Moderator for GSSoC 2022 & 2023",
+    "Served as Mentor & Moderator for GSSoC 2022, 2023 & HSOC",
     "Recognized as GitHub Discussions Role Model for fostering a collaborative community"
   ],
   currentFocus: "Advancing skills in full-stack development and technical writing, with a commitment to continuous learning and innovation.",

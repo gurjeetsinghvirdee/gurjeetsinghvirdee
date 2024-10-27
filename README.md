@@ -139,14 +139,19 @@ const guri = {
 <br>
         
 <!--START_SECTION:activity-->  
+`[10/26 23:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1459`](https://github.com//appwrite/website/pull/1459 'Update GitHub Stars Count') in [appwrite/website](https://github.com/appwrite/website)  
+`[10/26 23:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [appwrite/appwrite](https://github.com/appwrite/appwrite)  
+`[10/26 22:48]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1459`](https://github.com//appwrite/website/pull/1459 'Update GitHub Stars Count') in [appwrite/website](https://github.com/appwrite/website)  
+`[10/26 22:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3490` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
+`[10/26 22:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1439`](https://github.com//appwrite/website/issues/1439 '🚀 Enhancement: Update GitHub Star Count') in [appwrite/website](https://github.com/appwrite/website)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[10/25 16:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/healthcare-appointment-app](https://github.com/gurjeetsinghvirdee/healthcare-appointment-app)  
 `[10/22 01:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[10/22 00:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/appwrite-error-tracker](https://github.com/gurjeetsinghvirdee/appwrite-error-tracker)  
 `[10/22 00:34]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.0.0`](https://github.com/gurjeetsinghvirdee/appwrite-error-tracker/releases/tag/v1.0.0) in [gurjeetsinghvirdee/appwrite-error-tracker](https://github.com/gurjeetsinghvirdee/appwrite-error-tracker)  
 `[10/22 00:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/appwrite-error-tracker](https://github.com/gurjeetsinghvirdee/appwrite-error-tracker)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/22 00:15]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/appwrite-error-tracker/tree/master) in [gurjeetsinghvirdee/appwrite-error-tracker](https://github.com/gurjeetsinghvirdee/appwrite-error-tracker)  
 `[10/21 23:56]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/appwrite-error-tracker](https://github.com/gurjeetsinghvirdee/appwrite-error-tracker)  
 `[10/20 20:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1387`](https://github.com//appwrite/console/issues/1387 '🐛 Bug Report: Images for Different Regions Not Displaying During Project Creation') in [appwrite/console](https://github.com/appwrite/console)  

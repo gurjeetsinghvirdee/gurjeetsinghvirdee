@@ -201,7 +201,7 @@ const guri = {
 `[08/11 17:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[08/11 17:01]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [novuhq/novu](https://github.com/novuhq/novu) to [gurjeetsinghvirdee/novu](https://github.com/gurjeetsinghvirdee/novu)  
 `[08/11 17:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [novuhq/novu](https://github.com/novuhq/novu)  
-`[07/31 20:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/chat-app](https://github.com/gurjeetsinghvirdee/chat-app)  
+`[07/31 20:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/chat-app](https://github.com/gurjeetsinghvirdee/chat-app)  
 
 </details>
 <!--END_SECTION:activity-->

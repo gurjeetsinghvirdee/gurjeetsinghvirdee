@@ -139,7 +139,7 @@ const guri = {
 <br>
         
 <!--START_SECTION:activity-->  
-`[10/31 12:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/fitness-tracker](https://github.com/gurjeetsinghvirdee/fitness-tracker)  
+`[10/31 13:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/fitness-tracker](https://github.com/gurjeetsinghvirdee/fitness-tracker)  
 `[10/31 10:08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/fitness-tracker/tree/master) in [gurjeetsinghvirdee/fitness-tracker](https://github.com/gurjeetsinghvirdee/fitness-tracker)  
 `[10/31 10:07]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/fitness-tracker](https://github.com/gurjeetsinghvirdee/fitness-tracker)  
 `[10/30 13:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/AnonAdvisor](https://github.com/gurjeetsinghvirdee/AnonAdvisor)  
@@ -204,7 +204,6 @@ const guri = {
 `[08/11 17:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[08/11 17:01]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [novuhq/novu](https://github.com/novuhq/novu) to [gurjeetsinghvirdee/novu](https://github.com/gurjeetsinghvirdee/novu)  
 `[08/11 17:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [novuhq/novu](https://github.com/novuhq/novu)  
-`[07/31 20:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/chat-app](https://github.com/gurjeetsinghvirdee/chat-app)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -25,7 +25,7 @@
 
 <!---------------------------------------------------- ABOUT ME ---------------------------------------------------------------->
 
-```js
+```bash
 const guri = {
   name: "Gurjeet Singh Virdee",
   education: "BCA, Amity University Noida, CGPA: 8.81",
@@ -33,8 +33,15 @@ const guri = {
     {
       role: "Volunteer Quality Tester",
       company: "Appwrite",
-     duration: "Oct 2024 - Present",
-     description: "Volunteer tester for Appwrite, providing feedback and identifying bugs to enhance new feature releases and improve platform quality."
+      duration: "Oct 2024 - Present",
+      description: "Volunteer tester for Appwrite, providing feedback and identifying bugs to enhance new feature releases and improve platform quality."
+    },
+    {
+      role: "AI Trainer",
+      company: "Outlier",
+      duration: "Oct 2024 - Present",
+      description: "I design and refine prompt scenarios to train AI systems, ensuring they respond accurately and meaningfully to real-world user interactions.
+       My work in prompt engineering aligns AI behavior with user needs for high-quality, user-centric responses."
     },
     {
       role: "Full Stack Developer Intern",
@@ -61,6 +68,7 @@ const guri = {
     description: "Contributed to various open-source projects, driving innovation and supporting the community. Mentored new contributors and facilitated collaborative development."
   },
   achievements: [
+    "My first npm text-to-bookmark hits 150+ downloads"
     "Ranked Top 10 in GirlScript Summer of Code (GSSoC) 2022",
     "Served as Mentor & Moderator for GSSoC 2022, 2023 & HSOC",
     "Recognized as GitHub Discussions Role Model for fostering a collaborative community"

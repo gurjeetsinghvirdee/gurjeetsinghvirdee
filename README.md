@@ -68,7 +68,7 @@ const guri = {
     description: "Contributed to various open-source projects, driving innovation and supporting the community. Mentored new contributors and facilitated collaborative development."
   },
   achievements: [
-    "My first npm text-to-bookmark hits 150+ downloads"
+    "My first npm text-to-bookmark hits 280+ downloads"
     "Ranked Top 10 in GirlScript Summer of Code (GSSoC) 2022",
     "Served as Mentor & Moderator for GSSoC 2022, 2023 & HSOC",
     "Recognized as GitHub Discussions Role Model for fostering a collaborative community"

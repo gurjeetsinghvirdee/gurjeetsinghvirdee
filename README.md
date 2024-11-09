@@ -100,7 +100,7 @@ const guri = {
   </tr>
   <tr>
     <td>Ishika Goyal</td>
-    <td>Gurjeet Singh Virdee is inspiring , good mentor,  adviser and understanding friend. He continuously helping me in learning the open source contribution. I truly appreciate everything he have done for me so far and hope to continue learning from him.</td>
+    <td>Gurjeet Singh Virdee is an inspiring, good mentor,  adviser, and understanding friend. He continuously helped me in learning the open-source contribution. I truly appreciate everything he has done for me so far and hope to continue learning from him.</td>
   </tr>
   <tr>
     <td>Utkarsh Saxena</td>
@@ -120,7 +120,7 @@ const guri = {
     <img width="500" src="https://streak-stats.demolab.com/?user=gurjeetsinghvirdee&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" />
   </td>
   <td align="center">
-    <img width="500" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show_icons=true&border_radius=5&include_all_commits=true&hide_border=true" />
+    <img src="https://stats.quira.sh/gurjeetsinghvirdee/github?theme=dark" />
   </td>
 </tr>
 

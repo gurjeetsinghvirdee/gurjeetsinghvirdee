@@ -25,11 +25,11 @@
 
 <!---------------------------------------------------- ABOUT ME ---------------------------------------------------------------->
 
-```bash
-const guri = {
+```javascript
+const Guri = {
   name: "Gurjeet Singh Virdee",
   education: "BCA, Amity University Noida, CGPA: 8.81",
-  experience: [
+  experiences: [
     {
       role: "Volunteer Quality Tester",
       company: "Appwrite",
@@ -40,8 +40,7 @@ const guri = {
       role: "AI Trainer",
       company: "Outlier",
       duration: "Oct 2024 - Present",
-      description: "I design and refine prompt scenarios to train AI systems, ensuring they respond accurately and meaningfully to real-world user interactions.
-       My work in prompt engineering aligns AI behavior with user needs for high-quality, user-centric responses."
+      description: "Design and refine prompt scenarios to train AI systems, ensuring they respond accurately and meaningfully to real-world user interactions. Work in prompt engineering aligns AI behavior with user needs for high-quality, user-centric responses."
     },
     {
       role: "Full Stack Developer Intern",
@@ -68,13 +67,13 @@ const guri = {
     description: "Contributed to various open-source projects, driving innovation and supporting the community. Mentored new contributors and facilitated collaborative development."
   },
   achievements: [
-    "My first npm text-to-bookmark hits 280+ downloads"
+    "My first npm text-to-bookmark hits 280+ downloads",
     "Ranked Top 10 in GirlScript Summer of Code (GSSoC) 2022",
     "Served as Mentor & Moderator for GSSoC 2022, 2023 & HSOC",
     "Recognized as GitHub Discussions Role Model for fostering a collaborative community"
   ],
   currentFocus: "Advancing skills in full-stack development and technical writing, with a commitment to continuous learning and innovation.",
-  connectWithMe: ["Discuss projects", "Collaborate on technology", "Engage in open-source initiatives"]
+  connectWithMe: ["Discuss projects", "Collaborate on technology", "Engage in open-source Initiatives"]
 };
 ```
 

@@ -112,23 +112,23 @@ const Guri = {
 
 <!------------------------------------------------------------ GITHUB STATS ------------------------------------------------------------------------>
         
-## <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/stats.gif" width="30" height="30" /> Github Stats 
+## <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/stats.gif" width="30" height="30" /> Stats 
 
 <table>    
 <tr>
   <td align="center">
-    <img width="500" src="https://streak-stats.demolab.com/?user=gurjeetsinghvirdee&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" />
+    <img width="500" src="https://streak-stats.demolab.com?user=gurjeetsinghvirdee&hide_border=true&border_radius=4.4&date_format=j%20M%5B%20Y%5D&ring=147FEB&fire=147FEB&currStreakLabel=147FEB&sideLabels=147FEB" />
   </td>
   <td align="center">
-    <img src="https://stats.quira.sh/gurjeetsinghvirdee/github?theme=dark" />
+   <a href="">
+    <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=gurjeetsinghvirdee&layout=compact" alt="wakatime stats" />
+   </a>
   </td>
 </tr>
 
 <tr>
   <td align="center">
-   <a href="https://gitroll.io/profile/uHd7PWxfGZfhtTRRQgByd4RHQclu2">
-    <img width="500" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/languages.png" alt="lang-stack" />
-   </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show=discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&rank_icon=percentile" />
   </td>
   <td align="center">
    <a href="https://gitroll.io/profile/uHd7PWxfGZfhtTRRQgByd4RHQclu2">

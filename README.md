@@ -26,7 +26,7 @@
 <!---------------------------------------------------- ABOUT ME ---------------------------------------------------------------->
 
 ```mathematica
-const Guri = {
+const myProfile = {
   name: "Gurjeet Singh Virdee",
   education: "BCA, Amity University Noida, CGPA: 8.81",
   experiences: [

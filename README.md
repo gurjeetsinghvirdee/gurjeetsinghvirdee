@@ -147,14 +147,16 @@ const myProfile = {
 <br>
         
 <!--START_SECTION:activity-->  
+`[12/10 09:24]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/gurjeetsinghvirdee/RecoGenie/tree/main) in [gurjeetsinghvirdee/RecoGenie](https://github.com/gurjeetsinghvirdee/RecoGenie)  
+`[12/10 09:23]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/RecoGenie](https://github.com/gurjeetsinghvirdee/RecoGenie)  
 `[12/09 23:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[12/09 22:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/taskit](https://github.com/gurjeetsinghvirdee/taskit)  
 `[12/09 21:15]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/gurjeetsinghvirdee/taskit/tree/main) in [gurjeetsinghvirdee/taskit](https://github.com/gurjeetsinghvirdee/taskit)  
-`[12/09 21:14]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/taskit](https://github.com/gurjeetsinghvirdee/taskit)  
-`[12/09 07:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[12/09 21:14]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/taskit](https://github.com/gurjeetsinghvirdee/taskit)  
+`[12/09 07:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[12/06 23:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/http-fetcher](https://github.com/gurjeetsinghvirdee/http-fetcher)  
 `[12/06 17:48]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/gurjeetsinghvirdee/http-fetcher/tree/main) in [gurjeetsinghvirdee/http-fetcher](https://github.com/gurjeetsinghvirdee/http-fetcher)  
 `[12/06 17:46]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/http-fetcher](https://github.com/gurjeetsinghvirdee/http-fetcher)  

@@ -147,14 +147,15 @@ const myProfile = {
 <br>
         
 <!--START_SECTION:activity-->  
+`[12/15 18:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [magicuidesign/magicui](https://github.com/magicuidesign/magicui)  
 `[12/14 12:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `102` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[12/13 16:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/hashnode-appwrite](https://github.com/gurjeetsinghvirdee/hashnode-appwrite)  
 `[12/13 16:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/hashnode-appwrite/tree/master) in [gurjeetsinghvirdee/hashnode-appwrite](https://github.com/gurjeetsinghvirdee/hashnode-appwrite)  
 `[12/13 16:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/hashnode-appwrite](https://github.com/gurjeetsinghvirdee/hashnode-appwrite)  
-`[12/13 16:49]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/appwriter](https://github.com/gurjeetsinghvirdee/appwriter)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[12/13 16:49]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/appwriter](https://github.com/gurjeetsinghvirdee/appwriter)  
 `[12/13 08:17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1392`](https://github.com//appwrite/console/issues/1392 '🐛 Bug Report:  Inconsistency in User Verification Status between Email and Phone Number') in [appwrite/console](https://github.com/appwrite/console)  
 `[12/11 14:19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [appwrite/sdk-for-go](https://github.com/appwrite/sdk-for-go) to [gurjeetsinghvirdee/sdk-for-go](https://github.com/gurjeetsinghvirdee/sdk-for-go)  
 `[12/10 19:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/RecoGenie](https://github.com/gurjeetsinghvirdee/RecoGenie)  

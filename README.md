@@ -147,14 +147,15 @@ const myProfile = {
 <br>
         
 <!--START_SECTION:activity-->  
+`[12/16 22:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/hashnode-articles](https://github.com/gurjeetsinghvirdee/hashnode-articles)  
 `[12/16 12:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `46` commits in [gurjeetsinghvirdee/appwrite](https://github.com/gurjeetsinghvirdee/appwrite)  
 `[12/16 00:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/hashnode-articles](https://github.com/gurjeetsinghvirdee/hashnode-articles)  
 `[12/16 00:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/hashnode](https://github.com/gurjeetsinghvirdee/hashnode)  
 `[12/15 18:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [magicuidesign/magicui](https://github.com/magicuidesign/magicui)  
-`[12/14 12:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `102` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[12/14 12:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `102` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[12/13 16:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/hashnode-appwrite](https://github.com/gurjeetsinghvirdee/hashnode-appwrite)  
 `[12/13 16:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/hashnode-appwrite/tree/master) in [gurjeetsinghvirdee/hashnode-appwrite](https://github.com/gurjeetsinghvirdee/hashnode-appwrite)  
 `[12/13 16:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/hashnode-appwrite](https://github.com/gurjeetsinghvirdee/hashnode-appwrite)  

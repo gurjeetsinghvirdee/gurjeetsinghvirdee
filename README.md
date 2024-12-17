@@ -57,7 +57,7 @@ func main() {
 	me := Developer{
 		Name:       "Gurjeet Singh",
 		Title:      "Full Stack Developer & Open Source Advocate",
-		Skills:     []string{"JavaScript", "TypeScript", "PHP", "Go", "D"},
+		Skills:     []string{"JavaScript", "TypeScript", "PHP", "Svelte", "Solidity" "Go", "D"},
 		Experience: "4+ years",
 		Contributions: []string{
 			"Volunteer Quality Tester @Appwrite",

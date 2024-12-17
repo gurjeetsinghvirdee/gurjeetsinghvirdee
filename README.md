@@ -25,56 +25,48 @@
 
 <!---------------------------------------------------- ABOUT ME ---------------------------------------------------------------->
 
-```mathematica
-const myProfile = {
-  name: "Gurjeet Singh Virdee",
-  education: "BCA, Amity University Noida, CGPA: 8.81",
-  experiences: [
-    {
-      role: "Volunteer Quality Tester",
-      company: "Appwrite",
-      duration: "Oct 2024 - Present",
-      description: "Volunteer tester for Appwrite, providing feedback and identifying bugs to enhance new feature releases and improve platform quality."
-    },
-    {
-      role: "AI Trainer",
-      company: "Outlier",
-      duration: "Oct 2024 - Present",
-      description: "Design and refine prompt scenarios to train AI systems, ensuring they respond accurately and meaningfully to real-world user interactions. Work in prompt engineering aligns AI behavior with user needs for high-quality, user-centric responses."
-    },
-    {
-      role: "Full Stack Developer Intern",
-      company: "NullClass",
-      duration: "Jan 2023 - Apr 2023",
-      description: "Enhanced user engagement and security by integrating a chatbot with OTP authentication. Developed a full-stack application using React and MySQL."
-    },
-    {
-      role: "Content Creator",
-      company: "Aviyel",
-      duration: "Feb 2022 - Jan 2023",
-      description: "Authored and optimized technical articles for Chatwoot, and contributed to Docz documentation to improve user experience."
-    },
-    {
-      role: "Technical Content Writer Intern",
-      company: "GeeksforGeeks",
-      duration: "Oct 2021 - Apr 2022",
-      description: "Produced and published 15 articles on programming topics such as Babel, Ember, and JavaScript. Collaborated with the editorial team to ensure content quality."
-    }
-  ],
-  openSource: {
-    role: "Open Source Contributor",
-    duration: "July 2021 - Present",
-    description: "Contributed to various open-source projects, driving innovation and supporting the community. Mentored new contributors and facilitated collaborative development."
-  },
-  achievements: [
-    "My first npm text-to-bookmark hits 280+ downloads",
-    "Ranked Top 10 in GirlScript Summer of Code (GSSoC) 2022",
-    "Served as Mentor & Moderator for GSSoC 2022, 2023 & HSOC",
-    "Recognized as GitHub Discussions Role Model for fostering a collaborative community"
-  ],
-  currentFocus: "Advancing skills in full-stack development and technical writing, with a commitment to continuous learning and innovation.",
-  connectWithMe: ["Discuss projects", "Collaborate on technology", "Engage in open-source Initiatives"]
-};
+```go
+package main
+
+import "fmt"
+
+type Developer struct {
+	Name          string
+	Title         string
+	Skills        []string
+	Experience    string
+	Contributions []string
+}
+
+func (d Developer) About() {
+	fmt.Printf("👋 Hi there! I’m %s, a %s dedicated to driving innovation through technology.\n", d.Name, d.Title)
+	fmt.Println("🌟 I specialize in:")
+	for _, skill := range d.Skills {
+		fmt.Printf("- %s\n", skill)
+	}
+	fmt.Printf("\n🚀 With %s of experience, I thrive on building seamless digital experiences and solving impactful challenges.\n", d.Experience)
+	fmt.Println("🔧 I actively contribute to:")
+	for _, contribution := range d.Contributions {
+		fmt.Printf("- %s\n", contribution)
+	}
+	fmt.Println("\n🌱 Currently, I’m learning Go and D programming languages while mentoring aspiring developers and exploring new tech horizons.")
+	fmt.Println("💬 Let’s connect and collaborate to explore endless possibilities in tech!")
+}
+
+func main() {
+	me := Developer{
+		Name:       "Gurjeet Singh",
+		Title:      "Full Stack Developer & Open Source Advocate",
+		Skills:     []string{"JavaScript", "TypeScript", "PHP", "Go", "D"},
+		Experience: "4+ years",
+		Contributions: []string{
+			"Volunteer Quality Tester @Appwrite",
+			"AI Trainer @Outlier.ai",
+			"Tech Writing with 126K+ readers",
+		},
+	}
+	me.About()
+}
 ```
 
 <!---------------------------------Frameworks, Languages & Other Tools ------------------------------------->        

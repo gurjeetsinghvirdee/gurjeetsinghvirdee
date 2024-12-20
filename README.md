@@ -139,14 +139,15 @@ func main() {
 <br>
         
 <!--START_SECTION:activity-->  
+`[12/20 17:13]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#9122`](https://github.com//appwrite/appwrite/pull/9122 'Fix outdated CLI commands in documentation') in [appwrite/appwrite](https://github.com/appwrite/appwrite)  
 `[12/20 16:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/appwrite](https://github.com/gurjeetsinghvirdee/appwrite)  
 `[12/20 16:44]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`152-sdk-cli-command-update`](https://github.com/gurjeetsinghvirdee/appwrite/tree/152-sdk-cli-command-update) in [gurjeetsinghvirdee/appwrite](https://github.com/gurjeetsinghvirdee/appwrite)  
 `[12/19 22:23]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#152`](https://github.com//appwrite/sdk-for-cli/issues/152 '📚 Documentation: Create Document command doesn\'t work') in [appwrite/sdk-for-cli](https://github.com/appwrite/sdk-for-cli)  
 `[12/19 21:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/hashnode-articles](https://github.com/gurjeetsinghvirdee/hashnode-articles)  
-`[12/19 20:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#152`](https://github.com//appwrite/sdk-for-cli/issues/152 '📚 Documentation: Create Document command doesn\'t work') in [appwrite/sdk-for-cli](https://github.com/appwrite/sdk-for-cli)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[12/19 20:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#152`](https://github.com//appwrite/sdk-for-cli/issues/152 '📚 Documentation: Create Document command doesn\'t work') in [appwrite/sdk-for-cli](https://github.com/appwrite/sdk-for-cli)  
 `[12/18 00:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[12/17 23:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/hashnode-articles](https://github.com/gurjeetsinghvirdee/hashnode-articles)  
 `[12/17 18:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1387`](https://github.com//appwrite/console/issues/1387 '🐛 Bug Report: Images for Different Regions Not Displaying During Project Creation') in [appwrite/console](https://github.com/appwrite/console)  

@@ -68,7 +68,16 @@ func main() {
 	me.About()
 }
 ```
+<br>
+<!--------------------------------Dev.too Blog Posts---------------------------------------------->
 
+<a href="https://dev.to/gurjeetsinghvirdee"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+<br>
 <!---------------------------------Frameworks, Languages & Other Tools ------------------------------------->        
         
 ## <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/skills.gif" width="35" height="30" /> Competencies

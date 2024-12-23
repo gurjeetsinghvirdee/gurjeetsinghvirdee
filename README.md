@@ -74,7 +74,8 @@ func main() {
 <a href="https://dev.to/gurjeetsinghvirdee"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Understanding Variables](https://dev.to/gurjeetsinghvirdee/understanding-variables-4fi1)
+- [Mastering Responsive Design: Best Practices for 2025](https://dev.to/gurjeetsinghvirdee/mastering-responsive-design-best-practices-for-2025-2gmn)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

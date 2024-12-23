@@ -1,6 +1,0 @@
-### My Recent Articles {{ .Author }} from dev.to
-
-- **Article listing:**
-```shell
-{{`{{`}} template "article-list" .Articles {{`}}`}}
-```

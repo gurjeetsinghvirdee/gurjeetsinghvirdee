@@ -76,6 +76,7 @@ func main() {
 <a href="https://dev.to/gurjeetsinghvirdee"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [My Open Source Journey: A Beginner-Friendly Guide to Collaboration and Growth](https://dev.to/gurjeetsinghvirdee/my-open-source-journey-a-beginner-friendly-guide-to-collaboration-and-growth-58bd)
 - [Understanding Variables](https://dev.to/gurjeetsinghvirdee/understanding-variables-4fi1)
 - [Mastering Responsive Design: Best Practices for 2025](https://dev.to/gurjeetsinghvirdee/mastering-responsive-design-best-practices-for-2025-2gmn)
 <!-- BLOG-POST-LIST:END -->

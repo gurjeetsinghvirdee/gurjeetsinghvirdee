@@ -1,4 +1,4 @@
-name: Isometric Calender
+name: 📅 Isometric Calendar
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 19 * * *"}]

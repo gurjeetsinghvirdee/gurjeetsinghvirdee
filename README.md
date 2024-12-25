@@ -7,7 +7,6 @@
 <a href="https://twitter.com/__gurii__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__gurii__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurjeet-singh-virdee-25a476199/" height="30" width="40" /></a>
 <a href="https://instagram.com/__.guri._._" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.guri._._" height="30" width="40" /></a>
-<a href="https://hashnode.com/@gurjeetsingh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@gurjeetsingh" height="30" width="40" /></a>
 <a href="mailto:gurjeetsinghvirdee@gmail.com" target="_blank"><img align="center" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/gmail.svg" alt="gurjeetsinghvirdee@gmail.com" height="30" width="40" /></a>
 </p>
 </div>
@@ -73,7 +72,8 @@ func main() {
 
 ## Latest Blog Posts
 
-<a href="https://dev.to/gurjeetsinghvirdee"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
+<a href="https://dev.to/gurjeetsinghvirdee"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="33" /></a>
+<a href="https://hashnode.com/@gurjeetsingh"><img src="https://img.shields.io/badge/hashnode-3B82F6?style=for-the-badge&logo=hashnode&logoColor=white" height="33" /></a>
 
 <!-- BLOG-POST-LIST:START -->
 - [My Open Source Journey: A Beginner-Friendly Guide to Collaboration and Growth](https://dev.to/gurjeetsinghvirdee/my-open-source-journey-a-beginner-friendly-guide-to-collaboration-and-growth-58bd)
@@ -81,7 +81,6 @@ func main() {
 - [Mastering Responsive Design: Best Practices for 2025](https://dev.to/gurjeetsinghvirdee/mastering-responsive-design-best-practices-for-2025-2gmn)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
 <!---------------------------------Frameworks, Languages & Other Tools ------------------------------------->        
         
 ## <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/skills.gif" width="35" height="30" /> Competencies

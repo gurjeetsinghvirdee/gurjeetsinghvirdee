@@ -1,4 +1,4 @@
-name: Latest blog posts workflow 
+name: ✍️ Latest blog posts workflow 
 on: 
   # Schedule updates (At 23hrs every 2 days)
   schedule: [{ cron: "0 23 */2 * *" }]    # 0 */12 * * * -> (At minute 0 past every 12th hour)

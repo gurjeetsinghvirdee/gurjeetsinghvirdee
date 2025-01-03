@@ -133,12 +133,10 @@ func main() {
 
 <tr>
   <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show=discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&rank_icon=percentile" />
+    <img width="500" src="https://github-readme-stats.vercel.app/api?username=gurjeetsinghvirdee&show=discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&rank_icon=percentile" />
   </td>
   <td align="center">
-   <a href="https://gitroll.io/profile/uHd7PWxfGZfhtTRRQgByd4RHQclu2">
-    <img width="500" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/tech.png" alt="tech-stack" />
-   </a>
+   <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeetsinghvirdee&langs_count=8&layout=compact" alt="Lang Count" />
   </td>
 </tr>
 </table>

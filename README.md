@@ -126,7 +126,7 @@ func main() {
   </td>
   <td align="center">
    <a href="">
-    <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=gurjeetsinghvirdee&layout=compact" alt="wakatime stats" />
+    <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=gurjeetsinghvirdee" alt="wakatime stats" />
    </a>
   </td>
 </tr>

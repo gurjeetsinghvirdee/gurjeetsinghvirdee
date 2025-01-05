@@ -150,14 +150,16 @@ func main() {
 <br>
         
 <!--START_SECTION:activity-->  
+`[01/05 18:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `256` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
+`[01/05 18:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1598`](https://github.com//appwrite/website/issues/1598 '🐛 Bug Report: Duplicate Databases recommendation in search results instead of Account') in [appwrite/website](https://github.com/appwrite/website)  
 `[01/05 00:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9141`](https://github.com//appwrite/appwrite/issues/9141 '🐛 Bug Report: Incorrect Alert Display of upload limit (0MB) for Education plan in Bucket') in [appwrite/appwrite](https://github.com/appwrite/appwrite)  
 `[01/04 19:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)  
 `[01/04 00:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[01/02 09:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rorkai/21st](https://github.com/rorkai/21st)  
-`[01/01 17:59]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1589`](https://github.com//appwrite/website/issues/1589 '🐛 Bug Report: Full-View Image background appear Dark in Light Mode') in [appwrite/website](https://github.com/appwrite/website)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[01/02 09:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rorkai/21st](https://github.com/rorkai/21st)  
+`[01/01 17:59]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1589`](https://github.com//appwrite/website/issues/1589 '🐛 Bug Report: Full-View Image background appear Dark in Light Mode') in [appwrite/website](https://github.com/appwrite/website)  
 `[12/28 19:45]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#9141`](https://github.com//appwrite/appwrite/issues/9141 '🐛 Bug Report: Incorrect Alert Display of upload limit (0MB) for Education plan in Bucket') in [appwrite/appwrite](https://github.com/appwrite/appwrite)  
 `[12/25 22:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[12/24 08:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [CRED-CLUB/neopop-web](https://github.com/CRED-CLUB/neopop-web)  

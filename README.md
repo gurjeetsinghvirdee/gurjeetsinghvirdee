@@ -75,11 +75,11 @@ func main() {
 <a href="https://hashnode.com/@gurjeetsingh"><img src="https://img.shields.io/badge/hashnode-3B82F6?style=for-the-badge&logo=hashnode&logoColor=white" height="33" /></a>
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Deep Dive: Understanding Operators](https://dev.to/gurjeetsinghvirdee/javascript-deep-dive-understanding-operators-564o)
 - [JavaScript Deep Dive: Understanding Data Types](https://dev.to/gurjeetsinghvirdee/javascript-deep-dive-understanding-data-types-2mma)
 - [Open Source for Non-Developers: Opportunities Beyond Code](https://dev.to/gurjeetsinghvirdee/open-source-for-non-developers-opportunities-beyond-code-4h1j)
 - [My Open Source Journey: A Beginner-Friendly Guide to Collaboration and Growth](https://dev.to/gurjeetsinghvirdee/my-open-source-journey-a-beginner-friendly-guide-to-collaboration-and-growth-58bd)
 - [JavaScript Deep Dive: Understanding Variables](https://dev.to/gurjeetsinghvirdee/understanding-variables-4fi1)
-- [Mastering Responsive Design: Best Practices for 2025](https://dev.to/gurjeetsinghvirdee/mastering-responsive-design-best-practices-for-2025-2gmn)
 <!-- BLOG-POST-LIST:END -->
 
 <!---------------------------------Frameworks, Languages & Other Tools ------------------------------------->        

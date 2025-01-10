@@ -290,7 +290,6 @@ func main() {
 `[10/18 12:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [marmelab/react-admin](https://github.com/marmelab/react-admin)  
 `[10/16 18:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[10/15 18:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)  
-`[10/10 07:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1387`](https://github.com//appwrite/console/issues/1387 '🐛 Bug Report: Images for Different Regions Not Displaying During Project Creation') in [appwrite/console](https://github.com/appwrite/console)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -293,7 +293,6 @@ func main() {
 `[10/22 00:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/appwrite-error-tracker](https://github.com/gurjeetsinghvirdee/appwrite-error-tracker)  
 `[10/22 00:15]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/appwrite-error-tracker/tree/master) in [gurjeetsinghvirdee/appwrite-error-tracker](https://github.com/gurjeetsinghvirdee/appwrite-error-tracker)  
 `[10/21 23:56]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/appwrite-error-tracker](https://github.com/gurjeetsinghvirdee/appwrite-error-tracker)  
-`[10/20 20:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1387`](https://github.com//appwrite/console/issues/1387 '🐛 Bug Report: Images for Different Regions Not Displaying During Project Creation') in [appwrite/console](https://github.com/appwrite/console)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -287,7 +287,7 @@ func main() {
 `[10/26 22:48]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1459`](https://github.com//appwrite/website/pull/1459 'Update GitHub Stars Count') in [appwrite/website](https://github.com/appwrite/website)  
 `[10/26 22:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3490` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[10/26 22:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1439`](https://github.com//appwrite/website/issues/1439 '🚀 Enhancement: Update GitHub Star Count') in [appwrite/website](https://github.com/appwrite/website)  
-`[10/25 16:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/healthcare-appointment-app](https://github.com/gurjeetsinghvirdee/healthcare-appointment-app)  
+`[10/25 16:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/healthcare-appointment-app](https://github.com/gurjeetsinghvirdee/healthcare-appointment-app)  
 
 </details>
 <!--END_SECTION:activity-->

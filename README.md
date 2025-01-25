@@ -58,7 +58,7 @@ func main() {
 		Skills:     []string{"JavaScript", "TypeScript", "PHP", "Svelte", "Solidity" "Go", "D"},
 		Experience: "4+ years",
 		Contributions: []string{
-			"Volunteer Quality Tester @Appwrite",
+			"Volunteer Community Moderator & Quality Tester @Appwrite",
 			"AI Trainer @Outlier.ai",
 			"Tech Writing with 126K+ readers",
 		},

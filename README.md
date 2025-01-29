@@ -150,14 +150,18 @@ func main() {
 <br>
         
 <!--START_SECTION:activity-->  
+`[01/28 21:47]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1718`](https://github.com//appwrite/website/pull/1718 'doc: Update contribution guide to include .env setup instructions') in [appwrite/website](https://github.com/appwrite/website)  
+`[01/28 21:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
+`[01/28 21:34]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`#1499-update-contributing-guide`](https://github.com/gurjeetsinghvirdee/website/tree/#1499-update-contributing-guide) in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
+`[01/28 21:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `107` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[01/28 21:05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1717`](https://github.com//appwrite/website/issues/1717 '📚 Documentation: Add .env setup instructions to contribution guide') in [appwrite/website](https://github.com/appwrite/website)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[01/28 20:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1208`](https://github.com//appwrite/website/issues/1208 '📚 Documentation: The color of ✅ on the pricing page is not prominent') in [appwrite/website](https://github.com/appwrite/website)  
 `[01/28 20:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1208`](https://github.com//appwrite/website/issues/1208 '📚 Documentation: The color of ✅ on the pricing page is not prominent') in [appwrite/website](https://github.com/appwrite/website)  
 `[01/28 18:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1574`](https://github.com//appwrite/website/issues/1574 '📚 Documentation:') in [appwrite/website](https://github.com/appwrite/website)  
 `[01/28 18:49]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1575`](https://github.com//appwrite/website/issues/1575 '🐛 Bug Report:') in [appwrite/website](https://github.com/appwrite/website)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[01/28 18:27]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1581`](https://github.com//appwrite/website/issues/1581 '📚 Documentation: Error in createVerification code sample in documentation') in [appwrite/website](https://github.com/appwrite/website)  
 `[01/28 18:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1592`](https://github.com//appwrite/website/issues/1592 '📚 Documentation: Update sentry logging config on integrations') in [appwrite/website](https://github.com/appwrite/website)  
 `[01/27 06:06]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1387`](https://github.com//appwrite/console/issues/1387 '🐛 Bug Report: Images for Different Regions Not Displaying During Project Creation') in [appwrite/console](https://github.com/appwrite/console)  
@@ -273,7 +277,7 @@ func main() {
 `[10/31 13:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/fitness-tracker](https://github.com/gurjeetsinghvirdee/fitness-tracker)  
 `[10/31 10:08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/fitness-tracker/tree/master) in [gurjeetsinghvirdee/fitness-tracker](https://github.com/gurjeetsinghvirdee/fitness-tracker)  
 `[10/31 10:07]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/fitness-tracker](https://github.com/gurjeetsinghvirdee/fitness-tracker)  
-`[10/30 13:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/AnonAdvisor](https://github.com/gurjeetsinghvirdee/AnonAdvisor)  
+`[10/30 13:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/AnonAdvisor](https://github.com/gurjeetsinghvirdee/AnonAdvisor)  
 
 </details>
 <!--END_SECTION:activity-->

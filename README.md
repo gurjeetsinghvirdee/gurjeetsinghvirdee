@@ -278,7 +278,7 @@ func main() {
 `[10/31 13:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/fitness-tracker](https://github.com/gurjeetsinghvirdee/fitness-tracker)  
 `[10/31 10:08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/gurjeetsinghvirdee/fitness-tracker/tree/master) in [gurjeetsinghvirdee/fitness-tracker](https://github.com/gurjeetsinghvirdee/fitness-tracker)  
 `[10/31 10:07]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/fitness-tracker](https://github.com/gurjeetsinghvirdee/fitness-tracker)  
-`[10/30 13:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/AnonAdvisor](https://github.com/gurjeetsinghvirdee/AnonAdvisor)  
+`[10/30 13:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/AnonAdvisor](https://github.com/gurjeetsinghvirdee/AnonAdvisor)  
 
 </details>
 <!--END_SECTION:activity-->

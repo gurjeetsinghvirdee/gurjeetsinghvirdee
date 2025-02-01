@@ -206,7 +206,6 @@ func main() {
 `[01/05 00:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9141`](https://github.com//appwrite/appwrite/issues/9141 '🐛 Bug Report: Incorrect Alert Display of upload limit (0MB) for Education plan in Bucket') in [appwrite/appwrite](https://github.com/appwrite/appwrite)  
 `[01/04 19:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)  
 `[01/04 00:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[01/02 09:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rorkai/21st](https://github.com/rorkai/21st)  
 
 </details>
 <!--END_SECTION:activity-->

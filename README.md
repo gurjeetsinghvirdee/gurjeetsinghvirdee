@@ -205,7 +205,6 @@ func main() {
 `[01/05 18:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `409` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[01/05 18:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1598`](https://github.com//appwrite/website/issues/1598 '🐛 Bug Report: Duplicate Databases recommendation in search results instead of Account') in [appwrite/website](https://github.com/appwrite/website)  
 `[01/05 00:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9141`](https://github.com//appwrite/appwrite/issues/9141 '🐛 Bug Report: Incorrect Alert Display of upload limit (0MB) for Education plan in Bucket') in [appwrite/appwrite](https://github.com/appwrite/appwrite)  
-`[01/04 19:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)  
 
 </details>
 <!--END_SECTION:activity-->

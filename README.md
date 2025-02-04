@@ -193,8 +193,6 @@ func main() {
 `[01/06 23:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)  
 `[01/05 21:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `doc-849-incorrect-image-for-topic-modal` from [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[01/05 21:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
-`[01/05 20:00]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#9122`](https://github.com//appwrite/appwrite/pull/9122 'Fix outdated CLI commands in documentation') in [appwrite/appwrite](https://github.com/appwrite/appwrite)  
-`[01/05 19:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/appwrite](https://github.com/gurjeetsinghvirdee/appwrite)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -202,8 +202,7 @@ func main() {
 `[01/05 18:47]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `doc-849-incorrect-topic-image` from [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[01/05 18:45]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `doc-849-incorrect-image-for-topic` from [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[01/05 18:45]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1540`](https://github.com//appwrite/website/pull/1540 'doc: update image in Topic Creator Modal') in [appwrite/website](https://github.com/appwrite/website)  
-`[01/05 18:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `409` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
-`[01/05 18:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1598`](https://github.com//appwrite/website/issues/1598 '🐛 Bug Report: Duplicate Databases recommendation in search results instead of Account') in [appwrite/website](https://github.com/appwrite/website)  
+`[01/05 18:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `153` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 
 </details>
 <!--END_SECTION:activity-->

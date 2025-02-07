@@ -187,7 +187,6 @@ func main() {
 `[01/15 11:41]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [raystack/apsara](https://github.com/raystack/apsara) to [gurjeetsinghvirdee/apsara](https://github.com/gurjeetsinghvirdee/apsara)  
 `[01/09 23:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1387`](https://github.com//appwrite/console/issues/1387 '🐛 Bug Report: Images for Different Regions Not Displaying During Project Creation') in [appwrite/console](https://github.com/appwrite/console)  
 `[01/09 23:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1387`](https://github.com//appwrite/console/issues/1387 '🐛 Bug Report: Images for Different Regions Not Displaying During Project Creation') in [appwrite/console](https://github.com/appwrite/console)  
-`[01/08 09:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/appwrite](https://github.com/gurjeetsinghvirdee/appwrite)  
 
 </details>
 <!--END_SECTION:activity-->

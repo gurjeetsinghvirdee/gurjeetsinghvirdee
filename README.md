@@ -181,7 +181,6 @@ func main() {
 `[01/24 13:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/appwrite](https://github.com/gurjeetsinghvirdee/appwrite)  
 `[01/22 20:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fastapi/fastapi](https://github.com/fastapi/fastapi)  
 `[01/22 15:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `409` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
-`[01/18 23:42]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#9141`](https://github.com//appwrite/appwrite/issues/9141 '🐛 Bug Report: Incorrect Alert Display of upload limit (0MB) for Education plan in Bucket') in [appwrite/appwrite](https://github.com/appwrite/appwrite)  
 
 </details>
 <!--END_SECTION:activity-->

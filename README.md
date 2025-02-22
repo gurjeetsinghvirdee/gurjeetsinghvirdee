@@ -150,14 +150,16 @@ func main() {
 <br>
         
 <!--START_SECTION:activity-->  
+`[02/21 19:39]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [mehdibha/dotUI](https://github.com/mehdibha/dotUI) to [gurjeetsinghvirdee/dotUI](https://github.com/gurjeetsinghvirdee/dotUI)  
+`[02/21 19:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mehdibha/dotUI](https://github.com/mehdibha/dotUI)  
 `[02/20 18:44]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `#1499-update-contributing-guide` from [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[02/20 17:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#9386`](https://github.com//appwrite/appwrite/issues/9386 'API Endpoint is not working') in [appwrite/appwrite](https://github.com/appwrite/appwrite)  
 `[02/20 17:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9386`](https://github.com//appwrite/appwrite/issues/9386 'API Endpoint is not working') in [appwrite/appwrite](https://github.com/appwrite/appwrite)  
-`[02/19 18:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1773`](https://github.com//appwrite/website/issues/1773 '🐛 Bug Report: Overview tab doesn\'t have correct amount of users') in [appwrite/website](https://github.com/appwrite/website)  
-`[02/17 17:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `228` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[02/19 18:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1773`](https://github.com//appwrite/website/issues/1773 '🐛 Bug Report: Overview tab doesn\'t have correct amount of users') in [appwrite/website](https://github.com/appwrite/website)  
+`[02/17 17:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `228` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[02/02 18:24]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1730`](https://github.com//appwrite/website/issues/1730 '📚 Documentation: Enhance Firebase to Appwrite Migration Guide for Clearer Credential Instructions') in [appwrite/website](https://github.com/appwrite/website)  
 `[02/02 09:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `64` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[01/31 22:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [gurjeetsinghvirdee/appwrite](https://github.com/gurjeetsinghvirdee/appwrite)  

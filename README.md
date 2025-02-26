@@ -181,7 +181,6 @@ func main() {
 `[01/28 18:49]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1575`](https://github.com//appwrite/website/issues/1575 '🐛 Bug Report:') in [appwrite/website](https://github.com/appwrite/website)  
 `[01/28 18:27]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1581`](https://github.com//appwrite/website/issues/1581 '📚 Documentation: Error in createVerification code sample in documentation') in [appwrite/website](https://github.com/appwrite/website)  
 `[01/28 18:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1592`](https://github.com//appwrite/website/issues/1592 '📚 Documentation: Update sentry logging config on integrations') in [appwrite/website](https://github.com/appwrite/website)  
-`[01/27 06:06]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1387`](https://github.com//appwrite/console/issues/1387 '🐛 Bug Report: Images for Different Regions Not Displaying During Project Creation') in [appwrite/console](https://github.com/appwrite/console)  
 
 </details>
 <!--END_SECTION:activity-->

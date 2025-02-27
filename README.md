@@ -170,9 +170,6 @@ func main() {
 `[01/29 19:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Kinfe123/farm-ui](https://github.com/Kinfe123/farm-ui)  
 `[01/29 19:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [taqui-786/mixcnui](https://github.com/taqui-786/mixcnui)  
 `[01/29 06:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
-`[01/28 21:47]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1718`](https://github.com//appwrite/website/pull/1718 'doc: Update contribution guide to include .env setup instructions') in [appwrite/website](https://github.com/appwrite/website)  
-`[01/28 21:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
-`[01/28 21:34]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`#1499-update-contributing-guide`](https://github.com/gurjeetsinghvirdee/website/tree/#1499-update-contributing-guide) in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -177,8 +177,6 @@ func main() {
 `[01/28 21:05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1717`](https://github.com//appwrite/website/issues/1717 '📚 Documentation: Add .env setup instructions to contribution guide') in [appwrite/website](https://github.com/appwrite/website)  
 `[01/28 20:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1208`](https://github.com//appwrite/website/issues/1208 '📚 Documentation: The color of ✅ on the pricing page is not prominent') in [appwrite/website](https://github.com/appwrite/website)  
 `[01/28 20:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1208`](https://github.com//appwrite/website/issues/1208 '📚 Documentation: The color of ✅ on the pricing page is not prominent') in [appwrite/website](https://github.com/appwrite/website)  
-`[01/28 18:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1574`](https://github.com//appwrite/website/issues/1574 '📚 Documentation:') in [appwrite/website](https://github.com/appwrite/website)  
-`[01/28 18:49]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1575`](https://github.com//appwrite/website/issues/1575 '🐛 Bug Report:') in [appwrite/website](https://github.com/appwrite/website)  
 
 </details>
 <!--END_SECTION:activity-->

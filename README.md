@@ -175,8 +175,6 @@ func main() {
 `[01/28 21:34]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`#1499-update-contributing-guide`](https://github.com/gurjeetsinghvirdee/website/tree/#1499-update-contributing-guide) in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[01/28 21:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `107` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[01/28 21:05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1717`](https://github.com//appwrite/website/issues/1717 '📚 Documentation: Add .env setup instructions to contribution guide') in [appwrite/website](https://github.com/appwrite/website)  
-`[01/28 20:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1208`](https://github.com//appwrite/website/issues/1208 '📚 Documentation: The color of ✅ on the pricing page is not prominent') in [appwrite/website](https://github.com/appwrite/website)  
-`[01/28 20:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1208`](https://github.com//appwrite/website/issues/1208 '📚 Documentation: The color of ✅ on the pricing page is not prominent') in [appwrite/website](https://github.com/appwrite/website)  
 
 </details>
 <!--END_SECTION:activity-->

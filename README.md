@@ -150,14 +150,16 @@ func main() {
 <br>
         
 <!--START_SECTION:activity-->  
+`[02/28 18:31]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1808`](https://github.com//appwrite/website/pull/1808 'doc: topics image updated') in [appwrite/website](https://github.com/appwrite/website)  
+`[02/28 18:26]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`1611-Topic-Image-Update`](https://github.com/gurjeetsinghvirdee/website/tree/1611-Topic-Image-Update) in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[02/28 17:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `282` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[02/21 23:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `152-sdk-cli-command-update` from [gurjeetsinghvirdee/appwrite](https://github.com/gurjeetsinghvirdee/appwrite)  
 `[02/21 19:39]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [mehdibha/dotUI](https://github.com/mehdibha/dotUI) to [gurjeetsinghvirdee/dotUI](https://github.com/gurjeetsinghvirdee/dotUI)  
-`[02/21 19:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mehdibha/dotUI](https://github.com/mehdibha/dotUI)  
-`[02/20 18:44]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `#1499-update-contributing-guide` from [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[02/21 19:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mehdibha/dotUI](https://github.com/mehdibha/dotUI)  
+`[02/20 18:44]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `#1499-update-contributing-guide` from [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[02/20 17:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#9386`](https://github.com//appwrite/appwrite/issues/9386 'API Endpoint is not working') in [appwrite/appwrite](https://github.com/appwrite/appwrite)  
 `[02/20 17:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9386`](https://github.com//appwrite/appwrite/issues/9386 'API Endpoint is not working') in [appwrite/appwrite](https://github.com/appwrite/appwrite)  
 `[02/19 18:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1773`](https://github.com//appwrite/website/issues/1773 '🐛 Bug Report: Overview tab doesn\'t have correct amount of users') in [appwrite/website](https://github.com/appwrite/website)  

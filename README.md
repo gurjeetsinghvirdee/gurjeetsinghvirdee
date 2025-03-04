@@ -169,7 +169,6 @@ func main() {
 `[02/19 18:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1773`](https://github.com//appwrite/website/issues/1773 '🐛 Bug Report: Overview tab doesn\'t have correct amount of users') in [appwrite/website](https://github.com/appwrite/website)  
 `[02/17 17:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `228` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[02/02 18:24]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1730`](https://github.com//appwrite/website/issues/1730 '📚 Documentation: Enhance Firebase to Appwrite Migration Guide for Clearer Credential Instructions') in [appwrite/website](https://github.com/appwrite/website)  
-`[02/02 09:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `41` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 
 </details>
 <!--END_SECTION:activity-->

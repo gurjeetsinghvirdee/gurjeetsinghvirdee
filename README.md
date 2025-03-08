@@ -150,14 +150,18 @@ func main() {
 <br>
         
 <!--START_SECTION:activity-->  
+`[03/08 15:48]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1836`](https://github.com//appwrite/website/pull/1836 'Fix: +page.markdoc') in [appwrite/website](https://github.com/appwrite/website)  
+`[03/08 15:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
+`[03/08 15:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`1730-Enhance-Appwrite-Firebase-Migration-Doc`](https://github.com/gurjeetsinghvirdee/website/tree/1730-Enhance-Appwrite-Firebase-Migration-Doc) in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
+`[03/08 15:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `188` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[03/03 19:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[02/28 19:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1611`](https://github.com//appwrite/website/issues/1611 '🐛 Bug Report: Topic.png Image includes extra white background') in [appwrite/website](https://github.com/appwrite/website)  
 `[02/28 19:33]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `1611-Topic-Image-Update` from [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[02/28 19:33]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1808`](https://github.com//appwrite/website/pull/1808 'doc: topics image updated') in [appwrite/website](https://github.com/appwrite/website)  
 `[02/28 18:31]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1808`](https://github.com//appwrite/website/pull/1808 'doc: topics image updated') in [appwrite/website](https://github.com/appwrite/website)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[02/28 18:26]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`1611-Topic-Image-Update`](https://github.com/gurjeetsinghvirdee/website/tree/1611-Topic-Image-Update) in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[02/28 17:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `282` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[02/21 23:09]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `152-sdk-cli-command-update` from [gurjeetsinghvirdee/appwrite](https://github.com/gurjeetsinghvirdee/appwrite)  

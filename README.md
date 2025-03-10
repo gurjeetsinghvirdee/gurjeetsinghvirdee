@@ -21,52 +21,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
-<!---------------------------------------------------- ABOUT ME ---------------------------------------------------------------->
-
-```go
-package main
-
-import "fmt"
-
-type Developer struct {
-	Name          string
-	Title         string
-	Skills        []string
-	Experience    string
-	Contributions []string
-}
-
-func (d Developer) About() {
-	fmt.Printf("👋 Hi there! I’m %s, a %s dedicated to driving innovation through technology.\n", d.Name, d.Title)
-	fmt.Println("🌟 I specialize in:")
-	for _, skill := range d.Skills {
-		fmt.Printf("- %s\n", skill)
-	}
-	fmt.Printf("\n🚀 With %s of experience, I thrive on building seamless digital experiences and solving impactful challenges.\n", d.Experience)
-	fmt.Println("🔧 I actively contribute to:")
-	for _, contribution := range d.Contributions {
-		fmt.Printf("- %s\n", contribution)
-	}
-	fmt.Println("\n🌱 Currently, I’m learning Go and D programming languages while mentoring aspiring developers and exploring new tech horizons.")
-	fmt.Println("💬 Let’s connect and collaborate to explore endless possibilities in tech!")
-}
-
-func main() {
-	me := Developer{
-		Name:       "Gurjeet Singh",
-		Title:      "Full Stack Developer & Open Source Advocate",
-		Skills:     []string{"JavaScript", "TypeScript", "PHP", "Svelte", "Solidity" "Go", "D"},
-		Experience: "4+ years",
-		Contributions: []string{
-			"Volunteer Community Moderator & Quality Tester @Appwrite",
-			"AI Trainer @Outlier.ai",
-			"Tech Writing with 126K+ readers",
-		},
-	}
-	me.About()
-}
-```
-<br>
 <!--------------------------------Dev.too Blog Posts---------------------------------------------->
 
 ## Latest Blog Posts

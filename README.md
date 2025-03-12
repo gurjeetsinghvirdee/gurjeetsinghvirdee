@@ -104,14 +104,16 @@
 <br>
         
 <!--START_SECTION:activity-->  
+`[03/11 18:33]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#11`](https://github.com//olovajs/olova/issues/11 'Invalid Discord Invite') in [olovajs/olova](https://github.com/olovajs/olova)  
+`[03/11 18:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#10`](https://github.com//olovajs/olova/issues/10 'Bug: version 1.9.0 is not accessible') in [olovajs/olova](https://github.com/olovajs/olova)  
 `[03/11 18:21]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#9`](https://github.com//olovajs/olova/issues/9 'Page Shows 404 Due to Incorrect Hook Names') in [olovajs/olova](https://github.com/olovajs/olova)  
 `[03/11 18:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [olovajs/olova](https://github.com/olovajs/olova)  
 `[03/11 17:03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9482`](https://github.com//appwrite/appwrite/issues/9482 '🐛 Bug Report: appwrite push functions Error:  \'general_argument_invalid\'') in [appwrite/appwrite](https://github.com/appwrite/appwrite)  
-`[03/10 21:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[03/10 13:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [robsontenorio/mary](https://github.com/robsontenorio/mary)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[03/10 21:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
+`[03/10 13:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [robsontenorio/mary](https://github.com/robsontenorio/mary)  
 `[03/10 11:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[03/10 11:22]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//gurjeetsinghvirdee/eth-fund/issues/1 'function createCampaign ') in [gurjeetsinghvirdee/eth-fund](https://github.com/gurjeetsinghvirdee/eth-fund)  
 `[03/10 11:21]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2`](https://github.com//gurjeetsinghvirdee/eth-fund/issues/2 'double check that the address and chainId are correct.') in [gurjeetsinghvirdee/eth-fund](https://github.com/gurjeetsinghvirdee/eth-fund)  

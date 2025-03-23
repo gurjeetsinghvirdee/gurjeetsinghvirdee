@@ -104,14 +104,15 @@
 <br>
         
 <!--START_SECTION:activity-->  
+`[03/23 21:23]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`21-fix-social-preview`](https://github.com/gurjeetsinghvirdee/docs-tscircuit/tree/21-fix-social-preview) in [gurjeetsinghvirdee/docs-tscircuit](https://github.com/gurjeetsinghvirdee/docs-tscircuit)  
 `[03/23 20:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#23`](https://github.com//tscircuit/docs/issues/23 'Enhance UX by Linking Logo to Homepage') in [tscircuit/docs](https://github.com/tscircuit/docs)  
 `[03/23 20:01]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tscircuit/docs](https://github.com/tscircuit/docs) to [gurjeetsinghvirdee/docs-tscircuit](https://github.com/gurjeetsinghvirdee/docs-tscircuit)  
 `[03/23 19:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#23`](https://github.com//tscircuit/docs/issues/23 'Enhance UX by Linking Logo to Homepage') in [tscircuit/docs](https://github.com/tscircuit/docs)  
 `[03/23 19:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#573`](https://github.com//tscircuit/tscircuit/issues/573 'Enhance UX by Linking Logo to Homepage') in [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit)  
-`[03/23 19:36]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#573`](https://github.com//tscircuit/tscircuit/issues/573 'Enhance UX by Linking Logo to Homepage') in [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[03/23 19:36]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#573`](https://github.com//tscircuit/tscircuit/issues/573 'Enhance UX by Linking Logo to Homepage') in [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit)  
 `[03/23 19:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit)  
 `[03/23 17:48]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tscircuit/tscircuit.com](https://github.com/tscircuit/tscircuit.com) to [gurjeetsinghvirdee/tscircuit.com](https://github.com/gurjeetsinghvirdee/tscircuit.com)  
 `[03/23 11:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tscircuit/tscircuit.com](https://github.com/tscircuit/tscircuit.com)  

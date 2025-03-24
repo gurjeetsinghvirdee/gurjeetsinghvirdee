@@ -1,6 +1,6 @@
 <!------------------------------------------------- HEADER BANNER ---------------------------------------------------->
 
-![github_banner](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/assets/73753957/a3dd3e5b-c28a-4854-be54-fbf27b764be5)
+<a href="https://gitroll.io/profile/uHd7PWxfGZfhtTRRQgByd4RHQclu2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uHd7PWxfGZfhtTRRQgByd4RHQclu2?theme=kawaiiCat" alt="GitRoll Profile Badge"/></a>
 
 <div align="center">
  <h3>Connect with me:</h3>

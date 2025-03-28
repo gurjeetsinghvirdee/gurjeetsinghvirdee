@@ -28,11 +28,11 @@
 <a href="https://hashnode.com/@gurjeetsingh"><img src="https://img.shields.io/badge/hashnode-3B82F6?style=for-the-badge&logo=hashnode&logoColor=white" height="33" /></a>
 
 <!-- BLOG-POST-LIST:START -->
+- [What is a tscircuit? An Introduction to PCB Design](https://dev.to/gurjeetsinghvirdee/what-is-a-ts-circuit-an-introduction-to-pcb-design-3k7l)
 - [Demystifying Containerization: How Docker and Kubernetes Revolutionize Web Development](https://dev.to/gurjeetsinghvirdee/demystifying-containerization-how-docker-and-kubernetes-revolutionize-web-development-1b0a)
 - [Performance Optimization Techniques for Modern Web Apps](https://dev.to/gurjeetsinghvirdee/performance-optimization-techniques-for-modern-web-apps-393o)
 - [JavaScript Deep Dive: Understanding Operators](https://dev.to/gurjeetsinghvirdee/javascript-deep-dive-understanding-operators-564o)
 - [JavaScript Deep Dive: Understanding Data Types](https://dev.to/gurjeetsinghvirdee/javascript-deep-dive-understanding-data-types-2mma)
-- [Open Source for Non-Developers: Opportunities Beyond Code](https://dev.to/gurjeetsinghvirdee/open-source-for-non-developers-opportunities-beyond-code-4h1j)
 <!-- BLOG-POST-LIST:END -->
 
 <!---------------------------------Frameworks, Languages & Other Tools ------------------------------------->        

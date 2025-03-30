@@ -173,7 +173,6 @@
 `[02/28 19:33]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1808`](https://github.com//appwrite/website/pull/1808 'doc: topics image updated') in [appwrite/website](https://github.com/appwrite/website)  
 `[02/28 18:31]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1808`](https://github.com//appwrite/website/pull/1808 'doc: topics image updated') in [appwrite/website](https://github.com/appwrite/website)  
 `[02/28 18:26]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`1611-Topic-Image-Update`](https://github.com/gurjeetsinghvirdee/website/tree/1611-Topic-Image-Update) in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
-`[02/28 17:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `282` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 
 </details>
 <!--END_SECTION:activity-->

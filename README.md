@@ -167,7 +167,6 @@
 `[03/08 15:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[03/08 15:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`1730-Enhance-Appwrite-Firebase-Migration-Doc`](https://github.com/gurjeetsinghvirdee/website/tree/1730-Enhance-Appwrite-Firebase-Migration-Doc) in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[03/08 15:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `188` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
-`[03/03 19:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui)  
 
 </details>
 <!--END_SECTION:activity-->

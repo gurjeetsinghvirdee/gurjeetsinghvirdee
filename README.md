@@ -176,8 +176,6 @@
 `[03/10 11:21]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2`](https://github.com//gurjeetsinghvirdee/eth-fund/issues/2 'double check that the address and chainId are correct.') in [gurjeetsinghvirdee/eth-fund](https://github.com/gurjeetsinghvirdee/eth-fund)  
 `[03/10 11:21]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1515`](https://github.com//appwrite/website/issues/1515 '🚀 Enhancement: Replace Pixelated chat image on Education page with High-Resolution alternative') in [appwrite/website](https://github.com/appwrite/website)  
 `[03/10 11:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
-`[03/08 15:48]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1836`](https://github.com//appwrite/website/pull/1836 'Fix: +page.markdoc') in [appwrite/website](https://github.com/appwrite/website)  
-`[03/08 15:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 
 </details>
 <!--END_SECTION:activity-->

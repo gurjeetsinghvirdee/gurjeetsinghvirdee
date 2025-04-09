@@ -103,14 +103,16 @@
 <br>
         
 <!--START_SECTION:activity-->  
+`[04/08 17:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [duckdb/duckdb](https://github.com/duckdb/duckdb)  
+`[04/08 17:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [duckdb/duckdb](https://github.com/duckdb/duckdb)  
 `[04/08 16:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/wellSync](https://github.com/gurjeetsinghvirdee/wellSync)  
 `[04/07 10:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [juliangarnier/anime](https://github.com/juliangarnier/anime)  
 `[04/04 17:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tscircuit/core](https://github.com/tscircuit/core)  
-`[04/03 18:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `qyuickstart_cli` from [gurjeetsinghvirdee/docs-tscircuit](https://github.com/gurjeetsinghvirdee/docs-tscircuit)  
-`[04/03 18:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#27`](https://github.com//tscircuit/docs/pull/27 'docs: cli screenshot updated') in [tscircuit/docs](https://github.com/tscircuit/docs)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[04/03 18:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `qyuickstart_cli` from [gurjeetsinghvirdee/docs-tscircuit](https://github.com/gurjeetsinghvirdee/docs-tscircuit)  
+`[04/03 18:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#27`](https://github.com//tscircuit/docs/pull/27 'docs: cli screenshot updated') in [tscircuit/docs](https://github.com/tscircuit/docs)  
 `[04/02 15:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/docs-tscircuit](https://github.com/gurjeetsinghvirdee/docs-tscircuit)  
 `[04/02 07:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#27`](https://github.com//tscircuit/docs/issues/27 'docs: cli screenshot updated') in [tscircuit/docs](https://github.com/tscircuit/docs)  
 `[04/02 07:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/docs-tscircuit](https://github.com/gurjeetsinghvirdee/docs-tscircuit)  

@@ -173,7 +173,6 @@
 `[03/11 18:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [olovajs/olova](https://github.com/olovajs/olova)  
 `[03/11 17:03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9482`](https://github.com//appwrite/appwrite/issues/9482 '🐛 Bug Report: appwrite push functions Error:  \'general_argument_invalid\'') in [appwrite/appwrite](https://github.com/appwrite/appwrite)  
 `[03/10 21:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[03/10 13:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [robsontenorio/mary](https://github.com/robsontenorio/mary)  
 
 </details>
 <!--END_SECTION:activity-->

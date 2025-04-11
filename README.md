@@ -1,5 +1,4 @@
 <!------------------------------------------------- HEADER BANNER ---------------------------------------------------->
-<!-- GitAds-Verify: OQ74IVEBVS5X27HVQFFS28HB24E8LS7T -->
 <a href="https://gitroll.io/profile/uHd7PWxfGZfhtTRRQgByd4RHQclu2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uHd7PWxfGZfhtTRRQgByd4RHQclu2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
 
 <div align="center">
@@ -19,6 +18,8 @@
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=gurjeetsinghvirdee/gurjeetsinghvirdee@github)](https://gitads.dev/v1/ad-track?source=gurjeetsinghvirdee/gurjeetsinghvirdee@github)
 
 <!--------------------------------Dev.too Blog Posts---------------------------------------------->
 

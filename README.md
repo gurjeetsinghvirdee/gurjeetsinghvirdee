@@ -180,8 +180,6 @@
 `[03/17 21:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1730`](https://github.com//appwrite/website/issues/1730 '📚 Documentation: Enhance Firebase to Appwrite Migration Guide for Clearer Credential Instructions') in [appwrite/website](https://github.com/appwrite/website)  
 `[03/17 21:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `307` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[03/17 21:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `1730-Enhance-Appwrite-Firebase-Migration-Doc` from [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
-`[03/16 21:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts)  
-`[03/16 21:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ui-layouts/cursify](https://github.com/ui-layouts/cursify)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -182,7 +182,6 @@
 `[03/17 21:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `1730-Enhance-Appwrite-Firebase-Migration-Doc` from [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[03/16 21:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts)  
 `[03/16 21:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ui-layouts/cursify](https://github.com/ui-layouts/cursify)  
-`[03/16 21:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [usertour/usertour](https://github.com/usertour/usertour)  
 
 </details>
 <!--END_SECTION:activity-->

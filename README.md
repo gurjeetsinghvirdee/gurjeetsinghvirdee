@@ -172,7 +172,6 @@
 `[03/23 19:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit)  
 `[03/23 17:48]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tscircuit/tscircuit.com](https://github.com/tscircuit/tscircuit.com) to [gurjeetsinghvirdee/tscircuit.com](https://github.com/gurjeetsinghvirdee/tscircuit.com)  
 `[03/23 11:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tscircuit/tscircuit.com](https://github.com/tscircuit/tscircuit.com)  
-`[03/23 08:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 
 </details>
 <!--END_SECTION:activity-->

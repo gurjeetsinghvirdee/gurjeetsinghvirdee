@@ -160,7 +160,6 @@
 `[03/24 11:36]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#742`](https://github.com//tscircuit/tscircuit.com/issues/742 'Bug: Search Box UI Glitch on Hover/Focus') in [tscircuit/tscircuit.com](https://github.com/tscircuit/tscircuit.com)  
 `[03/24 11:06]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#575`](https://github.com//tscircuit/tscircuit/issues/575 'Bug: Snippet Can\'t Be Deleted') in [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit)  
 `[03/23 23:07]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tscircuit/autorouting](https://github.com/tscircuit/autorouting) to [gurjeetsinghvirdee/autorouting](https://github.com/gurjeetsinghvirdee/autorouting)  
-`[03/23 22:12]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `21-fix-social-preview` from [gurjeetsinghvirdee/docs-tscircuit](https://github.com/gurjeetsinghvirdee/docs-tscircuit)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -169,7 +169,6 @@
 `[03/23 19:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#23`](https://github.com//tscircuit/docs/issues/23 'Enhance UX by Linking Logo to Homepage') in [tscircuit/docs](https://github.com/tscircuit/docs)  
 `[03/23 19:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#573`](https://github.com//tscircuit/tscircuit/issues/573 'Enhance UX by Linking Logo to Homepage') in [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit)  
 `[03/23 19:36]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#573`](https://github.com//tscircuit/tscircuit/issues/573 'Enhance UX by Linking Logo to Homepage') in [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit)  
-`[03/23 19:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit)  
 
 </details>
 <!--END_SECTION:activity-->

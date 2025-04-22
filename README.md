@@ -163,7 +163,6 @@
 `[03/23 22:12]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `21-fix-social-preview` from [gurjeetsinghvirdee/docs-tscircuit](https://github.com/gurjeetsinghvirdee/docs-tscircuit)  
 `[03/23 21:47]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#24`](https://github.com//tscircuit/docs/pull/24 'Fix: Social Meta Tags ') in [tscircuit/docs](https://github.com/tscircuit/docs)  
 `[03/23 21:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/docs-tscircuit](https://github.com/gurjeetsinghvirdee/docs-tscircuit)  
-`[03/23 21:23]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`21-fix-social-preview`](https://github.com/gurjeetsinghvirdee/docs-tscircuit/tree/21-fix-social-preview) in [gurjeetsinghvirdee/docs-tscircuit](https://github.com/gurjeetsinghvirdee/docs-tscircuit)  
 
 </details>
 <!--END_SECTION:activity-->

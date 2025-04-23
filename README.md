@@ -158,7 +158,6 @@
 `[03/24 13:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  
 `[03/24 12:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#744`](https://github.com//tscircuit/tscircuit.com/issues/744 'Bug: Snippet Can\'t Be Deleted') in [tscircuit/tscircuit.com](https://github.com/tscircuit/tscircuit.com)  
 `[03/24 11:36]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#742`](https://github.com//tscircuit/tscircuit.com/issues/742 'Bug: Search Box UI Glitch on Hover/Focus') in [tscircuit/tscircuit.com](https://github.com/tscircuit/tscircuit.com)  
-`[03/24 11:06]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#575`](https://github.com//tscircuit/tscircuit/issues/575 'Bug: Snippet Can\'t Be Deleted') in [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit)  
 
 </details>
 <!--END_SECTION:activity-->

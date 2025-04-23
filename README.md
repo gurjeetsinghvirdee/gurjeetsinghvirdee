@@ -156,7 +156,6 @@
 `[03/24 14:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[03/24 14:20]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#386`](https://github.com//CapSoftware/Cap/issues/386 'Comment Button Overlapping or Clipped') in [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  
 `[03/24 13:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [CapSoftware/Cap](https://github.com/CapSoftware/Cap)  
-`[03/24 12:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#744`](https://github.com//tscircuit/tscircuit.com/issues/744 'Bug: Snippet Can\'t Be Deleted') in [tscircuit/tscircuit.com](https://github.com/tscircuit/tscircuit.com)  
 
 </details>
 <!--END_SECTION:activity-->

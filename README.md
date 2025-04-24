@@ -147,7 +147,7 @@
 `[03/27 07:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#136`](https://github.com//tscircuit/cli/issues/136 'Make title of page the circuit name in `tsci dev`') in [tscircuit/cli](https://github.com/tscircuit/cli)  
 `[03/27 07:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#136`](https://github.com//tscircuit/cli/issues/136 'Make title of page the circuit name in `tsci dev`') in [tscircuit/cli](https://github.com/tscircuit/cli)  
 `[03/26 22:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [danmindru/page-ui](https://github.com/danmindru/page-ui)  
-`[03/25 22:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/phtopeek](https://github.com/gurjeetsinghvirdee/phtopeek)  
+`[03/25 22:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/phtopeek](https://github.com/gurjeetsinghvirdee/phtopeek)  
 
 </details>
 <!--END_SECTION:activity-->

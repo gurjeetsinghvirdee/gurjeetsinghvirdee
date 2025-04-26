@@ -142,7 +142,6 @@
 `[04/02 05:32]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#26`](https://github.com//tscircuit/docs/issues/26 'Update the screenshots in the "quickstart CLI" doc to match the new, colorful output') in [tscircuit/docs](https://github.com/tscircuit/docs)  
 `[04/02 05:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [gurjeetsinghvirdee/docs-tscircuit](https://github.com/gurjeetsinghvirdee/docs-tscircuit)  
 `[03/31 18:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[03/27 08:25]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tscircuit/core](https://github.com/tscircuit/core) to [gurjeetsinghvirdee/core](https://github.com/gurjeetsinghvirdee/core)  
 
 </details>
 <!--END_SECTION:activity-->

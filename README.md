@@ -136,8 +136,6 @@
 `[04/03 18:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#27`](https://github.com//tscircuit/docs/pull/27 'docs: cli screenshot updated') in [tscircuit/docs](https://github.com/tscircuit/docs)  
 `[04/02 15:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/docs-tscircuit](https://github.com/gurjeetsinghvirdee/docs-tscircuit)  
 `[04/02 07:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#27`](https://github.com//tscircuit/docs/issues/27 'docs: cli screenshot updated') in [tscircuit/docs](https://github.com/tscircuit/docs)  
-`[04/02 07:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/docs-tscircuit](https://github.com/gurjeetsinghvirdee/docs-tscircuit)  
-`[04/02 07:16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#27`](https://github.com//tscircuit/docs/issues/27 'docs: cli screenshot updated') in [tscircuit/docs](https://github.com/tscircuit/docs)  
 
 </details>
 <!--END_SECTION:activity-->

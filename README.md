@@ -139,8 +139,6 @@
 `[04/08 16:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/wellSync](https://github.com/gurjeetsinghvirdee/wellSync)  
 `[04/07 10:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [juliangarnier/anime](https://github.com/juliangarnier/anime)  
 `[04/04 17:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tscircuit/core](https://github.com/tscircuit/core)  
-`[04/03 18:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `qyuickstart_cli` from [gurjeetsinghvirdee/docs-tscircuit](https://github.com/gurjeetsinghvirdee/docs-tscircuit)  
-`[04/03 18:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#27`](https://github.com//tscircuit/docs/pull/27 'docs: cli screenshot updated') in [tscircuit/docs](https://github.com/tscircuit/docs)  
 
 </details>
 <!--END_SECTION:activity-->

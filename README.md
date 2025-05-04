@@ -138,7 +138,6 @@
 `[04/08 17:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [duckdb/duckdb](https://github.com/duckdb/duckdb)  
 `[04/08 16:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/wellSync](https://github.com/gurjeetsinghvirdee/wellSync)  
 `[04/07 10:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [juliangarnier/anime](https://github.com/juliangarnier/anime)  
-`[04/04 17:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tscircuit/core](https://github.com/tscircuit/core)  
 
 </details>
 <!--END_SECTION:activity-->

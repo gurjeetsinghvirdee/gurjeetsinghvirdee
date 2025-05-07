@@ -104,7 +104,7 @@
 <br>
         
 <!--START_SECTION:activity-->  
-`[05/03 11:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
+`[05/06 18:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[05/02 17:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ui-layouts/ui-tools](https://github.com/ui-layouts/ui-tools)  
 `[05/02 16:57]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1951`](https://github.com//appwrite/website/pull/1951 'fix: light theme styling') in [appwrite/website](https://github.com/appwrite/website)  
 `[05/02 16:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  

@@ -123,7 +123,6 @@
 `[05/01 08:00]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [AutoMQ/automq](https://github.com/AutoMQ/automq) to [gurjeetsinghvirdee/automq](https://github.com/gurjeetsinghvirdee/automq)  
 `[05/01 07:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AutoMQ/automq](https://github.com/AutoMQ/automq)  
 `[04/21 18:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DarkInventor/easy-ui](https://github.com/DarkInventor/easy-ui)  
-`[04/21 10:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [izadoesdev/mailer](https://github.com/izadoesdev/mailer)  
 
 </details>
 <!--END_SECTION:activity-->

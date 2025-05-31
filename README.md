@@ -123,8 +123,6 @@
 `[05/02 16:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`1950-Search-bar-UI`](https://github.com/gurjeetsinghvirdee/website/tree/1950-Search-bar-UI) in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[05/02 16:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `474` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[05/02 15:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1950`](https://github.com//appwrite/website/issues/1950 '🐛 Bug Report: Search bar uses dark theme styling in light mode UI') in [appwrite/website](https://github.com/appwrite/website)  
-`[05/01 08:00]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [AutoMQ/automq](https://github.com/AutoMQ/automq) to [gurjeetsinghvirdee/automq](https://github.com/gurjeetsinghvirdee/automq)  
-`[05/01 07:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AutoMQ/automq](https://github.com/AutoMQ/automq)  
 
 </details>
 <!--END_SECTION:activity-->

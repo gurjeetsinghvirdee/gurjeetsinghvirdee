@@ -13,15 +13,12 @@
 <br>
  
 <div align="center">
-    <a href="https://drive.google.com/file/d/1kfOgnzaFNhz18nt7DS0i8Spp-n2YNyl3/view?usp=drive_link" alt="My Resume"><img src="https://img.shields.io/badge/%F0%9F%93%84%20My%20Resume-0078D4?style=for-the-badge&logo=resume&logoColor=white" height="33" /></a>
+    <a href="https://drive.google.com/file/d/1kfOgnzaFNhz18nt7DS0i8Spp-n2YNyl3/view?usp=drive_link" alt="Resume"><img src="https://img.shields.io/badge/%F0%9F%93%84%20Resume-0078D4?style=for-the-badge&logo=resume&logoColor=white" height="33" /></a>
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgurjeetsinghvirdee%2Fgurjeetsinghvirdee&label=VISITORS&labelColor=%23FFD700&countColor=%238A2BE2" width="160" height="33" />    
 <!--     <img src="https://wakatime.com/badge/user/ff7098eb-56b3-4619-bbbb-86aad0fce365.svg?style=for-the-badge" height="33" /> -->
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
-
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=gurjeetsinghvirdee/gurjeetsinghvirdee@github)](https://gitads.dev/v1/ad-track?source=gurjeetsinghvirdee/gurjeetsinghvirdee@github)
-
 <!--------------------------------Dev.too Blog Posts---------------------------------------------->
 
 ## Latest Blog Posts

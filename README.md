@@ -120,12 +120,6 @@
 `[05/19 12:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1203` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 `[05/09 18:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [educlopez/smoothui](https://github.com/educlopez/smoothui)  
 `[05/07 18:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `22` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
-`[05/02 17:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ui-layouts/ui-tools](https://github.com/ui-layouts/ui-tools)  
-`[05/02 16:57]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1951`](https://github.com//appwrite/website/pull/1951 'fix: light theme styling') in [appwrite/website](https://github.com/appwrite/website)  
-`[05/02 16:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
-`[05/02 16:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`1950-Search-bar-UI`](https://github.com/gurjeetsinghvirdee/website/tree/1950-Search-bar-UI) in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
-`[05/02 16:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `474` commits in [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
-`[05/02 15:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1950`](https://github.com//appwrite/website/issues/1950 '🐛 Bug Report: Search bar uses dark theme styling in light mode UI') in [appwrite/website](https://github.com/appwrite/website)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -1,6 +1,7 @@
 <!------------------------------------------------- HEADER BANNER ---------------------------------------------------->
-<a href="https://gitroll.io/profile/uHd7PWxfGZfhtTRRQgByd4RHQclu2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uHd7PWxfGZfhtTRRQgByd4RHQclu2?theme=light" alt="GitRoll Profile Badge"/>
-</a>
+![Banner](https://github.com/user-attachments/assets/5d7a56cb-e4c1-4031-9abc-6e04f46562d7)
+
+
 
 <div align="center">
  <h3>Connect with me:</h3>

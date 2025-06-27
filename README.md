@@ -93,6 +93,14 @@
 </tr>
 </table>
 
+<table>
+ <tr>
+  <td>
+   <img width="1000" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/profile-3d-contrib/profile-night-view.svg" />
+  </td>
+ </tr>
+</table>
+
 ## <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/recent.gif" width="30" height="35" /> Recent Activity
 
 <div align="center">

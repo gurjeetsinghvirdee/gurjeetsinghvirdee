@@ -126,8 +126,6 @@
 `[06/01 11:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [gurjeetsinghvirdee/event-hub](https://github.com/gurjeetsinghvirdee/event-hub)  
 `[06/01 10:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/eth-fund](https://github.com/gurjeetsinghvirdee/eth-fund)  
 `[06/01 10:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/Expense-tracker](https://github.com/gurjeetsinghvirdee/Expense-tracker)  
-`[05/31 19:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[05/31 10:05]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `1950-Search-bar-UI` from [gurjeetsinghvirdee/website](https://github.com/gurjeetsinghvirdee/website)  
 
 </details>
 <!--END_SECTION:activity-->

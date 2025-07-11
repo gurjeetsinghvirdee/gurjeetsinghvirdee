@@ -117,10 +117,6 @@
 `[06/19 15:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2011`](https://github.com//appwrite/console/issues/2011 '🐛 Bug Report: Buttons Getting Cut Off on Mobile View') in [appwrite/console](https://github.com/appwrite/console)  
 `[06/15 19:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4219` commits in [gurjeetsinghvirdee/appwrite](https://github.com/gurjeetsinghvirdee/appwrite)  
 
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
-`[06/10 17:50]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [appwrite/console](https://github.com/appwrite/console) to [gurjeetsinghvirdee/console](https://github.com/gurjeetsinghvirdee/console)  
-
 </details>
 <!--END_SECTION:activity-->
        

@@ -113,8 +113,6 @@
 <!--START_SECTION:activity-->  
 `[06/28 19:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/personal-folio](https://github.com/gurjeetsinghvirdee/personal-folio)  
 `[06/27 21:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[06/19 16:16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2011`](https://github.com//appwrite/console/issues/2011 '🐛 Bug Report: Buttons Getting Cut Off on Mobile View') in [appwrite/console](https://github.com/appwrite/console)  
-`[06/19 15:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2011`](https://github.com//appwrite/console/issues/2011 '🐛 Bug Report: Buttons Getting Cut Off on Mobile View') in [appwrite/console](https://github.com/appwrite/console)  
 
 </details>
 <!--END_SECTION:activity-->

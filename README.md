@@ -113,7 +113,6 @@
 <!--START_SECTION:activity-->  
 `[07/25 14:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/latency-topology-visualizer](https://github.com/gurjeetsinghvirdee/latency-topology-visualizer)  
 `[06/28 19:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/personal-folio](https://github.com/gurjeetsinghvirdee/personal-folio)  
-`[06/27 21:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 
 </details>
 <!--END_SECTION:activity-->

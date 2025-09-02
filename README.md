@@ -121,9 +121,7 @@
 
 `[08/11 09:56]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [mem0ai/mem0](https://github.com/mem0ai/mem0) to [gurjeetsinghvirdee/mem0](https://github.com/gurjeetsinghvirdee/mem0)  
 `[08/08 12:43]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [mediar-ai/terminator](https://github.com/mediar-ai/terminator) to [gurjeetsinghvirdee/terminator](https://github.com/gurjeetsinghvirdee/terminator)  
-`[08/06 08:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [gurjeetsinghvirdee/OptiFix](https://github.com/gurjeetsinghvirdee/OptiFix)  
-`[08/02 14:25]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/gurjeetsinghvirdee/OptiFix/tree/main) in [gurjeetsinghvirdee/OptiFix](https://github.com/gurjeetsinghvirdee/OptiFix)  
-`[08/02 14:23]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [gurjeetsinghvirdee/OptiFix](https://github.com/gurjeetsinghvirdee/OptiFix)  
+`[08/06 08:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/OptiFix](https://github.com/gurjeetsinghvirdee/OptiFix)  
 
 </details>
 <!--END_SECTION:activity-->

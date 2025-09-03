@@ -109,14 +109,15 @@
 <br>
         
 <!--START_SECTION:activity-->  
+`[09/03 07:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
 `[08/30 10:54]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tscircuit/schematic-trace-solver](https://github.com/tscircuit/schematic-trace-solver) to [gurjeetsinghvirdee/schematic-trace-solver](https://github.com/gurjeetsinghvirdee/schematic-trace-solver)  
 `[08/30 10:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `653` commits in [gurjeetsinghvirdee/tscircuit.com](https://github.com/gurjeetsinghvirdee/tscircuit.com)  
 `[08/22 20:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft)  
 `[08/17 10:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Adityakishore0/ScrollX-UI](https://github.com/Adityakishore0/ScrollX-UI)  
-`[08/17 09:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [paper-design/shaders](https://github.com/paper-design/shaders)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[08/17 09:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [paper-design/shaders](https://github.com/paper-design/shaders)  
 `[08/11 09:56]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [mem0ai/mem0](https://github.com/mem0ai/mem0) to [gurjeetsinghvirdee/mem0](https://github.com/gurjeetsinghvirdee/mem0)  
 `[08/08 12:43]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [mediar-ai/terminator](https://github.com/mediar-ai/terminator) to [gurjeetsinghvirdee/terminator](https://github.com/gurjeetsinghvirdee/terminator)  
 `[08/06 08:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/OptiFix](https://github.com/gurjeetsinghvirdee/OptiFix)  

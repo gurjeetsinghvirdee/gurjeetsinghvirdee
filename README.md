@@ -1,5 +1,5 @@
 <!------------------------------------------------- GitRoll Profile ---------------------------------------------------->
-<a href="https://gitroll.io/profile/uHd7PWxfGZfhtTRRQgByd4RHQclu2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uHd7PWxfGZfhtTRRQgByd4RHQclu2?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uHd7PWxfGZfhtTRRQgByd4RHQclu2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uHd7PWxfGZfhtTRRQgByd4RHQclu2?theme=darkEmerald" width="1000" height="600" alt="GitRoll Profile Badge"/></a>
 
 <div align="center">
  <h3>Connect with me:</h3>
@@ -12,7 +12,7 @@
 <br>
  
 <div align="center">
-    <a href="https://drive.google.com/file/d/1kfOgnzaFNhz18nt7DS0i8Spp-n2YNyl3/view?usp=drive_link" alt="Resume"><img src="https://img.shields.io/badge/%F0%9F%93%84%20Resume-0078D4?style=for-the-badge&logo=resume&logoColor=white" height="33" /></a>
+    <a href="https://drive.google.com/file/d/1auw6qHgbbbv8gjiH4y2lBI93BiBxKOtU/view?usp=sharing" alt="Resume"><img src="https://img.shields.io/badge/%F0%9F%93%84%20Resume-0078D4?style=for-the-badge&logo=resume&logoColor=white" height="33" /></a>
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgurjeetsinghvirdee%2Fgurjeetsinghvirdee&label=VISITORS&labelColor=%23FFD700&countColor=%238A2BE2" width="160" height="33" />    
 <!--     <img src="https://wakatime.com/badge/user/ff7098eb-56b3-4619-bbbb-86aad0fce365.svg?style=for-the-badge" height="33" /> -->
 </div>

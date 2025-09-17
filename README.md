@@ -129,8 +129,6 @@
 `[08/30 10:54]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tscircuit/schematic-trace-solver](https://github.com/tscircuit/schematic-trace-solver) to [gurjeetsinghvirdee/schematic-trace-solver](https://github.com/gurjeetsinghvirdee/schematic-trace-solver)  
 `[08/30 10:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `653` commits in [gurjeetsinghvirdee/tscircuit.com](https://github.com/gurjeetsinghvirdee/tscircuit.com)  
 `[08/22 20:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft)  
-`[08/17 10:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Adityakishore0/ScrollX-UI](https://github.com/Adityakishore0/ScrollX-UI)  
-`[08/17 09:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [paper-design/shaders](https://github.com/paper-design/shaders)  
 
 </details>
 <!--END_SECTION:activity-->

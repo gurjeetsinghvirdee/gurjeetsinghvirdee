@@ -44,9 +44,9 @@
 | **Tools & Project Management** | <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white" /> <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" /> <img src="https://img.shields.io/badge/JetBrains-000?logo=jetbrains&logoColor=fff&style=for-the-badge" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" /> <img src="https://img.shields.io/badge/appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" /> <img src="https://img.shields.io/badge/rapid-0055DA?style=for-the-badge&logo=rapid&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" /> <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" /> |
 | **Miscellaneous** | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> <img src="https://img.shields.io/badge/framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" /> |
 
-<!------------------------------------------TESTIMONIALS-----------------------------------------------
+<!------------------------------------------TESTIMONIALS----------------------------------------------->
         
-## <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/star%202.gif" width="35" height="30" /> Testimonials 
+<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/star%202.gif" width="35" height="30" /> Testimonials 
 
 <table>
   <tr>
@@ -64,7 +64,6 @@
 </table>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" /> 
---------------------->
 
 <!------------------------------------------------------------ GITHUB STATS ------------------------------------------------------------------------>
         

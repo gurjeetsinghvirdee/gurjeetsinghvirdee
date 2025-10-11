@@ -144,7 +144,6 @@
 `[09/10 18:23]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#198`](https://github.com//appwrite/sdk-for-cli/pull/198 'Improve error message when authentication is required for project access') in [appwrite/sdk-for-cli](https://github.com/appwrite/sdk-for-cli)  
 `[09/10 18:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/sdk-for-cli](https://github.com/gurjeetsinghvirdee/sdk-for-cli)  
 `[09/10 18:15]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feature/improve-auth-required-error-message`](https://github.com/gurjeetsinghvirdee/sdk-for-cli/tree/feature/improve-auth-required-error-message) in [gurjeetsinghvirdee/sdk-for-cli](https://github.com/gurjeetsinghvirdee/sdk-for-cli)  
-`[09/10 16:55]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [appwrite/sdk-for-cli](https://github.com/appwrite/sdk-for-cli) to [gurjeetsinghvirdee/sdk-for-cli](https://github.com/gurjeetsinghvirdee/sdk-for-cli)  
 
 </details>
 <!--END_SECTION:activity-->

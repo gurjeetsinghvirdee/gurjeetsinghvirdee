@@ -140,8 +140,6 @@
 `[10/09 12:17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#10`](https://github.com//SrinjoyeeDey/SkyBuddy/issues/10 'Issue: Mood-Based Weather Playlists 🎵🌦️') in [SrinjoyeeDey/SkyBuddy](https://github.com/SrinjoyeeDey/SkyBuddy)  
 `[09/26 17:47]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#23`](https://github.com//tscircuit/docs/issues/23 'Enhance UX by Linking Logo to Homepage') in [tscircuit/docs](https://github.com/tscircuit/docs)  
 `[09/14 05:19]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `implement-arudino` from [gurjeetsinghvirdee/common](https://github.com/gurjeetsinghvirdee/common)  
-`[09/13 19:26]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//tscircuit/common/issues/7 'implemented ArduinoShield') in [tscircuit/common](https://github.com/tscircuit/common)  
-`[09/13 19:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [gurjeetsinghvirdee/common](https://github.com/gurjeetsinghvirdee/common)  
 
 </details>
 <!--END_SECTION:activity-->

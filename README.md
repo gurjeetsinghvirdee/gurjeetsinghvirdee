@@ -109,7 +109,6 @@
         
 <!--START_SECTION:activity-->  
 `[11/22 17:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [gurjeetsinghvirdee/appwrite](https://github.com/gurjeetsinghvirdee/appwrite)  
-`[10/26 22:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [gurjeetsinghvirdee/SkyBuddy](https://github.com/gurjeetsinghvirdee/SkyBuddy)  
 
 </details>
 <!--END_SECTION:activity-->

@@ -3,7 +3,7 @@
 
 <div align="center">
  <h3>Connect with me:</h3>
-<a href="https://twitter.com/__gurii__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__gurii__" height="30" width="40" /></a>
+<a href="https://x.com/R3lentlessV01d" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__gurii__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurjeet-singh-virdee-25a476199/" height="30" width="40" /></a>
 <a href="mailto:gurjeetsinghvirdee@gmail.com" target="_blank"><img align="center" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/gmail.svg" alt="gurjeetsinghvirdee@gmail.com" height="30" width="40" /></a>
 </p>

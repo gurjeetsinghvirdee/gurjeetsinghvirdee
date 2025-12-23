@@ -109,7 +109,6 @@
         
 <!--START_SECTION:activity-->  
 `[12/01 21:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [gurjeetsinghvirdee/gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee)  
-`[11/22 17:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [gurjeetsinghvirdee/appwrite](https://github.com/gurjeetsinghvirdee/appwrite)  
 
 </details>
 <!--END_SECTION:activity-->

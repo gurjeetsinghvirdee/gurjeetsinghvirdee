@@ -1,15 +1,6 @@
 <!------------------------------------------------- GitRoll Profile ---------------------------------------------------->
 <img width="1500" height="500" alt="Header" src="https://github.com/user-attachments/assets/48745457-f620-44cc-bf65-925ae9437cea" />
 
-<div align="center">
- <h3>Connect with me:</h3>
-<a href="https://x.com/R3lentlessV01d" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__gurii__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gurjeet-singh-virdee-25a476199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurjeet-singh-virdee-25a476199/" height="30" width="40" /></a>
-<a href="mailto:gurjeetsinghvirdee@gmail.com" target="_blank"><img align="center" src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/assets/gmail.svg" alt="gurjeetsinghvirdee@gmail.com" height="30" width="40" /></a>
-</p>
-</div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 <!--------------------------------Dev.too Blog Posts---------------------------------------------->
 
 ## Latest Blog Posts
